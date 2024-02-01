@@ -1,0 +1,15 @@
+
+Background:
+Burnout has earned notoriety in medicine. It affects medical students, residents and surgeons, causing a decrease in career satisfaction, quality of life, and increased risk of depression and suicide. The effect of resilience against burnout is yet unknown in plastic surgery trainees.
+
+
+Methods:
+A survey was sent via email to the members of plastic surgery societies (ICOPLAST) and the trainees from (ASPS) Resident Council from November 2021 through January 2022. The data included: demographics, training program characteristics, physician wellness resources, and single item Maslach-Burnout Inventory and Connor-Davidson Resilience Scale questionnaire.
+
+
+Results:
+One-hundred seventy-five plastic surgery trainees responded to the survey. Of these, 119 (68%) trainees from 24 countries completed the full survey. Most respondents 110 (92%) had heard of physician burnout, and almost half of respondents (45%) had burnout. The average Connor-Davidson Resilience Scale score varied significantly amongst trainees self-reporting burnout and those who did not (28.6 versus 31.3, P = 0.008). Multivariate logistic regression demonstrated that increased work hours per week were associated with an increased risk of burnout (OR = 1.03, P = 0.04). Higher resilience score (OR = 0.92; P = 0.04) and access to wellness programs (OR = 0.60, P = 0.0004) were associated with lower risk of burnout.
+
+
+Conclusions:
+Burnout is prevalent across plastic surgery trainees from diverse countries. Increased work hours were associated with burnout, whereas access to wellness programs and higher resilience scores were “protective.” Our data suggest that efforts to build resilience may mitigate burnout in plastic surgery trainees.

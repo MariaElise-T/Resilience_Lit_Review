@@ -1,0 +1,16 @@
+
+Background:
+            Excess rates of cardiovascular (CV) disease in African-Americans, relative to Whites, have been well-documented. However, factors promoting CV health in the face of high risk, i.e. CV resilience, are unknown and may identify novel areas for intervention in reducing racial health disparities.
+          
+
+Methods:
+            Using data obtained from the Georgia Hospital Association, we identified age-, sex-, and income-matched neighborhoods (census tracts) in Atlanta, GA, with higher-than-expected (“high risk") or lower-than-expected (“low risk") rates of CV morbidity and mortality for African-Americans from 2010-2014. African-Americans from low risk (N = 742) and high risk (N = 753) neighborhoods were surveyed. Several domains of psychosocial well-being and neighborhood quality were assessed as features of resilience, in addition to individual demographic, socioeconomic and medical history variables. Ordinal logistic regression was used to determine odds of resilient characteristics among individuals living in neighborhoods at low versus high risk.
+          
+
+Results:
+            After adjustment for age, sex, household income, education, marital status and occupation, African-Americans living in low compared to high risk neighborhoods reported better overall neighborhood quality (odds ratio [OR] 1.25; 95% confidence interval [CI] 1.01, 1.57), driven by better aesthetic quality (OR 1.42; CI 1.17, 1.73), more safety (OR 1.34; CI 1.10, 1.62), absence of violence (OR 1.42; CI 1.10, 1.83) and better access to healthy foods (OR 1.50; CI 1.24, 1.82). Additionally, individuals from low compared to high risk neighborhoods reported greater environmental mastery (OR 1.33; CI 1.03, 1.71), purpose in life (OR 1.22, CI 1.01, 1.48), optimism (OR 1.28; CI 1.05, 1.55) and resilient coping (OR 1.33; CI 1.04, 1.70), while also reporting less depressive symptoms (OR 0.78; CI 0.63, 0.98). There were no reported differences in CV risk factors or disease, religious practices, spirituality or experiences of discrimination between low and high risk neighborhoods.
+          
+
+Conclusions:
+            African-Americans living in neighborhoods at lower risk for CVD morbidity and mortality reported better neighborhood quality and psychosocial well-being than individuals from neighborhoods at higher risk. Neighborhood and personal psychosocial determinants of health may confer resilience to CVD in African-American individuals and communities.
+          

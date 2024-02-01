@@ -1,0 +1,30 @@
+
+Background
+Cardiovascular disease incidence, prevalence, morbidity, and mortality have declined in the past several decades; however, disparities persist among subsets of the population. Notably, blacks have not experienced the same improvements on the whole as whites. Furthermore, frequent reports of relatively poorer health statistics among the black population have led to a broad assumption that black race reliably predicts relatively poorer health outcomes. However, substantial intraethnic and intraracial heterogeneity exists; moreover, individuals with similar risk factors and environmental exposures are often known to experience vastly different cardiovascular health outcomes. Thus, some individuals have good outcomes even in the presence of cardiovascular risk factors, a concept known as resilience.
+
+
+Methods and Results
+
+              The MECA (Morehouse‐Emory Center for Health Equity) Study was designed to investigate the multilevel exposures that contribute to “resilience” in the face of risk for poor cardiovascular health among blacks in the greater Atlanta, GA, metropolitan area. We used census tract data to determine “at‐risk” and “resilient” neighborhoods with high or low prevalence of cardiovascular morbidity and mortality, based on cardiovascular death, hospitalization, and emergency department visits for blacks. More than 1400 individuals from these census tracts assented to demographic, health, and psychosocial questionnaires administered through telephone surveys. Afterwards, ≈500 individuals were recruited to enroll in a clinical study, where risk biomarkers, such as oxidative stress, and inflammatory markers, endothelial progenitor cells, metabolomic and micro
+              RNA
+              profiles, and subclinical vascular dysfunction were measured. In addition, comprehensive behavioral questionnaires were collected and ideal cardiovascular health metrics were assessed using the American Heart Association's Life Simple 7 measure. Last, 150 individuals with low Life Simple 7 were recruited and randomized to a behavioral mobile health (eHealth) plus health coach or eHealth only intervention and followed up for improvement.
+            
+
+
+Conclusions
+
+              The
+              MECA
+              Study is investigating socioenvironmental and individual behavioral measures that promote resilience to cardiovascular disease in blacks by assessing biological, functional, and molecular mechanisms.
+            
+
+
+REGISTRATION
+
+URL
+              :
+              https://www.clini​caltr​ials.gov
+              . Unique identifier:
+              NCT
+              03308812.
+            

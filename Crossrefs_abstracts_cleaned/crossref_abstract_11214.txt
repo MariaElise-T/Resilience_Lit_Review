@@ -1,0 +1,12 @@
+Abstract
+Background
+Residency training exposes young physicians to a challenging and high-stress environment, making them vulnerable to burnout. Burnout syndrome not only compromises the health and wellness of resident physicians but has also been linked to prescription errors, reduction in the quality of medical care, and decreased professionalism. This study explored burnout and factors influencing resilience among U.S. resident physicians.
+
+Methods
+A cross-sectional study was conducted through an online survey, which was distributed to all accredited residency programs by Accreditation Council of Graduate Medical Education (ACGME). The survey included the Connor-Davidson Resilience Scale (CD-RISC 25), Abbreviated Maslach Burnout Inventory, and socio-demographic characteristics questions. The association between burnout, resilience, and socio-demographic characteristics were examined.
+
+Results
+The 682 respondents had a mean CD-RISC score of 72.41 (Standard Deviation = 12.1), which was equivalent to the bottom 25th percentile of the general population. Males and upper-level trainees were more resilient than females and junior residents. No significant differences in resilience were found associated with age, race, marital status, or training program type. Resilience positively correlated with personal achievement, family, and institutional support (p <  0.001) and negatively associated with emotional exhaustion and depersonalization (p <   0.001).
+
+Conclusions
+High resilience, family, and institutional support were associated with a lower risk of burnout, supporting the need for developing a resilience training program to promote a lifetime of mental wellness for future physicians.

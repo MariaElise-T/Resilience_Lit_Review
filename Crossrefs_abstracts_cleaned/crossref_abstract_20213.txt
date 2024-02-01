@@ -1,0 +1,19 @@
+
+Purpose
+Academics and practitioners have long acknowledged the potential of multiagent systems (MAS) to automate and autonomize decision-making in logistics and supply chain networks. Despite the manifold promises of MAS, industry adoption is lagging behind, and the exact benefits of these systems remain unclear. This study aims to fill this knowledge gap by analyzing 11 specific MAS use cases, highlighting their benefits, clarifying how they can help enhance logistics network resilience and identifying existing barriers.
+
+
+Design/methodology/approach
+A three-stage Delphi study was conducted with 18 industry experts. In the first round, these experts identified 11 use cases of MAS and their potential benefits, as well as any barriers that could hinder their adoption. In the second round, they assessed the identified use cases with regard to their potential to enhance logistics network resilience and improve organizational productivity. Furthermore, they estimated the complexity of MAS implementation. In the third round, the experts reassessed their evaluations in light of the evaluations of the other study participants.
+
+
+Findings
+This study proposes 11 specific MAS use cases and illustrates their potential for increasing logistics network resilience and enhancing organizational performance due to autonomous decision-making in informational processes. Furthermore, this study discusses important barriers for MAS, such as lack of standardization, insufficient technological maturity, soaring costs, complex change management and a lack of existing use cases. From a theoretical perspective, it is shown how MAS can contribute to resilience research in supply chain management.
+
+
+Practical implications
+The identification and assessment of diverse MAS use cases informs managers about the potential of this technology and the barriers that need to be overcome.
+
+
+Originality/value
+This study fills a gap in the literature by providing a thorough and up-to-date assessment of the potential of MAS for logistics and supply chain management. To the best of the authors’ knowledge, this is the first study to investigate the relevance of MAS for logistics network resilience using the Delphi method.

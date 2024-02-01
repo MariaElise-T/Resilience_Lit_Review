@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+We measured the extent to which sub-domains of executive functioning (EF) associate with resilience and well-being in older adults ranging from minimal to severe in depression symptom severity. We hypothesized that measures of set-shifting ability, problem solving skills, and cognitive flexibility would positively predict resilience and wellness, spanning affective, judgmental and cognitive components.
+
+
+Methods
+56 older adults (27 female, mean age = 67.6, mean education = 16.52) with degrees of depression ranging from minimal to severe completed a behavioral battery. EF measures included the Trail Making Test (TMT) [B score], Delis-Kaplan Executive Function System (D-KEFS) Sorting Task [correct sorts], Controlled Oral Word Association Test (COWA) [total score], and Wisconsin Card Sorting Task (WCST) [Perseverative responses]. Outcome measures included the Ego Resiliency Scale (ERS), the Life Orientation Test – Revised (LOT-R), the Satisfaction With Life Scale (SWLS), and a cumulative well-being scale. Finally, the Hamilton Depression Rating Scale (HAM-D) was used to evaluate depression symptom presence and severity.
+
+
+Results
+A series of multiple regression models were performed with age, sex and education in the first step, depression symptom severity in the second, and executive functioning measure in the third. Final models for the above four outcomes yielded the following R squares: 0.34 (p = 0.08), 0.38 (p = 0.06), 0.35 (p = 0.07), and 0.44 (p = 0.01).
+
+
+Conclusions
+Depression (shown to correlate with our outcomes) accounted for, well-being and resilience were consistently predicted with behavioral measures of executive function. Older adults may want to look toward cognitive resilience and other EF targets to exploit the relationship this has with wellness downstream.

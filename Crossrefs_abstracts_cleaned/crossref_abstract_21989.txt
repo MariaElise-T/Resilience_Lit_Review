@@ -1,0 +1,22 @@
+Abstract. Climate resilience is an emerging issue at contaminated sites and hazardous
+waste sites, since projected climate shifts (e.g., increased/decreased
+precipitation) and extreme events (e.g., flooding, drought) could affect
+ongoing remediation or closure strategies. In this study, we develop a
+reactive transport model (Amanzi) for radionuclides (uranium, tritium, and
+others) and evaluate how different scenarios under climate change will
+influence the contaminant plume conditions and groundwater well
+concentrations. We demonstrate our approach using a two-dimensional (2D) reactive transport model for the Savannah River Site F-Area, including mineral reaction and sorption processes. Different recharge scenarios are considered
+by perturbing the infiltration rate from the base case as well as considering cap-failure and climate projection scenarios. We also evaluate the uranium and nitrate concentration ratios between scenarios and the base
+case to isolate the sorption effects with changing recharge rates. The
+modeling results indicate that the competing effects of dilution and
+remobilization significantly influence pH, thus changing the sorption of
+uranium. At the maximum concentration on the breakthrough curve, higher
+aqueous uranium concentration implies that sorption is reduced with lower pH
+due to remobilization. To better evaluate the climate change impacts in the
+future, we develop the workflow to include the downscaled CMIP5 (Coupled
+Model Intercomparison Project) climate projection data in the reactive
+transport model and evaluate how residual contamination evolves through 2100 under four climate Representative Concentration Pathway (RCP)
+scenarios. The integration of climate modeling data and hydrogeochemistry models enables us to quantify the climate change impacts, assess which
+impacts need to be planned for, and therefore assist climate resiliency
+efforts and help guide site management.
+                    

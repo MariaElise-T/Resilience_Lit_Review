@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+Traditional Simulation is useful practice for real life scenarios whilst Surgical Escape Rooms (ER) assess other elements. Resilience contributes to physical and emotional wellbeing as well as the development of coping strategies. Consistent short-term Academic Buoyancy levels can have an impact on long-term levels of Resilience.
+
+
+Method
+Two groups of 4th year medical students were given the validated Brief Resilience Scale (BRS) and the Academic Buoyancy Scale (ABS) before and after. The first group completed the Surgical ER whilst the second group completed a Surgical Simulation. During the ER session, participants were assessed by multiple, independent assessors on 4 parameters - participation, objective display of frustration/stress, interaction with the team and definitive decisions taken. These were then correlated with their initial self-assessments scores.
+
+
+Result
+The ER group ABS Scores improved (3.45 to 3.8; Range 0-4) whilst BRS scores decreased (4.5 to 3.9; Range 0-5). The Simulation group ABS scores decreased (3.4 to 2.9) whilst BRS scores improved (2.9 to 3.2). Scores became more polarised across all groups. Participants who scored low on the BRS/ABS displayed lower levels of participation, team interaction and fewer definitive actions taken but also displayed fewer indicators of overt stress in comparison to their higher scoring counterparts.
+
+
+Conclusion
+Escape Rooms are useful in challenging individuals to improve problem solving skills and encourage lateral thinking. It would be useful to incorporate ER’s in the early stages of training to build confidence and reduce the immediate negative impact of Simulation at later stages.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Despite previous research on the association between diabetes distress and disordered eating behaviors (DEBs) among youth with type 1 diabetes (T1D), there is a lack of understanding regarding the underlying mechanisms. This study aimed to investigate the relationships between diabetes distress and DEBs, specifically examining whether self-regulatory fatigue mediated the relationship and whether resilience moderated this mediation.
+
+Methods
+A cross-sectional study was performed among youth with T1D recruited from two diabetes centers in Nanjing, China. Measurement instruments included the problem areas in the diabetes-5 scale, the diabetes strengths and resilience measure for adolescents, the self-regulatory fatigue scale, and the Chinese version of diabetes eating problem survey-revised. Mediation and moderated mediation analyses were conducted.
+
+Results
+A total of 185 youths with T1D were involved in the current study. The results indicated that diabetes distress positively predicted DEBs. Self-regulatory fatigue partially mediated the association between diabetes distress and DEBs, accounting for 50.88% of the overall effect. Additionally, the pathway from self-regulatory fatigue to DEBs was moderated by resilience.
+
+Conclusion
+The current study examined whether self-regulatory fatigue mediated the relationship between diabetes distress and DEBs and whether resilience moderated the connection between self-regulatory fatigue and DEBs. These findings add to the theoretical basis of how diabetes distress influences DEBs and help guide the incorporation of diabetes distress, self-regulatory fatigue, and resilience into DEBs reduction programs for youth with T1D.

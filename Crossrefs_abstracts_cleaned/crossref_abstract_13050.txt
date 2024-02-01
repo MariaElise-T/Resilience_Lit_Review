@@ -1,0 +1,27 @@
+Abstract. Infrastructure systems are inextricably tied to society by providing a
+variety of vital services. These systems play a fundamental role in reducing
+the vulnerability of communities and increasing their resilience to natural
+and human-induced hazards. While various definitions of resilience for
+infrastructure systems exist, analyzing the resilience of these systems
+within cross-sectoral and interdisciplinary perspectives remains limited and
+fragmented in research and practice. With the aim to assist researchers and
+practitioners in advancing understanding of resilience in designing
+infrastructure systems, this systematic literature review synthesizes and
+complements existing knowledge on designing resilient vital infrastructures
+by identifying (1) key conceptual tensions and challenges, (2) engineering
+and non-engineering measures, and (3) directions for future research. Here,
+a conceptual framework is developed in which infrastructures are defined as
+a conglomeration of interdependent social–ecological–technical systems. In
+addition, we define resilient infrastructures as systems with ability to
+(i) anticipate and absorb disturbances, (ii) adapt/transform in response to changes, (iii) recover, and (iv) learn from prior unforeseen events. Our
+results indicate that conceptual and practical challenges in designing
+resilient infrastructures continue to exist. Hence these systems are still
+being built without taking resilience explicitly into account. Our review of
+measures and recent applications shows that the available measures have not
+been widely applied in designing resilient infrastructure systems. Key
+concerns to address are identified as (i) the integration of social,
+ecological, and technical resilience of infrastructure systems with explicit
+attention paid to cascading effects and dependencies across these complex
+systems and (ii) the development of new technologies to identify factors
+that create different recovery characteristics.
+                    

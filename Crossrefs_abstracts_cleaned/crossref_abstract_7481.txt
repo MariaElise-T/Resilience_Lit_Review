@@ -1,0 +1,12 @@
+Abstract
+Background
+Globally, the population of oldest-old (those aged ≥80 years) is rapidly growing. This change is likely to have a deep impact on societies. Resilience is a key concept related to facilitating adaptation, and can be applied, to aging-related change and losses, as well as promoting health and well-being in this population. However, no existing scales have been developed to measure resilience among oldest-old people. To address this, we developed a resilience scale for oldest-old age (RSO), and examined its reliability and validity.
+
+Methods
+The RSO is a self-administered questionnaire developed via a literature review, interviews with oldest-old individuals, and interviews with experts. The survey included 3000 community-dwelling oldest-old people who were recruited via random sampling in Yokohama city, Japan. Construct validity was determined using confirmatory factor analysis. Internal consistency was calculated using Cronbach’s alpha. The revised Philadelphia Geriatric Center Morale Scale (PGC) and the self-anchoring scale to measure the feeling that life is worth living (SAS-WL) were used to assess the criterion-related validity of the RSO.
+
+Results
+We received 1283 valid participant responses. Confirmatory factor analysis identified nine items from one factor of the RSO with a goodness of fit index of 0.979, adjusted goodness of fit index of 0.963, comparative fit index of 0.973, and root mean square error of approximation of 0.049. Cronbach’s alpha was 0.800. The total RSO score was positively correlated with the PGC (r = .492, p < 0.001) and the SAS-WL (r = .559, p < 0.001).
+
+Conclusions
+The RSO demonstrated adequate reliability and validity for assessing individual resilience among oldest-old people. Thus, the scale is potentially useful for promoting health and well-being in oldest-old age.

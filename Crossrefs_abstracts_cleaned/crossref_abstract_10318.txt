@@ -1,0 +1,15 @@
+Abstract
+Background
+The mental health impacts of workers within correctional settings has been of increasing focus over the past number of years. This paper outlines the study protocol for a trial that tests the efficacy of a brief resilience program, relative to a no intervention control in reducing general psychological distress and absenteeism in a cohort of correctional personnel in NSW, Australia.
+
+Methods
+A, parallel, randomized controlled trial will be carried out in a small group format. Following informed consent, corrective personnel within prisons across NSW will volunteer to either attend a clinician delivered resilience program on stress management skills or not (N = 600). The primary outcome will be change in psychological distress including anxiety and depression at 2-months post intervention. Secondary outcomes include help-seeking behaviours and absenteeism.
+
+Discussion
+This prevention focused treatment trial will assess whether a brief clinician delivered resilience program will reduce absenteeism and mitigate psychological distress in a cohort of corrective personnel within NSW, Australia. This study will yield insights into the role of a brief psychological program in mitigating the psychological distress reported by personnel in correctional settings.
+
+Trial registration
+This trial was prospectively registered on the Australian New Zealand Clinical Trials Registry (ACTRN12622000029796).
+
+Ethics and dissemination
+Ethics approval has been obtained from University of New South Wales Human Research Ethics Committee. Results of the trial will be submitted for publication in peer reviewed journals and findings presented at scientific conferences and to key service providers and policy makers.

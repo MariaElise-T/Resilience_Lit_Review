@@ -1,0 +1,24 @@
+ABSTRACT
+
+Aims
+The aim of this study is to evaluate the in vitro response of human gingival fibroblasts in primary cultures to two materials for temporary relining of dentures: Temporary Soft (TDV, Brazil) and Trusoft (Bosworth, USA) for 24 hours, 7 and 30 days by using a multi-parametric analysis.
+
+
+Materials and methods
+Each material sample (TDV, TS, Polystyrene, Latex) was prepared and incubated in a culture medium for 1, 7, and 30 days at 37°C. Human gingival fibroblasts were exposed to the extracts and cell viability was evaluated by a multi-parametric assay, which allowed sequential analysis of mitochondrial activity (XTT), membrane integrity [neutral red (NR)], and cell density [crystal violet dye exclusion (CVDE)] in the same cells. Analysis of variance (ANOVA) was used to test the interactions of the three sources of variation (material, test method, and time) with the proportions of viable cells for each relining material.
+
+
+Results
+Both evaluated materials (TDV and TS) had low cytotoxic effects during 1, 7, and 30 days after manipulation of the material, as assessed by all three methods used. A statistical difference was found when comparing the negative control group (latex fragments) with the other groups, which showed high toxicity and low percentage of cell viability in all tests used. There was no significant difference among other materials (p > 0.05).
+
+
+Conclusion
+Low cytotoxicity levels were detected by representatives of the major groups of temporary prosthetic relining materials, as evaluated by multiple cellular viability parameters in human fibroblasts.
+
+
+Clinical significance
+There are various soft materials on the market for relining prostheses; however, the effects of these materials on tissues need to be clarified to avoid problems for patients.
+
+
+How to cite this article
+Caldas IP, Scelza MZ, Gallito MA, Alves G, Silva L. In vitro Analysis of Cytotoxicity of Temporary Resilient Relining Materials. J Contemp Dent Pract 2016;17(6):457-462.

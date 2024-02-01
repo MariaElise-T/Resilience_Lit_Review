@@ -1,0 +1,15 @@
+
+Background
+An increasing number of children and adolescents have reported mental health problems, and resilience is a protective factor against these problems. Therefore, the aim of the study is to verify the effect of peer education based on adolescent health education on adolescent resilience.
+
+
+Method
+A cluster randomized controlled trial was conducted including 1,613 students who were divided into an intervention group (19 classes, 732 participants) and a control group (24 classes, 881 participants). One-year peer education was performed in the intervention group, and the control group had no interventions. The Resilience Scale for Chinese Adolescents by Yueqin Hu and a self-designed basic information questionnaire were used to collect data. Chi-square test and rank-sum test were used to compare the differences of demographic characteristics between the two groups. A linear mixed model was used to compare the changes of resilience between the two groups after intervention, and the intra-cluster correlation coefficient (ICC) was calculated. A generalized linear mixed model (GLMM) was used to verify the effect of peer education on adolescent resilience. The significance was set at P < 0.05.
+
+
+Results
+After intervention, compared with the control group, the intervention group showed significant improvement in target focus, emotion adjustment, interpersonal assistance and total resilience (P < 0.05). The ICC range was 0.003 to 0.034. The GLMM results indicated that peer education based on adolescent health education had significant effects on adolescents’ target focus (β = 0.893, P = 0.002), emotional adjustment (β = 1.766, P < 0.001), interpersonal assistance (β = 1.722, P = 0.016) and total mental resilience (β = 5.391, P < 0.001), and the effect was greater for boys than for girls.
+
+
+Conclusions
+Peer education based on adolescent health education is effective for improving adolescents’ target focus, emotional adjustment, interpersonal assistance, and total resilience, especially for males. Future research should devote more attention to positive cognition and family support as well as gender differences.

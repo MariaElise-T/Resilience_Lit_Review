@@ -1,0 +1,20 @@
+
+Introduction:
+            The majority of stroke survivors must cope with chronic disability, often affecting the upper limbs. Improved use of the stroke-affected limb is accompanied by neuroplasticity in intact tissues surrounding the stroke and modulating this plasticity should promote further gains in recovery. Sub-cortical brain areas are also affected by cortical stroke, and may contribute to recovery of function. One unknown issue in stroke research involves the role of the thalamus, the brain’s relay center for sensory information en route to the cortex, in recovery from stroke in the forelimb area of the somatosensory cortex (FLS1). Thus, the aim of the current study was to elucidate the role of thalamocortical (TC) projections in recovery of function after stroke.
+          
+
+Hypothesis:
+            We hypothesized that peri-infarct TC axons are damaged by stroke, but undergo structural plasticity during recovery.
+          
+
+Methods:
+            Adult C57BL/6 mice underwent a surgical procedure to inject a green fluorescent protein tagged adeno-associated virus (AAV-GFP) into the ventroposteriolateral nucleus of the thalamus, which sends projections to FLS1. A separate group of mice received injections into the retrosplenial cortex, which also projects to FLS1, to compare TC and intracortical (IC) plasticity. Immediately following virus injection, an imaging window was implanted over FLS1. Axon terminals were imaged in vivo using two-photon microscopy before and at various times after stroke to assess acute and long-term changes in neuronal structure and function.
+          
+
+Results:
+            Preliminary data indicate that, surprisingly, a subset of TC, but not IC, axons survived within the infarct core, but suffered retraction and branch and bouton loss. TC axonal boutons in both the core and peri-infarct cortex underwent high rates of turnover in the first week after stroke, with later stabilization. IC turnover rates were less affected by stroke.
+          
+
+Conclusions:
+            Overall, peri-infarct axons seem relatively resilient to the effects of ischemia, maintaining most branches and boutons, which may provide a scaffold for functional recovery after stroke.
+          

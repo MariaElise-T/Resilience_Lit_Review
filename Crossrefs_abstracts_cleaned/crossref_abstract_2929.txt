@@ -1,0 +1,1 @@
+Integrated Energy Systems (IESs) can provide resilience to energy supply. Nuclear Small Modular Reactors (SMRs) have design features that can add resilience to IESs. In this work, such features are qualitatively analyzed with respect to a case study of a typical IES of literature.

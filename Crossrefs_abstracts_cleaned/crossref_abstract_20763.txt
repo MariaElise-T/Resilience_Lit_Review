@@ -1,0 +1,12 @@
+Abstract
+Background
+Exposure to traumatic events in childhood, including bullying, can negatively affect physical and mental health in adulthood. The aim of the present study was to determine the prevalence of bullying in different sociodemographic groups of the Slovak Republic and to assess the moderating effect of bullying on the associations between childhood trauma, resilience, and the later occurrence of psychopathology.
+
+Methods
+For the analyses, a representative sample of the population of the Slovak Republic was used (N = 1018, mean age 46.24 years, 48.7% of men). Multivariate linear regression models were used to investigate the predictive ability of childhood trauma (The Childhood Trauma Questionnaire, CTQ) and resilience (The Brief Resilience Scale, BRS) to explain psychopathology (The Brief Symptom Inventory, BSI-53). Bullying (The Adverse Childhood Experiences – International Questionnaire, ACE-IQ) was used as a moderator.
+
+Results
+In total, 13.5% of respondents have experienced bullying. The most common form of bullying was making fun of someone because of how their body or face looked (46.7%) and excluding someone from activities or ignoring them (36.5%). Higher scores in all types of psychopathology and the Global Severity Index (GSI) were significantly associated with higher scores of emotional and sexual abuse, and some of them with physical neglect. The protective effect of resilience was moderated by bullying in several types of psychopathology, specifically in somatization, obsessive-compulsive, interpersonal sensitivity, depression, psychoticism, and the GSI.
+
+Conclusion
+Understanding the links between childhood trauma, bullying, and later psychopathology can help professionals target policies, resources, and interventions to support children and families at risk. Every child should feel accepted and safe at home and school.

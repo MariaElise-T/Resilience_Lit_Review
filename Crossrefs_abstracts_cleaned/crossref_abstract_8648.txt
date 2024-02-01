@@ -1,0 +1,9 @@
+Abstract
+
+Background and Purpose: Workplace ostracism is the situation in which the employee is rejected and ignored by the employees in the same workplace. Since this is a situation that prevents the success of the employees, it affects the performance of the employee. In this respect we assume that it is an important mediator in terms of experiencing psychological resilience in this relationship. In our research model, we also suggested that cyberloafing will affect the severity of the relationship between workplace ostracism and resilience. Therefore, we suggested that psychological resilience would have a mediator role and cyberloafing would have a moderating role in the relationship between workplace ostracism and employee performance, based on the opinions of employees.
+
+Design/Methodology/Approach: Data were obtained from 482 employees of Erzincan Municipality by utilizing the survey method. The obtained data were analyzed by using structural equation modeling to test our hypotheses.
+
+Results: It was found that there is a significant and positive correlation between workplace ostracism and psychological resilience, a significant and positive correlation between psychological resilience and employee performance, and a significant and negative correlation between workplace ostracism and employee performance. In addition, it was determined that workplace ostracism has an indirect effect on employee performance through psychological resilience, and cyberloafing has a moderating role in this indirect relationship.
+
+Conclusion: Our results showed the importance of the mediator role of psychological resilience and the moderator role of cyberloafing in the relationship between perceived workplace ostracism and employee performance.

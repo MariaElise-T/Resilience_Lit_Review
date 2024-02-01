@@ -1,0 +1,23 @@
+
+Background
+Military services provide a unique opportunity for studying resilience, a dynamic process of successful adaptation (ie, doing well in terms of functioning and symptoms) in response to significant adversity. Despite the tremendous interest in positive adaptation among military service members, little is known about the processes underlying their resilience. Understanding the neurobiological, cognitive, and social mechanisms underlying adaptive functioning following military stressor exposure is essential for enhancing the resilience of military service members.
+
+
+Objective
+The primary objective of the Advancing Research on Mechanisms of Resilience (ARMOR) longitudinal study is to characterize the trajectories of positive adaptation among young military recruits in response to basic combat training (BCT), a well-defined, uniform, and 10-week period of intense stress (aim 1), and identify promotive and protective processes contributing to individual variations in resilience (aim 2). The secondary objective is to investigate the pathways by which neurobehavioral markers of self-regulation assessed using electroencephalography and magnetic resonance imaging contribute to adaptive trajectories (aim 3).
+
+
+Methods
+ARMOR is an ongoing, prospective longitudinal cohort study of young military recruits who recently joined the National Guard but have not yet shipped out for BCT. Participants (N=1201) are assessed at 5 time points over the initial >2 years of military service beginning before BCT (baseline) and followed up at 2 weeks and 6, 12, and 18 months after BCT. Participants complete web-based questionnaires assessing vulnerability and protective factors, mental health, and socioemotional functioning at each time point and a battery of neurocognitive tests at time 0. A subset of participants also complete structured diagnostic interviews and additional self-report measures and perform neurobehavioral tasks before and after BCT during electroencephalography sessions and before BCT only during magnetic resonance imaging sessions.
+
+
+Results
+This UG3/UH3 project was initially funded in August 2017, with the UG3 pilot work completed at the end of 2018. The UH3 phase of the project was funded in March 2019. Study enrollment for the UH3 phase began on April 14, 2019, and ended on October 16, 2021. A total of 1201 participants are enrolled in the study. Follow-up data collection for the UH3 phase is ongoing and projected to continue through February 2024. We will disseminate the findings through conferences, webinars, open access publications, and communications with participants and stakeholders.
+
+
+Conclusions
+The ARMOR study provides a rich data set to identify the predictors and mechanisms of resilient and nonresilient outcomes in the context of military stressors, which are intended to empirically inform the development of prevention and intervention strategies to enhance the resilience of military trainees and potentially other young people facing significant life challenges.
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/51235

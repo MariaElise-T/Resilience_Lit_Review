@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to add clarity to the multidimensional concepts of agility and resilience. In addition, this paper seeks to clarify the differences and similarities between the two concepts by integrating the distinct bodies of knowledge on agility and resilience.
+
+
+Design/methodology/approach
+A multidisciplinary systematic literature review is conducted. The concept of agility is explored through a review of the sports science, manufacturing, organizational, information systems and information systems development and supply chain literature bases. The concept of resilience is investigated through a review of the psychological and psychopathological, ecological, economic, organizational and supply chain literature bases.
+
+
+Findings
+Examining the complex relationship between the two constructs led to the emergence of six major dimensions to capture the concept of agility (i.e. ability to quickly change direction, speed/accelerate operations, scan the environment/anticipate, empower the customer/customize, adjust tactics and operations (flexibility), and integrate processes within and across firms). Similarly, six dimensions were uncovered for resilience (i.e. ability to resist/survive disruptions, avoid the shock altogether, recover/return to original form following disruption, speed/accelerate operations, adjust tactics and operations (flexibility) and scan the environment/anticipate). Agility and resilience were found to share three common dimensions (i.e. ability to adjust tactics and operations (flexibility), speed/accelerate operations and scan the environment/anticipate).
+
+
+Practical implications
+The identification of the common characteristics of agility and resilience carries important managerial implications from a resource allocation perspective. Allocating resources to the development of the common characteristics of agility and resilience can help firms maximize the impact of such investments. That is, by investing in the common characteristics of both they can improve supply chain agility and supply chain resilience. If firms approach the development or improvement of supply chain agility or resilience independent from one another, without an awareness of the common characteristics, they could be duplicating their investments resulting in supply chain redundancies and inefficiencies.
+
+
+Originality/value
+Not having a clear and comprehensive understanding of the similarities and differences between agility and resilience is problematic from a theoretical perspective. A clear understanding of what each construct represents provides a platform for building generalizable theory by helping researchers operationalize these constructs in a consistent manner. Further, providing a generalizable, comprehensive and multidisciplinary perspective on agility and resilience within supply chain management literature can help increase the visibility of the field of supply chain management across other disciplines as scholars outside the field of supply chain management can utilize the results of this research effort.

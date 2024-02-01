@@ -1,0 +1,16 @@
+Abstract
+
+Objectives:
+This research evaluated the resilience of 6 tertiary and rural health facilities within a single Australian Health Service, using the World Health Organization (WHO) Hospital Safety Index (HSI). This adaptation of the HSI was compared with existing national accreditation and facility design Standards to assess disaster preparedness and identify opportunities for improvement.
+
+
+Methods:
+This cross-sectional descriptive study surveyed 6 hospitals that provide 24/7 emergency department and acute inpatient services. HSI assessments, comprising 151 previously validated criteria, were conducted by Health Service engineers and facility managers before being externally reviewed by independent disaster management professionals.
+
+
+Results:
+All facilities were found to be highly disaster resilient, with each recording high HSI scores. Variances in structure, architectural safety, continuity of critical services supply, and emergency plans were consistently identified. Power and water supply vulnerabilities are common to previously reported vulnerabilities in health facilities of developing countries.
+
+
+Conclusion:
+Clinical, engineering, and disaster management professionals assessed 6 Australian hospitals using the WHO HSI with each facility scoring highly, genuine vulnerabilities and practical opportunities for improvement were identified. This application of the WHO HSI, intended for use primarily in developing countries and disaster-affected regions, complimented and extended the existing Australian national health service accreditation and facility design Standards. These results support the expansion of existing assessment tools used to assess Australian health facility disaster preparedness and resilience.

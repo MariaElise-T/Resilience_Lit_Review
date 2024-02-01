@@ -1,0 +1,12 @@
+Abstract
+Background
+Approximately 40% of the 110,000 adolescents living with HIV (ALHIV) in Kenya have not achieved viral suppression. Despite the increasing availability of adolescent-friendly services, adolescents face barriers that impact ART adherence. This study aimed to identify key stigma-related barriers to ART adherence and strategies used by adolescents in overcoming these barriers.
+
+Methods
+Data were collected by LVCT Health, a Kenyan organization with a programmatic focus on HIV testing, prevention, and care. 122 participants were recruited from 3 clinical sites affiliated with LVCT Health in Nairobi, Kisumu, and Mombasa. In-depth interviews were conducted with ALHIV (n = 12). Focus group discussions were conducted with ALHIV (n = 5), peer leaders (n = 3), and adolescents receiving HIV services in community settings (AIC) irrespective of HIV status (n = 3). Interviews and focus groups were audio recorded, translated, and transcribed. Data were analyzed thematically, with a focus on stigma and resilience.
+
+Results
+While AIC primarily focused on adherence barriers and stigma, ALHIV and, to some extent, peer leaders, also identified resilience factors that helped overcome stigma. Four major themes emerged: 1) knowledge and future-oriented goals can drive motivation for ALHIV to remain healthy; 2) disclosure to others strengthens support systems for ALHIV; 3) medication-taking strategies and strategic disclosure can overcome adherence challenges in school; and 4) a supportive clinic environment promotes continuous adolescent engagement in HIV care. These concepts were used to develop a conceptual stigma/resilience model depicting how resilience moderates negative effects of stigma among ALHIV.
+
+Conclusions
+This study demonstrates the positive effects of ALHIV resilience on ART adherence and illuminates how stigma impacts ALHIV differently depending on their resilience. Strengths-based interventions, focused on increasing resilience among ALHIV in Kenya, and more formal involvement of adolescent peers to bolster adolescent support, have the potential to improve ART adherence among ALHIV.

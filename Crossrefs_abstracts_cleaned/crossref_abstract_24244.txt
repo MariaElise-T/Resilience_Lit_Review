@@ -1,0 +1,15 @@
+Abstract
+
+
+Drought events occurring under warmer temperatures (i.e. “hotter droughts”) have resulted in widespread tree mortality across the globe, and may result in biome‐level vegetation shifts to alternate vegetation types if there is a failure of trees to regenerate. We investigated how overstorey trees, understorey vegetation, and local climatic and edaphic conditions interact to influence tree regeneration, a key prerequisite for resilience, in a region that has experienced severe overstorey tree mortality due to hotter droughts and beetle infestations.
+
+
+We used detailed field observations from 142 sites that spanned a broad range of environmental conditions to evaluate the effects of climate and recent tree mortality on tree regeneration dynamics in the spatially extensive piñon (Pinus edulis)‐juniper (Juniperus osteosperma, Juniperus monosperma) woodland vegetation type of the southwestern USA. We used a structural equation modelling framework to identify how tree mortality and local climatic and edaphic conditions affect piñon and juniper regeneration and electivity analyses to quantify the species‐specific associations of tree juveniles with overstorey trees and understorey shrubs.
+
+
+Piñon regeneration appears to be strongly dependent upon advanced regeneration, (i.e. the survival of juvenile trees that established prior to the mortality event), the survival of adult seed‐bearing trees (inferred from basal area of surviving trees) and the facilitative effects of overstorey trees for providing favourable microsites for seedling establishment. Model results suggest that local edaphoclimatic conditions directly affected piñon and juniper regeneration, such that stands with hotter, drier local climatic conditions and lower soil available water capacity had limited tree regeneration following large‐scale dieback.
+
+
+Synthesis. We identify four indicators of resilience to hotter drought conditions: (1) abundant advance regeneration of tree seedlings; (2) sufficient canopy cover for survival of emergent seedlings and existing regeneration; (3) sufficient seed source from surviving trees with high reproductive output; (4) areas with cooler and wetter local climates and greater soil available water capacity. In the absence of these conditions, there is greater likelihood of woodlands transitioning to more xeric vegetation types following dieback.
+
+

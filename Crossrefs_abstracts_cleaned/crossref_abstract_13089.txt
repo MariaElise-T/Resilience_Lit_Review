@@ -1,0 +1,6 @@
+Objective: To study the effects of COVID-related psychiatric morbidity on the psychological resilience of male patients.
+Study Design: Cross-sectional study.
+Place and Duration of Study: Pak Emirates Military Hospital (PEMH), Rawalpindi and PNS Shifa, Karachi Pakistan from Apr to Jul 2020.
+Methodology: One hundred and thirteen male patients filled out the depression, anxiety and stress scale (DASS-21) on day zero and the Connor-Davidson resilience scale (CDRS) on day 180. Mean values were calculated for each component of DASS21 and resilience. Pearson correlation was applied to establish statistical significance.
+Results: The mean values were highest for stress (2.65±4.52), followed by depression (2.02±5.28) and then anxiety (3.63±5.96). The mean resilience was found to be 72.4±14.2. There was a significant negative correlation between each of the three measurements of DASS-21 and its total value with resilience (p<0.01). All three aspects of DASS-21 increased with age [depression {r(111)= 0.33, p<0.01}, anxiety {r(111)= 0.39, p<0.01} and stress {r(111)= 0.30, p<0.01}].
+Conclusion: Resilience among hospitalized COVID-19-positive patients is reduced compared to the normal population. As depression, stress and anxiety increase, resilience decreases proportionately.

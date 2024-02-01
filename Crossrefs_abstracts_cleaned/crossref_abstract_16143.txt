@@ -1,0 +1,12 @@
+Abstract
+Objective
+There is evidence that experiencing childhood trauma and life stressors across the lifespan together with lower resilience is associated with chronic pain-related conditions. The aim of this study was to explore the potential mediating role of resilience in the relationship between childhood trauma and long-term pain and to explore a possible moderating role of serious life stressors in the last year.
+
+Methods
+The participants, drawn from a representative sample of citizens of the Czech Republic (n = 1800, mean age: 46.6 years, 48.7% male), were asked to report various long-term pain conditions, childhood trauma (Childhood Trauma Questionnaire, CTQ), life stressors (Life Stressor Checklist Revised, LSC-R) and resilience (Brief Resilience Scale, BRS) in a cross-sectional face-to-face study conducted in 2016. A conditional process SEM model of moderated mediation was performed.
+
+Results
+The occurrence of life stress events affecting the participant’s last year moderated the relationship between childhood trauma, resilience and health. In the group of participants who experienced at least one life stress event affecting their last year, resilience fully mediated the effect of past childhood trauma on long-term pain. In participants who did not experience life stressors with an impact on the last year, the direct path from childhood trauma to health through resilience lost its significance.
+
+Conclusion
+The subjective meaning of stress events on one’s life has an impact on the trajectory between childhood trauma and health and acts as a moderator. Resilience may buffer the negative effect of trauma on later long-term pain.

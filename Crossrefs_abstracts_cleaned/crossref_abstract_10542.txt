@@ -1,0 +1,13 @@
+For road infrastructures, the concepts of sustainability and resilience are becoming more and more relevant.
+The sustainability is closely linked with the concept of development that meets the needs of the present without compromising
+the ability of future generations to meet their own needs. The resilience is usually connected with the occurrence
+of extreme events or unusual disturbances (earthquake, landslide, floods) during the life cycle of infrastructures
+and refers to their ability of recover the previous functionality. Usually, the two concepts that account for two desired
+qualities of the infrastructures are applied following separate approaches. Better choices in road design, maintenance
+and rehabilitation should lead to an improvement of both qualities. On the other hand, an in deep analysis of the sustainability
+and resilience demonstrates a significant number of similar characteristics. In the light of the above premises,
+in the present paper, the suitability of an integrated approach in the choice of the rehabilitation alternatives after an extreme
+event is evaluated. A method to assess the sustainability, based on life cycle costs, and to estimate the resilience is
+setup. It resulted that an integrated perspective can be pursued and both resilience and sustainability allow addressing
+an appropriate amount of technical, economic and environmental/social issues and can lead to identifying the most efficient
+solution of rehabilitation.

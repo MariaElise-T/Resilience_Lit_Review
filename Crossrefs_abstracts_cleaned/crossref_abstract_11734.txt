@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+There are robust, trait-like individual differences in subjective perceptions in response to sleep restriction (SR) and total sleep deprivation (TSD). How to best define neurobehavioral resilience and vulnerability to sleep loss remains an open question. We compared multiple approaches and cutoff thresholds for defining resilience and vulnerability using scores on the Karolinska Sleepiness Scale (KSS) and the Profile of Mood States Fatigue and Vigor (POMS-F and POMS-V) subscales.
+
+
+Methods
+Forty-one adults (33.9±8.9y;18 females) participated in a 13-night experiment (two baseline nights [10h-12h time in bed, TIB], 5 SR nights [4h TIB], 4 recovery nights [12h TIB], and 36h TSD). The KSS, POMS-F, and POMS-V were administered every 2h during wakefulness. Resilience and vulnerability were defined by the following: average score during SR1-5, average change from baseline to SR1-5, and variance during SR1-5. Resilient and vulnerable groups were defined by the following cutoffs: the top and bottom 12.5%, 20%, 25%, 33%, 50%, and +/-1 standard deviation. Bias-corrected and accelerated bootstrapped t-tests compared the scores of resilient and vulnerable groups during baseline and across SR1-5. Kendall’s tau correlations compared the ranking of individuals in each group (tau=0.4:moderate,0.7:strong).
+
+
+Results
+Resilient and vulnerable groups for POMS-F, as defined by all three approaches, significantly differed in their scores at all cutoffs during SR. However, only raw score and change from baseline approaches defined significantly different resilient and vulnerable groups during SR for KSS, and only raw score and variance approaches defined significantly different groups during SR for POMS-V. Notably, raw scores at baseline significantly differed between resilient and vulnerable groups for all measures. Correlations revealed moderate to strong associations between all three approaches at all cutoffs for POMS-F, between raw score and change from baseline approaches for KSS, and between raw score and variance approaches for POMS-V.
+
+
+Conclusion
+Defining resilience and vulnerability on self-rated measures by change from baseline was comparable to using raw score for KSS and POMS-F, whereas defining these groups by variance was comparable for POMS-F and POMS-V. Differences across methods may be due to the differential impact of SR on these various distinct subjective states.
+
+
+Support (if any)
+ONR Award No. N00014-11-1-0361;NIH UL1TR000003;NASA NNX14AN49G and 80NSSC20K0243;NIH R01DK117488

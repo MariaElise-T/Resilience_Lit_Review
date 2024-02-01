@@ -1,0 +1,4 @@
+Organizational resilience is not a static concept, it evolves. Scholars suggest that organizational resilience is complex, all-inclusive, multidimensional, and multifaceted. Organizational resilience as an organizational capacity also emerges at multiple levels. Resilience at one level is dependent on another level. A resilient individual is needed to build a resilient team and organization. Though the concept of organizational resilience has been extensively investigated, few studies have looked into the interplays among different organizational resilience levels. Therefore, this study aims to address this gap by investigatigating the interplay of individual, team, and organizational resilience.
+
+
+Keywords: individual resilience, team resilience, organizational resilience, factor-based PLS-SEM

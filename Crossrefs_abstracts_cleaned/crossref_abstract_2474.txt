@@ -1,0 +1,23 @@
+
+Purpose
+This paper aims to study the concept, characteristics and factors of the resilient supply chain (RSC) and develop a hierarchical structural model and classify the factors based on their interrelationships.
+
+
+Design/methodology/approach
+This paper has used a mixed-approach of literature review and expert opinion to identify the factors of RSC. For the development of the structural model and clustering of the factors, this paper has used the total interpretive structural modeling approach with Matrice d’Impacts Croises-Multiplication Applique and Classment and decision-making trial and evaluation laboratory analysis.
+
+
+Findings
+In total, this study has identified 17 factors that enable the 3R capability of the RSC. The result shows that the factors have a close dependence relationship with supply chain (SC) risk management culture as the most influencing factor. Further, this study classifies the factors into enablers and strategies.
+
+
+Research limitations/implications
+This research work is the theoretical contribution to the RSC concept and helps the experts to develop and improve the resilient ability in the SC. This research is based entirely on subjective expert feedback; thus, the results are sensitive to the expert’s judgment.
+
+
+Practical implications
+This research will help the decision-makers in allocating the resources and policies to develop or improve the SC capabilities.
+
+
+Originality/value
+This research work is the first kind of research in the field of the RSC that considers the 3R concept to identify and model the resilient factors of the SC. Along with the theoretical concept, this research provides empirical evidence for the importance ranking of the factors.

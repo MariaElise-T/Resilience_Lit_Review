@@ -1,0 +1,20 @@
+Abstract
+
+Purpose
+The purpose of this study, which was guided by the Family Resilience Model, was twofold: (1) to assess the risk and protective factors related to adaptation and resilience in families of children with spina bifida (SB) in South Korea and (2) to examine predictors of family adaptation and resilience.
+
+
+Design
+This is a descriptive study using survey methodology.
+
+
+Methods
+Data were collected from 203 parents of children with SB between June 2013 and February 2014 at the SB clinic in South Korea and analyzed using stepwise linear regression.
+
+
+Findings
+The best predictors of family adaptation and resilience in children with SB included one risk factor (parental depression) and four protective factors (parental health, family cohesion, family communication skills, and supportive friends/relatives). These five factors explained 39.7% of the total variance in family functioning (an indicator of family adaptation and resilience; F = 26.43, p < .001).
+
+
+Conclusion and Clinical Relevance
+Findings suggest that nursing interventions designed to strengthen protective factors and reduce risk factors are likely to promote adaptation and resilience in families of children with SB.

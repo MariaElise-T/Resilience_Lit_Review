@@ -1,0 +1,19 @@
+AbstractRacism spreading can have a vital influence on people’s lives, declining adherence, pretending political views, and recruiters’ socio-economical crisis. Besides, Web 2.0 technologies have democratized the creation and propagation of racist information, which facilitated the rapid spreading of racist messages. In this research work, the impact of community resilience on the spread dynamics of racism was assessed. To investigate the effect of resilience-building, new SERDC mathematical model was formulated and analyzed. The racism spread is under control where $$R_0<1$$
+
+
+R
+0
+
+<
+1
+
+ , whereas persist in the community whenever $$R_0>1$$
+
+
+R
+0
+
+>
+1
+
+. Sensitivity analysis of the parameters value of the model are conducted. The rising of transmission and racial extremeness rate provides the prevalence of racism spread. Effective community resilience decline the damages, mitigate, and eradicate racism propagation. Theoretical analysis of the model are backed up by numerical results. Despite the evidence of numerical simulations, reducing the transmission and racial extremeness rate by improving social bonds and solidarity through community resilience could control the spread of racism.

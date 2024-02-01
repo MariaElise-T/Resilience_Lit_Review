@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience refers to the process in which people function well despite adversity. Persistent severe pain may be considered an adversity in people with lower limb osteoarthritis (LLOA). The objectives of this study are: (1) to identify what proportion of older adults with LLOA and persistent severe pain show good functioning; and (2) to explore predictors of resilience.
+
+Methods
+Data from the European Project on OSteoArthritis (EPOSA) were used involving standardized data from six European population-based cohort studies. LLOA is defined as clinical knee and/or hip osteoarthritis. Persistent severe pain is defined as the highest tertile of the pain subscale of the Western Ontario and McMaster Universities Osteoarthritis Index both at baseline and follow-up. Resilience is defined as good physical, mental or social functioning at follow-up despite having LLOA with persistent severe pain.
+
+Results
+In total, 95 (14.9%) out of 638 individuals with LLOA had persistent severe pain. Among these, 10 (11.0%), 54 (57.4%) and 49 (53.8%) had good physical, mental and social functioning, respectively. Only 4 individuals (4.5%) were resilient in all three domains of functioning. Younger age, male sex, higher education, higher mastery, smoking and alcohol use, higher physical activity levels, absence of chronic diseases, and more contacts with friends predicted resilience in one or more domains of functioning.
+
+Conclusions
+Few people with LLOA and persistent severe pain showed good physical functioning and about half showed good mental or social functioning. Predictors of resilience differed between domains, and might provide new insights for treatment.

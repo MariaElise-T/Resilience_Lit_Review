@@ -1,0 +1,27 @@
+Abstract. Bridges are critical-infrastructure components of road and rail
+transport networks. A large number of these critical assets cross or are
+adjacent to waterways and floodplains and are therefore exposed to flood
+actions such as scour, hydrodynamic loading, and inundation, all of which are
+exacerbated by debris accumulations. These stressors are widely recognized
+as responsible for the vast majority of bridge failures around the world,
+and they are expected to be exacerbated due to climate change. While efforts
+have been made to increase the robustness of bridges to the flood hazard,
+many scientific and technical gaps remain. These gaps were explored during
+an expert workshop that took place in April 2021 with the participation of
+academics, consultants, and decision makers operating mainly in the United
+Kingdom and specializing in the fields of bridge risk assessment and
+management and flood resilience. The objective of the workshop was to
+identify and prioritize the most urgent and significant impediments to
+bridge flood resilience. In particular, the following issues, established at
+different levels and scales of bridge flood resilience, were identified and
+analysed in depth: (i) characterization of the effects of floods on
+different bridge typologies, (ii) uncertainties in formulae for scour depth
+assessment, (iii) evaluation of consequences of damage, (iv) recovery
+process after flood damage, (v) decision-making under uncertainty for
+flood-critical bridges, and (vi) use of event forecasting and monitoring
+data for increasing the reliability of bridge flood risk estimations. These
+issues are discussed in this paper to inform other researchers and
+stakeholders worldwide, guide the directions of future research in the
+field, and influence policies for risk mitigation and rapid response to
+flood warnings, ultimately increasing bridge resilience.
+                    

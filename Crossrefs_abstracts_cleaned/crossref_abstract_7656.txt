@@ -1,0 +1,17 @@
+The MECA study is unique in that it will study CVD resilience in blacks at both the individual and community (census tract) level in the Atlanta Metropolitan Area. It is well established that blacks suffer from greater cardiovascular morbidity and mortality than whites in the United States. Not all blacks suffer from poor cardiovascular health, some individuals manage to live long healthy lives without ever developing cardiovascular conditions. The causes of this resilience are not known. Both individual and community level factors may be responsible for cardiovascular risk and resilience in blacks. The first stage of the MECA study was to identify “at risk” and resilient communities based on their rates of CVD related ED visits, hospitalizations and mortality.
+
+Objectives:
+            To determine if in fact a wide distribution of CVD rates exist among Blacks in census tracts in Metro Atlanta. To determine if there were still large differences in rates when black household income was controlled for.
+          
+
+Methods:
+            Count data on CVD related emergency department and hospitalizations for blacks aged 35-64 living in census tracts in the Atlanta--Athens-Clarke--Sandy Springs combined statistical area during 2010-2014 were obtained from the Georgia Hospital Association. CVD mortality data for the same population for the same time period were obtained from the Georgia Department of Public Health. In order to control for the socioeconomic status, age and gender distribution of the neighborhoods, negative binomial regression models controlling for median black household income, percent of 5-year age groupings, and percent male were estimated for each of the outcomes. Residuals in top 25% were considered to be “at risk tracts (high rate) while residuals in the bottom 25% were considered resilient (low rate tracts).
+          
+
+Results:
+            106 tracts were resilient for at least 2 of the 3 outcomes, 188 were “at risk” for 2 out of 3 outcomes. Both types of tracts were located throughout the Atlanta metropolitan area. Mean black household income in the tracts are similar (resilient: $46,335, “at risk”: $44,721). Black CVD hospitalization event rate was 28 vs. 132 per 1000 population(p<.0001) for resilient tracts vs “at risk” tracts. Black CVD ED visit event rate and CVD mortality rate was also lower in resilient (ED: 33 per 1000 pop; Mortality: 8 deaths per 1000 pop) than “at risk” (ED: 147/ 1000 pop; Mortality: 14 deaths per 1000 pop) census tracts.
+          
+
+Conclusion:
+            We have identified census tracts in Metro Atlanta that have large differences in premature CVD outcomes for Blacks despite having similar mean income levels. The next phase of the MECA study will examine census tract and survey data to elucidate what contextual (demographic, food environment, reported neighborhood characteristics) and individual level (behavioral, psychological, social) factors may be associated with the different rates of CVD in resilient and “at risk” census tracts.
+          

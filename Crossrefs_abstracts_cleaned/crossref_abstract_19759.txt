@@ -1,0 +1,12 @@
+Abstract
+Background
+For a stress-management app to be persuasive and impactful, designers and developers should obtain a clear perspective of the value proposition according to key stakeholders before development. However, this is often not the case. In order to increase the chance of creating an impact by means of the Resilience Navigator app, this study aims to identify key stakeholders and work with them to gain an in-depth understanding of the value proposition of this stress-management app.
+
+Methods
+The approach used in this study builds on the approaches taken by Van Limburg et al. and Van Woezik et al. An initial list of stakeholders was identified by means of a literature scan. Stakeholders on this initial list took an online survey to identify key stakeholders with a ranking system. Semi-structured interviews were conducted with a subset of key stakeholders to identify the value proposition using the value proposition canvas as a framework for data collection. Finally, the value proposition was validated by key stakeholders during focus groups.
+
+Results
+The key stakeholders identified included employees, employers, participation councils within organisations, HR advisors, product owners, company doctors, and business analysts. The interviews produced a list of approximately one hundred values from which fifteen core values were distilled. One example is to take into account time constraints experienced by users during stress periods. In general, the Resilience Navigator app’s main goal is to increase awareness of personal stress levels and causes of stress. In addition, the sub-goal is to increase skills for effective stress management. The focus groups validated the idea that the most important values were reflected in the value proposition and had been appropriately translated into design elements, according to key stakeholders.
+
+Conclusions
+A thorough, bottom-up identification and validation of the value proposition for the Resilience Navigator app was obtained, reflecting key stakeholders’ varying ideas on this piece of eHealth technology. The results will facilitate the continued development of the Resilience Navigator app from the value specification phase to the design phase. In the design phase, the remaining assumptions regarding the app’s value proposition should be tested using rapid prototyping.

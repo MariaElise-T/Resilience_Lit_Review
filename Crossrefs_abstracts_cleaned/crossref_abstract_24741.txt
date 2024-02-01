@@ -1,0 +1,12 @@
+Abstract
+Background
+Although some factors, such as stigma and empowerment, influence the complex relationship between psychological resilience and quality of life, few studies have explored similar psychological mechanisms among patients with diabetes. Therefore, this study explored the mediating role of stigma and the moderating role of empowerment in the psychological mechanisms by which psychological resilience affects quality of life.
+
+Methods
+From June to September 2022, data were collected by multi-stage stratified sampling and random number table method. Firstly, six tertiary hospitals in Wuhu were numbered and then selected using the random number table method, resulting in the First Affiliated Hospital of Wannan Medical College being selected. Secondly, two departments were randomly selected from this hospital: endocrinology and geriatrics. Thirdly, survey points were set up in each department, and T2DM patients were randomly selected for questionnaire surveys. In addition, we used the Connor-Davidson Elasticity Scale (CD-RISC) to measure the psychological resilience of patients, and used the Stigma Scale for Chronic Illness (SSCI) to measure stigma. Empowerment was measured by the Diabetes Empowerment Scale (DES). Quality of Life was assessed by the Diabetes Quality of Life Scale (DQoL). We used SPSS (version 21) and PROCESS (version 4.1) for data analysis.
+
+Results
+(1) Psychological resilience was negatively correlated with stigma and quality of life, and positively correlated with empowerment. Stigma was positively associated with empowerment and quality of life. Empowerment was negatively correlated with quality of life. (2) The mediation analysis showed that psychological resilience had a direct predictive effect on the quality of life, and stigma partially mediated the relationship; Empowerment moderates the first half of "PR → stigma → quality of life"; Empowerment moderates the latter part of "PR → stigma → quality of life."
+
+Conclusions
+Under the mediating effect of stigma, psychological resilience can improve quality of life. Empowerment has a moderating effect on the relationship between psychological resilience and stigma, and it also has a moderating effect on the relationship between stigma and quality of life. These results facilitate the understanding of the relationship mechanisms between psychological resilience and quality of life.

@@ -1,0 +1,14 @@
+Abstract
+Background
+Resilient animals can remain productive under different environmental conditions. Rearing in increasingly heterogeneous environmental conditions increases the need of selecting resilient animals. Detection of environmental challenges that affect an entire population can provide a unique opportunity to select animals that are more resilient to these events. The objective of this study was two-fold: (1) to present a simple and practical data-driven approach to estimate the probability that, at a given date, an unrecorded environmental challenge occurred; and (2) to evaluate the genetic determinism of resilience to such events.
+
+Methods
+Our method consists of inferring the existence of highly variable days (indicator of environmental challenges) via mixture models applied to frequently recorded phenotypic measures and then using the inferred probabilities of the occurrence of an environmental challenge in a reaction norm model to evaluate the genetic determinism of resilience to these events. These probabilities are estimated for each day (or other time frame). We illustrate the method by using an ovine dataset with daily feed intake (DFI) records.
+
+Results
+Using the proposed method, we estimated the probability of the occurrence of an unrecorded environmental challenge, which proved to be informative and useful for inclusion as a covariate in a reaction norm animal model. We estimated the breeding values for sensitivity of the genetic potential for DFI of animals to environmental challenges. The level and slope of the reaction norm were negatively correlated (− 0.46 ± 0.21).
+
+Conclusions
+Our method is promising and appears to be viable to identify unrecorded events of environmental challenges, which is useful when selecting resilient animals and only productive data are available. It can be generalized to a wide variety of phenotypic records from different species and used with large datasets. The negative correlation between level and slope indicates that a hypothetical selection for increased DFI may not be optimal depending on the presence or absence of stress. We observed a reranking of individuals along the environmental gradient and low genetic correlations between extreme environmental conditions. These results confirm the existence of a G $$\times$$
+×
+ E interaction and show that the best animals in one environmental condition are not the best in another one.

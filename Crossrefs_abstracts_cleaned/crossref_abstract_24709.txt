@@ -1,0 +1,12 @@
+Abstract
+Background
+Transgender women (TW) experience significant inequities in healthcare access and health disparities compared to cisgender populations. Access to non-transition related healthcare is understudied among TW. We aimed to assess the association between access to care and gender minority stress and resilience factors among TW living with and without HIV in eastern and southern United States.
+
+Methods
+This study was a cross-sectional analysis of baseline data drawn from a cohort of 1613 adult TW from the LITE Study. The cohort permitted participation through two modes: a site-based, technology-enhanced mode and an exclusively online (remote) mode. Exploratory and confirmatory factor analyses determined measurement models for gender minority stress, resilience, and healthcare access. Structural equation modeling was used to assess the relationships between these constructs. Models were evaluated within the overall sample and separately by mode and HIV status.
+
+Results
+Higher levels of gender minority stress, as measured by anticipated discrimination and non-affirmation were associated with decreased access to healthcare. Among TW living with HIV, higher levels of anticipated discrimination, non-affirmation, and social support were associated with decreased healthcare access. Among TW living without HIV in the site-based mode, resilience was positively associated with positive healthcare experiences and inversely associated with barriers to healthcare access. Among TW living without HIV in the online mode, anticipated discrimination was associated with barriers to healthcare access; resilience was positively associated with positive healthcare experiences and inversely associated with barriers to healthcare access.
+
+Conclusions
+Gender minority stress was associated with increased barriers to healthcare access among TW in the US, regardless of HIV status. Resilience factors did not mediate this effect. Interventions aiming to increase healthcare access among TW can be aided by efforts to mitigate drivers of gender minority stress and improve patient experiences in healthcare facilities.

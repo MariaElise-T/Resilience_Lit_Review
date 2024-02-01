@@ -1,0 +1,12 @@
+Abstract
+Background
+Numerous studies have confirmed that patients with ovarian cancer have a relatively high risk of suicidality. Early identification of psychological factors related to suicidal ideation in patients with ovarian cancer may provide effective information for suicide prevention strategies. This study aimed to investigate whether and how suicide resilience and meaning in life moderate the relationship between entrapment and suicidal ideation in patients with ovarian cancer.
+
+Methods
+This was a cross-sectional investigation was conducted in 505 Chinese patients with ovarian cancer. Patients completed a battery of self-reported questionnaires that included the General Information Questionnaire, and Chinese versions of the Entrapment Scale, Scale for Suicidal Ideation, Suicide Resilience Inventory-25, and Meaning in Life Scale. Descriptive statistics, Pearson’ s chi-square, Pearson’ s correlation, and hierarchical multiple linear regression analysis were performed.
+
+Results
+In this study, the prevalence of suicidal ideation reported by patients with ovarian cancer was 32.07%. Patients’ suicidal ideation could be explained by the following three predictors: entrapment × suicide resilience × meaning in life (β = -0.169, p < 0.001), entrapment × suicide resilience (β = -0.148, p < 0.001), and entrapment × meaning in life (β = -0.107, p = 0.005).
+
+Conclusion
+These findings suggest that ovarian cancer patients are prone to suicidal ideation when they feel a sense of entrapment. Enhancing patients’ suicide resilience and meaning in life may be two targeted interventions to reduce suicidal ideation in ovarian cancer patients. In particular, considering both the protective effects of suicide resilience and meaning in life may yield better suicide prevention outcomes than considering only one of these factors.

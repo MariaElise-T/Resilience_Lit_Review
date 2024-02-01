@@ -1,0 +1,1 @@
+In order to assess the resiliency of the non-Dodd-Frank Act stress test (DFAST) bank holding companies (BHCs), this note uses the loan-loss rate information in the public disclosure documents from DFAST 2017 and 2018.

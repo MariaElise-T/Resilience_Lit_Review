@@ -1,0 +1,23 @@
+
+Background
+Resilience is important for patients with cancer. However, the relationships among factors affecting the resilience of patients with lung cancer have not been studied sufficiently.
+
+
+Objective
+The aim of this study was to clarify the relationships among social support, resilience, self-efficacy, and symptom distress among patients with lung cancer.
+
+
+Methods
+Through simple random sampling, 303 patients with lung cancer from 4 tertiary hospitals in Changsha, China, were recruited for a cross-sectional descriptive correlational survey. Data were collected using demographic and disease-related information, the Connor-Davidson Resilience Scale, Strategies Used by People to Promote Health, the Perceived Social Support Scale, and the Symptom Distress Scale.
+
+
+Results
+Patients’ mean total resilience score was 50.01 ± 15.25. The fit indices for the model indicated a good fit. Social support had multiple effects on resilience; specifically, it had direct and indirect effects through the mediating role of self-efficacy. Symptom distress had only an indirect effect on resilience through self-efficacy.
+
+
+Conclusions
+Social support, symptom distress, and self-efficacy are key factors associated with resilience in patients with lung cancer. These factors had direct and indirect effects on each other and on resilience.
+
+
+Implications for Practice
+To enhance resilience among patients with lung cancer, interventions that strengthen self-efficacy, provide social support, and reduce symptom distress should be developed.

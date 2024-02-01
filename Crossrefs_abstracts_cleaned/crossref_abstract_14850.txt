@@ -1,0 +1,9 @@
+Abstract
+
+Interspecific competition can drive niche partitioning along multidimensional axes, including allochrony. Competitor matching will arise where the phenology of sympatric species with similar ecological requirements responds to climate change at different rates such that allochrony is reduced.
+Our study quantifies the degree of niche segregation in foraging areas and depths that arises from allochrony in sympatric Adélie and chinstrap penguins and explores its resilience to climate change.
+Three‐dimensional tracking data were sampled during all stages of the breeding season and were used to parameterise a behaviour‐based model that quantified spatial overlap of foraging areas under different scenarios of allochrony.
+The foraging ranges of the two species were similar within breeding stages, but differences in their foraging ranges between stages, combined with the observed allochrony of 28 days, resulted in them leapfrogging each other through the breeding season such that they were exploiting different foraging locations on the same calendar dates. Allochrony reduced spatial overlap in the peripheral utilisation distribution of the two species by 54.0% over the entire breeding season, compared to a scenario where the two species bred synchronously.
+Analysis of long‐term phenology data revealed that both species advanced their laying dates in relation to October air temperatures at the same rate, preserving allochrony and niche partitioning. However, if allochrony is reduced by just a single day, the spatial overlap of the core utilisation distribution increased by an average of 2.1% over the entire breeding season.
+Niche partitioning between the two species by allochrony appears to be resilient to climate change and so competitor matching cannot be implicated in the observed population declines of the two penguin species across the Western Antarctic Peninsula.
+

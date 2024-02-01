@@ -1,0 +1,34 @@
+
+Background:
+Enhancing the resiliency of electric power grids is becoming a crucial issue
+due to the outages that have recently occurred. One solution could be the prediction of imminent failure
+that is engendered by line contingency or grid disturbances. Therefore, a number of researchers
+have initiated investigations to generate techniques for predicting outages. However, extended
+blackouts can still occur due to the frailty of distribution power grids.
+
+
+Objective:
+This paper implements a proactive prediction model based on deep-belief networks to
+predict the imminent outages using previous historical blackouts, trigger alarms, and suggest solutions
+for blackouts. These actions can prevent outages, stop cascading failures and diminish the
+resulting economic losses.
+
+
+Methods:
+The proposed model is divided into three phases: A, B and C. The first phase (A) represents
+the initial segment that collects and extracts data and trains the deep belief network using the collected
+data. Phase B defines the Power outage threshold and determines whether the grid is in a
+normal state. Phase C involves detecting potential unsafe events, triggering alarms and proposing
+emergency action plans for restoration.
+
+
+Results:
+ Different machine learning and deep learning algorithms are used in our experiments to
+validate our proposition, such as Random forest, Bayesian nets and others. Deep belief Networks
+can achieve 97.30% accuracy and 97.06% precision.
+
+
+Conclusion:
+The obtained findings demonstrate that the proposed model would be convenient
+for blackouts’ prediction and that the deep-belief network represents a powerful deep learning
+tool that can offer plausible results.

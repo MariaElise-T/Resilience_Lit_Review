@@ -1,0 +1,12 @@
+Abstract
+Background
+Mental health nursing is a demanding and stressful profession that impacts nurses’ professional quality of life. Psychological resilience can be a protective factor. However, the relationship has not been extensively studied. This study aims to examine the relationship between psychological resilience and professional quality of life and identify potential predictors of ProQOL subscales among mental health nurses.
+
+Methods
+The study employed a cross-sectional design to collect data from 179 mental health nurses. Data was collected using two standardized questionnaires: the Connor-Davidson resilience scale and the professional quality of life scale. Participants were recruited through convenient sampling during a 3-month period from April to June 2022, and the data were collected using an online survey tool called QuestionPro.
+
+Results
+The study found a strong positive correlation between psychological resilience and compassion satisfaction (r = 0.632, P < 0.001). However, there was a negative significant correlation between resilience with burnout (r = -0.470, P < 0.001) and secondary traumatic stress (r = -0.210, P = 0.005). The study also found that higher resilience levels were associated with higher levels of compassion satisfaction and lower levels of secondary traumatic stress. Additionally, higher burnout scores were associated with higher levels of secondary traumatic stress. The study also identified that age and the number of children had weak associations with compassion satisfaction, while workplace was a significant predictor of burnout and secondary traumatic stress.
+
+Conclusion
+The study emphasizes the importance of resilience, burnout, and secondary traumatic stress in the well-being of healthcare professionals, especially nurses. The findings suggest that assessing nurses’ resilience and professional quality of life can raise psychological resilience awareness and help managers create the necessary working conditions to improve nurses’ professional quality of life.

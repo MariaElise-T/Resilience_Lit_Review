@@ -1,0 +1,9 @@
+Background: The role of environmental determinants in the community's resilience in flood, as a predominant hydrological disaster, has not been investigated.
+
+Objectives: This systematic review aimed to discuss the role of environmental determinants on communities' resilience in floods using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) protocol.
+
+Methods: A total of 50 relevant papers were extracted, including those on the subject of water resource planning (n=32), soil-plant systems (n=8), and air and climatic factors (n=10).
+
+Results: The results revealed that although most studies have investigated climatic factors, biological effects, surface water flooding, and groundwater contamination, the researchers did not have a comprehensive approach to environmental determinants. This study highlighted the role of water, soil, and air, as the main environmental determinants. In addition, the related subdeterminants should simultaneously be considered in flood risk management and community resilience.
+
+Conclusion: Eventually, a conceptual model is presented for analyzing the effects of environmental factors on the communities' resilience against floods.

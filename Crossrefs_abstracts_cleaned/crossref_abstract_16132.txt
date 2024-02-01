@@ -1,0 +1,19 @@
+
+Purpose
+Oil and gas sector has more disruptions regarding its logistics management than any other industry. It is critical to understand which external security threats disrupt the oil and gas supply chain (OGSC). Recently, the time interval between these disruptions became frequent. the purpose of this paper is to identify key logistics elements that lead to such disruptions which would greatly benefit the oil and gas industry in developing more effective mitigation measures and resilient practices in the future.
+
+
+Design/methodology/approach
+This research develops the theoretical framework through a critical review of all theories related to resilience, logistics disruptions and mitigation methods in the oil and gas industry. Afterward, semi-structured interviews were conducted with executives in the Egyptian oil and gas industry to develop a conceptual framework. Finally, an empirical study was conducted through questionnaires with managers in the Egyptian oil and gas sector to develop the applied framework.
+
+
+Findings
+This research revealed that achieving an elevated level of flexibility, redundancy, visibility and collaboration in the Egyptian OGSC will significantly increase the level of resilience in the sector and consequently help in mitigating probable logistics disruptions.
+
+
+Practical implications
+This research contributes to academia by providing a conceptual framework for the most common logistics disruptions in the Egyptian OGSC and providing practitioners with the best resilience practices that are feasible and effective in mitigating logistics disruptions.
+
+
+Originality/value
+Previous research studied disruptions in OGSC from different perspectives: economic, social, political, technical, safety, legal and environmental perspectives, but no research highlighted the logistics perspective in the Egyptian context, to the best of the authors’ knowledge.

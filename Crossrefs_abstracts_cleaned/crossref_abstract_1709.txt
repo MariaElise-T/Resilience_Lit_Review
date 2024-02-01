@@ -1,0 +1,6 @@
+
+
+
+In our times, resilience is the cornerstone of important public policies and a widely fashionable term. While several contributions have discussed what resilience is, and its normativity as a political and moral value, no papers have dealt with the possibility of excess of resilience. Therefore, in what follows, we present an economic interpretation of the idea of excessive resilience based on a precise market analogy. This Walras analogy permits us to discuss concepts of stability, robustness and anti-fragility, and to put them in relation with what being resilient means.
+
+

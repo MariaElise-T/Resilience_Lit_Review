@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+The coronavirus disease 2019 (COVID-19) pandemic stretched our limits—physically, mentally, and economically. However, some older adults report that it led to positive changes. This study aims to understand whether prepandemic resilience, education, or income predicted older adults’ subsequent likelihood of reporting positive changes in their lives during the pandemic.
+
+
+Research Design and Methods
+We use data from the National Social Life, Heath, and Aging Project, an ongoing panel study with a COVID-19 ancillary supplement (N = 2,650).
+
+
+Results
+The study results aligned with the fundamental cause theory. In demographically adjusted models including resilience, education, and income, as well as the effect of the pandemic on employment and a COVID-disruption score, the odds of reporting any positive change were 2.6 times higher for those with an associate degree (p &lt; .01) and 4.7 times higher for those with a bachelor’s or higher (p &lt; .001), compared to those without a high school degree. In contrast, neither resilience nor income was significantly associated with endorsing a positive change. We also categorize specific changes thematically coded from open-ended responses and examine their demographic distributions. Categories include spirituality, home organization, hygiene practices, and increased quality time with others.
+
+
+Discussion and Implications
+These findings show that older adults with more education could navigate COVID-19 challenges in a way that improved their perspectives on at least one aspect of their lives.

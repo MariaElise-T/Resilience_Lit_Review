@@ -1,0 +1,15 @@
+
+Purpose
+In the current highly volatile and uncertain economic environment, recovery strategies that emphasise attributes and skills are essential for an enterprise to recover and adapt to disruptions. Based on the resource-based view (RBV), this study aims to understand how organisational resilience functions and its outcomes. Specifically, this study establishes links between organisational resilience and internal capabilities in information technology (IT) applications, exploitation-exploration activities and organisational leadership, which are represented by IT competencies, organisational ambidexterity and paradoxical leadership, respectively. The study also analyses the role of government digital transformation policies after the COVID-19 pandemic as an external resource.
+
+
+Design/methodology/approach
+This study provides empirical evidence of the dynamic relationships between organisational resilience, ambidexterity and performance under the interactions IT competencies, digital transformation policies and paradoxical leadership by using data collected from 336 small- and medium-sized enterprises (SMEs) in Vietnam and the partial least squares-structural equation modelling technique.
+
+
+Findings
+IT competencies and organisational ambidexterity strengthen organisational resilience, reduce missed opportunities and increase organisations’ responsiveness to market volatility. Increasing organisational ambidexterity and resilience enhances the business performance of SMEs. Paradoxical leadership favours organisational ambidexterity and resilience and their outcomes. Digital transformation policies from the government can support SMEs’ IT competencies and resilience.
+
+
+Originality/value
+To the best of the authors’ knowledge, this study based on the RBV is the first to show how integrating external resources with dynamic capabilities such as organisational ambidexterity and resilience can help SMEs build and maintain a sustainable competitive advantage in highly uncertain environments. This research emphasises the vital role of organisational resilience in improvising changes in working processes in response to unexpected events and the importance of a strategy for developing the capability to anticipate a wide variety of situations and seize opportunities quickly.

@@ -1,0 +1,16 @@
+Abstract
+
+Purpose
+The purpose of this study was to investigate the effects of the smartphone-based meditation app Ten Percent Happier on stress, mindfulness, well-being, and resilience in pharmacy students.
+
+
+Methods
+Pharmacy students in a professional year of study were recruited to participate. Students were instructed to meditate using the Ten Percent Happier app for at least 5 days a week for 4 weeks. Students could use the app at their discretion for weeks 5 to 12. Baseline, week 4, and week 12 responses were collected from the following instruments: the Perceived Stress Scale, the Five-Facet Mindfulness Questionnaire-15, the Flourishing Scale, and the Brief Resilience Scale.
+
+
+Results
+Eighty-nine pharmacy students volunteered for the study. Sixty (67%) enrolled by completing the baseline survey. Of these, 28 (47%) completed the week 4 survey and 22 (37%) completed the week 12 survey. Participants experienced a reduction in perceived stress (P = 0.0005) and increases in resilience (P &lt; 0.0001) and well-being (P = 0.0006). Increases in mindfulness were seen in 4 of the 5 subscales of the Five-Facet Mindfulness Questionnaire-15 (P ≤ 0.05). These benefits were noted at week 4 and maintained at week 12.
+
+
+Conclusion
+Pharmacy students who practiced mindful meditation through the Ten Percent Happier app for an average of 5 days a week for 4 weeks experienced reduced stress and improved mindfulness, well-being, and resilience. Benefits experienced during the intervention were maintained at the 8-week follow-up, despite app usage decreasing to an average of 4 days a week.

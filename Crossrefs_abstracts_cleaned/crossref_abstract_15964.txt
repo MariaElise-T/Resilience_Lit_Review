@@ -1,0 +1,12 @@
+Abstract
+Introduction
+The variety of frameworks and models to describe resilience in the health system has led researchers and policymakers to confusion and the inability to its operationalization. Therefore, the purpose of this study was to create a meta-framework using the Critical Interpretive Synthesis method.
+
+Method
+For this purpose, studies that provide theories, models, or frameworks for organizational or health system resilience in humanitarian or organizational crises were systematically reviewed. The search strategy was conducted in PubMed, Web of Science, Embase, and Scopus databases. MMAT quality appraisal tool was applied. Data were analysed using MAXQDA 10 and the Meta-ethnography method.
+
+Results
+After screening based on eligibility criteria, 43 studies were reviewed. Data analysis led to the identification of five main themes which constitute different framework dimensions. Health system resilience phases, attributes, tools, and strategies besides health system building blocks and goals are various dimensions that provide a systematic framework for health system resilience analysis.
+
+Discussion
+This study provides a systemic, comprehensive framework for health system resilience analysis. This meta-framework makes it possible to detect the completeness of resilience phases. It examines the system’s resilience by its achievements in intermediate objectives (resilience system attributes) and health system goals. Finally, it provides policy solutions to achieve health system resilience using tools in the form of absorptive, adaptive, and transformative strategies.

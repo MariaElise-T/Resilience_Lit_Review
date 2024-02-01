@@ -1,0 +1,21 @@
+Abstract
+
+Background
+Health-Related Quality of Life (HRQoL) indicators can reveal unmet health needs and disparities in various population subgroups. Minority communities often experience lower HRQoL and community resilience (CR) levels compared to majority populations. In Israel, Muslims constitute approximately 18% (1.669 million) of the total population, confronting challenges related to healthcare access, social determinants of health, and CR. This study aims to investigate the HRQoL in different Muslim subgroups in Israel and its association with CR, providing insights of broader global implications for public health policies addressing minority communities.
+
+
+Methods
+A survey was conducted among three Muslim subgroups in Israel, including Arab-Muslims, Bedouin-Muslims, and Circassians Muslims. The survey assessed demographics; HRQoL measured by the World Health Organization Quality of Life (WHOQOL) tool; personal resilience; and CR measured by the Conjoint Community Resiliency Assessment Measure (CCRAM). Data analysis included descriptive and analytic statistics. Pearson's correlation coefficient determined the association between WHOQOL levels and CCRAM scores.
+
+
+Results
+Of 461 participants, Circassian Muslims reported the highest levels of quality of life (M = 3.74±0.34), while the Bedouin sub-group reported the lowest (M = 3.37±0.46). CR was significantly higher among Circassians Muslims (M = 3.81±0.64) compared to Arab-Muslim (M = 2.58±0.74) and Bedouin-Muslim (M = 2.48±0.74) subgroups. HRQoL was positively associated (p &lt; 0.001) with CR for the entire Muslim population.
+
+
+Conclusions
+This study highlights the relationship between social determinants of health, lifestyle, and unique characteristics of sub-groups within the Muslim minority in Israel. The findings demonstrate the diversity among Muslim minority populations and suggests that there is a need for tailored and customized interventions focused on the variable needs of vulnerable subgroups, like the Bedouin Muslims.
+
+
+Key messages
+• Minority health study in Israel emphasizes diverse HRQoL & CR, urging tailored public health policies.
+• Focused on minority health, Bedouin Muslims need customized interventions to improve HRQoL & CR.

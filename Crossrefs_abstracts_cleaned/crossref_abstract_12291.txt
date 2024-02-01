@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+The purpose of this study was to investigate the significant contributions of coping, resilience, personal characteristics, and health behaviors on the emotional well-being of pharmacy students during the COVID-19 pandemic. COVID-19 was identified in December 2019 and declared a pandemic by the World Health Organization in March 2020. Pharmacy students may experience greater stress during this outbreak because of interruptions in classes or rotations, concerns regarding personal or family health, and social isolation from peers. These changes may result in behavior shifts, difficulty concentrating, and increased use of negative coping strategies. The extent to which these factors affect overall student well-being during a pandemic is largely unknown.
+
+
+Methods
+A cross-sectional study of 3 colleges of pharmacy was completed during May to July 2020 via an online, anonymous 64-item questionnaire using REDCap software. Linear regression and descriptive statistical analyses were conducted using SPSS version 26.
+
+
+Results
+Using the enter method, levels of coping strategies, personal resilience, and Hispanic ethnic identity explain 29% of the variance in emotional well-being scores in pharmacy students during the first months of the COVID-19 pandemic (F (2,76) = 11.785, P &lt; .000, R2 = 0.317, R2adjusted = 0.291). For this sample (N = 104), higher levels of resilience, greater use of coping strategies, and identifying as Hispanic were significant predictors of emotional well-being.
+
+
+Discussion
+Student mental health continues to be important, especially during crises and pandemics. Therefore, pharmacy programs should cultivate an environment that supports the emotional well-being of their students. Campus-based initiatives may be needed to encourage healthy coping behaviors and bolster students' personal resilience to better prepare them for providing front-line patient care in the future.

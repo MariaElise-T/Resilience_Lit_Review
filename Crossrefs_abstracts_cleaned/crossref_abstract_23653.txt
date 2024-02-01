@@ -1,0 +1,12 @@
+Abstract
+Background
+Medical university students are confronted with unprecedented uncertainty and stress compared with their peers. Research has explored the effect of intolerance of uncertainty on perceived stress, but little attention was paid to investigate the mediating mechanisms behind this relationship, especially among medical university students. The aim of this study was to examine whether psychological resilience and neuroticism played a mediating role between medical university students’ intolerance of uncertainty and perceived stress.
+
+Methods
+A total of 717 medical university students from Chongqing in Southwest China were recruited to participate in our study and completed demographic information, Intolerance of Uncertainty Scale Short Version (IUS-12), Chinese Version of Perceived Stress Scale (CPSS), Connor-Davidson Resilience Scale-10 (CD-RISC-10) and Eysenck Personality Questionnaire (EPQ).
+
+Results
+(1) Significant correlations between intolerance of uncertainty, perceived stress, psychological resilience and neuroticism were found. (2) Intolerance of uncertainty affected medical university students’ perceived stress via three paths: the mediating effect of psychological resilience, the mediating effect of neuroticism, and the chain mediating effect of both psychological resilience and neuroticism.
+
+Conclusions
+Intolerance of uncertainty could directly affect the perceived stress of medical university students, and also affected perceived stress through the mediating roles of psychological resilience and neuroticism, as well as through the chain mediating role of these two variables.

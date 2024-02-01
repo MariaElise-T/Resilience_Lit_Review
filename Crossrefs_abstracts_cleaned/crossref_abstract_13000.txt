@@ -1,0 +1,33 @@
+
+Background: 
+Systemic Lupus Erythematosus (SLE) is a chronic autoimmune, rheumatic inflammatory disease
+that can cause significant morbidity with evident psychological impacts and obvious harm to quality-of-life that require
+the patient to adapt treatment.
+
+
+Objective: 
+Assessment of resilience and the self-reported treatment adhesion behaviors of patients with SLE, investigating
+which of these factors are associated to resilience.
+
+
+Method: 
+Cross-sectional study of 40 women with SLE. A questionnaire with social demographic data, health history and
+the Wagnild Young Resilience Scale were used.
+
+
+Results: 
+62.5% followed the medical treatment properly but 55% found it difficult. 27.5% of the patients presented low
+resilience, 57.5% medium and 15% high resilience. Resilience was associated in the chi-square test (p-value < 0.05) with
+the variables work, understanding SLE, trying to find out about SLE, following the treatment correctly, difficulty in
+following the treatment and stopping some activity because of the disease. In the correlation analysis, resilience was
+associated with age (-0.3960), number of working hours (0.5533), specialized treatment duration (-0.8103) and disease
+duration from diagnosis (-0.8014).
+
+
+Conclusion: 
+Patients with high resilience tended to follow treatment correctly, tried to understand the disease and adhered
+more to the treatment to avoid risks and promote protection factors. Therefore knowledge of resilience in patients with
+SLE is necessary. It is important that the state takes necessary actions to facilitate access to treatment, to educational
+programs and to medical support. Awareness and counselling sessions must be initiated to develop and promote individual
+capacities to learn how to tackle with the disease for which psychological support of family and doctors can play a
+significant role.

@@ -1,0 +1,27 @@
+
+Objective:
+To determine whether parental resilience, measured at ICU admission, is associated with parent-reported symptoms of depression, anxiety, posttraumatic stress, and satisfaction with ICU care 3–5 weeks following ICU discharge.
+
+
+Design:
+Planned prospective, observational study nested in a randomized comparative trial.
+
+
+Setting:
+PICUs and cardiac ICUs in two, free-standing metropolitan area children’s hospitals.
+
+
+Participants:
+English- and Spanish-speaking parents whose children were younger than 18 years old and had anticipated ICU stay of greater than 24 hours or Pediatric Index of Mortality score of greater than or equal to 4 at the time of consent. All ICU admissions were screened for inclusion. Of 4,251 admissions reviewed, 1,360 were eligible. Five hundred families were approached and 382 enrolled. Two hundred thirty-two parents from 210 families with complete data were included in analysis.
+
+
+Interventions:
+All participating parents completed the Connor-Davidson Resilience Scale at the time of consent and outcome measures 3–5 weeks after ICU discharge.
+
+
+Measurements and Main Results:
+All parents completed the Patient-Reported Outcome Measurement Information System Short Forms 8a for Depression and Anxiety, Impact of Event Scale-Revised for posttraumatic stress, and Pediatric Family Satisfaction-ICU 24 for parental satisfaction 3–5 weeks after ICU discharge. Higher parental resilience was associated with fewer symptoms of depression, anxiety, and posttraumatic stress in the final model (all p < 0.0001). Shorter length of stay, early mechanical ventilation, Latino ethnicity, and lower illness severity (both objective and parental perceptions) were associated with less morbidity in some or all measured mental health outcomes.
+
+
+Conclusions:
+Higher parental resilience is associated with fewer reported symptoms of anxiety, depression, and posttraumatic stress 3–5 weeks after ICU discharge. Parental resilience may impact parental post-ICU psychological morbidity. Measuring parental resilience could be one approach to identify parents at risk for post-ICU psychological morbidity. Future research into the impact of interventions designed to boost parental resilience is warranted.

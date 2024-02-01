@@ -1,0 +1,12 @@
+Abstract
+Background
+Quality of care and patient safety rely on the ability of interprofessional teams to collaborate effectively. This can be trained through interprofessional simulation-based education (IPSE). Patient safety also relies on the ability to adapt to the complexity of such situations, an ability termed resilience. Since these needs are not explicitly addressed in IPSE, the aim of this study was to explore how central concepts from complexity-theory and resilience affect IPSE, from facilitators’ perspective, when applied in debriefings.
+
+Methods
+A set of central concepts in complexity-theory and resilience were introduced to facilitators on an IPSE course for nursing and medical students. In five iterations of focus groups interviews the facilitators discussed their application of these concepts by reviewing video recordings of their own debriefings. Video recordings of the interviews were subjected to coding and thematic analysis.
+
+Results
+Three themes were identified. The first, Concepts of complexity and resilience are relevant for IPSE, points to the applicability of these concepts and to the fact that students often need to deviate from prescribed guidelines/algorithms in order to solve cases. The second theme, Exploring complexity, shows how uncertainty could be used as a cue to explore complexity. Further, that individual performance needs to account for the context of actions and how this may lead to certain outcomes. Moreover, it was suggested that several ways to approach a challenge can contribute to important insight in the conditions for teamwork. The third theme, Unpacking how solutions are achieved, turns to needs for handling the aforementioned complexity. It illustrates the importance of addressing self-criticism by highlighting how students were often able to overcome challenges and find solutions. Finally, this theme highlights how pre-defined guidelines and algorithms still work as important resources to help students in transforming perceived messiness into clarity.
+
+Conclusions
+This study suggests that IPSE provides the possibility to explore complexity and highlight resilience so that such capability can be trained and improved. Further studies are needed to develop more concrete ways of using IPSE to account for complexity and developing resilience capacity and to evaluate to what extent IPSE can provide such an effect.

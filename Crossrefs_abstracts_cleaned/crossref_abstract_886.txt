@@ -1,0 +1,19 @@
+
+Background
+Resilience is an accepted strengths-based concept that responds to change, adversity, and crises. This concept underpins both personal and community-based preventive approaches to mental health issues and shapes digital interventions. Online mental health peer-support forums have played a prominent role in enhancing resilience by providing accessible places for sharing lived experiences of mental issues and finding support. However, little research has been conducted on whether and how resilience is realized, hindering service providers’ ability to optimize resilience outcomes.
+
+
+Objective
+This study aimed to create a resilience dictionary that reflects the characteristics and realization of resilience within online mental health peer-support forums. The findings can be used to guide further analysis and improve resilience outcomes in mental health forums through targeted moderation and management.
+
+
+Methods
+A semiautomatic approach to creating a resilience dictionary was proposed using topic modeling and qualitative content analysis. We present a systematic 4-phase analysis pipeline that preprocesses raw forum posts, discovers core themes, conceptualizes resilience indicators, and generates a resilience dictionary. Our approach was applied to a mental health forum run by SANE (Schizophrenia: A National Emergency) Australia, with 70,179 forum posts between 2018 and 2020 by 2357 users being analyzed.
+
+
+Results
+The resilience dictionary and taxonomy developed in this study, reveal how resilience indicators (ie, “social capital,” “belonging,” “learning,” “adaptive capacity,” and “self-efficacy”) are characterized by themes commonly discussed in the forums; each theme’s top 10 most relevant descriptive terms and their synonyms; and the relatedness of resilience, reflecting a taxonomy of indicators that are more comprehensive (or compound) and more likely to facilitate the realization of others. The study showed that the resilience indicators “learning,” “belonging,” and “social capital” were more commonly realized, and “belonging” and “learning” served as foundations for “social capital” and “adaptive capacity” across the 2-year study period.
+
+
+Conclusions
+This study presents a resilience dictionary that improves our understanding of how aspects of resilience are realized in web-based mental health forums. The dictionary provides novel guidance on how to improve training to support and enhance automated systems for moderating mental health forum discussions.

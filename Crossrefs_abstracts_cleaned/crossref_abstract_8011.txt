@@ -1,0 +1,15 @@
+
+Background
+Unpaid caregivers have faced and dealt with additional challenges during the COVID-19 pandemic. Understanding the psychological processes associated with their resilience is warranted. The objective of this study was to examine the associations between resilience with mental distress, emotion regulation strategies (i.e., reappraisal and suppression) and interpretation bias in adult caregivers.
+
+
+Method
+Participants were living in the UK, aged 18+, and consisted of 182 unpaid caregivers of an adult aged 18+ living with a long-term health condition, and 120 non-caregivers. Data were collected in an online study during the first national UK COVID-19 lockdown (May and September 2020). Hierarchical multiple regression analyses explored whether emotion regulation strategies and interpretation bias explained unique variance in levels of resilience in caregivers whilst controlling for anxiety and depression.
+
+
+Results
+Compared to non-caregivers, caregivers reported higher levels of anxiety, depression, negative interpretation bias and lower levels of resilience. Emotion regulation strategies did not differ between groups. Within caregivers, greater resilience was associated with lower mood disturbance, a positive interpretation bias, and greater use of cognitive reappraisal and lower use of suppression strategies to regulate emotions. Emotion regulation and interpretation bias together predicted an additional 15% of variance in current levels of resilience.
+
+
+Conclusion
+Our findings indicate that psychological mechanisms such as emotion regulation strategies, particularly reappraisal, and interpretation bias are associated with resilience in caregivers. Although preliminary, our findings speak to exciting clinical possibilities that could form the target of interventions to improve resilience and lower mental distress in unpaid caregivers.

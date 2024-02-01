@@ -1,0 +1,20 @@
+Abstract
+
+Background
+This study aimed to explore the role of external resources of resilience in explaining the alcohol use in past 30 days among early adolescents.
+
+
+Methods
+A representative sample of 653 (52.9% girls) early adolescents (mean age =11.72 at T1; mean age = 13.09 at T5) was collected within a five wave repeated measure design with a baseline(T1), 3-month follow up(T2), 6-month (T3), 12-month(T4) and 18-month follow-up(T5). Alcohol use (AU) in the past 30 days was measured by a questionnaire of the international study ESPAD. School support (SS), school activities participation (SAP), home support (HS) and home activities participation (HAP) were measured by the Resilience Youth Development Module and represented external resources of resilience. Respondent's AU (dichotomized: 0-not used, 1-used) served as the outcome variable and external resources of resilience served as the independent variables. Binary logistic regressions were used to analyze the data.
+
+
+Results
+At T1, SS (95% CI = 0.77-0.96; p&lt;0.01) was associated with lower AU while SAP (95% CI = 1.00-1.36; p&lt;0.05) was associated with higher AU. At T2, SS (95% CI = 0.73-0.94; pα&lt;0.01) and HS (95% CI = 0.70-0.98; pα&lt;0.05) were associated with lower AU. AT T3, no significant association was found with AU and finally at T4 and T5 only HS (95% CI = 0.81-1.00; T4=pα&lt;0.05), (95% CI = 0.78-0.96; T5=pα&lt;0.01) remained significantly associated with lower AU at T4 and T5 while controlling for alcohol use at T1. AU increased significantly across the five waves (pα&lt;0.01). Gender differences in AU were found only at T1 (p&lt;0.01) with boys scoring higher.
+
+
+Conclusions
+The 5 measurement revealed a trend of the external resources of resilience in AU shifting from the school environment to the home environment. Moreover, it seems that SAP is associated with a higher probability of AU through more opportunities for group activities which are often associated with AU.
+
+
+Key messages
+School environment plays an important role in explaining AU in younger early adolescents. Home environment plays an important role in explaining AU in older early adolescents. The results point to an increasing trend in alcohol use among early adolescents.

@@ -1,0 +1,16 @@
+ABSTRACT
+
+Objective
+Cortical resilience can be defined as the ability of the cortex of the human brain to rebound efficiently from perturbation. This concept is important in both research and clinical practice contexts. However, no direct measure of cortical resilience exists. Inhibitory variants of repetitive transcranial magnetic stimulation, such as continuous theta burst stimulation, provide a standardized method for inducing a perturbation; when coupled with the assessment of recovery rate from the perturbation, such a paradigm might provide a standardized measure of cortical resilience. This article describes a standardized method for quantifying cortical resilience using theta burst stimulation protocols.
+
+
+Methods
+A descriptive overview of a method for assessing cortical resilience is presented. Links are drawn between critical facets of the resilience construct and the protocol described.
+
+
+Results
+The Cortical Challenge and Recovery Test (CCaRT) method makes use of existing stimulation parameters and cognitive testing paradigms to provide a flexible and conceptually meaningful measure of cortical resilience.
+
+
+Conclusions
+The CCaRT paradigm is potentially useful in research and contexts where cortical resilience is to be measured. The CCaRT paradigm has applicability to epidemiological studies and laboratory experimentation as well as diagnostic practice and clinical trial outcome measures.

@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+Psychological stress has been proposed as a risk factor for cognitive impairment and dementia. However, it remains unclear how an individual’s stress-coping ability (i.e., psychological resilience) is related to cognition. This cross-sectional study investigated whether perceived stress and psychological resilience were associated with cognition and a modifiable dementia risk score in a large community-based sample of cognitively normal adults. The moderating effect of psychological resilience was also examined.
+
+
+Methods
+Participants (mean age = 57 ± 7 years) enrolled in the web-based Healthy Brain Project completed the Perceived Stress Scale and the Connor–Davidson Resilience Scale. Domains of attention and working memory were assessed using the Cogstate Brief Battery (n = 1,709), and associative memory was assessed using the Cambridge Neuropsychological Test Automated Battery (n = 1,522). Dementia risk was estimated for 1,913 participants using a modified version of the Cardiovascular Risk Factors, Aging, and Incidence of Dementia dementia risk score, calculated using only readily modifiable dementia risk factors.
+
+
+Results
+In separate linear regression analyses adjusted for age, sex, education, and race, greater levels of perceived stress and lower levels of psychological resilience were associated with poorer performance across all cognitive domains, as well as a higher modifiable dementia risk score. Psychological resilience did not moderate the effect of perceived stress on cognition or the dementia risk score.
+
+
+Discussion
+Higher perceived stress and lower resilience were associated with poorer cognition and a greater burden of modifiable dementia risk factors. Intervention studies are required to determine if lowering stress and building resilience can mitigate cognitive deficits and reduce dementia risk.

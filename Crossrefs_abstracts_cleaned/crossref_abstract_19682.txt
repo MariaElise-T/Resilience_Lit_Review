@@ -1,0 +1,16 @@
+Abstract
+
+Objective:
+The occurrence of various forms of disasters has increased worldwide. In South Korea, community resilience is particularly emphasized, especially in response to large-scale disasters in regional and group units. This study investigated the association between community resilience and the quality of life of disaster-affected people, and identified the moderating effects of perception of government relief services.
+
+
+Methods:
+Data from the third long-term survey on the change of life of disaster-affected people conducted in 2018 by the National Disaster Management Research Institute were used. The study selected 1046 participants ages ≥ 19 years from among the disaster-affected people. Statistical analyses were performed using Model 1 of the PROCESS Macro 4.0 in the SPSS program.
+
+
+Results:
+Community resilience positively affected disaster-affected people’s quality of life. The perception of government relief services significantly strengthened the association between community resilience and quality of life.
+
+
+Conclusions:
+The study highlights the importance of enhancing community resilience to improve disaster-affected people’s quality of life and emphasizes the role of perception of government relief services in reinforcing this relationship. Several practical and political measures that focus on improving community resilience and perception of government relief services are suggested to enhance disaster-affected people’s quality of life.

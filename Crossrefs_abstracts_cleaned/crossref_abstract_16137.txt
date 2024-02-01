@@ -1,0 +1,12 @@
+Abstract
+Background
+Community pharmacists are among the most accessible healthcare professionals and are likely to experience the full brunt of public health crises. In Lebanon, the COVID-19 pandemic, added to a severe economic meltdown, have significantly disrupted an already suffering profession.
+
+Methods
+The objective of this study was to determine the level of resilience and its relationship to burnout, job satisfaction, intention to quit, and changes in practice. The study utilized a cross-sectional design to survey community pharmacists using an online questionnaire that included the Connor-Davidson Resilience Scale and the Copenhagen Burnout Inventory. All community pharmacists were invited to participate. Multiple logistic regression identified variables significantly associated with the resilience of pharmacists.
+
+Results
+A total of 459 community pharmacists completed the questionnaire. Respondents had a relatively low resilience level (68.0 ± 13.37). They also had higher scores on the client-related burnout (58.06 ± 17.46), followed by the personal burnout (56.51 ± 16.68) and the work-related burnout (55.75 ± 13.82). In this sample, 52.3% of pharmacists indicated that they are dissatisfied with their job and 41.1% indicated an intention to quit in the coming year. According to multivariate analysis, marital status (ß = 0.38; 95% CI 0.16–0.91; p = 0.03), intention to quit (ß = 0.384; 95% CI 0.149–0.987; p = 0.047), workload (ß = 0.275; 95% CI 0.096–0.783; p = 0.016), perception of safety (ß = 0.267; 95% CI 0.078–0.909; p = 0.035), and personal burnout (ß = 0.321; 95% CI 0.152–0.677; p = 0.003) were independent influencing factors for resilience.
+
+Conclusions
+Multiple challenges and crises have culminated to the low job satisfaction, high burnout, and high the intention to quit of community pharmacists. This seriously destabilized the labor market of pharmacists which could negatively affect public safety. Effective interventions are essential to enhance the well-being and job satisfaction of pharmacists during public health crisis.

@@ -1,0 +1,19 @@
+
+Background
+Job stress and cumulative exposure to traumatic events experienced by critical care nurses can lead to psychological distress and the development of burnout syndrome and posttraumatic stress disorder. Resilience can mitigate symptoms associated with these conditions.
+
+
+Objective
+To identify factors that affect resilience and to determine if the factors have direct or indirect effects on resilience in development of posttraumatic stress disorder.
+
+
+Methods
+Data from 744 respondents to a survey mailed to 3500 critical care nurses who were members of the American Association of Critical-Care Nurses were analyzed. Mplus was used to analyze a mediation model.
+
+
+Results
+Nurses who worked in any type of intensive care unit other than the medical unit and had high scores for resilience were 18% to 50% less likely to experience post-traumatic stress disorder than were nurses with low scores. Nurses with a graduate degree in nursing were 18% more likely to experience posttraumatic stress disorder than were nurses with a bachelor’s degree.
+
+
+Conclusion
+Because of their effects on resilience, working in a medical intensive care unit and having a graduate degree may influence the development of posttraumatic stress disorder. Future research is needed to better understand the impact of resilience on health care organizations, development of preventive therapies and treatment of posttraumatic stress disorder for critical care nurses, and the most appropriate mechanism to disseminate and implement strategies to address posttraumatic stress disorder.

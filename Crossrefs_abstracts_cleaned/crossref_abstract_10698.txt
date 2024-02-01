@@ -1,0 +1,15 @@
+
+Purpose
+Flood resilience is emerging as a major component of an integrated strategic approach to flood risk management. This approach recognizes that some flooding is inevitable and aligns with the concept of “living with water.” Resilience measurement is a key in making business case for investments in resilient retrofits/adaptations, and could potentially be used to inform the design of new developments in flood prone areas. The literature is, however, sparse on frameworks for measuring flood resilience. The purpose of this paper is to describe the development of a fuzzy logic (FL)-based resilience measuring model, drawing on a synthesis of extant flood resilience and FL literature.
+
+
+Design/methodology/approach
+An abstraction of the flood resilience system followed by identification and characterization of systems’ variables and parameters were carried out. The resulting model was transformed into a fuzzy inference system (FIS) using three input factors: inherent resilience, supportive facilities (SF) and resident capacity.
+
+
+Findings
+The resulting FIS generates resilience index for households with a wide range of techno-economic and socio-environmental features.
+
+
+Originality/value
+It is concluded that the FL-based model provides a veritable tool for the measurement of flood resilience at the level of the individual property, and with the potential to be further developed for larger scale applications, i.e. at the community or regional levels.

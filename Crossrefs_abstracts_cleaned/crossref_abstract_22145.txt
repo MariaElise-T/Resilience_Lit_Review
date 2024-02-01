@@ -1,0 +1,15 @@
+
+Background
+The continuous spreading of the respiratory coronavirus disease, COVID-19, has been a threat to global health, especially among those fighting directly against it. Nurses who work in critical care have reported very high levels of stress during these extreme circumstances. It is very important to measure the level of stress and resilience among these nurses in order to diminish further psychological distress. This study aims to assess the levels of perceived stress and resilience among critical care nurses.
+
+
+Methodology
+In this correlational cross-sectional study, critical care nurses (n = 139) were recruited by gatekeepers in a governmental university hospital in Riyadh City between 12 March and 8 April 2021 to complete an online questionnaire. The measurement tools used in this study were the Connor-Davidson Resilience Scale 10 (CD-RISC-10) and the Perceived Stress Scale of COVID-19 (PSS-10 items). Data were analyzed using a descriptive and inferential analysis to calculate frequencies to determine the distribution of stress and resilience, and multiple regression was applied to assess the relationship between them.
+
+
+Results
+One hundred and thirty-nine critical care nurse (64%) responded. The perceived levels of stress reported were: no stress (8%; n = 12), mild stress (14%; n = 21), moderate stress (38%; n = 55), high stress (22%; n = 32), and severe stress (18%; n = 26). The levels of resilience reported were: very low (8%; n = 11), low (18%; n = 26), moderate (42%; n = 62), and high (32%; n = 47). The level of stress and resilience reported by the majority of critical care nurses was moderate; there was no significant correlation between COVID-19-related stress and resilience among the critical care nurses. Severe levels of stress were mostly reported among critical care nurses working in the NICU and high levels of stress were reported among those working in the emergency department. The nurses reported being highly confident that they were able to handle personal epidemic related problems with a mean score of 2.36. This reflects having a high level of resilience (42%; n = 62) and was significantly associated with years of experience as a nurse (p < 0.0027).
+
+
+Conclusion
+Although COVID-19 cases had declined significantly during the study period in Saudi Arabia, the majority of nurses were still experiencing moderate to high levels of stress about the epidemic, but were, at the same time, moderately resilient. Continued monitoring of the stress levels of this high-risk group is highly essential. Conducting more research is needed to measure the effectiveness of psychosocial support interventions.

@@ -1,0 +1,18 @@
+
+Introduction:
+            The interplay between LDL-C and coronary plaque has not been described in contemporary, asymptomatic US cohorts undergoing CCTA assessment. Also, the prevalence of resilience to coronary atherosclerosis despite high LDL-C in the general primary prevention population is poorly understood.
+          
+
+Methods:
+            Cross-sectional analysis using data from the ongoing, prospective Miami Heart Study. Descriptive statistics were computed among statin-naïve participants by LDL-C levels (<70, 70-100, 100-130, 130-160, 160-190, ≥190 mg/dL) and a combined group of statin-naïve with LDL-C≥190 and statin users with LDL-C≥130 (“high LDL-C”). Study outcomes included CAC=0 vs >0, any plaque on CCTA, maximal stenosis ≥50%, and ≥1 and ≥2 high-risk plaque features. Logistic regression models evaluated associations between LDL-C and the outcomes, adjusting for other risk factors.
+          
+
+Results:
+            The demographics and outcomes of 1,808 participants not on statin are summarized in the Table by LDL-C levels. Higher LDL-C levels were strongly and independently associated with CAC>0 (fully adjusted OR for LDL≥190 vs <70 mg/dL: 2.62, 95%CI 1.04, 6.60) and had a marginally significant association with any plaque (fully adjusted OR: 2.26, 95%CI 0.95, 5.37). However, among participants with LDL-C≥190, 54% had CAC=0, and 40% no plaque. Similar numbers were observed among participants with “high LDL-C” (N=159), in which 45% had CAC=0 and 35% no plaque. Among those with high LDL-C and CAC=0, approximately 28% had non-calcified plaque on CCTA, although the prevalence of high-risk plaque findings was very low.
+          
+
+Conclusions:
+            LDL-C is strongly associated with coronary atherosclerosis. However, in this cohort (mean age 53 years; 54% women), CAC=0 and the absence of coronary plaque were frequent findings among individuals with high LDL-C. These observations may be used to inform more personalized paradigms in ASCVD risk assessment and in the allocation of novel LDL-C-lowering therapies in this group.
+          
+
+

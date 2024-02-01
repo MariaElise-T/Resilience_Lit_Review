@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to explore the factor structure of the Resiliency Scales for Children and Adolescents (RSCA, Prince-Embury, 2006, 2007) and to provide supporting evidence that this is a psychometrically sound measure for practitioners and researchers to use to assess resilience in incarcerated male adolescent offenders in the UK.
+
+
+Design/methodology/approach
+Confirmatory factor analysis (CFA) was used to determine if the factor structure could be replicated among incarcerated male adolescent offenders. Concurrent validation of the measure was also conducted, utilising the Beck Youth Inventory, second edition (BYI-II-II; Beck et al., 2005).
+
+
+Findings
+CFA of the RSCA was unable to confirm the structure of the measure at an item level, therefore parcelling techniques were utilised similarly to Prince-Embury and Courville (2008), using the subscales for the factors as indicators for the factors. While a three-factor model was found to be an acceptable fit to the data, there was also some support for a two-factor model. Despite this, there was more statistical support for the three-factor model and arguments are made for retaining this structure. Expected associations between the three subscales of sense of mastery, sense of relatedness and emotional reactivity were found with the Beck Youth Inventory demonstrating support for the concurrent validity of the measure in incarcerated male adolescent offenders.
+
+
+Practical implications
+This paper provides support for the internal structure of the RSCA with incarcerated male adolescent offenders within the UK, although some caution should be used when interpreting scores from the subscales. The findings suggest that the RSCA can be utilised by practitioners to identify young people who may benefit from additional support and also in assessment and treatment/intervention planning. This may be particularly useful when practitioners wish to explore the potential protective nature of resilience.
+
+
+Originality/value
+The current study is the first of its kind to formally explore the factor structure of the RSCA with incarcerated male adolescent offenders.

@@ -1,0 +1,9 @@
+Abstract
+Purpose of Review
+Nonstructural carbohydrates (NSC) promote tree survival when photosynthesis is impeded by factors whose impact is expected to increase under climate change, like droughts, herbivory, and fires. Nonetheless, it remains unclear whether NSC are depleted under natural conditions and if they mediate tree recovery. To determine if there is a general pattern of NSC variation, we reviewed the recent (2008–2018) literature reporting NSC changes in response to droughts, insect herbivory, and fires, in woody species under natural conditions.
+
+Recent Findings
+We found 25 cases in 16 studies examining NSC dynamics post-drought, most of them conducted in species of Pinaceae or Fagaceae in Mediterranean Europe. Drought-affected trees had lower NSC, starch, and sugars concentrations than unaffected counterparts, although these results were entirely driven by roots and trunks of Pinaceae. We found only six studies examining NSC responses to herbivory, which indicate both increases and decreases in NSC concentrations inconsistently related to changes in growth or survival. Fire led to consistent decreases in NSC that mediated a successfully regrowth in absence of drought.
+
+Summary
+NSC decrease related equivocally to the occurrence of drought, fire, and herbivory and also to post-disturbance recovery, indicating no clear pattern of decreasing forest resilience under current climate change. An exception seems to be Pinaceae, which showed decreased NSC and performance in response to drought or herbivory. We suggest that a more water conservative strategy and smaller NSC pools in gymnosperms relative to angiosperms underlie these results.

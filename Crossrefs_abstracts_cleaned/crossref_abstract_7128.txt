@@ -1,0 +1,18 @@
+Abstract
+
+
+Disturbances to ecosystems are often considered in terms of their potential to disrupt the feedbacks maintaining a particular ecosystem regime. The likelihood of doing so, however, will be dependent on the nature of the regime and its resilience to disturbance.
+
+
+Within coral reef ecosystems, shifts from coral‐ to macroalgal dominance are becoming increasingly common and, once established, are difficult to reverse. Most studies to date have focused on the biological removal of macroalgae by herbivores, however, none have considered the resilience of macroalgal beds to physical removal by storms.
+
+
+We simulated the physical removal of macroalgal biomass from Sargassum beds on an inshore coral reef on Australia's Great Barrier Reef, and monitored recovery for 11 months. Trimming Sargassum biomass but leaving the holdfast intact had no detectable effect on the density, height or biomass of Sargassum compared to adjacent intact, or control, areas after 5 months. In areas where holdfasts were also removed, Sargassum biomass recovered to 50% of control biomass after 11 months.
+
+
+Given the importance of holdfasts to the resilience of Sargassum beds, we also investigated the ability of herbivores to remove and/or damage holdfasts. Exposing pieces of dead coral with attached Sargassum holdfasts to local herbivore assemblages resulted in a 70% decline in the number of holdfasts over 4 months compared to those protected from herbivores.
+
+
+Synthesis. Beds of Sargassum are extremely resilient to the physical removal of algal biomass, and as such, storms alone are unlikely to lead to permanent reductions in Sargassum abundance. Persistent reductions in the abundance of macroalgae on degraded coral reefs will not only require the physical or biological removal of algal biomass, but critically, sufficient densities of herbivores capable of removing holdfasts.
+
+

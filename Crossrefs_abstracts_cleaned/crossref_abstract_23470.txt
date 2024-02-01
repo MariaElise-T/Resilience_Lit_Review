@@ -1,0 +1,16 @@
+
+Background and purpose:
+            RESILIENT Trial was the first study in a developing country to demonstrate the benefit of mechanical thrombectomy (MT) in acute stroke patients. This economic evaluation aimed to access the cost-utility of MT under the perspective of the Brazilian Public Healthcare System.
+          
+
+Methods:
+            Analysis was based on a subset sample of the original study (151 of 221 patients) from 4 hospitals. We compared costs and utilities between MT plus standard care (n=78) vs. standard care alone (n=73). Direct medical costs were considered, and utilities were inputted according to each patient’s Utility-Weighted modified Rankin Score (UW-mRS). First-year survival was obtained from trial follow-up and modelled for a life-time horizon adjusted by National Mortality Data. Direct medical costs were converted to I$ using Purchasing Power Parity (PPP). A discount rate of 5% was used. Incremental cost-effectiveness ratio (ICER) is expressed in cost (I$) per Quality-Adjusted Life Year (QALY).
+          
+
+Results:
+            RESILIENT trial was stopped on its first interim analysis because of early efficacy. The incremental costs and QALYs gained with MT were estimated at I$ 8,369 and 0.75, respectively, compared with standard medical care, yielding an incremental cost-effectiveness ratio (ICER) of I$ 7,256 per QALY.
+          
+
+Conclusion:
+            The initially higher costs of MT were offset by the clear benefit of the intervention. RESILIENT trial demonstrated that such therapy is likely to be cost-effective despite the economical constraints in the Brazilian healthcare system.
+          

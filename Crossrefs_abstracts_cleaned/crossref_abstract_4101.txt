@@ -1,0 +1,15 @@
+
+Purpose
+This study aims to build on the extant literature of knowledge management (KM) capabilities, notably infrastructure and processes, and examine how these capabilities influence the resilience of supply chains that experience regular natural disasters.
+
+
+Design/methodology/approach
+A multiple case study approach has been adopted to investigate the role of KM within foods supply chains of two different South Asian regions. This context was selected as these regions are prone to regular natural disruptions and these food supply chains also play a crucial role in the relief process.
+
+
+Findings
+The data shows that supply chain resilience can be enhanced when supply chain members collaborate to generate, share and use knowledge. These KM processes are greatly facilitated by KM infrastructure capabilities. IT advancements, a cohesive collaborative culture and the presence of strong central hubs firms in the network facilitate knowledge generation, knowledge sharing and knowledge utilisation, thus building supply chain resilience. Given the abductive nature of this research, these findings form the most likely associations, but with a degree of uncertainty. Hence, the authors provide propositions for further detailed research in this important area.
+
+
+Originality/value
+This study is one of the few, as far as the authors can tell, that seeks to examine the influence of KM on the resilience of supply chains. Further, uncovering the sub-structure of KM in this context adds to this emerging body of literature.

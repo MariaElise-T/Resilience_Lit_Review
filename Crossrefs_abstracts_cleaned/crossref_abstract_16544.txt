@@ -1,0 +1,15 @@
+
+Purpose
+The operational resilience of financial service providers is strained to an unprecedented extent following the Russian aggression in the Ukraine and the subsequent implementation of targeted economic sanctions. This paper aims to consider how operational resilience supports financial service providers in implementing sanctions.
+
+
+Design/methodology/approach
+The demand made of financial service providers by economic sanction is considered through the lens of operational resilience. Practical problems for the providers are aligned with economic sanctions policies.
+
+
+Findings
+A well-established system of operational resilience enables financial service providers to meet compliance requirements of economic sanctions with greater ease.
+
+
+Originality/value
+The literature does not credit operational resilience as a systemic capacity of corporations and rather presents it as a specialised feature. In addition, the role of the regulatory bodies is often dismissed despite directly inciting the practical problems faced.

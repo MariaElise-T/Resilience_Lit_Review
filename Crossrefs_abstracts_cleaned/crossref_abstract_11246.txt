@@ -1,0 +1,5 @@
+
+            Protecting information has long been an important problem. We would like to protect ourselves from the risk of loss: think of the library of Alexandria; and from unauthorized access: consider the very business of the ‘Scandal Sheets’, going back centuries. This has never been more true than today when vast quantities of data (dare one say lesser quantities of information) are stored on computer systems, and routinely moved around the Internet, at almost no cost. Computer and communication systems are both fragile and vulnerable, and so the risk of catastrophic loss or theft is potentially much higher. A single keystroke can delete a public database, or expose a private dataset to the world. In this paper, I consider the problems of providing resilience against loss, and against unacceptable access as a
+            dual
+            . Here, we see that two apparently different solutions to different technical problems may be transformed into one another, and hence give better insight into both problems.
+          

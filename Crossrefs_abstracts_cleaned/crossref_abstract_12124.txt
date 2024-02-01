@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Slow wave sleep (SWS) is thought to play a critical, if not unique, role in resilience and recovery of waking function. It has been posited that if SWS is preserved, the impact of sleep restriction on subsequent neurobehavioral functioning should be minimal. In this context, we investigated the effects of a delayed and restricted sleep opportunity on SWS and on neurobehavioral impairment during a subsequent period of total sleep deprivation (TSD).
+
+
+Methods
+N=21 healthy adults (21–38y, 9f) underwent three separate periods of 36h TSD, each preceded by one week of prior sleep extension to 12h time in bed (TIB) per night (PSE condition, twice), or prior sleep restriction to 6h TIB per night (PSR condition, once). The last night of each condition was spent inside the laboratory. TIB for the pre-TSD night was 22:00–10:00 (PSE) or 04:00–10:00 (PSR). During each 36h TSD period, subjects completed a neurobehavioral task battery every 2h including a digit-symbol substitution test (DSST) measuring cognitive throughput and the Karolinska Sleepiness Scale (KSS) measuring subjective sleepiness. Following TSD, subjects had a 12h sleep opportunity (22:00–10:00). Sleep was recorded polysomnographically during both pre- and post-TSD nights.
+
+
+Results
+The pre-TSD night in the PSR condition had less total sleep time, with significant reductions (p&lt; 0.001) in N1, N2, and REM durations compared to the PSE condition. There were no significant differences between the PSE and PSR conditions in SWS duration (p=0.40). Moreover, in the post-TSD night, there were no significant differences (p&gt;0.1) between the PSE and PSR conditions in any of the sleep stages, including SWS. Neurobehavioral functioning during TSD exhibited significant effects (p&lt; 0.02) of prior sleep condition on DSST throughput and KSS sleepiness, with reduced throughput and increased sleepiness in the PSR condition relative to the PSE condition.
+
+
+Conclusion
+SWS was remarkably conserved in delayed, restricted sleep compared to extended sleep. However, this conservation of SWS did not prevent exacerbation of DSST throughput deficits or KSS sleepiness from prior sleep restriction during subsequent TSD. As such, other aspects of sleep besides SWS are also important in mediating sleep-induced resilience and recovery.
+
+
+Support (if any)
+NASA NAG9-1161, CDMRP W81XWH-20-1-0442, ARO W911NF2210223.

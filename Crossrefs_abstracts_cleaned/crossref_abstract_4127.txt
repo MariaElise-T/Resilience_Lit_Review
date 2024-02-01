@@ -1,0 +1,23 @@
+
+Background
+Caring for children with cancer can be a stressful experience for parents and may have negative effects on their physical and psychological well-being. Although evidence has shown that resilience is associated with positive psychological well-being, few interventions have been specifically designed to enhance the resilience of parents of children with cancer.
+
+
+Objective
+The aim of this study is to examine the effectiveness of a mobile device–based resilience training program in reducing depressive symptoms and enhancing resilience and quality of life (QoL) in parents of children with cancer.
+
+
+Methods
+Parents of children diagnosed with cancer were recruited from the pediatric oncology wards of 3 tertiary hospitals in China. The participants were randomly assigned to either the experimental group (52/103, 50.5%) to undergo an 8-week mobile device–based resilience training program or to the control group (51/103, 49.5%) to receive an 8-week program of placebo information. The study outcomes included resilience, depressive symptoms, and QoL, as measured by the Connor–Davidson Resilience Scale, the Self-Rating Depression Scale, and the Short Form of the 6-Dimension Health Survey, respectively. All data were collected at baseline and at 2 and 6 months of follow-up. The data analysis followed the intention-to-treat principle. A generalized estimating equation was used to examine the effects of the intervention.
+
+
+Results
+The participants were mostly female (72/103, 69.9%), and their mean age was 33.6 (SD 5.2) years. The participants in the experimental group showed significantly higher levels of resilience (mean 67.96, SD 15.8 vs mean 58.27, SD 19.0; P<.001) and lower levels of depressive symptoms (mean 40.17, SD 9.9 vs mean 46.04, SD 10.9; P<.001) than those in the control group at 6 months of follow-up. The intervention showed statistically significant effects in improving resilience (β=6.082; P=.01) and decreasing depressive symptoms (β=−2.772; P=.04) relative to the control group. The QoL score in the experimental group was higher than that in the control group at 6 months of follow-up (mean 0.79, SD 0.2 vs mean 0.76, SD 0.3; P=.07); however, no statistically significant intervention effect was detected (β=.020; P=.38).
+
+
+Conclusions
+The mobile device–based resilience training program effectively enhanced resilience and alleviated depressive symptoms in parents of children with cancer. It is highly recommended that health care professionals incorporate this resilience training program when providing psychological care to parents of children with cancer.
+
+
+Trial Registration
+Clinical.Trials.gov NCT04038242; http://clinicaltrials.gov/ct2/show/NCT04038242

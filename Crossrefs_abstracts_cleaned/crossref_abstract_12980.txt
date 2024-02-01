@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+We investigated the impact of the Biopsychosocial challenges associated with the COVID-19 Pandemic on the Healthcare Workforce, exploring the impact on and relationship between Healthcare Workers’ Mindset, Resilience and Burnout.
+
+
+Method
+An electronic survey was distributed to Healthcare Workers through Professional Associations' websites and social media. The survey contained demographic questions, a Burnout Inventory, a General Resilience scale, a scale to assess for Resilience during the Pandemic, as well as an Adapted Dweck Mindset instrument to measure Mindset as related to Workplace Environment and Resilience. Univariate and multivariate analysis was undertaken to examine the relationship between these factors.
+
+
+Results
+1,370 healthcare workers completed the questionnaire. 58.5%, 25.4%, 28.5% reported having Burnout, Low General Resilience and Low COVID Resilience, respectively. Burnout was significantly associated with Fixed Mindset, Low General Resilience and Low COVID Resilience. Resilience Training was found to be protective for Burnout.
+
+
+Conclusions
+The COVID-19 Pandemic has led to a higher proportion of HCWs experiencing Burnout than previously reported. Our findings demonstrate that HCWs with Low Resilience and Fixed Mindsets are more likely to experience Burnout, suggesting that, in combination with improved institutional support, there is a role for personalised Resilience and Mindset Training, in helping reduce the proportion of HCW Burnout.

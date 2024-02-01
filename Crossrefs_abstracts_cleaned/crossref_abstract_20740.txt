@@ -1,0 +1,23 @@
+
+Purpose
+This paper aims to adopt a resource-based view (RBV) to investigate the link between marketing (MRKT)–supply chain management (SCM) alignment, supply chain resilience (SCR) and firm performance. It aims to cover two gaps in the SCM literature: the missing links between MRKT–SCM alignment and the performance of a firm, mediated by the SCR, and the role of absorptive capacity (AC) in shaping such links.
+
+
+Design/methodology/approach
+After the identification of a key capability in SCM, i.e. firms’ ability to align their’ MRKT–SCM processes and the role of AC, the relationships with performance are empirically tested in a sample of 133 firms in the fast-moving consumer goods industry in Saudi Arabia. The data was analyzed using SPSS 27 through hierarchal multiple regression and the PROCESS macro.
+
+
+Findings
+First, MRKT–SCM alignment capabilities provide a significant direct effect on SCR, and in turn, SCR also had a significant indirect effect on firm performance. Second, there is a significant mediating effect of SCR on the MRKT –SCM alignment and firm performance relationship. Third, a novel finding shows a statistically significant interaction effect and the interaction pattern supported that absorptive capacity would substitute the positive effect of SCR on firm performance, which implies that in the absence of SCR, AC can substitute the role of SCR. Finally, the results suggest a significant moderation and mediation effect for the overall model.
+
+
+Research limitations/implications
+The investigation is based on a self-reported cross-sectional analysis, and it is specific to a single economy. Nonetheless, it suggests a number of interesting implications. Achieving excellence in SCR requires the development of a distinct set of capabilities because the management of core supply chain activities and the alignment of MRKT with the supply chain are not mutually exclusive, rather they are complementary. Contrary to common expectations, an alignment of MRKT–SCM processes leads to improved interfunctional coordination.
+
+
+Practical implications
+In the postCOVID-19 world firms should develop and integrate their AC to capitalize on their MRKT–SCM alignment to pursue better performance. Investment in AC is required to develop, maintain and use it. It can play an important role against uncertainties in the long run.
+
+
+Originality/value
+This paper is unique in that it employs the RBV – to unpack the mechanisms through which MRKT–SCM activities contribute to SCR, and firm performance. It represents a first response to the call for research into the use of such theoretical frameworks which has recently been made in the SCM literature because of the COVID-19 pandemic. To the best of the authors’ knowledge, this paper also offers the first empirical test of how the MRKT–SCM interacts with existing capabilities to create SCR, providing clear guidance on how to exploit its often undervalued potential.

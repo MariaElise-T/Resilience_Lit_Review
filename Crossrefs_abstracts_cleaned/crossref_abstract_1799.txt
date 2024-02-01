@@ -1,0 +1,16 @@
+Abstract
+
+Purpose
+Resiliency is a factor affecting an individual’s ability to “bounce back” from stressful events, including injury. A Sport-Related Concussion (SRC) may constitute a stressful event for athletes, yet the association of resiliency with symptoms following SRC is not well known. Thus, we sought to determine if a brief measure of resiliency was related to initial symptoms following SRC in adolescent athletes.
+
+
+Methods
+Subjects (n=458, 199 female, 259 male) aged 12–25 with SRC were evaluated within 30 days of injury (M= 8.35 days, SD=6.98) at a North Texas Concussion Registry (ConTex) clinic. Subjects completed the Sport Concussion Assessment Tool-5 symptom evaluation and the Brief Resiliency Scale (BRS). Subjects were grouped into low (n=56,) average (n= 280), and high (n=122) resiliency groups according to the BRS. ANOVA was conducted to compare initial concussion symptoms across resiliency groups.
+
+
+Results
+Subjects with low resiliency reported a greater number of symptoms (M=12.96, SD=6.79) than those with high resiliency (M=9.47, SD=6.52; p<.005) and a higher level of symptoms (M=34.73, SD=25.90 vs M=25.11 SD=24.72; p<.02). Subjects with low resiliency also reported higher levels of emotional symptoms (Irritability, Sadness, Nervousness, and Feeling More Emotional) than those with average and high resiliency.
+
+
+Conclusion
+Our findings suggest that low resiliency may be associated with greater symptoms following SRC. For emotional symptoms, resiliency level (low, average, high) showed a linear relationship with symptom level. However, the potential relationship between resiliency and recovery or persistence of symptoms over time remains a question.

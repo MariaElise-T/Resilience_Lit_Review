@@ -1,0 +1,8 @@
+Summary
+
+Two of the most common consequences resulting from land use and climate change are increased fine sediment loads and shifts in hydrological regimes in freshwater ecosystems.
+Although a growing number of studies indicate that these stressors are likely to directly affect community composition and organism physiology, little is known about how biological structures produced by aquatic organisms might respond. For example, hydropsychid caddisflies (Trichoptera) are a group of globally distributed aquatic insects that spin silk mesh nets that they use to filter feed. These silk mesh nets are important ecosystem engineering structures in flowing waters that can regulate sediment erosion, food particle delivery by altering near‐bed current velocities, and enhance habitat availability for other macroinvertebrates.
+We conducted two experiments in laboratory mesocosms to assess the effects of increased fine sediment and drought on hydropsychid caddisfly silk. We compared silk thread diameter, thread count, mesh pore area, and thread tensile strength across treatments in which the silk nets were exposed to high levels of total suspended solids or to stream drying over 2 weeks.
+We found that caddisfly silk was resilient to both forms of stress and maintained its overall structure and tensile strength.
+Our findings indicate that biological silk structures may be viable ecosystem engineering tools following short‐lived disturbances associated with increased sediment loads and drying events. Caddisfly silk may be resilient to various forms of environmental change, with important consequences for recovery of aquatic communities.
+

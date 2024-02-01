@@ -1,0 +1,12 @@
+Abstract
+Background
+The ongoing digitalization poses new challenges for schools concerning students’ digital skills. In this context, the International Computer and Information Literacy Study (IEA-ICILS 2018) has identified substantial social disparities concerning computer and information literacy of grade 8 students. Furthermore, it has been observed that many schools, especially those located in socioeconomically challenged areas, are particularly engaged in supporting students’ digital literacy and innovatively designing learning processes with information and communications technology (ICT). Empirical studies have made it apparent that some schools have high average achievements concerning domains such as reading literacy and mathematics in spite of socioeconomically challenged student bodies. These schools are regarded as being organizationally resilient. This contribution focusses on these organizationally resilient schools with regard to the domain of computer and information literacy. It aims to investigate how these schools can be classified as a typology according to selected school and/or teacher characteristics.
+
+Methods
+As a first step, representative samples of IEA-ICILS 2018 are used to identify organizationally resilient schools by using students’ achievement measures (plausible values) and their background information regarding their families’ socio-economic status. In order to develop a typology, latent profile analyses (LPA) are conducted by using input and process indicators on the school level, which have been proven to be relevant for implementation through existing empirical research.
+
+Results
+About one twentieth of the schools examined in this contribution can be regarded as organizationally resilient and can be allocated onto a typology of three school types that are characterized by different school-level factors.
+
+Conclusions
+The international comparison permits the conclusion that the phenomenon of organizational resilience is also existent with regard to the content domain of computer and information literacy. However, the proportion of resilient schools is subject to considerable variation between countries.

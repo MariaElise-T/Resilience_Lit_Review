@@ -1,0 +1,7 @@
+Summary
+
+Global climate change can increase the mean and variability of temperature and may increase the occurrence of extremes such as heatwaves. Both gradual and abrupt warming may perturb freshwater communities, but understanding of ecological resilience to such events is limited.
+We report the response of mollusc communities in the River Saone and its two main tributaries to the European heatwave of 2003 and determine the extent of community recovery over 8 years following this rare extreme event, during a period of gradual warming.
+The 2003 heatwave had a major impact on the density and species richness of mollusc communities across the study area. After the heatwave, abiotic conditions favoured recolonisation by molluscs, yet full recovery of community states (defined as the combination of structure × density × species richness) was not observed at any site.
+Given the profound changes observed in the mollusc community structure in the Saone River and in its two main tributaries and the observed slow pace of recovery relative to that observed elsewhere for pulse disturbances (typically < 3 years), we suggest that global change, including warming, may preclude community recovery from pulse disturbances, such as extreme events, and instead yield communities comprising new combinations of species.
+

@@ -1,0 +1,12 @@
+Abstract
+Background
+During pregnancy, about 10 to 20% of women experience depressive symptoms. Subclinical depression increases the risk of peripartum depression, maternal neuro-endocrine dysregulations, and adverse birth and infant outcomes. Current treatments often comprise face-to-face psychological or pharmacological treatments that may be too intensive for women with subclinical depression leading to drop-out and moderate effectiveness. Therefore, easily accessible, resilience enhancing and less stigmatizing interventions are needed to prevent the development of clinical depression. This paper describes the protocol of a prospective cohort study with an embedded randomized controlled trial (RCT) that aims to improve mental resilience in a sample of pregnant women through a self-help program based on the principles of Acceptance and Commitment Therapy (ACT). Maternal and offspring correlates of the trajectories of peripartum depressive symptoms will also be studied.
+
+Methods
+Pregnant women (≥ 18 years) receiving care in Dutch midwifery practices will participate in a prospective cohort study (n ~ 3500). Between 12 and 18 weeks of pregnancy, all women will be screened for depression with the Edinburgh Postnatal Depression Scale (EPDS). Women with an EPDS score ≥ 11 will be evaluated with a structured clinical interview. Participants with subclinical depression (n = 290) will be randomized to a 9-week guided self-help ACT-training or to care as usual (CAU). Primary outcomes (depressive symptoms and resilience) and secondary outcomes (e.g. anxiety and PTSD, bonding, infant development) will be collected via online questionnaires at four prospective assessments around 20 weeks and 30 weeks gestation and at 6 weeks and 4 months postpartum. Maternal hair cortisol concentrations will be assessed in a subsample of women with a range of depressive symptoms (n = 300). The intervention’s feasibility will be assessed through qualitative interviews in a subsample of participants (n = 20).
+
+Discussion
+This is the first study to assess the effectiveness of an easy to administer intervention strategy to prevent adverse mental health effects through enhancing resilience in pregnant women with antepartum depressive symptomatology. This longitudinal study will provide insights into trajectories of peripartum depressive symptoms in relation to resilience, maternal cortisol, psychological outcomes, and infant developmental milestones.
+
+Trial registration
+Netherlands Trial Register (NTR), NL7499. Registered 5 February 2019.

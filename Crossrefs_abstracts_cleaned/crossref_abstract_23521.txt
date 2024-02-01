@@ -1,0 +1,16 @@
+ABSTRACT
+
+Purpose
+In this study, we tested the effectiveness of a multicomponent sports-based program aimed at promoting early intervention, help seeking, and resilience among a sample of adolescent male sport participants.
+
+
+Methods
+The Ahead of the Game program comprised four intervention components and a messaging campaign. Two components targeted mental health literacy, intentions to seek and provide help, and resilience among adolescent boys. A mental health literacy program for parents and a coach education program to assist in the support of athletes’ psychological needs were also included. We evaluated the program using a nonrandomized controlled trial matching two regional communities. In total, 350 sport participants (mean, 14.53 yr) were included in an intervention group, whereas 466 (mean, 14.66 yr) received usual practice in a matched control community. One hundred and eighty parents or caregivers and eight coaches also participated in the intervention components. Between-group mean differences on the primary and secondary outcomes were analyzed using linear mixed models, adjusted for clustering at club level, participant age, and socioeconomic status.
+
+
+Results
+Significant positive group–time interactions were found for the primary outcomes of depression and anxiety literacy, intentions to seek help from formal sources, confidence to seek mental health information, and resilience. We also found a significant positive group–time interaction for the secondary outcome of well-being. There were no group–time interactions for social distance (stigma), intentions to seek help from informal sources, implicit beliefs about adversity, perceived familial support, or psychological distress.
+
+
+Conclusions
+Given the high rates of sport participation worldwide and the increasing focus on mental health in this domain, translation and dissemination of the program may be warranted after replication.

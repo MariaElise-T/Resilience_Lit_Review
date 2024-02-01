@@ -1,0 +1,19 @@
+
+Purpose
+Organizations of all types desire to be imbued with resilience, or the ability to withstand and bounce back from difficult events (Richardson, 2002; Walsh 2003). But resilience does not play the same role in every organization. Previous research (Weick and Sutcliffe, 2011) has argued that organizations can be more or less resilient. For high reliability organizations (HROs) such as fire crews and emergency medical units, resilience is a defining feature. Due to the life-or-death nature of their work, the ability to be successful in the face of difficult events is imperative to the process of HROs. The paper aims to discuss these issues.
+
+
+Design/methodology/approach
+This is a theory piece.
+
+
+Findings
+The authors put forth a dual-spectrum model that introduces adaptive and anchored approaches to organizational resilience.
+
+
+Research limitations/implications
+There are organizations for which resilience is only enacted when the organization must overcome difficult events. And at the other end are organizations that may not enact resilience in difficult times, and therefore fail or deteriorate. But while it has been shown that organizations can be more or less resilient, there has been little attention paid to how organizations may have differing types of resilience.
+
+
+Originality/value
+In this piece, the authors theorize that resilience may differ in type between organizations. Drawing on theoretical approaches to resilience from communication (Buzzanell, 2010), organizational behavior (Weick and Sutcliffe, 2011), and motivational psychology (Dweck, 2016), the authors introduce a model that views resilience as a dynamic construct in organizations. The authors argue that an organization’s resilience-centered actions affect – and are determined by – its approach to Buzzanell’s (2010) five communicative processes of resilience. The authors offer testable propositions, as well as theoretical and practical implications from this model, not only for HROs, but for all organizations.

@@ -1,0 +1,19 @@
+
+Background
+The majority of resilience interventions focus on the individual. Workplace resilience is a growing field of research. Given the ever-increasing interconnectedness in businesses, teamwork is a guarantee. There is also growing recognition that resilience functions at the team level.
+
+
+Objective
+The objective of our work was to address three shortcomings in the study of workplace resilience interventions: lack of interventions focusing on group-level or team resilience, the need for brief interventions, and the need for more theoretical precision in intervention studies.
+
+
+Methods
+The authors took an established evidence-based program (Team Resilience) and modified it based on these needs. A working model for brief intervention evaluation distinguishes outcomes that are proximal (perceptions that the program improved resilience) and distal (dispositional resilience). A total of 7 hypotheses tested the model and program efficacy.
+
+
+Results
+Two samples (n=118 and n=181) of engineering firms received the Web-based training and provided immediate reactions in a posttest-only design. The second sample also included a control condition (n=201). The findings support the model and program efficacy. For example, workplace resilience was greater in the intervention group than in the control group. Other findings suggest social dissemination effects, equal outcomes for employees at different stress levels, and greater benefit for females.
+
+
+Conclusions
+This preliminary research provides evidence for the capabilities of e-learning modules to effectively promote workplace resilience and a working model of team resilience.

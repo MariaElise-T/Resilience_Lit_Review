@@ -1,0 +1,18 @@
+Summary
+
+
+Functional redundancy contributes to resilience if different species in the same functional group respond to disturbance in different ways (response diversity). If species in a functional group perform their functional role at different spatial scales (cross‐scale redundancy), they are expected to respond differently to scale‐specific disturbance. Consequently, variance in the spatial scales over which species perform their functional role may provide a proxy for resilience.
+
+
+Coral reefs are diverse systems that provide key ecosystem services and are subject to increasing anthropogenic disturbances. Algal grazing by herbivorous fish contributes to the maintenance of coral‐dominated reefs. To date, there has been little evaluation of the traits driving response diversity among herbivorous fish and how this relates to coral recovery following acute disturbances.
+
+
+Using body size as a proxy for the spatial scale at which fish function, we tested whether cross‐scale redundancy in herbivores was an effective indicator of response diversity and coral recovery on 21 reefs monitored through a climate‐induced disturbance that caused coral bleaching and widespread coral mortality.
+
+
+When herbivorous fish assemblages that operated over a broader range of spatial scales were present on reefs prior to disturbance, the reefs were more likely to recover to coral‐dominated states after the disturbance. After the temperature‐induced disturbance, the loss of small herbivores was compensated for through increases in large herbivores. This was indicative of high response diversity and drove the overall increase in herbivore biomass at recovering sites. These compensatory mechanisms were not found at sites where herbivores operated over a narrower range of spatial scales.
+
+
+Synthesis and applications. Cross‐scale redundancy provides managers with an indicator of coral reef resilience, although the contribution of cross‐scale redundancy to resilience will vary among sites. Maintaining high cross‐scale redundancy at a given site requires that no size classes of reef herbivores are disproportionately depleted by fishing. Balanced harvesting, where species are all fished in proportion to their potential production, would help achieve this.
+
+

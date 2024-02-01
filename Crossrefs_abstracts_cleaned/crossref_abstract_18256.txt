@@ -1,0 +1,12 @@
+Abstract
+Background
+We aimed to examine symptom load in a clinical adolescent population at three-year follow-up and explore associations with standard care treatment procedures and resilience factors upon first presenting at Child and Adolescent Mental Health Services.
+
+Methods
+This study is part of a prospective longitudinal cohort study: The Health Survey in Department of Children and Youth, St. Olavs hospital, Norway. A clinical population of 717 (43.5% of eligible) adolescents aged 13–18 years participated in the first study visit (T1, 2009–2011). Of these, 447 adolescents with psychiatric disorders, with treatment history from medical records and self-reported resilience factors (Resilience Scale for Adolescents; READ) at T1, reported symptom load (Achenbach System of Empirically Based Assessment - Youth Self Report; YSR) three years later aged 16–21 years (T2).
+
+Result
+At T1, 93.0% received individual treatment. The frequency of psychotherapy and medication varied by disorder group and between genders. Overall, psychotherapy was more frequent among girls, whereas medication was more common among boys. Total READ mean value (overall 3.5, SD 0.8), ranged from patients with mood disorders (3.0, SD 0.7) to patients with Attention Deficit Hyperactivity disorder (3.7, SD 0.7), and was lower for girls than boys in all diagnostic groups. At T2, the YSR Total Problem mean T-score ranged across the diagnostic groups (48.7, SD 24.0 to 62.7, SD 30.2), with highest symptom scores for those with mood disorders at T1, of whom 48.6% had T-scores in the borderline/clinical range (≥60) three years later. Number of psychotherapy sessions was positively associated and Total READ score was negatively associated with the YSR Total Problems T-score (regression coefficient β = 0.5, CI (0.3 to 0.7), p < 0.001 and β = − 15.7, CI (− 19.2 to − 12.1), p < 0.001, respectively). The subscale Personal Competence was associated with the lowest Total Problem score for both genders.
+
+Conclusions
+Self-reported symptom load was substantial after three years, despite comprehensive treatment procedures. Higher self-reported resilience characteristics were associated with lower symptom load after three years. These results highlight the burden of adolescent psychiatric disorders, the need for extensive interventions and the importance of resilience factors for a positive outcome.

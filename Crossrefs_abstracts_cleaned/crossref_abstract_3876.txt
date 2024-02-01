@@ -1,0 +1,19 @@
+
+Purpose
+Due to the recent increase in unexpected events that negatively affect projects, the concept of resilience has grasped the attention of researchers, as risk management alone fails to address unpredicted events. This study aims to identify resilience dimensions and their designated factors and then construct a comprehensive definition for resilience in construction projects.
+
+
+Design/methodology/approach
+This paper adopted a qualitative research design through content analysis of semi-structured interviews with project engineers on behalf of their construction project; 26 interviews were analyzed via ATLAS.ti.
+
+
+Findings
+The results demonstrate that resilience in construction projects consists of four main dimensions: preparation, absorption, recovery and adaptation; each dimension comprises separate factors. The evidence from this study demonstrates that the resilience of the organization, project team and project manager supports the construction project when facing unpredicted or abnormal conditions.
+
+
+Practical implications
+The results of this paper will help construction project managers to enhance the resilience of their projects by providing different resilience factors.
+
+
+Originality/value
+The resilience concept in projects is novel and has limited knowledge available, especially in construction projects therefore, it requires additional comprehensive discussion and validation. The findings of this paper will serve as a cornerstone for the development of the resilience field and enrich the indigent literature on resilience in the construction industry.

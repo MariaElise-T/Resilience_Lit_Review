@@ -1,0 +1,13 @@
+Abstract
+Background
+The Covid-19 pandemic introduced a global crisis for the healthcare systems. Research has paid particular attention to hospitals and intensive care units. However, nursing homes and home care services in charge of a highly vulnerable group of patients have also been forced to adapt and transform to ensure the safety of patients and staff; yet they have not received enough research attention. This paper aims to explore how leaders in nursing homes and home care services used innovative solutions to handle the Covid-19 pandemic to ensure resilient performance during times of disruption and major challenges.
+
+Methods
+A qualitative exploratory case study was used to understand the research question. The selected case was a large city municipality in Norway. This specific municipality was heavily affected by the Covid-19 pandemic; therefore, information from this municipality allowed us to gather rich information. Data were collected from documents, semi-structured interviews, and a survey. At the first interview phase, informants included 13 leaders, Head of nursing home (1 participant), Head of Sec. (4 participants), Quality manager (4 participants), Head of nursing home ward (3 participants), and a Professional development nurse (1 participant), at 13 different nursing homes and home care services.
+At the second phase, an online survey was distributed at 16 different nursing homes and home care services to expand our understanding of the phenomenon from other leaders within the case municipality. Twenty-two leaders responded to the survey. The full dataset was analysed in accordance with inductive thematic analysis methodology.
+
+Results
+The empirical results from the analysis provide a new understanding of how nursing homes and home care leaders used innovative solutions to maintain appropriate care for infected and non-infected patients at their sites. The results showed that innovative solutions could be separated into technology for communication and remote care, practice innovations, service innovations, and physical innovations.
+
+Conclusion
+This study offers a new understanding of the influence of crisis-driven innovation for resilience in healthcare during the Covid-19 pandemic. Nursing home and home care leaders implemented several innovative solutions to ensure resilient performance during the first 6–9 months of the pandemic. In terms of resilience, different innovative solutions can be divided based on their influence into situational, structural, and systemic resilience. A framework for bridging innovative solutions and their influence on resilience in healthcare is outlined in the paper.

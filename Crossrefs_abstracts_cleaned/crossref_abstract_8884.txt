@@ -1,0 +1,18 @@
+Abstract
+Aims
+This study aimed to evaluate the correlation between parental attachment, resilience, postpartum traumatic stress disorder (PTSD), and maternal-infant bonding at 1 to 3 months postpartum. The mediation effect of resilience and PTSD on the postpartum parental attachment and maternal-infant bond was also evaluated.
+
+Design
+A cross-sectional research design was used.
+
+Methods
+A total of 400 postpartum women examined at a tertiary hospital in Wuhan from January 2021 to June 2021 were enrolled in the study. At about 1 to 3 months after giving birth, the women were asked to complete the Postpartum Bonding Questionnaire (PBQ), Connor-Davidson Resilience scale(CD-RISC), PTSD CheckList-Civilian version (PCL-C), and the Parental Bonding Instrument (PBI). The data were summarized using descriptive statistics. Mediation analyse and the Spearman correlation (r) were used to correlate the resilience and PTSD questionnaire scores.
+
+Results
+The care attachment dimension was significantly associated with resilience (r = 0.24, p < 0.01), PTSD (r = − 0.27, p < 0.01), and maternal-infant bonding (r = 0.10, p < 0.01), and the overprotection attachment dimension was significantly associated with resilience (r = − 0.11, p < 0.01), PTSD (r = 0.33, p < 0.01), and maternal-infant bonding (r = 0.16, p < 0.01). Resilience and PTSD can mediate the relationship between attachment and maternal-infant bonding.
+
+Conclusion
+Parental attachment, resilience, and PTSD significantly affect maternal-infant bonding at 1 to 3 months postpartum.
+
+Impact
+This study demonstrated that new interventions aimed at addressing PTSD symptoms and improving resilience might increase parental attachment and maternal-infant bonding after birth. However, further research is required to evaluate the success of these interventions.

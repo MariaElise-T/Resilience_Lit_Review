@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Epidemiological studies over the past decades have repeatedly implicated maternal immune activation (MIA) in the etiology of psychiatric illnesses, including schizophrenia and related psychotic disorders. Not all offspring exposed to MIA, however, develop overt pathologies, suggesting that some are susceptible while others are resilient to MIA. To elucidate susceptibility and resilience in MIA, we used a mouse model that is based on prenatal exposure to the viral mimic poly(I:C).
+
+
+Methods
+Poly(I:C)-based MIA was induced in C57BL6/N mice on gestation day 12. Control dams received vehicle solution only. Offspring of poly(I:C)- or vehicle-exposed dams were subjected to a comprehensive behavioral testing battery when they reached adulthood (12 weeks of age onwards). Next-generation mRNA sequencing and gene pathway analyses were conducted after behavioral testing to explore the molecular correlates of resilience and susceptibility to MIA.
+
+
+Results
+Behavioral characterization coupled with unbiased TwoStep cluster analysis of a large number offspring (N &gt;150) revealed that offspring exposed to MIA could be stratified into susceptible and resilient subgroups. While the former was characterized by deficits in social interaction, sensorimotor gating, and working memory, the behavioral profile of the latter was indistinguishable from control offspring. Susceptible and resilient MIA offspring were also dissociable by the presence of distinct molecular profiles in cortical and subcortical brain areas. In the medial prefrontal cortex, susceptible MIA offspring displayed a more profound deregulation of genes relevant for oxidative phosphorylation and mitochondrial functions than resilient MIA offspring. In the amygdala, the susceptible and resilient offspring differed in gene transcription pertinent to opioid signaling, DARPP-32 signaling, and G protein-coupled receptor signaling.
+
+
+Discussion
+Our data show that MIA can result in substantial phenotypic and transcriptomic variability even in the context of genetic homogeneity and under identical experimental conditions. If extended further, our model system may help to explain why only a subgroup of offspring exposed to MIA develops overt neurodevelopmental sequelae.

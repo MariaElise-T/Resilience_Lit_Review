@@ -1,0 +1,2 @@
+Abstract
+The aim of this umbrella review is to synthesize the available techniques and measures in measuring resilience of infrastructures, communities, urban areas, and organizations.

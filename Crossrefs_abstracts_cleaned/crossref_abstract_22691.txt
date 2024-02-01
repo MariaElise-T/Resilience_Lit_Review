@@ -1,0 +1,12 @@
+Abstract
+Introduction
+The study aimed to assess resilience and its associated factors in head and neck cancer patients, post-treatment in a low middle income country (LMIC) such as Pakistan.
+
+Methods
+An analytical cross-sectional study was conducted from November 2019 to May 2020 among head and neck cancer patients aged at least 18 years at the largest private tertiary care hospital, in Karachi, Pakistan. Information regarding their resilience scores was collected through Wagnild and Young’s Resilience scale that comprises of 14 items (RS-14). Moreover, depression and anxiety were also assessed via Hospital Anxiety and Depression Scale (HADS) and social support was assessed by Enriched Social Support Instrument (ESSI).
+
+Results
+The data was analyzed by linear regression modeling. Unadjusted and adjusted beta coefficients with 95% CI were reported. A total of 250 head and neck cancer patients were recruited, 79% of them were males. Mean age of the patients was 51.59 years with 93% having high social support and only 8% having severe depression and 3% having severe anxiety. After adjusting for the covariates in multivariable analysis resilience was associated with severe depression (− 17[− 20.98,-12.93]) or borderline depression (− 4[− 8.41,-0.39]), severe anxiety (− 11 [− 17.88,-4.18]), low social support (− 6[− 9.62,-1.71]), having family members of > 6 in the household (− 2[− 4.31,-0.29), smokeless tobacco users post- treatment (10[5.79, 14.45]), and those who underwent tracheotomy (− 4[− 7.67,-0.21]). There was a significant interaction between education and role in the family (decision maker).
+
+Conclusion
+In Pakistan, a South Asian LMIC, collectivist culture prevails, family ties are greatly promoted thus resilience and social support is highly prevalent in head and neck cancer patients resulting in lower prevalence of depression and anxiety. Our study highlights that higher resilience is prevalent among small families less than six members, as the welfare of the individual is prioritized over multiple needs of the family. Formal Education and role in household/decision making power are effect modifiers in our study, demonstrating its protective effect on the mental health of head and neck cancer patients. High resilience scores were reported among current smokeless tobacco users as compared to quitters post treatment. Resilience-building interventions should be formulated to aid head and neck cancer patients to cope with the disease and its sequel.

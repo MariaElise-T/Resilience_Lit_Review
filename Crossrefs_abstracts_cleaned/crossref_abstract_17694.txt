@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to analyze the relationships between leader resilience, leadership style, stress and life satisfaction. It reflects an emerging theoretical framework that positions resilience as a capacity that can be developed vs a response mechanism driven by innate traits.
+
+
+Design/methodology/approach
+To test three research hypotheses, online survey data were collected from 101 E.M.B.A. alumni of a US-based university using a cross-sectional, correlational research design. The results were analyzed using multiple linear regression. The authors assessed resilience, leadership style, stress and satisfaction/well-being using standardized inventories.
+
+
+Findings
+The results support previous research that has identified a significant relationship between resilience and positive leadership. Unique to this study, however, is the finding that work process behaviors (e.g. time management, cooperation, receptiveness) rather than traits (e.g. optimism, self-esteem, locus of control) are the resilience factors most associated with a positive leadership style. Work process skills significantly interacted with stress level to moderate leadership style. Additionally, a positive leadership style moderated the impact of stressful life events on leader satisfaction/well-being.
+
+
+Research limitations/implications
+Key limitations are sample size and the risk of common method variance. Though numerous procedural steps were taken to control for these issues, future research with a larger and more diverse sample is needed.
+
+
+Practical implications
+Organizational stress is pervasive, and resilience is increasingly recognized as a foundational leadership skill. This study provides empirical data documenting positive relationships between resilience, constructive leadership and leader satisfaction/well-being. This research also identifies work process behaviors (e.g. time management, cooperation and receptiveness) as the primary resiliency factors associated with sustaining positive leadership behaviors in times of stress. These results support previous research findings that have positioned resiliency as a capacity that can be developed, providing further support for investing in resiliency training for leaders.
+
+
+Originality/value
+This research contributes to the literature by analyzing resilience more comprehensively than previous studies. It extends the theoretical understanding of resilience beyond traits using an 160-item inventory that assesses four discrete domains of resilience. The results provide support for the importance of developing process skills in leaders to increase resiliency; thus, increasing the probability, they will model constructive leadership behaviors in times of significant stress.

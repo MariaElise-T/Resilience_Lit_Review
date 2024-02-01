@@ -1,0 +1,21 @@
+
+Purpose:
+Hearing loss (HL) is prevalent and relates to social health in old age. This study aims to examine the association between functional HL and social well-being (SWB) in older adults and to investigate whether psychological resilience mediates this association.
+
+
+Method:
+The analytical sample of 4,531 older adults aged ≥ 60 years was from the Sample Survey on Vulnerable Populations from Poor Families in Urban/Rural China (2018). SWB was measured by social networks and social engagement using the Lubben Social Network Scale and Index of Social Engagement Scale, respectively. Functional hearing impairment was defined by a dichotomized measure of self-perceived hearing difficulty. Psychological resilience was assessed by a 25-item Connor-Davidson Resilience Scale. Structural equation modeling was performed to determine associations of HL with SWB and the mediating roles of psychological resilience.
+
+
+Results:
+Functional HL was associated with reduced SWB among older adults living in low-income households. Hearing-impaired individuals were more likely to be socially isolated and less socially engaged compared to those with normal hearing. The association persisted in gender subsamples and in non–low-income households but not in older adults aged ≥ 70 years. Psychological resilience partially mediated the association of hearing impairment with SWB, accounting for 50.9% of the variance in the change of SWB.
+
+
+Conclusions:
+Functional hearing impairment may be a modifiable risk factor for social restrictions and downstream older adults' health. Promotion of hearing health care and accessibility to coping resources including psychological support may improve social wellness among the older adults and benefit healthy aging.
+
+
+Supplemental Material:
+
+https://doi.org/10.23641/asha.22750736
+

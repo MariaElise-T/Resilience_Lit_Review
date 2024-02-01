@@ -1,0 +1,12 @@
+Abstract
+Introduction
+This study aimed to investigate sexual orientation disclosure and mental health among young men who have sex with men (YMSMs). To this end, we constructed a chained multimediator model of sexual minority stigma, sexual minority identity, social support, and resilience, with the moderator of sexual orientation disclosure.
+
+Methods
+We conducted a cross-sectional survey of 345 YMSMs in Nanning, China. Bivariate analysis was used to evaluate factors associated with sexual orientation disclosure. Sexual minority stigma was used to predict identity, with social support as the step 1 mediator and resilience as the step 2 mediator. Sexual minority identity was analyzed using a chained moderated mediation model; sexual orientation disclosure was included as a moderator in all models to control its confounding effect.
+
+Results
+The average age of YMSMs was 20.0 ± 1.3 years. Bivariate analysis indicated that YMSMs who disclosed sexual orientation may have experienced less stigma (15.49 ± 3.02 vs 16.21 ± 2.74), obtained more social support (65.98 ± 11.18 vs 63.19 ± 11.13), had strong psychological resilience (37.40 ± 8.57 vs 35.39 ± 7.73), and had a more positive self-identity (104.12 ± 21.10 vs 95.35 ± 16.67); differences between subgroups were statistically significant (p < 0.05). Sexual minority stigma, perceived stigma, and enacted stigma were significantly associated with social support and resilience. The association between sexual minority stigma and sexual minority identity was significantly mediated by social support (indirect effect [95% CI] =  − 3.307 [− 4.782, − 1.907]). Resilience significantly mediated the same association for identity (− 2.544 [− 4.052, − 1.114]). The chained relationship from sexual minority stigma to social support, resilience, and identity was also significant, with an indirect effect of − 0.404 [− 0.621, − 0.249].
+
+Conclusion
+Among YMSMs in China, sexual minority stigma affects sexual minority identity through social support and resilience. Given the psychological effects of stigma, social support and resilience must be considered to better promote positive self-identity and mental health among YMSMs.

@@ -1,0 +1,19 @@
+
+Objective
+To identify the predictors of suicide for firefighters (FFs), emergency medical technicians (EMTs), and law enforcement officers (LEOs).
+
+
+Methods
+We used baseline data from FFs/EMTs (n = 69) and LEOs (n = 81) to investigate the unique predictors for both first-responder subtypes. We conducted confirmatory factor analysis on validated assessments of posttraumatic stress disorder (PTSD) and depression. Measures of attachment, resilience, PTSD, depression, generalized anxiety, trauma history, and substance use were the independent variables in two backward stepwise regressions predicting suicide.
+
+
+Results
+Substance use and somatic depression were significant predictors for LEOs, whereas affective depression, anhedonia, externalizing behaviors, trauma history, and generalized anxiety were significant predictors for FFs/EMTs.
+
+
+Limitations
+These data are cross-sectional and should be modeled longitudinally over the course of treatment.
+
+
+Conclusion
+Separate constructs influence suicide for LEOs and FFs/EMTs.

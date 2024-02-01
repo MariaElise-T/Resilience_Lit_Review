@@ -1,0 +1,12 @@
+Abstract
+Objective
+Develop and validate a resiliency score to predict survival and survival without neonatal morbidity in preterm neonates <32 weeks of gestation using machine learning.
+
+Study design
+Models using maternal, perinatal, and neonatal variables were developed using LASSO method in a population based Californian administrative dataset. Outcomes were survival and survival without severe neonatal morbidity. Discrimination was assessed in the derivation and an external dataset from a tertiary care center.
+
+Results
+Discrimination in the internal validation dataset was excellent with a c-statistic of 0.895 (95% CI 0.882–0.908) for survival and 0.867 (95% CI 0.857–0.877) for survival without severe neonatal morbidity, respectively. Discrimination remained high in the external validation dataset (c-statistic 0.817, CI 0.741–0.893 and 0.804, CI 0.770–0.837, respectively).
+
+Conclusion
+Our successfully predicts survival and survival without major morbidity in preterm babies born at <32 weeks. This score can be used to adjust for multiple variables across administrative datasets.

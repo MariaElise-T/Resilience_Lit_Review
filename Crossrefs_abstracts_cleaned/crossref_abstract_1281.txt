@@ -1,0 +1,23 @@
+
+Purpose
+This paper aims to present a novel approach for assessing the resilience of transportation road infrastructure against different failure scenarios based on the topological properties of the network. The approach is implemented in the context of developing countries where data scarcity is the norm, taking the capital city of Beirut as a case study.
+
+
+Design/methodology/approach
+The approach is based on the graph theory concepts and uses spatial data and urban network analysis toolbox to estimate the resilience under random and rank-ordering failure scenarios. The quantitative approach is applied to statistically model the topological graph properties, centralities and appropriate resilience metrics.
+
+
+Findings
+The research approach is able to provide a unique insight into the network configuration in terms of resilience against failures. The road network of Beirut, with an average nodal degree of three, turns to act more similarly to a random graph when exposed to failures. Topological parameters, connectivity and density indices of the network decline through disruptions while revealing an entire dependence on the state of nodes. The Beirut random network responds similarly to random and targeted removals. Critical network components are highlighted following the approach.
+
+
+Research limitations/implications
+The approach is limited to an undirected and weighted specific graph of Beirut where the capacity to collect and process the necessary data in such context is limited.
+
+
+Practical implications
+Decision-makers are better able to direct and optimize resources by prioritizing the critical network components, therefore reducing the failure-induced downtime in the functionality.
+
+
+Originality/value
+The resilience of Beirut transportation network is quantified uniquely through graph theory under various node removal modes.

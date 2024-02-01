@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Mental health, particularly among young adults, has been severely affected during the COVID-19 pandemic, partially because of both forced social isolation measures and loneliness. Numerous papers on the short-term consequences of lockdown measures reported high psychological distress, as well as an increase of depressive and anxiety symptoms and psychotropic drug use. This study evaluated potential risk and protective factors, such as resilience, loneliness, social and family context, in order to detect vulnerable individuals.
+
+
+Methods
+This prospective longitudinal study was carried out in a two-phase survey: the first one, during lockdown in Spring 2020 (T1), and, the second one, in Summer 2020 (T2), when restrictive measures were slackened. The main outcomes included the Resilience Scale for Adults (RSA) and the University of California Los Angeles (UCLA) Loneliness Scale. The secondary outcomes included mental health care needs (MHCN), use of psychotropic drugs and family and social contacts.
+
+
+Results
+This study evaluated risks and protective factors in mental health in 825 emerging adults aged from 18 to 25 years old in Belgium and in Italy. Participants were divided into three groups according to their MHCN before and after lockdown measures. 5% of the participants experienced an increase in MHCN at T1, including the start of a psychotropic treatment. At T1, statistically significant differences were found in mean RSA total scores and RSA Perception of Self scores between groups. At T2, the group who experienced an increase in MHCN displayed a significant decrease of mean loneliness scores compared with the other groups. This decrease is linearly correlated with resilience competencies.
+
+
+Conclusions
+The COVID-19 pandemic and its associated restrictive measures cause a negative impact on youth's mental health, particularly among vulnerable individuals. Resilience and social contacts are protective factors that need to be taken into account.

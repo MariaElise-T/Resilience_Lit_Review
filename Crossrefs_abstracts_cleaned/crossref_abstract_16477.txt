@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+Core surgical training programmes are associated with a high risk of burnout. This study aimed to assess the influence of a novel enhanced stress-resilience training (ESRT) course delivered at the start of core surgical training in a single UK statutory education body.
+
+
+Method
+All newly appointed core surgical trainees (CSTs) were invited to participate in a 5-week ESRT course teaching mindfulness-based exercises to develop tools to deal with stress at work and burnout. The primary aim was to assess the feasibility of this course; secondary outcomes were to assess degree of burnout measured using Maslach Burnout Inventory (MBI) scoring.
+
+
+Results
+Of 43 boot camp attendees, 38 trainees completed questionnaires, with 24 choosing to participate in ESRT (63.2 per cent; male 13, female 11, median age 28 years). Qualitative data reflected challenges delivering ESRT because of arduous and inflexible clinical on-call rotas, time pressures related to academic curriculum demands and the concurrent COVID-19 pandemic (10 of 24 drop-out). Despite these challenges, 22 (91.7 per cent) considered the course valuable and there was unanimous support for programme development. Of the 14 trainees who completed the ESRT course, nine (64.3 per cent) continued to use the techniques in daily clinical work. Burnout was identified in 23 trainees (60.5 per cent) with no evident difference in baseline MBI scores between participants (median 4 (range 0–11) versus 5 (1–11), P = 0.770). High stress states were significantly less likely, and mindfulness significantly higher in the intervention group (P &lt; 0.010); MBI scores were comparable before and after ESRT in the intervention cohort (P = 0.630, median 4 (range 0–11) versus 4 (1–10)).
+
+
+Discussion
+Despite arduous emergency COVID rotas ESRT was feasible and, combined with protected time for trainees to engage, deserves further research to determine medium-term efficacy.

@@ -1,0 +1,15 @@
+
+Purpose
+While the usage of digital technology can bring many operational improvements for firms, it is unclear whether it can effectively improve firm resilience to deal with supply chain disruptions caused by emergencies such as COVID-19. From a dynamic capability perspective, this study aims to investigate how digital technology usage can improve firm resilience in a rapidly changing and turbulent environment.
+
+
+Design/methodology/approach
+Based on the survey sample of 237 Chinese firms, the stepwise regression approach was used to examine the proposed research hypotheses.
+
+
+Findings
+The empirical evidence shows that digital technology usage has a U-shaped effect on firm resilience, and that effect is fully achieved by first affecting market acuity and then promoting resource reconfiguration. Moreover, the authors further found that the U-shaped association between digital technology usage and firm resilience is derived from the U-shaped association between digital technology usage and market acuity.
+
+
+Originality/value
+This study enriches the resilience literature by revealing the mechanism of digital technology usage’s effects rather than focusing on the role of specific digital technologies. This study also provides guidance for firms to develop effective digital technology usage strategies.

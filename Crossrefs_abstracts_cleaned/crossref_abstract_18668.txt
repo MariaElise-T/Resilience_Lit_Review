@@ -1,0 +1,15 @@
+Abstract
+Background
+During childhood and adolescence leading behavioural risk factors for the development of cardiometabolic diseases include poor diet quality and sedentary lifestyle. The aim of this study was to determine the feasibility and effect of a real-world group-based multidisciplinary intervention on cardiorespiratory fitness, diet quality and self-concept in sedentary children and adolescents aged 9 to 15 years.
+
+Methods
+Project GRIT (Growth, Resilience, Insights, Thrive) was a pilot single-arm intervention study. The 12-week intervention involved up to three outdoor High Intensity Interval Training (HIIT) running sessions per week, five healthy eating education or cooking demonstration sessions, and one mindful eating and Emotional Freedom Technique psychology session. Outcome measures at baseline and 12-week follow-up included maximal graded cardiorespiratory testing, the Australian Child and Adolescent Eating Survey, and Piers-Harris 2 children’s self-concept scale. Paired samples t-test or Wilcoxon signed-rank test were used to compare baseline and follow-up outcome measures in study completers only.
+
+Results
+Of the 38 recruited participants (median age 11.4 years, 53% male), 24 (63%) completed the 12-week intervention. Dropouts had significantly higher diet quality at baseline than completers. Completers attended a median 58 (IQR 55–75) % of the 33 exercise sessions, 60 (IQR 40–95) % of the dietary sessions, and 42% attended the psychology session. No serious adverse events were reported. Absolute VO2peak at 12 weeks changed by 96.2 ± 239.4 mL/min (p = 0.06). As a percentage contribution to energy intake, participants increased their intake of healthy core foods by 6.0 ± 11.1% (p = 0.02) and reduced median intake of confectionary (− 2.0 [IQR 0.0–3.0] %, p = 0.003) and baked products (− 1.0 [IQR 0.0–5.0] %, p = 0.02). Participants significantly improved self-concept with an increase in average T-Score for the total scale by 2.8 ± 5.3 (p = 0.02) and the ‘physical appearance and attributes’ domain scale by median 4.0 [IQR 0.5–4.0] (p = 0.02).
+
+Conclusions
+The 12-week group-based multidisciplinary lifestyle intervention for children and adolescents improved diet quality and self-concept in study completers. Future practice and research should focus on providing sustainable multidisciplinary lifestyle interventions for children and adolescents aiming to improve long-term health and wellbeing.
+
+Trial registration
+ANZCTR, ACTRN12618001249246. Registered 24 July 2019 - Retrospectively registered

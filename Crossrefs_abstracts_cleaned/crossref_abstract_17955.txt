@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+It is unclear how resilience, the ability to “bounce back” from a stressful experience, is associated with recovery following a sport-related concussion (SRC). The aim of this project is to assess how resilience is related to symptoms following SRC.
+
+
+Method
+Participants (N = 353) aged 12-25 were evaluated within 30 days of injury at clinics in the ConTex Concussion Registry. The Sport Concussion Assessment Tool-5 symptom evaluation, Brief Resilience Scale (BRS), General Anxiety Disorder-7 Item (GAD-7), and Patient Health Questionnaire-8 Item (PHQ-8) were administered at initial visit and at three-months. BRS scores were used to place subjects into low (n = 40), average (n = 214), and high (n = 99) resilience groups, with a 2 (time) by 3 (group) repeated measures ANOVA to compare symptom scales.
+
+
+Results
+At initial visit subjects with low resilience reported higher GAD-7 [F (2,308) = 3.95, p = .02; 95% C.I. 5.19, 7.64] and PHQ-8 [F (2,311) = 4.40, p = .01; 95% C.I. 4.76, 7.47] scores compared to average and high resilience samples and demonstrated significant interaction effects with time. Subjects with low resilience also endorsed more initial SCAT5 symptoms [F (2,350) = 3.69, p = .026, 95% C.I. 10.99, 14.18] but showed no interaction with time.
+
+
+Conclusion
+Findings suggest that resilience may influence mood (anxiety & depression) initially and during SRC recovery. Consideration of resilience as a pre-injury factor may be important in SRC research.

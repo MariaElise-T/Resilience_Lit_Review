@@ -1,0 +1,15 @@
+
+INTRODUCTION:
+Prenatal distress (ie, depression and anxiety) is associated with adverse maternal and infant outcomes. Importantly, emotional resilience has been found to protect women from mental health conditions. The goals of this research were to identify the prevalence of depression and anxiety and to examine relationships between emotional resilience and depression/anxiety in low socioeconomic (LSE) prenatal women during the COVID-19 pandemic.
+
+
+METHODS:
+The study adopted a cross-sectional design. We recruited 15 underserved Hispanic women who were aged 18-40 years and had a singleton pregnancy through WIC in California. The validated surveys were used to collect participants' demographics, mental health, and emotional resilience, including Patient Health Questionnaire (PHQ-8), Generalized Anxiety Disorder (GAD-7), Freiburg Mindfulness Inventory, and Coping Self-Efficacy. The Cronbach's alpha of these surveys ranged from 0.77 to 0.93. Descriptive statistics and partial correlations were conducted using SPSS.
+
+
+RESULTS:
+Maternal mean age was 26.8 (SD=3.73). Approximately one half of pregnant women (46.7%) had a Bachelor's degree or higher, 20% did not live with the baby's father, and 33.3% indicated having an at-risk pregnancy (e.g., anemia). Appropriately 13.3% of Hispanic pregnant women experienced prenatal depression and/or anxiety. After controlling for maternal education, higher mindfulness was significantly associated with a lower level of anxiety (r= −0.67, P=.009), and greater coping self-efficacy was significantly associated with a lower level of depression (r= −0.54, P=.049).
+
+
+CONCLUSION:
+It would be critical to improve pregnant women's mental health by increasing their ability to practice mindfulness and confidence to cope with distress.

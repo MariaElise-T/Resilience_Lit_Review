@@ -1,0 +1,19 @@
+
+Purpose
+This paper aims to investigate and provide an objective appraisal of the impact of the COVID-19 outbreak on Islamic and conventional financial institutions and Islamic windows in the Gulf Cooperation Council (GCC) countries.
+
+
+Design/methodology/approach
+The panel data techniques are conducted country-wise in each financial institution type: random-effect model, fixed-effect model and Hausman test.
+
+
+Findings
+The results of the first phase analysis that extends from 1 January 2020 to 30 October 2020 show that Islamic financial institutions are less exposed to the repercussions of the COVID-19 outbreak than the conventional and Islamic window financial institutions in Bahrain, Oman, Qatar, Saudi Arabia and UAE. Moreover, the Islamic financial institutions in Saudi Arabia and Oman have not been affected by the COVID-19 outbreak. The second phase analysis for the COVID-19 outbreak that extends from 1 November 2020 to 17 March 2021 confirms the disappearance of the negative impact of COVID-19 on Islamic financial institutions in Bahrain and Oman.
+
+
+Practical implications
+The findings present that Islamic banks are not as resilient in the COVID-19 pandemic as in the 2008 financial crisis. It can be suggested that regulatory authorities, financial institutions and other key policymakers in the GCC countries should focus on implementing regulatory reforms related to human capital, innovative products, research and development to further develop individuals, societies and institutions within the framework of Islamic ontology to be more resilient in such crises.
+
+
+Originality/value
+This paper provides a different perspective from existing literature on the pandemics and financial institutions by comparing the stock prices in Islamic and conventional financial institutions and Islamic windows in GCC countries during the COVID-19 pandemic. Therefore, this paper should be considered as a contribution to filling a gap in the literature.

@@ -1,0 +1,19 @@
+
+Purpose
+In recent years, determining the effective and suitable supplier in the supply chain management (SCM) has become a key strategic consideration to the success of any manufacturing organization in terms of business intelligence (BI), as many quantitative and qualitative critical factors are measured from big data. In today’s competitive business scenario, the main purpose of this study is to determine suitable and sustainable suppliers during supplier selection process is to reduce the risk of investment along with maximize overall value to the customer and develop closeness and long-term relationships between customers and suppliers to build a resilient SCM to mitigate uncertainty for automotive organizations.
+
+
+Design/methodology/approach
+As these types of decisions generally involve more than a few criteria and often necessary to compromise among possibly conflicting factors, the multiple-criteria decision-making becomes a useful approach to solve this kind of problem. Considering both tangible and intangible criteria, the aim of this paper is the presentation of a new integrated fuzzy analytic hierarchy process and fuzzy additive ratio assessment method with fuzzy entropy using linguistic values to solve the supplier selection problem to build the resilient SCM under uncertain data. Fuzzy entropy is used to obtain the entropy weights of the criteria.
+
+
+Findings
+Organizations gather massive amounts of information known as BD on the basis of historical records of uncertainties from several internal and external sources to manage uncertainty to improve the overall performance of organizations using BI strategy for analyzing and making effective decision to support the managements of automotive manufacturing organizations in an information system.
+
+
+Research limitations/implications
+Although this study tries to represent a full analysis on suitable and resilient global supplier selection under various types of uncertainty, still there are some improvements that can be made in the future by developing a more refined and more sophisticated approach to further enhance the performance of the proposed scheme to calculate overall rating scores of the alternatives.
+
+
+Originality/value
+The novelty of this paper is to propose a framework of BI in SCM to determine a suitable and resilient global supplier where all the meaningful information, relevant knowledge and visualization retrieved by analyzing the huge and complex set of data or data streams, i.e. BD based on decision-making, to develop any manufacturing organizational performance worldwide.

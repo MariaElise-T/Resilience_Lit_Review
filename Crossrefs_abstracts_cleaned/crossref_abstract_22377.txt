@@ -1,0 +1,12 @@
+Abstract
+Background
+Depression and anxiety have been found prevalent during all phases of the COVID-19 pandemic. In late December 2022, almost all COVID-19 control measures were lifted in China, leading to a surge in COVID-19 infections. The public’s perceived risk and fear of COVID-19 would be increased. This study aims to examine the prevalence of depression and anxiety in the Chinese general population and explores the mediating role of fear of COVID-19 between COVID-19 perceived risk and depression/anxiety and the moderating role of resilience between fear of COVID-19 and depression/anxiety.
+
+Methods
+A cross-sectional online survey was conducted in Wenzhou, China, immediately following almost all COVID-19 control measures lifted. The 9-item Patient Health Questionnaire (PHQ-9), Generalized Anxiety Disorder-7 (GAD-7), the COVID-19 Risk Perception Scale, the Fear of COVID-19 Scale, and the Connor-Davidson Resilience Scale (CD-RISC) were used to evaluate depression, anxiety, COVID-19 perceived risk, fear of COVID-19, and resilience, respectively. Structural Equation Modeling (SEM) with Maximum Likelihood (ML) estimator and adjusted for significant background factors was performed to test the moderated mediation. Data obtained from 935 participants were analyzed.
+
+Results
+The prevalence of moderate to severe depression and anxiety was 23.7% and 9.5%, respectively. The present study revealed positive associations among COVID-19 perceived risk, fear of COVID-19 and depression/anxiety, and negative associations between resilience and fear of COVID-19/depression/anxiety. Fear of COVID-19 partially mediated the association between COVID-19 perceived risk and depression/anxiety. Furthermore, resilience significantly moderated the association between fear of COVID-19 and depression/anxiety. Two moderated mediation models were constructed.
+
+Conclusion
+Depression and anxiety were prevalent among Chinese adults during the final phase of the pandemic in China. The significant mediation role of fear of COVID-19 implies that reducing fear of COVID-19 may effectively alleviate depression and anxiety symptoms. Moreover, enhancing public resilience during an epidemic crisis is crucial for promoting mental health.

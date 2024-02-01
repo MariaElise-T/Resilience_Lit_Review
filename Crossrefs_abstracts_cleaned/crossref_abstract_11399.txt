@@ -1,0 +1,19 @@
+
+Background
+An eHealth tool that coaches employees through the process of reflection has the potential to support employees with moderate levels of stress to increase their capacity for resilience. Most eHealth tools that include self-tracking summarize the collected data for the users. However, users need to gain a deeper understanding of the data and decide upon the next step to take through self-reflection.
+
+
+Objective
+In this study, we aimed to examine the perceived effectiveness of the guidance offered by an automated e-Coach during employees’ self-reflection process in gaining insights into their situation and on their perceived stress and resilience capacities and the usefulness of the design elements of the e-Coach during this process.
+
+
+Methods
+Of the 28 participants, 14 (50%) completed the 6-week BringBalance program that allowed participants to perform reflection via four phases: identification, strategy generation, experimentation, and evaluation. Data collection consisted of log data, ecological momentary assessment (EMA) questionnaires for reflection provided by the e-Coach, in-depth interviews, and a pre- and posttest survey (including the Brief Resilience Scale and the Perceived Stress Scale). The posttest survey also asked about the utility of the elements of the e-Coach for reflection. A mixed methods approach was followed.
+
+
+Results
+Pre- and posttest scores on perceived stress and resilience were not much different among completers (no statistical test performed). The automated e-Coach did enable users to gain an understanding of factors that influenced their stress levels and capacity for resilience (identification phase) and to learn the principles of useful strategies to improve their capacity for resilience (strategy generation phase). Design elements of the e-Coach reduced the reflection process into smaller steps to re-evaluate situations and helped them to observe a trend (identification phase). However, users experienced difficulties integrating the chosen strategies into their daily life (experimentation phase). Moreover, the identified events related to stress and resilience were too specific through the guidance offered by the e-Coach (identification phase), and the events did not recur, which consequently left users unable to sufficiently practice (strategy generation phase), experiment (experimentation phase), and evaluate (evaluation phase) the techniques during meaningful events.
+
+
+Conclusions
+Participants were able to perform self-reflection under the guidance of the automated e-Coach, which often led toward gaining new insights. To improve the reflection process, more guidance should be offered by the e-Coach that would aid employees to identify events that recur in daily life. Future research could study the effects of the suggested improvements on the quality of reflection via an automated e-Coach.

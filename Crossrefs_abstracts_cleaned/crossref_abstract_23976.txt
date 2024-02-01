@@ -1,0 +1,14 @@
+
+Abstract
+
+Objective
+Despite Canada being an important energy producer, not all Canadians can access or afford adequate levels of energy services at home to meet their needs, maintain healthy indoor temperatures, and live a decent life—a situation known as energy poverty. Depending on the measure, 6–19% of Canadian households face energy poverty. Health risks associated with energy poverty are documented in countries with milder climates. This study explores, for the first time in the Canadian context, the association between energy poverty and health.
+
+Methods
+Cross-sectional data are from the 2018 Canadian Housing Survey. Analyses are conducted on a sample weighted to represent 14 million Canadian households. The associations between expenditure-based and self-reported measures of energy poverty and self-rated general and mental health were assessed using logistic regression models, adjusted for potential confounding variables.
+
+Results
+The odds of rating one’s general (OR: 1.48; 95%CI: 1.29, 1.70) and mental (OR: 1.21; 1.04, 1.41) health as poor are significantly higher for Canadian adults in households with a high share of energy expenditure to income. The likelihood of poor general and mental health was significantly higher for those dissatisfied with the energy efficiency of their dwelling, and with their ability to maintain a comfortable temperature both in the winter and in the summer.
+
+Conclusion
+Exposure to energy poverty is associated with significantly increased likelihood of poor general and mental health. Given the high proportion of Canadian households facing energy poverty, with demonstrated implications for population health, tackling energy poverty is essential for an equitable energy transition and for climate resilience.

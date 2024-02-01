@@ -1,0 +1,20 @@
+ABSTRACT
+
+Background:
+Cardiovascular disease (CVD) is the leading cause of death in the United States and the leading cause of hospitalization and disability among the US veterans. Information about CVD knowledge and risk factors, and connection between psychological health and CVD among veterans transitioning from the military are limited.
+
+
+Purpose:
+We examined the existing knowledge of CVD and its risk factors among the US veterans with and without post-traumatic stress disorder (PTSD), and the relationship between knowledge, risk factors, resilience, and PTSD.
+
+
+Methods:
+A total of 104 veterans participated in our study by responding to the Primary Care PTSD Screen for Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Heart Disease Fact Questionnaire (HDFQ) knowledge scale, and Connor-Davidson Resilience Scale 10. Data were extracted from the online Qualtrics survey software into SPSS (v. 25) for analysis.
+
+
+Results:
+Mean age was 52.3 years, mostly males (85.6%), married (72.1%), employed (54.8%), and with college education. Most were in the Navy or Air Force (72.1%) and served in a war (68.0%). Hypertension, high cholesterol, and obesity were the most common CVD risk factors reported. Average CVD knowledge score was 85%. Marines scored higher on resilience than other branches of the military. Seventeen percent reported having PTSD. The Connor-Davidson Resilience Scale 10 was significantly correlated with the HDFQ in the probable PTSD group (r = .589, p = .013).
+
+
+Implications for practice:
+Our study provides information about the knowledge and risk factors of CVD among veterans and insights about interventions needed to improve CV health. Nurse practitioners should assess the CV and psychological health of veterans and screen for PTSD to provide appropriate care and referral.

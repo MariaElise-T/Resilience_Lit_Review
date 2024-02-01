@@ -1,0 +1,12 @@
+Abstract
+Objectives
+To evaluate the psychometric properties of the Coping Strategies Inventory–Short Form and investigate the relationship between coping strategies and resilience, taking into consideration the moderating role of emotion regulation.
+
+Methods
+This cross-sectional study was carried out between May and July 2022. A total of 387 participants was recruited through convenience sampling through several areas in Lebanon governorates. The data was collected through an online questionnaire containing the following sections: sociodemographic information about the participants, Connor-Davidson Resilience Scale (CD-RISC), Emotion Regulation Questionnaire and Coping Strategies Inventory–Short Form.
+
+Results
+The confirmatory factor analysis results confirmed the four-factor structure of the Coping Strategies Inventory–Short Form, with no measurement invariance across gender. In individuals with high problem-focused engagement and emotion-focused engagement, lower expressive suppression was significantly associated with more resilience. In individuals with high problem-focused disengagement, having high expressive suppression was significantly associated with less resilience.
+
+Conclusion
+The current study provides novel and distinct findings regarding the relationship between emotion regulation, coping strategies and resilience in all of their dimensions. Furthermore, the present results provide insight on how a population under extreme stress receives and reacts to its reality.

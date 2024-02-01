@@ -1,0 +1,12 @@
+Abstract
+Background
+Spirituality and psychological resilience can be considered as a protective factor for coping with anxiety in geriatric populations. The aim of the study was to investigate the structural model related to the mediating role of spirituality and psychological resilience in predicting the relationship between anxiety and life satisfaction in older adults with chronic illness.
+
+Methods
+In a cross-sectional study, one hundred patients over sixty years of age from one university hospital were selected by convenience sampling. Data were collected using the Spiritual Health Scale, the Anxiety Module of the Hospital Anxiety and Depression Scale, the Connor-Davidson Resilience Scale, the Life Satisfaction Scale, and a sociodemographic questionnaire. Data analysis was performed using Partial Least Squares (PLS) structure modeling.
+
+Results
+There was a positive and significant relationship between resilience, spirituality and life satisfaction of the samples. The structural model showed that spirituality, and psychological resilience mediated in the relationship between anxiety and life satisfaction directly and in indirectly in the older people with chronic disease, explaining approximately 34% of the variance in life satisfaction.
+
+Conclusions
+The findings suggest that spirituality and psychological resilience can help older adults with chronic illness to negate the impact of anxiety on satisfaction, with the effect of spirituality being stronger than resilience in this relationship.

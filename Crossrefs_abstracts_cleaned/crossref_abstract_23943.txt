@@ -1,0 +1,12 @@
+Abstract
+Background
+Disease resilience is the ability to maintain performance across environments with different disease challenge loads (CL). A reaction norm describes the phenotypes that a genotype can produce across a range of environments and can be implemented using random regression models. The objectives of this study were to: (1) develop measures of CL using growth rate and clinical disease data recorded under a natural polymicrobial disease challenge model; and (2) quantify genetic variation in disease resilience using reaction norm models.
+
+Methods
+Different CL were derived from contemporary group effect estimates for average daily gain (ADG) and clinical disease phenotypes, including medical treatment rate (TRT), mortality rate, and subjective health scores. Resulting CL were then used as environmental covariates in reaction norm analyses of ADG and TRT in the challenge nursery and finisher, and compared using model loglikelihoods and estimates of genetic variance associated with CL. Linear and cubic spline reaction norm models were compared based on goodness-of-fit and with multi-variate analyses, for which phenotypes were separated into three traits based on low, medium, or high CL.
+
+Results
+Based on model likelihoods and estimates of genetic variance explained by the reaction norm, the best CL for ADG in the nursery was based on early ADG in the finisher, while the CL derived from clinical disease traits across the nursery and finisher was best for ADG in the finisher and for TRT in the nursery and across the nursery and finisher. With increasing CL, estimates of heritability for nursery and finisher ADG initially decreased, then increased, while estimates for TRT generally increased with CL. Genetic correlations for ADG and TRT were low between high versus low CL, but high for close CL. Linear reaction norm models fitted the data significantly better than the standard genetic model without genetic slopes, while the cubic spline model fitted the data significantly better than the linear reaction norm model for most traits. Reaction norm models also fitted the data better than multi-variate models.
+
+Conclusions
+Reaction norm models identified genotype-by-environment interactions related to disease CL. Results can be used to select more resilient animals across different levels of CL, high-performance animals at a given CL, or a combination of these.

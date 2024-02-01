@@ -1,0 +1,16 @@
+Abstract
+
+Background
+No prior studies have studied the association between diet and physical resilience, thus our aim was to assess the association between the adherence to the Mediterranean diet and other healthy dietary patterns and physical resilience, assessed empirically as a trajectory through exposure to chronic and acute stressors, in older adults participating in the Seniors-ENRICA (The Study on Nutrition and Cardiovascular Risk in Spain) cohort.
+
+
+Methods
+Data were assessed from 1301 individuals aged 60 and older, participating in the ENRICA prospective cohort study and recruited in 2008–2010 and followed up to 2012 (trial registration: NCT02804672). A Mediterranean Diet Adherence Screener score and the Alternate Healthy Eating Index 2010 were derived at baseline from a validated diet history. Health status was assessed at baseline and at the end of follow-up with a 52-item health Deficit Accumulation Index (DAI) including 4 domains (physical and cognitive function, mental health, self-rated health/vitality, and morbidity); higher DAI values indicate worse health. Physical resilience was defined as accumulating fewer health deficits than the expected age-related increase in DAI over follow-up, despite exposure to chronic and acute stressors.
+
+
+Results
+Over a 3.2-year follow-up, 610 individuals showed physical resilience. In multivariate analyses, the odds ratio (95% confidence interval) of physical resilience for the highest versus lowest tertile (lowest adherence) of the Mediterranean Diet Adherence Screener score was 1.47 (1.10–1.98). The association held for those maintaining or improving the DAI over follow-up (over-resilience): 1.58 (1.10–2.26). Results were consistent in those with unintentional weight loss (2.21 [1.10–4.88]) or hospitalization (2.32 [1.18, 4.57]) as acute stressors.
+
+
+Conclusion
+In older adults, a higher adherence to the Mediterranean diet is associated with a greater likelihood of physical resilience.

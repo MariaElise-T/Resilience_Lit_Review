@@ -1,0 +1,23 @@
+
+Background:
+Anger is considered a common method used by patients to relieve emotional frustrations. However, this emotional response is not a common research focus for adolescents with cancer.
+
+
+Objective:
+The aim of this study was to determine whether self-concept mediated the relationship between anger and resilience for adolescent patients currently being treated for cancer.
+
+
+Methods:
+A cross-sectional study of 40 adolescents with cancer was conducted. The instruments included the Chinese Beck Self-Concept Inventory, the Chinese Beck Anger Inventory, and the Chinese Resilience Scale. Mediation analysis was also conducted.
+
+
+Results:
+The results indicate that (1) variations in anger significantly account for 6.86% of observed variations in self-concept, (2) variations in self-concept significantly account for 52.83% of observed variations in resilience, (3) variations in anger significantly account for 10.96% of observed variations in resilience, and (4) when paths in conditions 1 and 2 were controlled, variations in anger through self-concept significantly account for 54.04% of observed variations in resilience, and variations in anger did not significantly account for observed variations in resilience.
+
+
+Conclusions:
+Gender and age might affect anger control. Despite worse physical functioning and an impacted appearance, participants had normative-to-positive self-concept levels, suggesting that their self-concept might not be affected by cancer. Self-concept might play a mediating role between anger and resilience, thus helping to bridge this knowledge gap.
+
+
+Implications for Practice:
+The current gap in knowledge regarding the mediating relationship necessitates the implementation of a large-scale study designed to verify the mediating role of self-concept between anger and resilience.

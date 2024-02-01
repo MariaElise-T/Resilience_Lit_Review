@@ -1,0 +1,17 @@
+Abstract
+
+Background
+Studies increasingly show an association between internalized stigma and increased symptoms, and poorer social and occupational functioning. Fewer studies have informed about protective traits, attitudes, and factors that may attenuate the impact of internalized stigma on psychopathology and psychosocial functioning. The current study used path analysis to examine putative intervening roles for resilience, coping, and recovery attitudes consistent with hope, empowerment, strengths, and self-direction on the effect of internalized stigma on psychopathology and function.
+
+
+Methods
+Participants were individuals diagnosed with either schizophrenia or schizoaffective disorder (N=84). All participants had completed training and certification as peer support specialists and included 49 individuals currently employed and 35 currently unemployed. Using mailed surveys, participants were administered the Life Stressors Inventory, Internalized Stigma of Mental Illness, the Connors Davidson Resilience Scale, Maryland Assessment of Recovery in Serious Mental Illness, the Brief Symptom Inventory, Brief COPE, Social Functioning Scale, and the Social Support Questionnaire. Path analytic models were estimated using Mplus5. Three path models were estimate designating psychopathology, social support, and community function as dependent variables. Goodness of Fit indices including the Comparative Fit Index (CFI), Tucker Lewis Index (TLI), the Root Mean Square Error of Approximation (RMSEA), and the Standardized Root Mean Squared Residual were used to evaluate the fit of the models to the data.
+
+
+Results
+There were associations between five subdomains of the ISMI—Alienation (r=0.47, p&lt;0.001), Stereotype Endorsement (r=0.29, p&lt;0.001), Discriminatory Experiences (r=0.40, p&lt;0.001), Social Withdrawal (r=0.47, p&lt;0.001), and Stigma Resistance(r=-0.28, p&lt;0.01) and the severity of psychopathology. There was a significant association between internalized stigma and overall functioning (r=0.46, p&lt;0.001). In addition, the five subdomains of the ISMI—Alienation (r=-0.53, p&lt;0.001), Stereotype Endorsement (r=-0.40, p&lt;0.001), Discriminatory Experiences (r=-0.39, p&lt;0.001), Social Withdrawal (r=-0.40, p&lt;0.001), and Stigma Resistance(r=0.35, p&lt;0.001) were associated with ratings of the satisfaction with social support. Associations with reported amount of social support ranged from r=0.25 for Stigma Resistance to r= -0.39 for Alienation.
+The final path models for the severity of psychopathology (CFI/TLI = 0.955/0.933, RMSEA=0.091, SRMR =0.049), social support (CFI/TLI = 0.957/0.935, RMSEA=0.085, SRMR =0.072), and community functioning (CFI/TLI = 0.928/0.901, RMSEA=0.087, SRMR =0.09) produced adequate goodness-of-fit estimates. In all three models, the use of maladaptive coping but not the use of adaptive coping mediated the effect of internalized stigma on the dependent variable. Recovery attitudes did not significantly predict psychopathology when resilience was included in the model, suggesting possibly collinear constructs.
+
+
+Discussion
+The study demonstrates that coping styles, recovery, and resilience attitudes are associated with functional outcomes in people with schizophrenia spectrum disorders. However, the impact of internalized stigma on psychopathology, social, and community functioning may be mediated the use of maladaptive coping styles and attitudes consistent with resilience and adaptability.

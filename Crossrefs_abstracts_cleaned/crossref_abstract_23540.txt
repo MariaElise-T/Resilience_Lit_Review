@@ -1,0 +1,16 @@
+Abstract
+
+Background
+The operational definition of resilience is elusive and resilient people are difficult to identify. We used self-reported “major health event” (srMHE) to identify resilience and evaluate the functional and mortality trajectories associated with this condition.
+
+
+Method
+We selected from the InCHIANTI study persons aged 65 or older who could perform the Short Physical Performance Battery at baseline and attended the 3 years follow-up visit. We identified 4 groups: Controls: no srMHE and no decline in physical function; Decliners: no srMHE and decline in physical function; Resilient: srMHE and no decline in physical function; and Non-resilient: srMHE and decline in physical function. Linear mixed models and Cox regression were used to analyze changes in activities of daily living (ADL) score over 9- and 10-year mortality across groups, respectively.
+
+
+Results
+The 313 participants that reported a srMHE had worse perceived health status and higher number of GP visits and prescribed drugs at baseline. Of these, 78 were Resilient and 235 Non-resilient; of the remaining, 136 were Controls and 277 Decliners. Compared to the Controls, Resilient had similar change of ADL score over time (β: −.03, p = .92) and mortality (hazard ratio: 1.31, 95% confidence interval: 0.76–2.23), while Decliners and Non-resilient showed significantly higher mortality and, the latter, worsening of ADL score. Additional srMHE during follow-up affected the rate of change of ADL score and mortality more in the Controls group than in the Resilient group.
+
+
+Conclusions
+A srMHE along with repeated evaluation of physical function may be used to identify resilience in older people, and may complement the standard functional evaluation of geriatric patients.

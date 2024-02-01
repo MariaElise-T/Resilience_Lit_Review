@@ -1,0 +1,22 @@
+Abstract. Community resilience has become an important policy and research concept for
+understanding and addressing the challenges associated with the interplay of
+climate change, urbanization, population growth, land use, sustainability,
+vulnerability and increased frequency of extreme flooding. Although
+measuring resilience has been identified as a fundamental step toward its
+understanding and effective management, there is, however, lack of an
+operational measurement framework due to the difficulty of systematically
+integrating socioeconomic and techno-ecological factors. The study examines
+the challenges, constraints and construct ramifications that have
+complicated the development of an operational framework for measuring
+resilience of flood-prone communities. Among others, the study highlights
+the issues of proliferation of definitions and conceptual frameworks of
+resilience, challenges of data availability, data variability and data
+compatibility. Adopting the National Academies' definition of resilience, a
+conceptual and mathematical model was developed using the dimensions,
+quantities and relationships established by the definition. A fuzzy logic
+equivalent of the model was implemented to generate resilience indices for
+three flood-prone communities in the United States. The results indicate that the
+proposed framework offers a viable approach for measuring community flood
+resilience, even when there is a limitation on data availability and
+compatibility.
+                    

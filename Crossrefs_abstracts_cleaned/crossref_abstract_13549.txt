@@ -1,0 +1,17 @@
+Abstract
+
+Introduction
+To examine the role of sleep health in a school-based health coaching resiliency intervention for 6th grade students. We hypothesized that participants with insufficient sleep would have poorer mental health outcomes and that the intervention would be less successful for youth with poor sleep health.
+
+
+Methods
+A total of 285, 11-12-year-old students (72% white, 18% Hispanic, 55% female) participated in the six-week 1:1 Healthy Kids intervention. Youth completed electronic surveys at baseline and 6-week follow-up assessing mental health parameters and self-reported bed and wake time. Participants were categorized as having insufficient sleep opportunity if they reported time in bed of &lt;9 hours per night. General linear models examined differences between groups for each mental health parameter, as well as change in mental health parameters from baseline to follow-up.
+
+
+Results
+A third of participants (31%) reported time in bed &lt;9 hours per night. Youth with insufficient sleep were less often white (58% vs 73%; p&lt;0.001) or Hispanic (26% vs 15%; p=0.04) and were more likely to be classified with mild to severe depression and anxiety (55% vs 35%; p=0.004). The health coaching intervention was found to have a significant improvement on overall resilience and self-efficacy only among students who reported sufficient sleep, while no significant intervention effect was found for those students who reported insufficient sleep.
+
+
+Conclusion
+Our findings suggest that youth with poor sleep health may not benefit from school-based resiliency and mental health interventions. Addressing sleep health may be an important consideration for future school-based mental health interventions.
+Support (if any):

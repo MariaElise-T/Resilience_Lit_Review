@@ -1,0 +1,15 @@
+
+Purpose
+The study aims to analyze the effects of the Covid-19 pandemic on house prices.
+
+
+Design/methodology/approach
+The authors start by discussing the possibility that house price indexes may not fully incorporate the effects of the pandemic as of yet. Against the background of the pandemic, the authors then analyze economic and behavioral effects affecting house prices. The authors also discuss how the linkages between tourism and house prices have been affected. The authors further present evidence of an emerging shift in preferences from urban locations to more peripheral ones.
+
+
+Findings
+The authors report variance in the evolution of house prices across countries at the onset of the pandemic, with locations depending heavily on tourism showing slower price appreciation while appreciation has firmed in other places. The authors argue that the resilience of house prices is not only because of the low-interest rate environment and government efforts to support firms and households, but also behavioral factors. In some locations, the price of condominiums has declined relative to the price of detached houses. This could indicate that wealthier households are seeking more space and larger units as a result of the crisis. There is also evidence of a downward pressure on rents, leading to increased price–rent ratios in the USA.
+
+
+Originality/value
+By considering both economic and behavioral factors, this paper provides for a better understanding of the resilience and realignment of house prices at the onset of the Covid-19 pandemic.

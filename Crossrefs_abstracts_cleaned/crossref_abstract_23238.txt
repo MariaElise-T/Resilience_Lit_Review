@@ -1,0 +1,20 @@
+
+Introduction:
+            Psychological resilience (PR) is understood as the capacity to adapt positively in face of adverse events. Its role as an independent protective factor for health has been increasingly acknowledged in recent years.
+          
+
+Hypothesis:
+            We tested the hypothesis that psychological resilience could act as a protective factor towards disease, in particular, could decrease risk of premature death from cardiovascular (CVD) or all causes. We further investigated the association of single domains of PR with all cause and CVD mortality.
+          
+
+Methods:
+            We analysed prospective data on 10,406 individuals (mean age 52±10 y, 50.4% women) from the Moli-sani Study cohort, recruited between 2005 and 2010 and followed up for all-cause and CVD mortality for a median of 11.2 y. PR was assessed at baseline by the 25-item Connor and Davidson resilience scale (CD-RISC). A polychoric factor analysis was used to identify main domains reflecting different aspects of PR. Association of PR (or its domains) with all-cause and CVD mortality was tested using multivariable Cox proportional hazard models.
+          
+
+Results:
+            Higher levels of PR were associated with reduced all-cause mortality as compared to lower PR in a model adjusted for sex and age (HR=0.78; 95%CI 0.62-1.00 for Q4 vs Q1; p for trend=0.029). The association decreased after inclusion of socioeconomic, clinical, and behavioural factors into the model (HR=0.80; 95%CI 0.62-1.03; p for trend=0.059). No relation was observed with CVD mortality in the fully adjusted model (HR=0.89; 95%CI 0.56-1.39 for Q4 vs Q1). The polychoric factor analysis resulted in 5 main factors: Factor 1 reflected positive acceptance of change; Factor 2 reflected faith and hope; Factor 3 reflected secure attachment and secure relationships; Factor 4 reflected external locus of control and confidence in one’s abilities; and Factor 5 reflected strengthening effects of stress and self-efficacy. When individual PR factors were considered, an inverse association of Factor 1 with all-cause mortality (HR=0.89; 95%CI 0.82-0.98; p value=0.01) was apparent.
+          
+
+Conclusions:
+            Though at a borderline not significant way, PR total score predicts all-cause mortality in a general population of CVD-free adult Italians. This is supported by the finding that PR’s domain reflecting a positive acceptance of change is significantly associated with all-cause mortality. However, no association between PR and CVD mortality was found.
+          

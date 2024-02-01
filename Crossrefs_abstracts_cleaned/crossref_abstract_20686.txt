@@ -1,0 +1,20 @@
+
+Background:
+            Despite decades of research and advances in treatment, medication adherence in those with heart failure remains suboptimal. Recent research suggests that self-care activation and positive psychological characteristics can enhance medication adherence, yet little is known about how these factors and medication adherence are related in persons with heart failure.
+          
+
+Objective:
+            The purpose of this study was to investigate whether the effects of self-care activation and hope on medication adherence are mediated by resilience in persons with heart failure.
+          
+
+Methods:
+            This study used a prospective, cross-sectional design. Regression and mediation analyses were used to examine if resilience mediates the effects of activation on medication adherence. A nationwide, diverse sample was recruited for this study.
+          
+
+Results:
+            Of the 174 participants, 51% were female, 48% were persons of color (POC) and the mean age was 62 years. Higher activation (B = -.023, p = .039) and hope (B = -.063, p = .011) were associated with better medication adherence. The effects of activation and hope on medication adherence were completely mediated by resilience. Indirect effect accounts for 17.4% of the total effect for activation and 71.4% for hope.
+          
+
+Conclusion:
+            Resilience could be a potential mechanism by which activation and hope could improve medication adherence in persons with heart failure. Thus, resilience may have a significant influence on medication adherence. More research is needed to understand the connection between resilience and medication adherence.
+          

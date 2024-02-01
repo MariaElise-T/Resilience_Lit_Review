@@ -1,0 +1,23 @@
+
+Purpose
+ – The purpose of this paper is to conceptualize a typology of supply-side resilience capabilities and empirically validates these capabilities and their constituent bundles of practices. 
+
+
+Design/methodology/approach
+ – The study is primarily qualitative, employing the critical incident technique to collect data across 22 firms and seeking to validate how and why practice bundles form and relate to operations performance. It contains a frequency of occurrence analysis for the purpose of triangulation, a minor statistical part to provide some additional evidence of bundle formation and correlation between adoption of bundles of practices and recovered operations performance after upstream supply chain disruptions. 
+
+
+Findings
+ – Four supply-side resilience capabilities are conceptualized along two dichotomous dimensions – “proactive/reactive” and “internal/external” – in a 2×2 matrix as proactive-internal, proactive-external, reactive-internal and reactive-external resilience capabilities. Empirical support for the conceptualized typology is found. Bundles of specific practices that can be associated with each capability are identified. Moreover, the study finds a relationship between these practice bundles and recovered operations performance. 
+
+
+Research limitations/implications
+ – The statistical part is used just to provide some additional evidence through factor and regression analyses that these capabilities exist and do benefit adopting firms. 
+
+
+Practical implications
+ – Specifies practices that lead to recovered operations performance in the event of supply disruptions. 
+
+
+Originality/value
+ – Advances current theory by operationalizing resilience as a set of dynamic capabilities in terms of practice bundles that aid in recovering operations performance upon supply disruptions.

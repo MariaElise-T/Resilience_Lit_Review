@@ -1,0 +1,19 @@
+
+Abstract:
+Environmental stresses adversely impact crop production, crop quality, and product safety.
+Climate change is predicted to exacerbate the impacts of stresses on current cropping systems
+with multilateral impacts on crop productivity and yield, biodiversity, soil fertility, microbial activity,
+and carbon sequestration. Transforming crop production systems and developing stress and climate-
+resilient crops are paramount to alleviate pervasive food and nutrition security and food safety
+issues and achieve a world free from hunger and malnutrition. Modern breeding techniques have
+been the key to transforming crop production systems and developing stress- and climate-resilient
+crops. As a rapidly evolving technology, the Nobel Prize-winning CRISPR method is a leading
+choice for genome editing and a possible major contributor to solving environmental and food insecurity
+issues. Here, a background on the stressors with far-reaching impacts on food security has
+been provided, and the principles and advances in classical genome editing (CRISPR/Cas9) that
+generate DNA double-strand breaks (DSB) have been reviewed. Base editing and prime editing
+platforms, which are DSB- and template-free, enabling targeted base substitutions, have been discussed.
+The application of such tools for trait improvement has been evaluated to develop stressresilient
+crops and high-throughput mutant libraries. Recent developments in the regulatory landscape
+for genome-edited crops in various countries have been examined. Finally, the challenges and
+future perspectives toward crop improvement have been highlighted.

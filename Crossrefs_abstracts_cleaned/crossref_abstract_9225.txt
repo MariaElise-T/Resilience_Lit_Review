@@ -1,0 +1,19 @@
+
+Purpose
+ – Businesses are always seeking resilient strategies so they can weather unpredictable competitive environments. One source of unpredictability is the unsustainability of commerce's environmental, economic or social impacts and the limitations this places on businesses. Another is poor resilience causing erroneous and unexpected outputs. Companies prospering long-term must have both resilience and sustainability, existing in a symbiotic state. The purpose of this paper is to explore the two concepts and their relationship, their combined benefits and propose an approach for supporting decision makers to proactively build both characteristics. 
+
+
+Design/methodology/approach
+ – The paper looks at businesses as complex adaptive systems, how their resilience and sustainability can be defined and how these might be exhibited. It then explores how they can be combined in practice. 
+
+
+Findings
+ – The two qualities are related but have different purposes, moreover resilience has two major forms related to timescales. Both kinds of resilience are identified as key for delivering sustainability, yet the reverse is also found to be true. Both are needed to deliver either and to let businesses flourish. 
+
+
+Practical implications
+ – Although the ideal state of resilient sustainability is difficult to define or achieve, pragmatic ways exist to deliver the right direction of change in organisational decisions. A novel approach to this is explored based on transition engineering and robustness engineering. 
+
+
+Originality/value
+ – This paper links resilience and sustainability explicitly and develops a holistic pragmatic approach for working through their implications in strategic decision making.

@@ -1,0 +1,23 @@
+
+Background
+Health-related exercise and education program for cancer patients are necessary to provide physical and emotional support to enable efficient and appropriate self-management at home.
+
+
+Objective
+This study aimed to investigate the effects of a tripod approach including physical exercise, education, and emotional support program on illness stress, health promotion lifestyle, hope, and resilience in cancer patients.
+
+
+Interventions/Methods
+This was a quasi-experimental repeated-measures study using a pre-post design with a nonhomogeneous control group. A total of 72 cancer patients (experimental group = 37, control group = 35) who were currently receiving treatment and staying at home were enrolled.
+
+
+Results
+The experimental group showed significantly lower illness stress scores (F = 17.35, P < .001) and increase in health promotion lifestyle scores (F = 4.05, P = .048) compared with the control group, especially social relationships (t = 1.85, P = .073) and stress management (t = 2.30, P = .027). However, there were no effects on hope and resilience. Also, illness stress showed significant changes after 6 weeks (t = −3.35, P = .001) and after 10 weeks (t = −5.04, P < .001). Overall health promotion lifestyle showed changes after 10 weeks (t = 2.25, P = .030), with meaning of life (t = 2.57, P = .014), stress management (t = 2.30, P = .027), and medical behaviors (t = 2.46, P = .019) especially showing significant changes.
+
+
+Conclusions
+The results showed that the tripod approach had positive effects on illness stress and health promotion lifestyle of cancer patients staying at home. Further study to improve positive emotions such as hope and resilience is needed.
+
+
+Implications for Practice
+Based on our findings, combining nursing intervention with physical exercise, education, and emotional support could be incorporated into cancer patients in community and early survivorship care plans in clinical practice.

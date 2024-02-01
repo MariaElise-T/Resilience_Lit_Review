@@ -1,0 +1,15 @@
+
+Purpose
+The spread of the COVID-19 pandemic has led to an unseen crisis lately, which has put organizational leadership and employee engagement (EE) to test. Resilient leadership (RL) helps an organization survive and keep employees engaged in the risky environment. Similarly, psychological capital (PsyCap) is known to exert an influence on EE, but PsyCap and EE have not been investigated together during the period of crisis. To address this gap, the present study aims to outline the importance of RL and PsyCap to keep the employees engaged in the information technology (IT) industry.
+
+
+Design/methodology/approach
+In total, 265 samples of IT professionals were collected by using an online survey questionnaire pan India. The collected data was analyzed using regression analysis, structural equation modeling along with bootstrapping technique for mediation analysis and model fit indices analysis.
+
+
+Findings
+The results of the analysis confirm the positive impact of RL on EE and the partial mediation impact of PsyCap on the RL–EE relationship, and the findings exhibit that employees with a higher level of PsyCap contribute favorably to EE during the COVID-19 pandemic.
+
+
+Originality/value
+This study aims to assist IT practitioners in effectively incorporating RL to plan mitigation strategies. EE is an outcome of enhanced PsyCap of employees. To develop necessary skills and coping mechanisms to combat disruptions of such massive outbreaks, RL and PsyCap are crucial.

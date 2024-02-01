@@ -1,0 +1,9 @@
+Abstract
+Purpose of Review
+Climate change poses a threat to European forests and threatens their capacity to deliver ecosystem services. Innovation is often considered critical to increasing resilience in wood-based value chains. However, the knowledge about types of innovation processes and how they enhance resilience, if at all, is largely dispersed. In this conceptual paper, we refer to examples from the forestry, bioeconomy, adaptation, and innovation literature to develop an overview of innovation pathways along the wood value chain. Thereafter, we evaluate the extent to which they enhance or compromise resilience to climate change and how they do so.
+
+Recent Findings
+We differentiate between forest and value chain resilience and assume that innovation positively influences both types of resilience via three resilience drivers: diversifying the product portfolio, making operations more efficient, or making the processes more flexible. Our literature review revealed nine innovation pathways along the value chain.
+
+Summary
+The pathways rarely connect forest management and the processing industry. Consequently, a mismatch was identified between the innovation pathways and resilience drivers applied to increase diversification at the beginning of the value chain (in forest management) and those applied to increase efficiency towards the end of the value chain (in the processing industry). Considering this mismatch, we stress that it is critical to reconsider the term innovation as a silver bullet and to increase the awareness of resilience drivers and innovation pathways, as well as reconsider ways to combine them optimally. We recommend engaging in open innovation activities to cooperatively draft innovation strategies across the entire wood value chain and intercept pathways by making processes more flexible.

@@ -1,0 +1,9 @@
+ABSTRACT
+
+            Prior field studies by our group have demonstrated a relationship between fluvial deposition of heavy metals and hyporheic-zone microbial community structure. Here, we determined the rates of change in hyporheic microbial communities in response to heavy-metal contamination and assessed group-level differences in resiliency in response to heavy metals. A controlled laboratory study was performed using 20 flowthrough river mesocosms and a repeated-measurement factorial design. A single hyporheic microbial community was exposed to five different levels of an environmentally relevant metal treatment (0, 4, 8, 16, and 30% sterilized contaminated sediments). Community-level responses were monitored at 1, 2, 4, 8, and 12 weeks via denaturing gradient gel electrophoresis and quantitative PCR using group-specific primer sets for indigenous populations most closely related to the α-, β-, and γ-proteobacteria. There was a consistent, strong curvilinear relationship between community composition and heavy-metal contamination (
+            R
+2
+            = 0.83;
+            P
+            < 0.001), which was evident after only 7 days of metal exposure (i.e., short-term response). The abundance of each phylogenetic group was negatively affected by the heavy-metal treatments; however, each group recovered from the metal treatments to a different extent and at a unique rate during the course of the experiment. The structure of hyporheic microbial communities responded rapidly and at contamination levels an order of magnitude lower than those shown to elicit a response in aquatic macroinvertebrate assemblages. These studies indicate that hyporheic microbial communities are a sensitive and useful indicator of heavy-metal contamination in streams.
+          

@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+Previous efforts to develop a resilience measure for older adults have largely failed to consider the environmental influences on their resilience, and have primarily concentrated on the resilience of community-dwelling older adults. Our objective was to validate a new multidimensional measure of resilience, the Making it CLEAR (MiC) questionnaire, for use with older adults at the point of discharge from hospital.
+
+
+Research Design and Methods
+This study tested the structure, validity, and reliability of the MiC questionnaire. The questionnaire consists of 34 items, which assess the “individual determinants of resilience” (IDoR) and the “environmental determinants of resilience” (EDoR) across 2 subscales. 416 adults aged 66–102 years participated. Exploratory factor analysis, item analysis, and linear regression were undertaken.
+
+
+Results
+The IDoR subscale contained six factors which were labeled “Self-efficacy,” “Values,” “Interpersonal skills,” “Life orientation,” “Self-care ability,” and “Process skills.” The EDoR subscale contained five factors related to “Person–environment fit,” “Friends,” “Material assets,” “Habits,” and “Family.” Both subscales demonstrated acceptable convergent validity and internal consistency, while individual items showed acceptable levels of discrimination and difficulty.
+
+
+Discussion and Implications
+The study provides evidence supporting the validity and quality of the MiC questionnaire. The results suggest that the MiC questionnaire could be used to identify the resilience needs of older adults at the point of hospital discharge. However, future research should identify which items of the MiC questionnaire are associated with hospital readmission, in order to develop an easily applicable screening tool for clinical practice.

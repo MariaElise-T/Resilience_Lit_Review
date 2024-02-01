@@ -1,0 +1,16 @@
+Abstract
+
+Background and Aims
+Changes in kelp abundances on regional scales have been highly variable over the past half-century owing to strong effects of local and regional drivers. Here, we assess patterns and dominant environmental variables causing spatial and interspecific variability in kelp persistence and resilience to change in Nova Scotia over the past 40 years.
+
+
+Methods
+We conduct a survey of macrophyte abundance at 251 sites spanning the Atlantic coast of Nova Scotia from 2019-2022. We use this dataset to describe spatial variability in kelp species abundances, compare species occurrences to surveys conducted in 1982, and assess changes in kelp abundance over the past 22 years. We then relate spatial and temporal patterns in abundance and resilience to environmental metrics.
+
+
+Key Results
+Our results show losses of sea urchins and the cold-tolerant kelp species Alaria esculenta, Saccorhiza dermatodea, and Agarum clathratum in Nova Scotia since 1982 in favor of the more warm-tolerant kelps Saccharina latissima and Laminaria digitata. Kelp abundances have increased slightly since 2000, and S. latissima and L. digitata are widely abundant in the region at the present time. The highest kelp cover occurs on wave exposed shores and at sites where temperatures have remained below thresholds for growth (21°C) and mortality (23°C). Moreover, kelp has recovered from turf dominance following losses at some sites during a warm period from 2010-2012.
+
+
+Conclusions
+Our results indicate that dramatic changes in kelp community composition and a loss of sea urchin herbivory as a dominant driver of change in the system have occurred in Nova Scotia over the past 40 years. However, a broad-scale shift to turf-dominance has not occurred, as predicted, and our results suggest that resilience and persistence are still a feature of kelp forests in the region despite rapid warming over the past several decades.

@@ -1,0 +1,14 @@
+Abstract
+Background
+Patients’ psychological health may influence recovery and functional outcomes after total knee arthroplasty (TKA). Pain catastrophizing, known to be associated with poor function following TKA, encompasses rumination, magnification, and helplessness that patients feel toward their pain. Resilience, however, is an individual's ability to adapt to adversity and may be an important psychological construct that supersedes the relationship between pain catastrophizing and recovery. In this study we sought to identify whether pre-operative resilience is predictive of 3-month postoperative outcomes after adjusting for pain catastrophizing and other covariates.
+
+Methods
+Patients undergoing TKA between January 2019 and November 2019 were included in this longitudinal cohort study. Demographics and questionnaires [Brief Resilience Scale (BRS), Pain Catastrophizing Scale (PCS), Knee injury and Osteoarthritis Outcome Score, Junior (KOOS, JR.) and Patient-Reported Outcomes Measurement Information System Physical and Mental Health (PROMIS PH and MH, respectively)] were collected preoperatively and 3 months postoperatively. Multivariable regression was used to test associations of preoperative BRS with postoperative outcomes, adjusting for PCS and other patient-level sociodemographic and clinical characteristics.
+
+Results
+The study cohort included 117 patients with a median age of 67.0 years (Q1–Q3: 59.0–72.0). Fifty-three percent of patients were women and 70.1% were white. Unadjusted analyses identified an association between resilience and post-operative outcomes and the relationship persisted for physical function after adjusting for PCS and other covariates; in multivariable linear regression analyses, higher baseline resilience was positively associated with better postoperative knee function (β = 0.24, p = 0.019) and better general physical health (β = 0.24, p = 0.013) but not general mental health (β = 0.04, p = 0.738).
+
+
+Conclusions
+Our prospective cohort study suggests that resilience predicts postoperative knee function and general physical health in patients undergoing TKA. Exploring interventions that address preoperative mental health and resilience more specifically may improve self-reported physical function outcomes of patients undergoing TKA.
+

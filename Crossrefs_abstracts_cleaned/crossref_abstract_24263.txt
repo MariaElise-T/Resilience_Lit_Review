@@ -1,0 +1,12 @@
+Abstract
+Background
+We have proposed that cognitive resilience (CR) counteracts brain damage from Alzheimer’s disease (AD) or AD-related dementias such that older individuals who harbor neurodegenerative disease burden sufficient to cause dementia remain cognitively normal. However, CR traditionally is considered a binary trait, capturing only the most extreme examples, and is often inconsistently defined.
+
+Methods
+This study addressed existing discrepancies and shortcomings of the current CR definition by proposing a framework for defining CR as a continuous variable for each neuropsychological test. The linear equations clarified CR’s relationship to closely related terms, including cognitive function, reserve, compensation, and damage. Primarily, resilience is defined as a function of cognitive performance and damage from neuropathologic damage. As such, the study utilized data from 844 individuals (age = 79 ± 12, 44% female) in the National Alzheimer’s Coordinating Center cohort that met our inclusion criteria of comprehensive lesion rankings for 17 neuropathologic features and complete neuropsychological test results. Machine learning models and GWAS then were used to identify medical and genetic factors that are associated with CR.
+
+Results
+CR varied across five cognitive assessments and was greater in female participants, associated with longer survival, and weakly associated with educational attainment or APOE ε4 allele. In contrast, damage was strongly associated with APOE ε4 allele (P value < 0.0001). Major predictors of CR were cardiovascular health and social interactions, as well as the absence of behavioral symptoms.
+
+Conclusions
+Our framework explicitly decoupled the effects of CR from neuropathologic damage. Characterizations and genetic association study of these two components suggest that the underlying CR mechanism has minimal overlap with the disease mechanism. Moreover, the identified medical features associated with CR suggest modifiable features to counteract clinical expression of damage and maintain cognitive function in older individuals.

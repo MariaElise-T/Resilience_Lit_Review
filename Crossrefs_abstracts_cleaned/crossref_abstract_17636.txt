@@ -1,0 +1,16 @@
+Abstract
+
+Purpose
+Resilience is an important factor in concussion recovery. Investigation of the relationship between resilience and level of perceived life disruption may prove beneficial in further understanding concussion recovery in adolescents.
+
+
+Methods
+Participants aged 12-18 who sustained a concussion (n=779) were evaluated within 30 days of injury at a North Texas Concussion Registry (ConTex) clinic. Participants completed the Brief Resilience Scale (BRS) at initial visit and were grouped as low, average, or high resilience. At 3-month follow-up, data were collected on perceived disruption in school/work, social life, and home responsibilities. ANCOVA with age as a covariate was used to determine differences between resilience groups.
+
+
+Results
+Significant differences in perceived disruption were found between participants with low versus high resilience: school/work [F(2, 775)=3.02, p=.049], social life [F(2, 775)=4.77, p=.009], and home responsibilities [F(2, 775)=5.18, p=.006] with the low resilience group endorsing higher levels of disruption and the high resilience group endorsing lower levels of disruption. There were no significant differences between the average resilience group and other groups in these areas, though these participants were descriptively intermediate. Age was found to be a covariate in disruption of school/work (p=.012) and social life (p=.019), but not in home responsibilities (p=.30).
+
+
+Conclusions
+Adolescents with lower resilience may perceive greater disruption in school/work, social life, and home responsibilities during concussion recovery, and age may modify aspects of this relationship. Adolescents with lower resilience may benefit from additional attention following concussion.

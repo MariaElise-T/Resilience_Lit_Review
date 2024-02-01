@@ -1,0 +1,46 @@
+AbstractIn this paper, we analyze the security of subset-resilient hash function families, which is first proposed as a requirement of a hash-based signature scheme called HORS. Let $${\mathcal {H}}$$
+H
+ be a family of functions mapping an element to a subset of size at most k. (r, k)-subset resilience guarantees that given a random function H from $${\mathcal {H}}$$
+H
+, it is hard to find an $$(r+1)$$
+
+(
+r
++
+1
+)
+
+-tuple $$(x,x_1,\ldots ,x_r)$$
+
+(
+x
+,
+
+x
+1
+
+,
+…
+,
+
+x
+r
+
+)
+
+ such that (1) H(x) is covered by the union of $$H(x_i)$$
+
+H
+(
+
+x
+i
+
+)
+
+ and (2) x is not equal to any $$x_i$$
+
+x
+i
+
+. Subset resilience and its variants are related to nearly all existing stateless hash-based signature schemes, but the power of this security notion is lacking in research. We present three results on subset resilience. First, we show a generic quantum attack against subset resilience, whose time complexity is smaller than simply implementing Grover’s search. Second, we show that subset-resilient hash function families imply the existence of distributional collision-resistant hash function families. Informally, distributional collision resistance is a relaxation of collision resistance, which guarantees that it is hard to find a uniform collision for a hash function. This result implies a comparison among the power of subset resilience, collision resistance, and distributional collision resistance. Third, we prove the fully black-box separation from one-way permutations.

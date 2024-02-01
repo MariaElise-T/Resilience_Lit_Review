@@ -1,0 +1,15 @@
+
+Objectives:
+Both pediatric and parent pain catastrophizing and pain acceptance are key factors associated with pediatric pain outcomes; however, the interactive effects of these factors within the parent-child dyad have yet to be tested. The aims of this study were to examine: (1) the mediating role of child catastrophizing between parent catastrophizing and child outcomes (pain interference and mobility), (2) the mediating role of child acceptance between parent acceptance and child outcomes, and (3) whether child acceptance buffers the relation between parent catastrophizing and child catastrophizing, which in turn impacts child outcomes.
+
+
+Materials and Methods:
+Cross-sectional data from 324 youth with chronic pain ages 10 to 17 years (mean age=14.72, [SD=2.12]; 73.1% female; 59% Caucasian) and their parents were collected. Participants completed measures assessing pediatric Patient-Reported Outcome Measurement Information System (PROMIS) domains (mobility and pain interference), pain catastrophizing, pain acceptance, and child pain intensity. Mediation was conducted via 1000-draw bootstrap–adjusted analyses in Mplus.
+
+
+Results:
+Parent pain catastrophizing was indirectly associated with child pain interference via child catastrophizing but was not associated with mobility difficulties in the mediation model. Parent pain acceptance was indirectly associated with both child pain interference and mobility via child acceptance. We did not find evidence of child acceptance-buffering parent and child pain catastrophizing.
+
+
+Discussion:
+The findings of this study highlight the need for caregiver involvement in multidisciplinary treatments to mitigate risk and enhance resilience in youth with chronic pain.

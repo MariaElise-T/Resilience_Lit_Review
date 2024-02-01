@@ -1,0 +1,19 @@
+
+Background
+Psychological resilience has been extensively studied by developmental researchers, and there is a growing body of literature regarding its role in psychiatry and psychopathology research and practice. This study contributes to this growing literature by providing real-world evidence on the relationship between resilience and clinical symptoms among a large sample of employed Americans.
+
+
+Objective
+This study aimed to describe resilience levels in individuals accessing Ginger, a virtual mental health system, in addition to the association of resilience with demographic characteristics, baseline depression, and anxiety symptoms.
+
+
+Methods
+We conducted a retrospective observational study of 9165 members who signed up for Ginger and completed a baseline survey between January 1 and August 5, 2021. We used multivariate regression models to test for associations between baseline resilience and other member characteristics.
+
+
+Results
+Baseline resilience scores centered on a mean of 23.84 (SD 6.56) and median of 24 (IQR 8) out of 40, with 81.0% (7424/9165) of the sample having low resilience at baseline. Despite having relatively higher resilience scores, members with no or mild depression or anxiety still had low resilience scores on average. Self-reported suicidal ideation was associated with lower resilience.
+
+
+Conclusions
+Overall, members had low baseline resilience, similar to resilience levels observed in trauma survivors in prior studies.  Younger members and those with higher levels of depression and anxiety at intake reported lower levels of resilience at baseline. Notably, members with no or mild depression or anxiety still had low resilience scores on average,  suggesting a need for mental health support among individuals who might not typically be recommended for treatment based on traditional clinical assessments, such as the 9-item Patient Health Questionnaire (PHQ-9) and the 7-item Generalized Anxiety Disorder scale (GAD-7). Two suggestions for topics of future research are to develop treatment recommendations based on the Connor-Davidson Resilience Scale and to understand the interaction between resilience levels and symptom-based outcome measures, such as the PHQ-9 and the GAD-7.

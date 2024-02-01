@@ -1,0 +1,16 @@
+ABSTRACT
+
+Introduction
+Students’ mental health is recognised as an important public health issue, and the strict measures and many changes resulting from the COVID-19 pandemic may have exacerbated this. The aims of the study were thus to explore psychological well-being among university students in Slovenia during the beginning of the second lockdown, and to assess associations among their psychological well-being, demographic characteristics, presence of a chronic health condition, and resilience.
+
+
+Methods
+The Slovenian online cross-sectional survey was performed as part of a large-scale international survey led by the COVID-HL Consortium, between the 2nd and 23rd November 2020. The study was carried out on a sample of 3,468 university students (70% female) in Slovenia, aged between 18 to 40 (M=22/SD=3). In addition to sociodemographic data and that on the presence of a chronic health condition, data on subjective social status (SSS), psychological well-being (WHO-5) and resilience (CD-RISC 10) was also gathered.
+
+
+Results
+In our study 52% of university students reported good psychological well-being. Hierarchical binary logistic regression revealed that male, older students, those with higher perceived subjective social status, students without a chronic health condition, and those with higher score on resilience were more likely to have good psychological well-being. Resilience was the strongest predictor of psychological well-being in our study.
+
+
+Conclusions
+Systematic preventive approaches/interventions in the field of mental health should be implemented among students in Slovenia. In this context it is important to develop and deliver programmes for enhancing resilience, which is an important protective factor in times of mental distress.

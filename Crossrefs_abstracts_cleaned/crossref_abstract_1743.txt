@@ -1,0 +1,15 @@
+
+Purpose
+Flood resilience is a critical concept in flood risk management (FRM). Meanwhile, flood resilience measurement has become vital for making the business case for investment in FRM. However, information is sparse on measuring the level of resilience of flood-prone communities in Nigeria. Therefore, this study aims to develop a fuzzy logic-based model for measuring the resilience of flood-prone communities towards achieving the United Nations Sustainable Development Goals (SDGs) 11 and 13.
+
+
+Design/methodology/approach
+This study describes the development of a fuzzy logic-based flood resilience measuring model, drawing on a synthesis of fuzzy logic literature and extant flood resilience. A generalisation of the flood system for a typical Nigerian community was made. It was followed by an identification and characterisation of the variables and parameters of the system based on SDGs 11 and 13. The generated data was transformed into a fuzzy inference system (FIS) using three input community flood resilience dimensions: natural, socio-technical and socio-economic factors (SEF). The model was then validated with primary data obtained from selected flood-prone communities in Ibadan, Southwest Nigeria. Expert opinions were used in rating the input dimensions for the selected communities.
+
+
+Findings
+In spite of various inputs from experts in the same study area (Apete, Ibadan, Nigeria), the resulting FIS generated consistent resilience indices for various natural, socio-technical and SEF. This approach can strengthen flood resilience measurement at the community level.
+
+
+Originality/value
+Although previous attempts have been made to measure flood resilience at the individual property level (Oladokun et al., 2017; Adebimpe et al., 2020), this research focuses on measuring flood resilience at the community level by adapting the fuzzy logic approach. The fuzzy logic-based model can be a tool for flood resilience measurement at the community level. It can also be developed further for regional and national level applications.

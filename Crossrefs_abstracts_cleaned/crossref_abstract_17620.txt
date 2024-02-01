@@ -1,0 +1,19 @@
+
+Introduction:
+Cognitive flexibility and resilience may influence academic achievement. These cognitive functions may be affected during the Covid 19 pandemic. Few studies have been conducted to examine these relationships.
+
+
+Objective:
+This study examined college students' cognitive flexibility and resilience and their relationships with academic achievement during the Covid 19 pandemic.
+
+
+Methods:
+In this cross-sectional study, 303 students were assessed using sociodemographic and academic proforma, the Cognitive Flexibility Scale, and the Cognitive Resilience Scale. The data were analyzed using descriptive statistics, contingency table analysis, the Kruskal–Wallis H test, the Mann–Whitney U test, and linear regression analysis (with moderation).
+
+
+Results:
+Cognitive flexibility was significantly greater in those who were success-oriented, had a backlog, and studied a health science subject, whereas resilience was greater in those who had lower course competency and had encountered psychological issues. Exam scores were positively linked with students' economic status and negatively linked with students' perceptions of course competency. Cognitive resilience predicted exam performance positively, which was moderated by cognitive flexibility.
+
+
+Conclusion:
+Cognitive resilience positively affects academic performance and is moderated by cognitive flexibility.

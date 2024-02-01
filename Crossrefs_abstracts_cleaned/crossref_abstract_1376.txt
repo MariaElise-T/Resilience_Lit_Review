@@ -1,0 +1,16 @@
+
+Background:
+            The unanticipated devastating changes affecting the quality of life post-stroke leads to chronic stress. Elevated stress has been associated with the several worst outcomes of stroke. However, not all stroke survivors with acute stress advances to the stage of severe unfavourable outcomes. Apart from stroke severity, the functional outcome of stroke is embedded within the complex settings of individual’s unique personality traits such as resiliency. In this ongoing project, we aim to explore the relationship between resiliency and stress in stroke survivors and more importantly, we aim to investigate how they influence the recovery trajectory of stroke survivors.
+          
+
+Methods:
+            Community dwelling stroke survivors were recruited from Hunter Stroke Research Register. Demographics data, anthropometrics data and medical history related to cardiometabolic diseases were recorded. Stroke recovery was assessed from Stroke Impact Scale -version 3. Self-reported resilience was assessed using the Brief Resiliency Scale and Connor Davidson Resilience Scale. The level of stress was assessed using Perceived Stress Scale-10. Data were analysed using IBM SPSS Statistics.
+          
+
+Results:
+            All of the recruited stroke survivors (N=45; age: 62.6±13.49; male/female: 25/20; ischaemic/haemorrhagic: 29/16) were at the chronic phase of their stroke recovery. The strong inverse association was found between the level of resilience and the level of stress. Resiliency level correlated significantly with 6 out of 8 domains of stroke impact scale. There was no correlation between the level of stress and resiliency with demographics, anthropometric variables and associated cardiometabolic conditions. In stepwise multiple regression analysis, resiliency level was significantly associated with several domains of stroke impact scale and it accounted for the significant proportion of variance in stroke recovery.
+          
+
+Conclusion:
+            Since, resilience was inversely associated with stress level and higher resilience level was associated with favourable stroke recovery trajectory; equipping stroke survivor’s skills in building and maintaining resilience will reduce the level of stress and promote recovery at chronic phase post-stroke.
+          

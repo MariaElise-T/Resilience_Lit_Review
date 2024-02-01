@@ -1,0 +1,16 @@
+Abstract
+Objectives
+This study aimed at exploring the relationships between physical activity, weight control, and psycho-social aspects of the COVID-19 lockdown, which have characterized the Israeli population’s behavior during the COVID-19 global crisis.
+
+Design
+Cross-sectional survey research.
+
+Methods
+Participants included 1855 men and women aged 18 and above, from different regions in the country and representing different sectors. They were recruited through the social media in a “snowball” sampling, and filled out a self-administered six-part survey: Demographic background, the International Physical Activity Questionnaire (IPAQ), the positive and negative affect scales (PANAS), the Conor and Davidson resilience scale, a questionnaire for measuring depressive symptoms, and questions regarding weight change based on the Israeli National Health and Nutrition (MABAT) survey.
+
+Results
+Routine physical activity (PA) was reported by 76.3% of the participants before the lockdown, 19.3% stopped exercising during this period, and 9.3% began exercising during the lockdown. The participants who were physically active during the lockdown period reported a higher level of resilience and positive feelings, and a lower level of depression, compared with those who were not physically active.
+People who were physically active during the lockdown maintained their weight compared with those who were inactive. Concerning weight change, 44.8% of the respondents maintained their weight, and a higher percentage of people reported weight gain than those who reported weight loss.
+
+Conclusions
+Continuous PA before and during the COVID-19 lockdown were associated with higher resilience and positive emotions, and depressive symptoms, in people aged 18 and above. Although a causal link cannot be established, in light of the results of the present study, encouraging physical activity may contribute to improving mental health and a sense of self-efficacy, as well as to maintaining weight during a crisis.

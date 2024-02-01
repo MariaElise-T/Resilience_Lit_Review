@@ -1,0 +1,16 @@
+Abstract
+
+Objective:
+This study aimed to investigate the effects of disaster trauma, disaster conflict, and economic loss on posttraumatic stress disorder (PTSD), and to verify the moderating effect of personal and community resilience in these relationships. The data of 1914 people, aged 20 or above, who had experienced natural disasters (earthquake, typhoon, flooding) were used.
+
+
+Methods:
+Hayes’s (2013) PROCESS macro (Model 1) was conducted to verify the moderation effect of personal and community resilience between PTSD and disaster trauma, disaster conflict, and economic loss.
+
+
+Results:
+Disaster trauma, disaster conflict, and economic loss were found to be positively related to PTSD. Personal and community resilience were negatively related to PTSD. Resilience had a moderating effect on the relationship between disaster trauma, economic loss, and PTSD. However, there was no moderating effect on the relationship between disaster conflict and PTSD. Community resilience had a moderating effect on the relationship between economic loss and PTSD. However, there was no moderating effect on the relationship between disaster trauma, disaster conflict, and PTSD.
+
+
+Conclusions:
+The results suggest that personal and community resilience could be used for prevention and therapeutic interventions for disaster victims who experience PTSD.

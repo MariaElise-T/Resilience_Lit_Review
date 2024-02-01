@@ -1,0 +1,27 @@
+
+Background
+Most mental disorders first emerge in youth and, in their early stages, surface as subthreshold expressions of symptoms comprising a transdiagnostic phenotype of psychosis, mania, depression, and anxiety. Elevated stress reactivity is one of the most widely studied mechanisms underlying psychotic and affective mental health problems. Thus, targeting stress reactivity in youth is a promising indicated and translational preventive strategy for adverse mental health outcomes that could develop later in life and for improving resilience. Compassion-focused interventions offer a wide range of innovative therapeutic techniques that are particularly amenable to being implemented as ecological momentary interventions (EMIs), a specific type of mobile health intervention, to enable youth to access interventions in a given moment and context in daily life. This approach may bridge the current gap in youth mental health care.
+
+
+Objective
+This study aims to investigate the clinical feasibility, candidate underlying mechanisms, and initial signals of the efficacy of a novel, transdiagnostic, hybrid EMI for improving resilience to stress in youth—EMIcompass.
+
+
+Methods
+In an exploratory randomized controlled trial, youth aged between 14 and 25 years with current distress, a broad Clinical High At-Risk Mental State, or the first episode of a severe mental disorder will be randomly allocated to the EMIcompass intervention (ie, EMI plus face-to-face training sessions) in addition to treatment as usual or a control condition of treatment as usual only. Primary (stress reactivity) and secondary candidate mechanisms (resilience, interpersonal sensitivity, threat anticipation, negative affective appraisals, and momentary physiological markers of stress reactivity), as well as primary (psychological distress) and secondary outcomes (primary psychiatric symptoms and general psychopathology), will be assessed at baseline, postintervention, and at the 4-week follow-up.
+
+
+Results
+The first enrollment was in August 2019, and as of May 2021, enrollment and randomization was completed (N=92). We expect data collection to be completed by August 2021.
+
+
+Conclusions
+This study is the first to establish feasibility, evidence on underlying mechanisms, and preliminary signals of the efficacy of a compassion-focused EMI in youth. If successful, a confirmatory randomized controlled trial will be warranted. Overall, our approach has the potential to significantly advance preventive interventions in youth mental health provision.
+
+
+Trial Registration
+German Clinical Trials Register DRKS00017265; https://www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00017265
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/27462

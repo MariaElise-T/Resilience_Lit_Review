@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience is a widely-used catchword in the last couple of years to describe the resistance to psychological strains of life, especially for the healthcare work-force. The promises of resilience to burnout sound great and what we all would want: less health impairment despite stress, higher work satisfaction and last but not least higher work performance. There is research that shows that students and physicians have high emotional distress and low resilience, yet comparably little is known which aspects of resilience are exactly impaired in the upcoming work-force. With our study we investigated the in-depth resilience status of medical graduates from five medical schools within their first year after graduation. In this, additionally to assessing the resilience status as a whole we investigate the answers on the singular items and the relationship of the resilience status with neighboring constructs.
+
+Methods
+In 2018, 1610 human medical graduates from five Bavarian medical schools were asked to take part at cross-sectional Bavarian graduate survey (Bayerische Absolventenstudie Medizin, MediBAS). The response rate was 38,07, 60% of the participants were female. For the identification of the in-depth resilience status we included the 5-point Likert 10-Item Connor-Davidson Resilience Scale, German Version in a graduate survey posted to 5 medical schools and over 1610 eligible participants of whom 610 (60% female) filled out at least parts of the survey. To identify relationships to other aspects we posed further questionnaires.
+
+Results
+The resilience status showed a mean resilience score of M = 37.1 (SD = 6.30). The score ranges from 3.22 (I am not easily discouraged by failure) to 4.26 (I am able to adapt to change). One third of the participants chose not to answer the item “I am able to handle unpleasant feeling”. Relationships to job satisfaction, scientific competence and stress are presented in the article.
+
+Conclusions
+The study shows that the overall resilience status of medical graduates one year after their graduation is rather high, but subjectively they do not feel equivalently resilient for the different aspects they face in their job. Especially, how to handle their emotions seems to be challenging for some of the young physicians. In the article we sketch ideas how to handle the specific training needs the study has identified.

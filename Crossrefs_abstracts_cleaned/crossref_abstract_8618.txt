@@ -1,0 +1,27 @@
+
+Purpose
+The purpose of this paper is to revise, update and extend the economic vulnerability and economic resilience indices, where economic vulnerability is associated with inherent exposure to external shocks and economic resilience with policies that enable a country to minimize or withstand the negative effects of such shocks. This study also proposes a revised vulnerability/resilience framework to assess the risk of a country being harmed by external economic shocks.
+
+
+Design/methodology/approach
+The methodology used in the study involves defining economic vulnerability in terms of inherent features of an economy and defining economic resilience in terms of policy-induced changes, and then devising measureable indices to measure such vulnerability and resilience across countries. The exercise required the examination of various global indices to assess their suitability, in terms of relevance and country coverage, for measuring the vulnerability index and the resilience index and the components of the two indices.
+
+
+Findings
+The main finding of the study is that a number highly vulnerable states, including economically successful small island economies, emerged with high resilience scores, suggesting that they adopt policies that enable them to withstand the harmful effects of external shocks. This possibly explains why these states register relatively high GDP per capita, in spite of their high exposure to shocks. On the other hand, a number of countries, mostly large and poor developing countries, that are not highly exposed to external shocks due to their limited dependence on external trade, emerged with a low degree of policy-induced economic resilience.
+
+
+Research limitations/implications
+The study utilized global indicators which sometimes had missing data and these had to be filled in using approximations based on assumptions, and alternative assumption could have produced a different approximations. In addition the classification of countries in terms of the vulnerability and resilience nexus depended highly on many underpinning assumptions, including the definitions and the measurement of the components, the weighting schemes and the thresholds used. It is likely that alternative assumptions would yield alternative classifications.
+
+
+Practical implications
+An important practical implication of this study is that highly economically vulnerable states can reduce the harmful effects of external economic shocks if they adopt policies that lead to resilience building. On the other hand, countries that are not highly exposed to external shocks, can render themselves economically unstable due to their weak economic, social and environmental governance.
+
+
+Social implications
+This study considers social development and cohesion as one of the pillars of resilience building. The implication of this approach is that social governance, leading to improvements in the education and health of the population could reduce the harm arising from a country’s exposure to external shocks. This is because social governance affects the extent to which relations within a society are properly developed, enabling an effective functioning of the economic apparatus without the hindrance of civil unrest.
+
+
+Originality/value
+This study has extended previous work on the vulnerability and resilience framework, to include almost all countries of the world, using updated data, and has revised the resilience index to include environmental governance. It has also redefined market flexibility to allow for the downsides of excessive financial riskiness. The revision of vulnerability and resilience indices in the light of new data and their interaction showed more convincingly that economies that are highly economically vulnerable could still register economic success as a result of resilience-conducive policies associated with good economic, political, social and environmental governance.

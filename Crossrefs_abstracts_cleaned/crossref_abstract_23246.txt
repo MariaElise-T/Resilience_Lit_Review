@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Resilience or the ability of our body to cope with daily-life challenges has been proposed as a new definition of health, with restoration of homeostasis as target resultant of various physiological stress responses. Challenge models may thus be a sensitive measure to study the body’s health. The objective of this study was to select a dietary challenge model for the assessment of inflammatory resilience. Meals are a challenge to metabolic homeostasis and are suggested to affect inflammatory pathways, yet data in literature are limited and inconsistent.
+
+
+Method
+The kinetic responses of three different dietary challenges and a water control challenge were assessed on various metabolic and inflammatory markers in 14 healthy males and females using a full cross-over study design. The dietary challenges included glucose (75 g glucose in 300 ml water), lipids (200 ml whipping cream) and a mix of glucose and lipids (same amounts as above), respectively. Blood samples were collected at baseline and at 0.5, 1, 2, 4, 6, 8 and 10 h after consumption of the treatment products. Inflammation (IFNγ, IL-1β, IL-6, IL-8, IL-10, IL-12p70, TNF-α CRP, ICAM-1, VCAM-1, SAA, E-selectin, P-selectin, thrombomodulin, leukocytes, neutrophils, lymphocytes) and clinical (e.g. glucose, insulin, triglycerides) markers as well as gene expression in blood cells and plasma oxylipin profiles were measured.
+
+
+Results
+All three dietary challenges induced changes related to metabolic control such as increases in glucose and insulin after the glucose challenge and increases in triglycerides after the lipid challenge. In addition, differences between the challenges were observed for precursor oxylipins and some downstream metabolites including DiHETrE’s and HODE’s. However, none of the dietary challenges induced an acute inflammatory response, except for a modest increase in circulating leukocyte numbers after the glucose and mix challenges. Furthermore, subtle, yet statistically significant increases in vascular inflammatory markers (sICAM-1 and sVCAM-1) were found after the mix challenge, when compared to the water control challenge.
+
+
+Conclusions
+This study shows that dietary glucose and lipid challenges did not induce a strong acute inflammatory response in healthy subjects, as quantified by an accurate and broad panel of parameters.

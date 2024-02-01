@@ -1,0 +1,15 @@
+Abstract
+Objectives
+Mindfulness skills have been shown to be an important attribute for mental and general well-being. The neurohormone oxytocin and resilience are established biological and psychological factors that are associated with mindfulness. This study aimed to elucidate the interaction of resilience and oxytocin levels as independent variables to predict mindfulness facets in university students.
+
+Method
+Participants (n = 96) were university students in Hong Kong who previously participated in a resilience study with no history of mental health disorders or substance abuse. Mindfulness and resilience were measured using the Chinese versions of the Five Facet Mindfulness Questionnaire and the Connor-Davidson Resilience Scale, respectively. Saliva samples were collected to measure oxytocin levels using an enzyme-linked immunosorbent assay kit. A moderator analysis was conducted to assess the associations between oxytocin levels (predictor) and the five facets of mindfulness (outcomes) under the moderation effect of resilience (moderator).
+
+Results
+The interaction between oxytocin and resilience levels predicted the nonreactivity facet of mindfulness. Specifically, oxytocin levels significantly and positively predicted nonreactivity in participants with low or moderate resilience levels, but not in those with high resilience.
+
+Conclusion
+This study showed the influence of oxytocin levels on mindfulness was significant only in participants with low or moderate resilience, suggesting that oxytocin might act on other factors instead of influencing mindfulness in individuals with high levels of resilience.
+
+Pre-registration
+This study is not pre-registered.

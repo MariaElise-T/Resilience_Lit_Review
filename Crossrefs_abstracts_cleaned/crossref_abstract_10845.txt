@@ -1,0 +1,18 @@
+Abstract. Robustness and resilience are concepts in systems thinking that have grown in
+importance and popularity. For many complex social-ecological systems,
+however, robustness and resilience are difficult to quantify and the
+connections and trade-offs between them difficult to study. Most studies have
+either focused on qualitative approaches to discuss their connections or
+considered only one of them under particular classes of disturbances. In this
+study, we present an analytical framework to address the linkage between
+robustness and resilience more systematically. Our analysis is based on a
+stylized dynamical model that operationalizes a widely used conceptual
+framework for social-ecological systems. The model enables us to rigorously
+delineate the boundaries of conditions under which the coupled system can be
+sustained in a long run, define robustness and resilience related to these
+boundaries, and consequently investigate their connections. The results
+reveal the trade-offs between robustness and resilience. They also show how
+the nature of such trade-offs varies with the choice of certain policies
+(e.g., taxation and investment in public infrastructure), internal stresses,
+and uncertainty in social-ecological settings.
+                    

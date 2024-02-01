@@ -1,0 +1,16 @@
+
+Background:
+            The RESILIENT randomized trial of endovascular therapy for anterior circulation stroke within 8 hours of symptom onset excluded subjects with poor collaterals. We analyzed the relationship of CTA collateral grade with respect to subsequent infarct growth over 24 hours, with and without revascularization.
+          
+
+Methods:
+            The independent RESILIENT imaging and angiography core lab scored baseline CTA Tan collateral grade (0-3) and CT ASPECTS scores at baseline and 24 hours in both arms. ASITN collateral grade (0-4) was adjudicated prior to revascularization in the interventional arm. Descriptive statistics, univariate, multivariate and ANOVA related CTA collateral grade with 24-hour infarct growth.
+          
+
+Results:
+            210/221 (95%) subjects (median age 67 (53-76) years; 48% women) in RESILIENT had baseline single-phase CTA available to the core lab evaluation. CTA collateral grade was complete (grade 3) in 106 (50.5%), grade 2 (50-99%) in 68 (32.4%), grade 1 (1-49%) in 36 (17.1%), with no collaterals in 0. The extent of collaterals was more robust in the medical arm (55.0% grade 3, 31.4% grade 2, 13.3% grade 1) compared to the interventional arm (45.7% grade 3, 33.3% grade 2, 21.0% grade 1), although this finding was not statistically significant (p=0.11). In the interventional arm, the extent of CTA collaterals had a strong correlation with ASITN grade (ρ=0.59, p<0.001). Overall, the median baseline ASPECTS (n=210) was 8 (range 6-10) with CTA grade 3 collaterals, 8 (5-9) with grade 2 and 7 (2-10) with grade 1. For 24-hour ASPECTS (n=202) the median was 6 (range 0-10) with CTA grade 3 collaterals, 4 (0-8) with grade 2 and 3 (0-7) with grade 1. 24-hour infarct growth (n=200) was greater in those with worse collateral grade, p<0.001. 24-hour infarct growth was more pronounced in the medical arm compared with subjects treated with revascularization in the interventional arm, p<0.01. Multivariate analysis showed that 24-hour infarct growth was worse in the medical arm, despite more extensive collaterals at baseline p=0.001.
+          
+
+Conclusions:
+            In RESILIENT, CTA collateral grade was linked with higher ASPECTS and less infarct growth over 24 hours. Despite more robust collaterals in the medical arm, greater infarct growth occurred without revascularization or endovascular therapy.
+          

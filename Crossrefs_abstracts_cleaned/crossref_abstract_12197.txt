@@ -1,0 +1,18 @@
+Abstract
+Background
+Burnout negatively impacts the personal and professional life of nurses. Job stress and resilience have been determined to be associated with nurse burnout. Given the importance of communication competence in operating room (OR) nurses, the associations of job stress, resilience, and communication competence with burnout have not been examined.
+
+Purpose
+To determine the relationships of job stress, resilience, and communication competence to burnout of OR nurses in South Korea.
+
+Methods
+This was a cross-sectional, descriptive study of 146 OR nurses. A series of self-reported questionnaires was used to assess job stress, resilience, communication competence, and burnout. Pearson correlation coefficient and a hierarchical linear regression were used for data analysis.
+
+Results
+Communication competence was correlated with resilience (r = 0.65, p < .001) and burnout (r = -0.44, p < .001), and resilience was correlated with burnout (r = -0.48, p < .001). Resilience (β = -0.22, p = .027) and communication competence (β = -0.33, p < .001) were associated with burnout of OR nurses in a hierarchical linear regression (F = 6.28, p < .001).
+
+Conclusions
+Increased resilience and communication competence were associated with lower burnout of perioperative nurses. To prevent and reduce burnout of OR nurses, it is necessary to develop and implement a program targeting for communication competence and resilience.
+
+Implications for nursing management
+Nurse leaders should provide programs fostering communication competence and resilience to OR nurses and encourage them to actively participate in such job trainings.

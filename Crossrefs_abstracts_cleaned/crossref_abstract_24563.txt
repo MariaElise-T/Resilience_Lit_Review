@@ -1,0 +1,23 @@
+
+Background
+Stress-related mental disorders are highly prevalent and pose a substantial burden on individuals and society. Improving strategies for the prevention and treatment of mental disorders requires a better understanding of their risk and resilience factors. This multicenter study aims to contribute to this endeavor by investigating psychological resilience in healthy but susceptible young adults over 9 months. Resilience is conceptualized in this study as the maintenance of mental health or quick recovery from mental health perturbations upon exposure to stressors, assessed longitudinally via frequent monitoring of stressors and mental health.
+
+
+Objective
+This study aims to investigate the factors predicting mental resilience and adaptive processes and mechanisms contributing to mental resilience and to provide a methodological and evidence-based framework for later intervention studies.
+
+
+Methods
+In a multicenter setting, across 5 research sites, a sample with a total target size of 250 young male and female adults was assessed longitudinally over 9 months. Participants were included if they reported at least 3 past stressful life events and an elevated level of (internalizing) mental health problems but were not presently affected by any mental disorder other than mild depression. At baseline, sociodemographic, psychological, neuropsychological, structural, and functional brain imaging; salivary cortisol and α-amylase levels; and cardiovascular data were acquired. In a 6-month longitudinal phase 1, stressor exposure, mental health problems, and perceived positive appraisal were monitored biweekly in a web-based environment, while ecological momentary assessments and ecological physiological assessments took place once per month for 1 week, using mobile phones and wristbands. In a subsequent 3-month longitudinal phase 2, web-based monitoring was reduced to once a month, and psychological resilience and risk factors were assessed again at the end of the 9-month period. In addition, samples for genetic, epigenetic, and microbiome analyses were collected at baseline and at months 3 and 6. As an approximation of resilience, an individual stressor reactivity score will be calculated. Using regularized regression methods, network modeling, ordinary differential equations, landmarking methods, and neural net–based methods for imputation and dimension reduction, we will identify the predictors and mechanisms of stressor reactivity and thus be able to identify resilience factors and mechanisms that facilitate adaptation to stressors.
+
+
+Results
+Participant inclusion began in October 2020, and data acquisition was completed in June 2022. A total of 249 participants were assessed at baseline, 209 finished longitudinal phase 1, and 153 finished longitudinal phase 2.
+
+
+Conclusions
+The Dynamic Modelling of Resilience–Observational Study provides a methodological framework and data set to identify predictors and mechanisms of mental resilience, which are intended to serve as an empirical foundation for future intervention studies.
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/39817

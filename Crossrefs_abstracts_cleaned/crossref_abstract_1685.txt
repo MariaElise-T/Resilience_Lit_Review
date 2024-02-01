@@ -1,0 +1,15 @@
+
+Purpose
+This paper aims to report on a study to investigate the feasibility of thermal reflective multi-layer system (TRMS) as support for disaster resilience.
+
+
+Design/methodology/approach
+It is an innovative insulation system, developed from space engineering studies, is lightweight and is characterised by a thermal conductivity of 0.038 W/mK, making it a strong candidate for inexpensive shelter after disaster design.
+
+
+Findings
+One of the results of this study is a proposal for the air shelter house, a new concept design of a shelter based on TRMS.
+
+
+Originality/value
+The combined use of TRMS with the low cost of building materials and a 3D printer system for the construction joints provides a good compromise between building cost and energy efficiency performance. Such an innovative design supports disaster resilience during response, reconstruction and mitigation phases, and it is suitable for a wide variety of cultural and environmental situations where energy efficiency is important.

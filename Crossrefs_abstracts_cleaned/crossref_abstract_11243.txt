@@ -1,0 +1,9 @@
+Abstract
+Purpose of Review
+Traditionally, electric grid planning aims to maintain safe, reliable, efficient, and affordable service. As policies, societal goals, and technologies evolve, new objectives for power system planners emerge, creating a need for system performance benchmarking of these objectives.
+
+Recent Findings
+With a focus on resilience and energy equity as emerging grid objectives, this review provides an overview of emerging trends in resilience and energy equity metrics, current examples of their coupling in grid planning, and observations on both metric trajectories.
+
+Summary
+The simultaneous development of resilience and energy equity metrics reveals common themes relating to the scale of measurement, the use of socioeconomic inputs, a departure from utility-controlled metrics, and the need for broader stakeholder inclusion in decision-making processes. This work presents a timely discussion of the essential nature of metrics for grid planners as equity and resilience policies and goal transition from abstract objectives to accountability mechanisms and real dollar investments.

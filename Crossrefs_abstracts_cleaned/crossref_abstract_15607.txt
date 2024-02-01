@@ -1,0 +1,13 @@
+Abstract
+Background
+Thalassemia is a genetic and chronic congenital disorder composed of physical problems that severely impair patients’ cognitive, psychological and social processes. The rehabilitation of patients is particularly important because they have a high rejection sensitivity and low resilience. The present study aimed to determine the effects of mindfulness-based stress reduction counseling on rejection sensitivity and resilience in patients with thalassemia referring to a dedicated disease center in Kerman, Iran.
+
+Materials and methods
+We conducted this randomized controlled trial study on 66 patients with thalassemia referring to the Kerman Thalassemia Center in Kerman, Iran in 2022. Using convenience sampling and the stratified block randomization method, we divided the samples into two intervention (N = 33) and control (N = 33) groups. Patients in the intervention group received eight 60-min online mindfulness-based stress reduction counseling sessions (one session per week) and completed the Rejection Sensitivity Questionnaire, Adult Version (A-RSQ) and the Conner-Davidson Resilience Scale before and after the intervention. We collected data using the SPSS 25 trial and descriptive statistics (frequency, percentage, mean and standard deviation), Chi-Square test, Independent-samples t-test, Fisher's exact test, and Analysis of covariance. A significance level of 0.05 was considered.
+
+
+Results
+We found no significant difference in the mean scores of rejection sensitivity between the intervention (8.75 ± 4.86) and control groups (9.87 ± 5.16) before the intervention. Mean scores for rejection sensitivity were 10.23 ± 4.94 in the control group and 7.11 ± 4.13 in the intervention group after the intervention, the results of analysis of covariance showed that, there was a significant difference between two groups after the intervention (F = 7.52, p = 0.008). The mean resilience score in the control group was 63.69 ± 19.43, while it was 67.72 ± 17.98 in the intervention group before the intervention and there is no significant difference between them, but the mean resilience scores in the control and intervention groups were 58.06 ± 22.81 and 74.18 ± 17.46 after the intervention, respectively. the results of analysis of covariance showed that, there was a significant difference between two groups after the intervention (F = 9.28, p = 0.004).
+
+Conclusion
+Our results showed that in addition to other physical treatments, mindfulness-based stress reduction counseling was effective in reducing the patient’s rejection sensitivity and increasing the resilience of patients with thalassemia.

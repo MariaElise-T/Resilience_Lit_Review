@@ -1,0 +1,15 @@
+Abstract
+Background
+A reliable and valid instrument that accurately measures resilience is crucial for the development of interventions to enhance the resilience of adolescents and promote their positive mental well-being. However, there is a lack of adolescent resilience assessment tools with good psychometric properties suitable for use with Hong Kong participants. This study aimed to evaluate the psychometric properties of the traditional Chinese version of the Resilience Scale-14.
+
+Methods
+Between October 2017 and January 2018, a stratified random sample of 1816 Grade 7 (aged 11–15 years) students from all 18 districts of Hong Kong were invited to participate in the study. Subjects were asked to respond to the traditional Chinese version of the Resilience Scale-14, the Center for Epidemiologic Studies Depression Scale for children, and Rosenberg’s Self-Esteem Scale. The psychometric properties, including the internal consistency, content validity, convergent and discriminant validity, exploratory and confirmatory factor analyses, and test–retest reliability of the Resilience Scale-14 were assessed.
+
+Results
+The translated scale demonstrated good internal consistency and test–retest reliability, excellent content validity, and appropriate convergent and discriminant validity. The results of the confirmatory factor analysis supported the two-factor structure of the traditional Chinese version of the Resilience Scale-14.
+
+Conclusions
+Results suggest that the translated scale is a reliable and valid tool to assess the resilience of young Hong Kong Chinese adolescents. Healthcare professionals could use the newly translated scale to assess resilience levels among Hong Kong adolescents and develop interventions that can help them combat mental health problems and lead healthier lives.
+
+Trial registration
+Clinicaltrials.gov ID NCT03538145 (retrospectively registered on May 15, 2018).

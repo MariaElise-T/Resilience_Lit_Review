@@ -1,0 +1,12 @@
+Abstract
+Background
+Hospitals are the biggest users of the health system budgets. Policymakers are interested in improving hospital efficiency while maintaining their performance during the economic crisis. This study aims at analysing the hospitals’ policy solutions during the economic crisis using the resilience system capacities framework.
+
+Method
+This study is a systematic review. The search strategy was implemented on the Web of Science, PubMed, Embase, Scopus databases, and Econbiz search portal. Data were extracted and analysed through the comparative table of resilience system capacities framework and the World Health Organization (WHO) health system’s six building blocks (i.e., leadership and governance, service delivery, health workforce, health systems financing, health information systems, and medicines and equipment).
+
+Findings
+After the screening, 78 studies across 36 countries were reviewed. The economic crisis and adopted policies had a destructive effect on hospital contribution in achieving Universal Health Coverage (UHC). The short-term absorptive capacity policies were the most frequent policies against the economic crisis. Moreover, the least frequent and most effective policies were adaptive policies. Transformative policies mainly focused on moving from hospital-based to integrated and community-based services. The strength of primary care and community-based services, types and combination of hospital financing systems, hospital performance before the crisis, hospital managers’ competencies, and regional, specialties, and ownership differences between hospitals can affect the nature and success of adopted policies.
+
+Conclusion
+The focus of countries on short-term policies and undermining necessary contextual factors, prioritizing efficiency over quality, and ignoring the interrelation of policies compromised hospital contribution in UHC.

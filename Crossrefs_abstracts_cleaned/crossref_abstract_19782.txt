@@ -1,0 +1,23 @@
+
+Background
+The evolution of an undergraduate medical student into an adept physician is perpetual, demanding, and stressful. Several studies have indicated medical students have a higher predominance of mental health problems than other student groups of the same age, where medical education acts as a stressor and may lead to unfavorable consequences such as depression, burnout, somatic complaints, decrease in empathy, dismal thoughts about quitting medical school, self harm and suicidal ideation, and poor academic performance. It is imperative to determine the association between important psychoeducational variables and academic performance in the context of medical education to comprehend the response to academic stress.
+
+
+Objective
+The aim of this proof-of-concept study is to determine the relationship between resilience, learning approaches, and stress-coping strategies and how they can collectively predict achievement in undergraduate medical students. The following research questions will be addressed: What is the correlation between the psychoeducational variables resilience, learning approaches, and stress-coping strategies? Can academic performance of undergraduate medical students be predicted through the construction of linear relationships between defined variables employing the principles of empirical modeling?
+
+
+Methods
+Study population will consist of 234 students registered for the MBBS (Bachelor of Medicine, Bachelor of Surgery) at Mohammed Bin Rashid University of Medicine and Health Sciences distributed over 4 cohorts. Newly registered MBBS students will be excluded from the study. Various psychoeducational variables will be assessed using prevalidated questionnaires. For learning approaches assessment, the Approaches and Study Skills Inventory for Students questionnaire will be employed. Resilience and stress-coping strategies will be evaluated using the Wagnild-Young resilience scale and a coping strategies scale derived from Holahan and Moos’s Coping Strategies Scale, respectively. Independent variables (resilience, stress-coping strategies, and learning approaches) will be calculated. Scores will be tested for normality by using the Shapiro-Wilk test. An interitem correlational matrix of the dependent and independent variables to test pairwise correlation will be formed using Pearson bivariate correlation coefficients. Regression models will be used to answer our questions with type II analyses of variance in tests involving multiple predictors. Regression analyses will be checked for homogeneity of variance (Levine test) and normality of residuals and multicollinearity (variance inflation factor). Statistical significance will be set at 5% (alpha=.05). Effect sizes will be estimated with 95% CIs.
+
+
+Results
+Psychoeducational instruments in the form of validated questionnaire have been identified in relation to the objectives. These questionnaires have been formatted for integration into Google forms such that they can be electronically distributed to the consenting participants. We submitted the proposal to MBRU institutional review board (IRB) for which exemption has been awarded (application ID: MBRU-IRB-2019-013). There is no funding in place for this study and no anticipated start date. Total duration of the proposed research is 12 months.
+
+
+Conclusions
+Psychoeducational instruments used in this study will correlate resilience, stress-coping strategies, and learning approaches to academic performance of undergradudate medical students. To the best of our knowledge, no study exploring the multidimensional association of key psychoeducational variables and academic performance in undergraduate medical students has been pursued. Investigated variables, resilience, learning approaches, and stress-coping strategies, are individual traits, however; students’ learning history before they joined MBRU is unknown, so our research will not be able to address this specific aspect.
+
+
+International Registered Report Identifier (IRRID)
+PRR1-10.2196/14677

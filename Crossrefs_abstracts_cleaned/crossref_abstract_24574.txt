@@ -1,0 +1,13 @@
+Abstract
+Background
+As health systems struggle to tackle the spread of Covid-19, resilience becomes an especially relevant attribute and research topic. More than strength or preparedness, to perform resiliently to emerging shocks, health systems must develop specific abilities that aim to increase their potential to adapt to extraordinary situations while maintaining their regular functioning.
+Brazil has been one of the most affected countries during the pandemic. In January 2021, the Amazonas state's health system collapsed, especially in the city of Manaus, where acute Covid-19 patients died due to scarcity of medical supplies for respiratory therapy.
+
+Methods
+This paper explores the case of the health system's collapse in Manaus to uncover the elements that prevented the system from performing resiliently to the pandemic, by carrying out a grounded-based systems analysis of the performance of health authorities in Brazil using the Functional Resonance Analysis Method. The major source of information for this study was the reports from the congressional investigation carried out to unveil the Brazilian response to the pandemic.
+
+Results
+Poor cohesion between the different levels of government disrupted essential functions for managing the pandemic. Moreover, the political agenda interfered in the abilities of the system to monitor, respond, anticipate, and learn, essential aspects of resilient performance.
+
+Conclusions
+Through a systems analysis approach, this study describes the implicit strategy of "living with Covid-19", and an in-depth view of the measures that hampered the resilience of the Brazilian health system to the spread of Covid-19.

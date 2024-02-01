@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to review the features and challenges of the flood relief chain, identifies administrative measures during and after the flood occurrence and prioritizes them using two machine learning (ML) and analytic hierarchy process (AHP) methods. This paper aims to provide a prioritization program based on flood conditions that optimize flood management and improves society’s resilience against flood occurrence.
+
+
+Design/methodology/approach
+The collected database in this paper has been trained by using ML algorithms, including support vector machine (SVM), Naive Bayes (NB) and k-nearest neighbors (kNN), to create a prioritization program. Furthermore, the administrative measures in two phases of during and after the flood are prioritized by using the AHP method and questionnaires completed by experts and relief workers in flood management.
+
+
+Findings
+Among the ML algorithms, the SVM method was selected with 91.37% accuracy. The prioritization program provided by the model, which distinguishes it from other existing models, considers five conditions of the flood occurrence to prioritize actions (season, population affected, area affected, damage to houses and human lives lost). Therefore, the model presents a specific plan for each flood with different occurrence conditions.
+
+
+Research limitations/implications
+The main limitation is the lack of a comprehensive data set to determine the effect of all flood conditions on the prioritization program and the relief activities that have been done in previous flood disasters.
+
+
+Originality/value
+The originality of this paper is the use of ML methods to prioritize administrative measures during and after the flood and presents a prioritization program based on each flood’s conditions. Therefore, through this program, the authority and society can control the adverse impacts of flood more effectively and help to reduce human and financial losses as much as possible.

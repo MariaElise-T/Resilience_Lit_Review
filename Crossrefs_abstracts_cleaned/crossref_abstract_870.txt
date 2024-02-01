@@ -1,0 +1,22 @@
+Contemporary organizations face a rising incidence of disasters, extreme events and crises (Boin and Lodge 2021). In parallel, the socioeconomic landscape is increasingly complex which intensifies inter-organizational dependencies and the risk of cascading failures (Ansell et al. 2021). To survive and perhaps thrive, organizations must cultivate organizational resilience (OR). However, their capacity to do so is currently curtailed. Although it is widely recognized that the performance of organizational processes, functions and capabilities is closely aligned to the effectiveness of associated information technology systems (ITS) (Schultze and Orlikowski 2004); models of OR have yet to elucidate mechanisms by which ITS contribute to resilience capabilities (Annarelli and Nonino 2016). In this conceptual paper, which is a work in progress, we reflect upon the nature of interdependencies and tensions between ITS resilience (ITSR) and OR. We adopt a deductive, qualitative approach to systematically compare OR & ITSR. Our comparative analysis is informed by OR models described by Duchek (2020), Sheffi and Rice Jr (2005) and Weick and Sutcliffe (2011), while for ITSR, we employ the Reactive Manifesto as interpreted by Bonér et al. (2014) and Debski et al. (2017).
+Figs 1, 2 illustrate our interpretation of each resilience construct.
+As may be seen on Fig. 1 we interpret OR as a three-phase process including preemptive, proactive & recovery phases each possessing associated resilience capabilities. The process may occasion three operational outcomes (or levels of resilience maturity). 1st , 2nd and 3rd order resilience denote organizations that when a disruption occurs,
+
+
+
+merely maintain key operations,
+
+
+rapidly achieve a return to normal operations or
+
+
+that capitalize on a disruption to achieve an improved post-shock trajectory respectively.
+
+
+
+merely maintain key operations,
+rapidly achieve a return to normal operations or
+that capitalize on a disruption to achieve an improved post-shock trajectory respectively.
+ITSR is interpreted via the notion, reactive scalability which describes an organizational system that is both responsive and scalable (Debski et al. 2017) i.e., which is able to rapidly achieve (responsive) appropriately dimensioned (scalable) adaptations to intra and extra-organizational changes.
+Our analysis employs a multi-level approach. The preliminary results of the analysis are presented in Table 1.
+Upon completion of the analysis, we will elaborate theoretical propositions pertaining to the relationship between the OR and ITSR constructs to guide subsequent empirical research to bridge the theoretical divide between these in reality, indissociable resilience constructs. This comprises the main anticipated contribution.

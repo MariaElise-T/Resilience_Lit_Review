@@ -1,0 +1,5 @@
+Objective: The current study has been designed to investigate the relationship between social isolation and mental illness and to identify the mediating role of resilience coping in adults.
+Methods: The online data of 600 adults were recruited through a snowball sampling strategy. The age range of the participants was 18 years and above (M=25.64, SD=7.635). UCLA Loneliness Scale (Russel, 1996), Brief Resilience Coping Scale (Sinclair & Wallston, 2004), and Depression, Anxiety and Stress Scale (Lovibond & Lovibond, 1995) were used. 
+Results: Findings showed a significant positive association between social isolation and mental illness, while a negative association between social isolation and resilience coping. Additionally, resilience coping mediated the association between social isolation and mental illness [95% CI (LLCI: .0132, ULCI: .0802)].
+Conclusion: Social isolation poses significant mental health risks and resilience coping can be used to improve mental illnesses.
+KEYWORDS: COVID-19, Social Isolation, Resilience Coping, Depression, Anxiety, Stress, Mental illness.

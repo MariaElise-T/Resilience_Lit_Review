@@ -1,0 +1,19 @@
+
+Background
+Youth with traumatic injury experience elevated risk for behavioral health disorders, yet posthospital monitoring of patients’ behavioral health is rare. The Telehealth Resilience and Recovery Program (TRRP), a technology-facilitated and stepped access-to-care program initiated in hospitals and designed to be integrated seamlessly into trauma center operations, is a program that can potentially address this treatment gap. However, the TRRP was originally developed to address this gap for mental health recovery but not substance use. Given the high rates of substance and opioid use disorders among youth with traumatic injury, there is a need to monitor substance use and related symptoms alongside other mental health concerns.
+
+
+Objective
+This study aimed to use an iterative, user-guided approach to inform substance use adaptations to TRRP content and procedures.
+
+
+Methods
+We conducted individual semistructured interviews with adolescents (aged 12-17 years) and young adults (aged 18-25 years) who were recently discharged from trauma centers (n=20) and health care providers from two level 1 trauma centers (n=15). Interviews inquired about reactions to and recommendations for expanding TRRP content, features, and functionality; factors related to TRRP implementation and acceptability; and current strategies for monitoring patients’ postinjury physical and emotional recovery and opioid and substance use. Interview responses were transcribed and analyzed using thematic analysis to guide new TRRP substance use content and procedures.
+
+
+Results
+Themes identified in interviews included gaps in care, task automation, user personalization, privacy concerns, and in-person preferences. Based on these results, a multimedia, web-based mobile education app was developed that included 8 discrete interactive education modules and 6 videos on opioid use disorder, and TRRP procedures were adapted to target opioid and other substance use disorder risk. Substance use adaptations included the development of a set of SMS text messaging–delivered questions that monitor both mental health symptoms and substance use and related symptoms (eg, pain and sleep) and the identification of validated mental health and substance use screening tools to monitor patients’ behavioral health in the months after discharge.
+
+
+Conclusions
+Patients and health care providers found the TRRP and its expansion to address substance use acceptable. This iterative, user-guided approach yielded novel content and procedures that will be evaluated in a future trial.

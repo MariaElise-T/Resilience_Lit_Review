@@ -1,0 +1,12 @@
+Abstract
+Introduction
+The residuals approach, in which residual scores from regression models are used as a proxy for resilient functioning, offers great potential to increase understanding of resilience processes. However, its application in child and adolescent wellbeing research is limited to date. We use this approach to examine how adversity exposure impacts later wellbeing (life satisfaction, and internalising mental health difficulties) in the early-to-middle adolescence transition; whether gender and ethnic differences in resilience exist; which internal and external factors confer protective effects for resilience; and, whether the protective effect of these factors differs by gender and level of adversity exposure.
+
+Method
+Secondary analysis of the #BeeWell longitudinal data set (N = 12,130 adolescents, aged 12/13 at T1 and 13/14 at T2, representative of Greater Manchester, England) was undertaken, using a series of linear regressions to establish adversity indices for later wellbeing, before assessing the protective effects of internal and external factors on resilience.
+
+Results
+Multiple adversity factors (e.g., home material deprivation, sexuality discrimination, bullying) were found to impact later wellbeing. Girls and white adolescents presented lower levels of resilience than their peers. Internal psychological factors (self-esteem, emotional regulation, optimism) consistently conferred the strongest protective effects, but behavioural/activity factors (physical activity, sleep) also contributed to resilience. Among external factors, friendships and peer support were the most salient. Physical activity yielded stronger protective effects among boys (compared to girls). Effects of protective factors were stronger among those at lower (compared to higher) levels of adversity exposure.
+
+Conclusion
+The residuals approach can make a considerable contribution to our understanding of the interplay between adversity exposure and access to protective factors in determining adolescent wellbeing outcomes. Moreover, its application provides clear implications for policy and practice in terms of prevention (of adversity exposure) and intervention (to facilitate resilience).

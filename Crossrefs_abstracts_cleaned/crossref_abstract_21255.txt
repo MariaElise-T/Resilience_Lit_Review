@@ -1,0 +1,12 @@
+Abstract
+Background
+The COVID-19 pandemic has confronted working parents with an accumulation of stressors regarding changes in work, family, and social life, putting their mental health at risk. Stressors include altered working conditions such as working from home or changes in working hours as well as the difficulty to reconcile work and childcare due to the closure of childcare facilities. The present study examined the relationship of psychosocial work stress (i.e., work-privacy conflict and effort-reward imbalance at work) and depressive symptoms in working parents and whether this association was moderated by individual resilience.
+
+Methods
+Data of the present study (n = 452) were collected in Germany between May and June 2020 as part of the DREAMCORONA study. A subsample of working mothers (n = 191) and fathers (n = 261) completed the subscale for work-privacy conflict (WPC) of the Copenhagen Psychosocial Questionnaire, the Effort-Reward Imbalance (ERI) Questionnaire, the Connor-Davidson Resilience Scale (CD-RISC), and the Edinburgh Postnatal Depression Scale (EPDS). Multiple linear regression analyses including moderation were performed, controlling for gender, working hours per week, and a lifetime history of depression as potential confounders.
+
+Results
+Both WPC (β = 0.336, p < .001) and ERI (β = 0.254, p < .001) were significantly associated with depressive symptoms. Resilience moderated the relationship between ERI and depressive symptoms (β = − 0.101, p = .018), indicating that higher resilience weakened the relationship. However, this effect was not found regarding the relationship between WPC and depressive symptoms (β = 0.055, p = .167).
+
+Conclusions
+The results highlight the need for measures to reduce psychosocial work stressors such as WPC and ERI during the COVID-19 pandemic on the one hand and to promote resilience on the other hand. The findings partially support the potential protective role of resilience buffering the association between psychosocial stress and mental health in working parents. Longitudinal studies are needed to confirm this effect.

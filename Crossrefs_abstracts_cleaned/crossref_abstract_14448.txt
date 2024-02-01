@@ -1,0 +1,16 @@
+ABSTRACT:
+
+Objectives:
+Families of children with autism spectrum disorder (ASD) report high levels of stress and poor psychological functioning. Resilience serves to buffer these challenges. Little is known about the factors associated with resilience in these families.
+
+
+Methods:
+Data from the National Survey of Children's Health (NSCH) 2016 were used to investigate independent child, parent, and health care factors associated with resilience in families of children with ASD. We used the NSCH's family resilience composite derived from 4 survey questions focused on (1) communication, (2) working together to solve problems, (3) drawing on strengths, and (4) staying hopeful during difficult times. We defined family resilience as high or low based on the number of questions answered “all of the time” or “most of the time” versus “some of the time” or “none,” respectively. Using survey weights, univariate and multivariate logistic regression analyses identified associations of child, parent, and health care factors with low family resilience.
+
+
+Results:
+We analyzed data representing 1151 children with ASD. Low resilience was reported in 32% of families. Low family resilience was significantly associated with parent factors such as not having someone to turn to for support, cutting work hours, and feeling “child hard to care for”; child ASD-related factors such as moderate ASD severity; and health care factors such as lack of satisfaction in communications with providers.
+
+
+Conclusion:
+The findings highlight specific vulnerabilities in families of children with ASD that are associated with low family resilience. Intervention approaches that have the ability to improve overall family resilience should be carefully considered.

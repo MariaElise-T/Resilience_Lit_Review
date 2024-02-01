@@ -1,0 +1,16 @@
+Abstract
+
+Background and Aims
+Improving drought adaptation is more pressing for crops such as sugarcane, rice, wheat and maize, given the high dependence of these crops on irrigation. One option for enhancing adaptation to water limitation in plants is by transgenic approaches. An increasing number of genes that are associated with mechanisms used by plants to cope with water scarcity have been discovered. Genes encoding proteins with unknown functions comprise a relevant fraction of the genes that are modulated by drought. We characterized a gene in response to environmental stresses to gain insight into the unknown fraction of the sugarcane genome. Scdr2 (Sugarcane drought-responsive 2) encodes a small protein and shares highly conserved sequences within monocots, dicots, algae and fungi.
+
+
+Methods
+Plants overexpressing the Scdr2 sugarcane gene were examined in response to salinity and drought. Measurements of the gas exchange parameters, germination rate, water content, dry mass and oxidative damage were performed. Seeds as well as juvenile plants were used to explore the resilience level of the transgenic plants when compared with wild-type plants.
+
+
+Key Results
+Overexpression of Scdr2 enhanced germination rates in tobacco seeds under drought and salinity conditions. Juvenile transgenic plants overexpressing Scdr2 and subjected to drought and salinity stresses showed higher photosynthesis levels, internal CO2 concentration and stomatal conductance, reduced accumulation of hydrogen peroxide in the leaves, no penalty for photosystem II and faster recovery after submission to both stress conditions. Respiration was not strongly affected by both stresses in the Scdr2 transgenic plants, whereas wild-type plants exhibited increased respiration rates.
+
+
+Conclusions
+Scdr2 is involved in the response mechanism to abiotic stresses. Higher levels of Scdr2 enhanced resilience to salinity and drought, and this protection correlated with reduced oxidative damage. Scdr2 confers, at the physiological level, advantages to climate limitations. Therefore, Scdr2 is a potential target for improving sugarcane resilience to abiotic stress.

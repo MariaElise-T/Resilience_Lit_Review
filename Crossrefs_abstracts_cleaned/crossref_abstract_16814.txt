@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+The aim of this study was to evaluate the resilience of girls with central precocious puberty (CPP) during treatment with a gonadotropin-releasing hormone agonist (GnRHa) and compare these results with their healthy peers.
+
+
+Methods
+The Connor–Davidson Resilience Scale (CD-RISC) is a self-report scale used to quantify resilience, which is divided into seven subgroups (hardiness, coping, flexibility, purpose, optimism, regulation of emotion and cognition (REC), and self-efficacy). Fifty-one girls with CPP receiving GnRHa treatment and 51 healthy controls were involved in the study. Anthropometric measurements were evaluated and CD-RISC was performed at least six months after the initiation of GnRHa treatment.
+
+
+Results
+There was no statistically significant difference between the anthropometric evaluations of girls with CPP and the control group. Similarly, the total score and subgroup scores of patients with CPP and the control group showed no statistically significant difference. In the correlation analysis, there was a weak negative correlation between height and flexibility (r=−0.314 p=0.025), height SDS and flexibility (r=−0.254 p=0.092), height SDS, and purpose (r=−0.285 p=0.058). Also, there was a weak negative correlation between REC and weight (r=−0.435 p=0.003), REC and weight SDS (r=−0.461 p=0.002), REC and height (r=−0.269 p=0.077), REC and height SDS (r=−0.322 p=0.033), REC and BMI (r=−0.289 p=0.058), and REC and BMI SDS (r=−0.353 p=0.019).
+
+
+Conclusions
+The resilience of girls with CPP treated with GnRHa was found to be similar to their healthy peers. The early diagnosis of the disease and adequate treatment may decrease the discrepancy of somatic changes between girls with CPP and their peers, which may help them to overcome the stress of CPP and long-term treatment.

@@ -1,0 +1,13 @@
+Abstract
+Background
+The impact of the coronavirus disease 2019 (COVID) is worse among those with fewer financial resources, in jobs not amenable to remote work, and in denser living conditions. People of color are more likely to be among these vulnerable groups. Although race itself is a social construction and not based on underlying genetic/biological differences, this study investigated race/ethnicity differences in the negative repercussions of COVID and in the benefits of psychological and social resources.
+
+
+Methods
+This cross-sectional, web-based study (n = 4817) was administered to a heterogeneous United States sample in Spring/Summer 2020. Information was gathered on the following COVID-specific variables: Infection Status, Coping with Lockdown, Social Support, Post-traumatic Growth, Interpersonal Conflict, Worry about Self, Financial Impact on Family, Lack of Money, Inadequate Access to Healthcare, and Housing Instability. Resilience was operationalized as the ability to maintain a sense of wellness in the face of the pandemic, using the DeltaQuest Wellness measure. Multivariate linear regression (adjusting for demographics) and propensity-matched cohort analysis (matched on demographics) evaluated the impact of COVID-specific variables on Wellness in separate models for Whites and Non-Whites.
+
+Findings
+Both sets of models retained the same COVID-specific variables and explained about half of the variance in wellness. Coping with Lockdown, Social Support, and Post-traumatic Growth were associated with higher levels of Wellness in both Whites and Non-Whites, while Interpersonal Conflict and Worry about Self were associated with lower levels of Wellness. While these associations are similar, Non-Whites reported worse levels of some positive resources (e.g., social support) and more challenging levels of negative stressors (e.g., interpersonal, worry, financial). Non-Whites also reported much higher levels of post-traumatic growth.
+
+Conclusion
+COVID was a source of worry and even conflict, but also unlocked people’s resources in use of health-enhancing behavioral strategies, social support, and renewed gratitude for sources of personal meaning and value. The similar relationships between Whites and Non-Whites on wellness and COVID-specific stressors across racial groups underscore that race is a social construction, not a biological fact. Focusing on a renewed appreciation for sources of personal meaning, and particularly faith, seemed to buffer much of the COVID-related stress for Non-Whites.

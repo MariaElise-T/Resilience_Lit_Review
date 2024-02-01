@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to investigate the influence of supply chain (SC) complexity on the effectiveness of resilience capabilities in mitigating SC disruptions. Hypotheses about direct and moderating influences of complexity on resilience capabilities and performance change after disruption are built and quantitatively tested.
+
+
+Design/methodology/approach
+Partial least square-based structural equation modelling with formative constructs was used as an overall approach. Secondary data on SC disruptions, related performance change and resilience practices were collected from multiple sources through a predefined procedure. The collected data were systematically encoded prior to performing statistical analysis.
+
+
+Findings
+SC structural complexity is found to have a significant positive relation with performance improvement after disruption, along with resilience capability; it also positively moderates the resilience–performance link.
+
+
+Research limitations/implications
+The SC complexity factors the authors considered in this study do not include dynamic forms because of the nature of data collected. Future research may attempt to include and test whether the results of this study also hold when additional complexity parameters are taken into account.
+
+
+Practical implications
+Managers are often trying to reduce SC complexity. This study implies that some level of complexity is beneficial also for a better recovery of operational performance affected because of disruption. Resilience capabilities become more effective when leveraged on complexity in the SC.
+
+
+Originality/value
+This is the first study to empirically investigate the influence of SC complexity on the resilience–performance link.

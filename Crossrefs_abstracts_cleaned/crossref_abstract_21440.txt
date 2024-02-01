@@ -1,0 +1,18 @@
+Abstract
+Key message
+We applied a modified forest gap model (ForClim) to depict changes in stand water transpiration via density reduction as a forest adaptation strategy. This approach is the key to analyzing the ecological resilience to drought, stress-induced mortality, and economic efficiency of managed mixed forest stands in Central Europe. The results show that specific geographic conditions and forest composition define the optimal stand density of drought-resilient forests.
+
+Context
+Reducing stand density has been recognized as a valid strategy to increase forest resilience to drought. Moreover, to develop adaptive management strategies (AMS) under climate change, it is crucial to consider not only drought resilience but also the economic efficiency of alternative AMS proposed to alleviate drought effects.
+
+Aims
+To analyze how decreased inter-tree competition among overstorey trees affects stand vulnerability to drought and its expected yield.
+
+Methods
+We integrated experimental thinning data and historical responses to drought years in a climate-sensitive forest gap model, ForClim. We tested a business as usual (BAU) and three alternative AMS (“do-nothing,” low- and high-intensity overstorey removal) in mixed stands of Norway spruce (Picea abies), silver fir (Abies alba), and European beech (Fagus sylvatica) along an elevational gradient of 520–1020 m a.s.l. in Central Europe.
+
+Results
+High-intensity overstorey removal in mixed stands of all three species considerably increased forest volume growth resilience to drought and decreased stress-induced mortality by two-thirds vis à vis a “do-nothing” strategy. In sites including only conifer species, forest resilience was equally improved by high- and low-intensity overstorey removal compared to that in the BAU strategy. Regarding the timber economy, high-intensity overstorey removal resulted in a higher economic revenue of mixed stands (~ 22% higher net present value than other strategies) on the high-elevation sites (> 1000 m a.s.l.).
+
+Conclusion
+Modifying forest density and structure by overstorey removal is principally suitable to increase forest resilience to drought and improve its economic efficiency. The magnitude of the effect however depends on the geographical setting and forest composition.

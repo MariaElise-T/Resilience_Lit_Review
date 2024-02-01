@@ -1,0 +1,8 @@
+
+Abstract
+
+Introduction: Every disastrous event, by definition, results in infrastructure damage and a large number of casualties that exceeds the community’s ability to respond effectively and quickly to the human and material losses. The ability to respond quickly, adequately, and effectively in emergency situations, by changing the activities performed and to restore the state of functionality in a short time before disaster is defined as hospital disaster resilience. In order for disaster resilience to be granted for effective and adequate disaster response, the medical staff has to be aware of and trained on medical specialists’ activities described in the disaster medical support plan.
+Aim: To analyse the medical professionals’ awareness of hospital disaster medical support plan and its impact on the disaster resilience.
+Materials and methods: A 55-question anonymous survey was conducted among 295 hospital professionals in Plovdiv Region between July and September 2019. The respondents were questioned about their awareness of the medical activities described in the hospital disaster medical support plan. Descriptive statistics was used to calculate the relative percentages, along with the Pearson chi-square test and Spearman’s correlation. All descriptive and analytical analyses were performed using SPSS v. 21 for Windows XP.
+Results: Thoroughly performed analyses of the respondents’ answers presents that the medical specialists in Plovdiv Region are not well informed about the hospital disaster medical support plan’s content.
+Conclusions: Poor knowledge about the required changes into every medical specialist’s activities in case of a disaster has a negative impact on the hospital resilience.

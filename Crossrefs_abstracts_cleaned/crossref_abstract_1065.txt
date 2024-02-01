@@ -1,0 +1,19 @@
+
+Background
+Complementary and integrative health (CIH) is the foundation of the Department of Veterans Affairs (VA) Whole Health System program (WH), including Transforming Health and Resiliency through Integration of Values-based Experiences (THRIVE). The global COVID-19 pandemic prompted an urgent need to provide services such as THRIVE while following guidelines for social distancing.
+
+
+Objective
+The objective of this paper was to describe the systematic implementation of THRIVE using an electronic delivery model.
+
+
+Methods
+The study involved an observational clinical program implementation project using the RE-AIM framework to contextualize the implementation strategies and results, and then the implementation of an electronically delivered CIH group medical appointment program (eTHRIVE).
+
+
+Results
+Clinical staff transitioned to 100% electronic delivery of the THRIVE curriculum using the new eTHRIVE delivery model. The current electronic delivery model, eTHRIVE, has effectively enrolled 10-12 veterans per cohort, with 8 cohorts, totaling 87 veterans to date. eTHRIVE attrition has been 6% (5/87) since initiation.
+
+
+Conclusions
+The current climate of the VA WH programmatic initiative combined with the public health needs during a global pandemic prompted the move of THRIVE program into an electronic format to broaden scalability and reach.

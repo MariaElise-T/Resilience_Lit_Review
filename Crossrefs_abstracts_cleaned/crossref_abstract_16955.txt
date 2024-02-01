@@ -1,0 +1,15 @@
+Abstract
+Background
+The COVID-19 pandemic has challenged nurses and healthcare systems globally and raised major concerns for nurses’ wellbeing and working conditions. This cross-sectional and correlational study design aims to describe nurses’ resilience, job satisfaction, intentions to leave and quality of care, and explain their relationships during the COVID-19 pandemic.
+
+Methods
+Data were collected from Registered Nurses (N = 437) in Finland through an electronic survey between February 2021 and June 2021. The questionnaire covered background characteristics (seven questions), resilience (four questions), job satisfaction (one question), intention to leave nursing (two questions), quality of care (one question), and requiring factors of the work (eight questions). The background variables and dependent variables were analyzed and presented using descriptive statistics. Structural equation modeling was used to explain dependent variables relationships. The study followed procedures recommended in the STROBE Statement for cross-sectional studies in efforts to maximize the quality of reporting results.
+
+Results
+The surveyed nurses evaluated their resilience by mean score 3.92, more nurses had considered leaving nursing during the pandemic (16%) than before (2%). Nurses´ mean score of requiring factors of the work was 2.56 and overall job satisfaction 5.8. Structural equation modeling revealed that resilience affected their job satisfaction, which also influenced the quality of care, that was rated moderate (7.46 out of 10). Structural equation modeling indices of goodness of fit were NFI = 0.988, RFI = 0.954, IFI = 0.992, TLI = 0.97, CFI = 0.992, and RMSEA = 0.064. No direct relationship was found between resilience and intention to leave nursing.
+
+Conclusions
+Good resilience promoted delivery of high-quality care by nurses during the pandemic and enhanced their job satisfaction, which reduced their intention to leave nursing. The results indicate that it is important to develop interventions that support nurses’ resilience.
+
+Impact
+The study highlights the importance of nurses’ resilience during the pandemic, while job satisfaction may decrease and requiring factors of the work increase. Given the number of nurses who consider leaving nursing, there are clear needs to develop effective strategies to maintain quality healthcare with resilient, committed nursing staff.

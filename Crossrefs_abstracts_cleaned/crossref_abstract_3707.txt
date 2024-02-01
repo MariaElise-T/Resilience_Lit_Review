@@ -1,0 +1,19 @@
+
+Purpose
+This paper aims to examine the impact of health and other exogenous shocks on stock markets in Africa. Particularly, the authors examined the resilience of the major stock markets in 12 African economies during the recent global pandemic.
+
+
+Design/methodology/approach
+This paper uses the recent panel vector autoregressive model, which enables us to capture the response of stock markets to shocks in COVID-19, commodity markets and exchange rate. For robustness, the authors also analysed the panel Granger causality test. Data was obtained for the period ranging from 2 January 2020 to 31 December 2020.
+
+
+Findings
+The results show that the growth in COVID-19 cases and deaths do not have any substantial impact on the stock market returns of these economies. In terms of commodity markets, the authors find that gold price has a negative contemporaneous effect on stock returns, but the effect fizzles out around the fifth day while crude oil price, on the other hand, has a significant positive simult aneous impact on stock returns and also converges around the fifth day. The authors further find that the exchange rate has a contemporaneous and nonlinear effect on stock returns and seems to be more dramatic when compared with the other variables. Overall, the results show that stock markets in Africa appear to be flexible and resilient against the COVID-19 outbreak but are affected by other exogenous shocks such as volatile commodity prices and the foreign exchange market. The effect is, however, short-lived – between one to five days.
+
+
+Practical implications
+Following the study’s findings, policies should be put in place to support financial markets by way of hedging against commodity instability and securing domestic currency financing. Policymakers are also recommended to concentrate on managing the uncertainties around their exchange rate markets and develop robust and efficient domestic financial markets to encourage local and foreign investors.
+
+
+Originality/value
+Several studies have been carried out on the effects of disasters (such as the COVID-19 pandemic) on stock markets, but only a few studies have examined the resilience of stock markets to health and other exogenous shocks. This study’s attempt is not only to examine the impact of COVID-19 health shocks on stock markets but also to analyse the resilience of the sampled stock markets. The authors also analyse the resilience of stock markets to commodity markets and exchange rates shocks.

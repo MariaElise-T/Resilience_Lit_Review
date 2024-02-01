@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Coronavirus disease 2019 (COVID-19) caused major disruptions in healthcare services worldwide. Yet, little is known about the association between perceived disruption in healthcare services and socio-demographic factors, pre-existing health conditions as well as concurrent physical and psychological symptoms.
+
+
+Methods
+Leveraging data from the Icelandic COVID-19 National Resilience Cohort, we performed a repeated measure analysis among 15 754 participants who responded to the question on perceived disruption in healthcare services from December 2020 to July 2021, to explore its association with socio-demographic factors, health indicators and conditions. Furthermore, we performed a longitudinal analysis among 7848 participants with two repeated measures to explore the association between timing and duration of perceived disruption in healthcare services and changes in depression, anxiety, sleep quality and somatic symptoms.
+
+
+Results
+The prevalence of perceived disruption in healthcare services slightly decreased over time (P &lt; 0.01). Perceived disruption in healthcare services was more prevalent among individuals with pre-existing health conditions, i.e. history of psychiatric disorders (prevalence ratio = 1.59, 95% confidence interval 1.48–1.72) and chronic somatic conditions [1.40 (1.30–1.52)]. However, no increase in the prevalence of perceived disruption in healthcare services was observed among individuals diagnosed with COVID-19 [0.99 (0.84–1.18)]. Moreover, we found that emerging perceived disruption in healthcare services was associated with an increase in symptoms of mental illness during the pandemic (βs 0.06–0.68).
+
+
+Conclusions
+A disruption in healthcare services during the COVID-19 pandemic was reported by vulnerable groups, while the Icelandic healthcare system managed to maintain accessible services to individuals with COVID-19.

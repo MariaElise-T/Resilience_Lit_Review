@@ -1,0 +1,7 @@
+Summary
+
+The ongoing nitrogen (N) deposition has led to profound changes in aboveground and belowground ecosystems. However, the stability of plant and soil microbial community toward N addition in terms of resistance and resilience is less understood.
+We established a long‐running field trial (2008–2018) in a series of N applications in combination with a mowing and fencing (unmown) treatment in a semiarid steppe. We assessed the resistance via ongoing N treatment of one subplot and the resilience via discontinuing N treatment in another to promote natural recovery since 2014.
+Plant resistance was negatively correlated with N application rate, while microbial resistance was independent of N rate. Mowing significantly reduced plant resistance and resilience, reduced soil microbial resistance but improved its resilience. Generally, plants are more resilient but less resistant to N than soil microbes. The two sides of resistance–resilience relationship were revealed: trade‐offs exist between resistance and resilience for both plants and microbes at the community level; and trade‐offs between resistance and resilience cannot be scaled down to species/group level.
+This study provided an important theoretical basis for the recovery and conservation of semiarid steppe and new insight into resistance–resilience relationship.
+

@@ -1,0 +1,27 @@
+
+Purpose
+This paper aims to increase the resilience of building systems, especially roofs, in relation to climate changes. The focus is on Mediterranean cities, where, often, there is no regulation about these issues. Therefore, it is necessary to define resilience indicators through comparative studies of adaptive roof solutions to mitigate overheating in summer.
+
+
+Design/methodology/approach
+Through software simulations and data comparison, a specific methodological approach is used to analyze the resilience levels of different roof solutions (phase change materials, aerogel, green and cool roof), starting from energy efficiency as a prerequisite of resilience. Moreover, a case study of a historic existing building in a southern Italian town is examined.
+
+
+Findings
+The findings show the best strategies for building systems, especially for roofs, to decrease urban heat island effects according to the defined resilience indicators against overheating mitigation.
+
+
+Research limitations/implications
+Other building systems, such as facades, also have to be investigated in relation to climate change mitigation.
+
+
+Practical implications
+The implementation of resilient solutions that can also affect neighborhood for urban heat island mitigation.
+
+
+Social implications
+Because of resilience indicators definition, it is easier to introduce economic incentives according to reference thresholds and to increase community involvement.
+
+
+Originality/value
+The paper provides a new approach for the evaluation of technological solutions for a building from a resilience point of view, which has energy efficiency as pre-condition.

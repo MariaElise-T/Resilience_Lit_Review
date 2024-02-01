@@ -1,0 +1,14 @@
+
+            Inherent symmetry of a quantum system may protect its otherwise fragile states. Leveraging such protection requires testing its robustness against uncontrolled environmental interactions. Using 47 superconducting qubits, we implement the one-dimensional kicked Ising model, which exhibits nonlocal Majorana edge modes (MEMs) with
+            
+
+
+
+ℤ
+2
+
+
+
+
+            parity symmetry. We find that any multiqubit Pauli operator overlapping with the MEMs exhibits a uniform late-time decay rate comparable to single-qubit relaxation rates, irrespective of its size or composition. This characteristic allows us to accurately reconstruct the exponentially localized spatial profiles of the MEMs. Furthermore, the MEMs are found to be resilient against certain symmetry-breaking noise owing to a prethermalization mechanism. Our work elucidates the complex interplay between noise and symmetry-protected edge modes in a solid-state environment.
+          

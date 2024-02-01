@@ -1,0 +1,15 @@
+
+Purpose
+The catastrophic state of the COVID-19 pandemic outbreak has seized off all the operations along with the globe. It has not only distressed the socio-economic structure of the world but also mounted enormous pressure on the governmental bodies to save the lives of the people. Despite this, severe impacts of the same have been observed on the small and medium manufacturing enterprises (SMME) practices, resulting in the economic downturn. The purpose of this study is to facilitate the SMME’s with circular economy (CE) practices to overcome the negative impacts of the COVID-19 outbreak on their supply chain (SC) operations.
+
+
+Design/methodology/approach
+The presented work identified seven critical impacts as criteria of the novel COVID-19 pandemic on the Indian SMME and seeks to identify the relief measures in the CE paradigm by identifying 13 prominent enablers to CE as alternatives. Experts’ opinions have been engaged to detect CE enablers’ proficiency to overpower the pandemic impact through a questionnaire-based survey. The obtained data have been clustered and analyzed through a hybrid approach of entropy weight method and grey relational analysis to find an organized ranking of the enablers.
+
+
+Findings
+Current work spotlights the SMME’s losses due to SC disruptions and declined consumption patterns. The waste augmentation during the pandemic era has also been grouped in this study, primarily associating with the SC’s waste generation. The result of the performed analysis shows that the CE enabler “waste reduction and its transformation into a resource (E1)” have achieved the highest rank among all the considered enablers, governing a higher demand toward reusing waste for better handling the post COVID era state of affairs.
+
+
+Originality/value
+The presented study aimed to suppress the pandemic impact and generate anticipation of the CE concept, which might help the managers and policymakers identify its urgent need to achieve a stable and resilient SC system in a post COVID period. Presented work is peculiar, aiming to accelerate the CE adaption with green material usage in the industrial sector to suppress the present miserable condition and to achieve industrial and social sustainability for a better-foreseen future.

@@ -1,0 +1,27 @@
+
+Background
+College students are at elevated risk for developing mental health problems and face specific barriers around accessing evidence-based treatment. Web-based interventions that focus on mental health promotion and strengthening resilience represent one possible solution. Providing support to users has shown to reduce dropout in these interventions. Further research is needed to assess the efficacy and acceptability of these interventions and explore the viability of automating support.
+
+
+Objective
+This study investigated the feasibility of a new web-based resilience program based on positive psychology, provided with human or automated support, in a sample of college students.
+
+
+Methods
+A 3-armed closed pilot randomized controlled trial design was used. Participants were randomized to the intervention with human support (n=29), intervention with automated support (n=26), or waiting list (n=28) group. Primary outcomes were resilience and well-being, respectively measured by the Connor–Davidson Resilience Scale and Pemberton Happiness Index. Secondary outcomes included measures of depression and anxiety, self-esteem, and stress. Outcomes were self-assessed through online questionnaires. Intention-to-treat and per-protocol analyses were conducted.
+
+
+Results
+All participants demonstrated significant improvements in resilience and related outcomes, including an unexpected improvement in the waiting list group. Within- and between-group effect sizes ranged from small to moderate and within-group effects were typically larger for the human than automated support group. A total of 36 participants began the program and completed 46.46% of it on average. Participants were generally satisfied with the program and found it easy to use.
+
+
+Conclusions
+Findings support the feasibility of the intervention. Preliminary evidence for the equal benefit of human and automated support needs to be supported by further research with a larger sample. Results of this study will inform the development of a full-scale trial, from which stronger conclusions may be drawn.
+
+
+Trial Registration
+International Standard Randomized Controlled Trial Number (ISRCTN) 11866034; http://www.isrctn.com/ISRCTN11866034
+
+
+International Registered Report Identifier (IRRID)
+RR2-10.1016/j.invent.2019.100254

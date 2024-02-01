@@ -1,0 +1,13 @@
+Abstract
+Background
+Hospital managers are responsible for the delivery of organisational strategy, development of clinical services and maintaining quality standards. There is limited research on hospital managers, in particular how stress manifests and impacts managers and the presence of individual resilience. Managers must work closely with clinical colleagues, however these relationships can be hindered by the perception of stereotyping and differing priorities. This study aimed to explore the working environment of hospital managers, focusing upon the unique stresses faced, psychological safety and the presence of resilience.
+
+Methods
+This study utilised mixed methodology using an embedded approach. Participants were purposively recruited from all levels of hospital management within one National Health Service Trust in London, United Kingdom. An exploration of managers experiences was undertaken using semi-structured qualitative interviews. Psychological safety and individual resilience were additionally assessed using validated surveys. Qualitative data were analysed iteratively using inductive thematic analysis, and triangulated with quantitative data. Kruskal-Wallis statistical analysis was performed to evaluate differences in resilience and psychological safety according to seniority and background experience.
+
+Results
+Twenty-two managers were recruited and interviewed, with 20 returning completed surveys. Key findings from the thematic analysis included the importance of good working relationships with clinical colleagues, the persistence of some stereotyping, and feeling unsupported in times of challenge. Stresses described included the bureaucracy involved when delivering change, conflict with colleagues and target driven expectations.
+Participants described their own psychological safety as lower than desired, supported by quantitative data; but recognised its importance and strived to create it within their own teams. Sixteen participants had ‘normal’ scores for resilience, with senior managers more likely to have higher scores than those more junior (p=0.011).
+
+Conclusion
+Positive working relationships, high psychological safety and individual resilience are important for organisational safety and individual wellbeing. Our data illustrate unique stressors faced by hospital managers, provide detail on sometimes challenging working relationships, and demonstrate scope to improve both the psychological safety and resilience of those in managerial positions. A map for senior healthcare leaders was constructed, facilitating the identification of modifiable areas within their organisation to promote good working relationships and improve the working environment of hospital managers. 

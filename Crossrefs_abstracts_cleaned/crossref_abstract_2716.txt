@@ -1,0 +1,12 @@
+Abstract
+Background
+Psychological distress is common in maintenance hemodialysis patients, and high psychological resilience can promote psychological well-being. The current research focuses on psychological resilience protective factors such as family resilience and social support. However, the trajectories of psychological resilience, family resilience, and social support over time and their longitudinal relationships in maintenance hemodialysis patients have not been fully explored yet. Therefore, this study aims to explore the longitudinal relationship between these factors.
+
+Methods
+Patients who received regular hemodialysis treatment for more than three months at dialysis centers of three tertiary hospitals in Zhejiang, China, were recruited from September to December 2020. A total of 252 patients who met the inclusion and exclusion criteria completed three follow-up surveys, including social support, family resilience, and psychological resilience assessments. A repeated measures ANOVA was used to explore differences in their respective scores at different time points. The cross-lagged analysis was performed in AMOS using the maximum likelihood method to examine the the reciprocal predictive relationships between these factors.
+
+Results
+Social support and psychological resilience remained relatively stable over time, whereas family resilience indicated a little increasing trend. According to the cross-lagged analysis, higher T1 social support predicted higher family resilience at T2 [β = 0.123, 95% CI (0.026–0.244)]. Further, the effects of T2 social support to T3 family resilience [β = 0.194, 95%CI (0.039–0.335)] and psychological resilience [β = 0.205, 95%CI (0.049–0.354)] were significant. Finally, the effects of T2 family resilience to T3 social support [β = 0.122, 95%CI (0.010–0.225)] and psychological resilience [β = 0.244, 95%CI (0.119–0.359)] were also significant.
+
+Conclusions
+The study showed that the directionality of the relationship appears to be from social support or family resilience to patients’ psychological resilience but not vice versa. This finding reminds healthcare professionals to emphasize the vital role of social and family resources in providing appropriate support and interventions for maintenance hemodialysis patients to promote psychological resilience and mental health development.

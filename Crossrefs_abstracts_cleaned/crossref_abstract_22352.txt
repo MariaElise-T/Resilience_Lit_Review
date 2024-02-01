@@ -1,0 +1,18 @@
+Abstract
+Aims
+To examine the mediating effect of resilience between social support and compassion fatigue among intern nursing and midwifery students during COVID-19.
+
+Background
+Compassion fatigue has become exceedingly common among intern nursing and midwifery students, especially during the COVID-19 pandemic. Social support and resilience can help intern nursing and midwifery students control their negative emotions, reduce compassion fatigue, and increase their well-being. However, the mediating effect of resilience between social support and compassion fatigue remains unclear.
+
+Design
+A multicentre cross-sectional survey.
+
+Methods
+A total of 307 intern nursing and midwifery students were recruited from November 2020 to February 2021 in tertiary grade A hospitals in China. Structural equation modelling was applied to analyse the mediating effects of resilience between social support and compassion fatigue. The Social Support Rating Scale, the 10-item Connor-Davidson Resilience Scale, and the Chinese version of the Compassion Fatigue Short Scale were used to collect data. The hypothetical path model was tested by using IBM SPSS version 26.0 and AMOS version 26.0 software.
+
+Results
+Intern nursing and midwifery students had moderate compassion fatigue. Social support positively affected resilience (β = 0.514, p < 0.01). Social support negatively affected compassion fatigue (β = − 0.310, p < 0.01), while resilience negatively affected compassion fatigue (β = − 0.283, p < 0.01). Resilience played a mediating role between social support and compassion fatigue.
+
+Conclusion
+Social support can directly affect the compassion fatigue of intern nursing and midwifery students during COVID-19 and indirectly through resilience. Stronger resilience can reduce compassion fatigue. Accordingly, resilience-based interventions should be developed to reduce compassion fatigue.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Although childhood abuse is considered to be related to borderline personality disorder (BPD), few studies have elaborated on the mediating role of self-esteem and resilience in it. Thus, the present study aimed to explore the potential mediating role of resilience and self-esteem between childhood abuse and BPD.
+
+Methods
+This cross-sectional study was conducted with 4034 college students in Anhui Province, China. Participants were asked to complete Chinese versions of the following instruments: Childhood Trauma Questionnaire–Short Form (CTQ-SF), Mclean Screening Instrument for Borderline Personality Disorder (MSI-BPD), Connor-Davidson Resilience Scale (CD-RISC), and Rosenberg Self-Esteem Scale (RSES). Structural equation modeling (SEM) was used to test the mediation effects.
+
+Results
+Resilience and self-esteem were found to be mediators of all three types of childhood abuse (emotional abuse, physical abuse and sexual abuse) when the types were examined separately; however, when all three types of childhood abuse were entered into the model simultaneously, neither the indirect effects nor direct effects of physical abuse or sexual abuse were found to be significant, only the association between emotional abuse and BPD features was partially mediated by resilience and self-esteem.
+
+Conclusions
+Self-esteem and resilience mediate the links between childhood abuse and BPD features, and emotional abuse is uniquely associated with BPD features.

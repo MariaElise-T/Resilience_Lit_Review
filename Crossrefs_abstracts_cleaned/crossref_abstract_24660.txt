@@ -1,0 +1,13 @@
+Abstract
+Objective
+Resilience instruments specific to family caregivers (FCs) in cancer are limited. This study was designed to validate the 10-item Resilience Scale Specific to Cancer (RS-SC-10) in FCs using multidimensional item response theory (MIRT) analysis.
+
+
+Methods
+382 FCs were enrolled from Be Resilient to Cancer Program (BRCP) and administered with RS-SC-10 and 36-item Short Form Health Survey (SF-36). MIRT was performed to evaluate item parameters while Generalized Additive Model (GAM) and Latent Profile Analysis (LPA) were performed to test the non-linear relationship between resilience (RS-SC-10) and Quality of Life (QoL, SF-36).
+
+Results
+RS-SC-10 retained 10 items with high multidimensional discrimination, monotonous thresholds and its original two-factor structure (Generic and Shift-Persist). Four latent resilience subgroups were identified and a non-linear dose–response pattern between resilience and QoL was confirmed (per-SD increase OR = 1.62, 95% CI 1.16–2.13, p = 0.0019).
+
+Conclusion
+RS-SC-10 is a brief and suitable resilience instrument for FCs in cancer. The resilience screening of patients and FCs can be performed simultaneously in clinical practice.

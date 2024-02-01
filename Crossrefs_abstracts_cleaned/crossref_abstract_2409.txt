@@ -1,0 +1,20 @@
+Abstract
+
+OBJECTIVE
+To investigate the association of demographic, career, and lifestyle factors with resilience and the association of resilience with mental health outcomes in Canadian veterinarians.
+
+
+SAMPLE
+1,130 veterinarians in clinical practice across Canada.
+
+
+PROCEDURES
+An online questionnaire was used to collect participant data and included 5 validated psychometric scales to evaluate resilience (through the Connor-Davidson Resilience Scale [CD-RISC]), perceived stress (through the Perceived Stress Scale), emotional distress (through the Hospital Anxiety and Depression Scale), burnout (through the Maslach Burnout Inventory), and secondary traumatic stress (through the Professional Quality of Life Scale). A multivariable linear regression model was used to investigate associations between CD-RISC scores and demographic, career, and lifestyle characteristics. Univariable linear regression models were used to assess the relationship between resilience scores and other mental health outcomes.
+
+
+RESULTS
+The strongest positive association was between CD-RISC score and overall health. The level of satisfaction with support from friends and workplace resources had positive associations with the CD-RISC score. The presence of mental illness had the strongest negative association with the CD-RISC score. Being married, working in a small animal practice, or having an associate role were negatively associated with the CD-RISC score. The CD-RISC score had negative associations with scores for perceived stress, anxiety, depression, burnout, and secondary traumatic stress.
+
+
+CONCLUSIONS AND CLINICAL RELEVANCE
+Models provided evidence for the role of resilience in protecting against negative mental health outcomes in veterinarians. Both personal and workplace factors were associated with resilience, presenting opportunities for intervention at each of these levels.

@@ -1,0 +1,12 @@
+Abstract
+Background
+The grass-roots civil servants are the final implementers and executors of a series of government policies and the fundamental force for social stability and harmonious development. However, the mental health problems of grass-roots civil servants have not got full attention. This study aimed to assess the impact of resilience on anxiety and depression among grass-roots civil servants in China.
+
+Method
+From Oct to Dec 2019, 302 civil servants completed a series of questionnaires. The Civil Servants Stress Scale (CSSS) was used to assess the stress of civil servants. The Self-rating Depression Scale (SDS) and the Self-rating Anxiety Scale (SAS) were used to evaluate the depression and anxiety of participants, respectively. The resilience of civil servants evaluates by the Connor-Davidson Resilience Scale (CD-RSCI). We conducted the moderating and mediating analysis on the impact of resilience on depression and anxiety in grass-roots civil servants.
+
+Results
+There were significant differences in gender, education, position, relationship with coworkers, physical exercise, and monthly income for stress in grass-roots civil servants (P < 0.05). Resilience can negatively regulate the stress of grass-roots civil servants, and an effective mediator and moderator in the relationship between stress and anxiety and depression and the mediating effect ratios of 7.77 and 22.79%.
+
+Conclusion
+Resilience has moderating and mediating effects on the relationship between stress and depression, and anxiety. The negative effects of stress on depression and anxiety of grass-roots civil servants can be buffered by resilience as a dynamic moderator directly and indirectly. These findings contribute to society and government better understand the mental health status of grass-roots civil servants and provide references and guidance for the formulation of corresponding management and prevention measures.

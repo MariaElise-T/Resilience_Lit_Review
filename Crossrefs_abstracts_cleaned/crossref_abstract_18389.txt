@@ -1,0 +1,14 @@
+Purpose
+The purpose of this study was to examine the impact of strategic leadership (SL) on business operational resilience (OR) in the hotel industry in Egypt, namely, during and after the pandemic. This investigation also aimed to explore the mediating function of crisis response strategies (CRSs) and organisational e-readiness (Oe-R) in this relationship.
+
+Design/methodology/approach
+The researchers conducted a cross-sectional study using a questionnaire as the primary data collection method. Using partial least squares structural equation simulation (PLS-SEM), the study used a comprehensive sample that targets the general managers of all five-star hotels in Egypt.
+
+Findings
+Results indicated that SL has a positive impact on CRSs and Oe-R. Furthermore, the results reveal a positive influence of Oe-R on both CRSs and hotel OR. On the other hand, CRSs do not influence hotel OR. The findings showed that CRSs fully mediate the link between SL and OR. However, CRSs do not serve as a mediator between Oe-R and OR. Furthermore, the findings showed that Oe-R partially mediates the link between SL and both OR and CRSs.
+
+Practical implications
+The study yields unique and valuable theoretical and practical insights to guide hotel leaders and managers towards adaptive recovery and resilience in turbulent and crisis-ridden environments by demonstrating that the combined mediating function of CRS and Oe-R is more effective in strengthening the relationship between SL and OR.
+
+Originality/value
+This study represents a pioneering investigation that establishes a correlation between SL and OR, either through direct or indirect means. The research examines the involvement of CRSs and Oe-R as collaborative mediators in this relationship. Previous studies undertaken in the hotel industry and service sector have not investigated this specific element.

@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+Early-life disadvantage (ELD) relates to lower late-life cognition. However, personality factors, including having an internal locus of control (LOC) or a conscientious personality, relate to resilience and effective stress coping. We explore whether personality factors convey resilience against the negative effects of ELD on cognition, by gender, in Mexico.
+
+
+Methods
+Using the 2015 Mexican Health and Aging Study, we estimated expected cognition using multiple ELD markers to identify a subsample in the lowest quartile of expected cognition given ELD (n = 2,086). In this subsample, we estimated cross-sectional associations between personality and having above-median observed cognitive ability (n = 522) using logistic regression.
+
+
+Results
+Among those in the lowest quartile of expected cognition, a more internal LOC (β = 0.32 [men] and β = 0.44 [women]) and conscientious personality (β = 0.39 [men] and β = 0.17 [women]) were significantly associated with having above-median cognitive ability in models adjusted for demographic confounders. Larger benefits of conscientiousness were observed for men than women. Associations between personality and having above-median cognitive ability remained statistically significant after further adjustment for health, stress, and cognitive stimulation variables, regardless of gender.
+
+
+Discussion
+Personality factors may convey resilience among individuals who experienced ELD, potentially breaking the link between ELD and worse late-life cognition. Structural factors and gender roles may affect how much women benefit from personality factors.

@@ -1,0 +1,16 @@
+Abstract
+
+Study Objectives
+Sleep restriction (SR) leads to performance decrements across cognitive domains but underlying mechanisms remain largely unknown. The impact of SR on performance in rodents is often assessed using tasks in which food is the reward. Investigating how the drives of hunger and sleep interact to modulate performance may provide insights into mechanisms underlying sleep loss-related performance decrements.
+
+
+Methods
+Three experiments were conducted in male adult Wistar rats to assess: (1) effects of food restriction on performance in the simple response latency task (SRLT) across the diurnal cycle (n = 30); (2) interaction of food restriction and SR (11 h) on SRLT performance, sleep electroencephalogram, and event-related potentials (ERP) (n = 10–13); and (3) effects of food restriction and SR on progressive ratio (PR) task performance to probe the reward value of food reinforcement (n = 19).
+
+
+Results
+Food restriction increased premature responding on the SRLT at the end of the light period of the diurnal cycle. SR led to marked impairments in SRLT performance in the ad libitum-fed group, which were absent in the food-restricted group. After SR, food-restricted rats displayed a higher amplitude of cue-evoked ERP components during the SRLT compared with the ad libitum group. SR did not affect PR performance, while food restriction improved performance.
+
+
+Conclusions
+Hunger may induce a functional resilience to negative effects of sleep loss during subsequent task performance, possibly by maintaining attention to food-related cues.

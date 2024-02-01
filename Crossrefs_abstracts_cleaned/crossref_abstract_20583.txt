@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+To assess the degree of resilience in patients with complex regional pain syndrome (CRPS) 1, to explore the relationship between resilience and patient-related outcome measurements and to describe a pattern of clinical manifestations associated with low resilience.
+
+
+Methods
+This study presents a cross-sectional analysis of baseline information collected from patients enrolled in a single center study between February 2019 and June 2021. Participants were recruited from the outpatient clinic of the Department of Physical Medicine & Rheumatology of the Balgrist University Hospital, Zurich, Switzerland. We used linear regression analysis to explore association of resilience with patient reported outcomes at baseline. Furthermore, we explored the impact of significant variables on the low degree resilience using logistic regression analysis.
+
+
+Results
+Seventy-one patients (females 90.1%, mean age 51.2 ± 12.9 years) were enrolled. There was no association between CRPS severity and the level of resilience. Quality of Life was positively correlated with resilience, as was pain self-efficacy. Pain catastrophizing was inversely correlated with the level of resilience. We observed a significant inverse association between anxiety, depression and fatigue and the level of resilience. The proportion of patients with a low resilience increased with higher level of anxiety, depression and fatigue on the PROMIS-29, without reaching statistical significance.
+
+
+Conclusion
+Resilience seems to be an independent factor in CRPS 1 and is associated with relevant parameters of the condition. Therefore, caretakers may screen the current resilience status of CRPS 1 patients to offer a supplementary treatment approach. Whether specific resilience training modifies CRPS 1 course, requires further investigations.

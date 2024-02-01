@@ -1,0 +1,27 @@
+Abstract. Our knowledge of the properties of precipitation and
+clouds over their life cycles has progressed with the rapid development of
+satellite observations. However, previous studies have focused on the life
+cycle evolution of the macroscale features of precipitation and clouds,
+whereas the evolution of the microphysical properties of precipitation and
+clouds over their life cycles is yet to be determined. One of the reasons
+for this lack of knowledge is the fact that there is no single dataset
+providing both the three-dimensional structure of precipitation and the
+relevant life cycle properties. We identified initial rain clusters (RCs)
+from the Global Precipitation Measurement (GPM) 2ADPR dataset and mesoscale
+convective systems (MCSs) from the Himawari-8 Advanced Himawari Image (AHI)
+gridded product. Based on the contours of the initial RCs and MCSs, we then
+carried out a series of resilient processes, including filtration,
+segmentation, and consolidation, to obtain the final RCs. The final RCs had
+a one-to-one correspondence with the relevant MCS. We extracted the RC area,
+central location, average radar reflectivity profile, average droplet size
+distribution profile, and other precipitation information from the contours
+of the final RCs and GPM 2ADPR dataset. The life cycle evolution of the MCS
+area, location, and cloud-top brightness temperature were retrieved from the
+corresponding MCSs and their tracks from Himawari-8 observations. The final
+dataset provides both three-dimensional precipitation information and life
+cycle information of precipitating clouds during April to June 2016–2020
+over eastern Asia. This dataset facilitates studies of the life cycle
+evolution of precipitation and provides a good foundation for convection
+parameterizations in precipitation simulations. The dataset used in this
+paper is freely available at https://doi.org/10.5281/zenodo.6198716 (Zhang et al., 2022).
+                    

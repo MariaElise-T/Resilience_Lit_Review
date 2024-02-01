@@ -1,0 +1,19 @@
+
+Background
+Resilience is a person’s mental ability to deal with challenging situations adaptively and is a crucial stress management skill. Psychological resilience and finding ways to cope in crises is a highly relevant topic considering the COVID-19 pandemic, which enforced quarantine, social distancing measures, and school closures worldwide. Parents and children are currently living with increased stress due to COVID-19. We need to respond with immediate ways to strengthen children’s resilience. Internet-based cognitive behavioral therapy interventions for children's stress management overcome accessibility issues such as the inability to visit mental health experts owing to COVID-19 movement restrictions. An interactive learning environment was created, based on the preventive program “Friends,” to overcome accessibility issues associated with delivering cognitive behavioral therapy–based interventions in formal and informal education settings.
+
+
+Objective
+This study aimed to examine the effectiveness of a web-based learning environment on resilience in (1) reducing anxiety symptoms and (2) increasing emotion recognition and recognition of stress management techniques among 9-10-year-old children. We also aimed to evaluate the learning environment’s usability.
+
+
+Methods
+A quasi-experimental pretest-posttest control group design was used. In total, 20 fourth graders in the experimental group interacted with the learning environment over 6 weekly 80-minute sessions. Further, 21 fourth graders constituted the control group. The main data sources were (1) a psychometric tool to measure children’s anxiety symptoms, namely the Greek translation of the original Spence Children’s Anxiety Scale, (2) 3 open-ended questions assessing emotion recognition and recognition of stress management techniques, and (3) the System Usability Scale to measure the usability of the learning environment.
+
+
+Results
+In both groups, there was a small but nonsignificant postintervention reduction in reported anxiety symptoms, except for obsessive-compulsive disorder symptoms in the experimental group. A paired samples t test revealed that students’ reported symptom scores of obsessive-compulsive disorder significantly decreased from 1.06 (SD 0.68) to 0.76 (SD 0.61) (t19= 5.16; P=.01). The experimental group revealed a significant increase in emotion recognition (t19=–6.99; P<.001), identification of somatic symptoms of stress (t19=–7.31; P<.001), and identification of stress management techniques (t19=–6.85; P<.001). The learning environment received a satisfactory usability score. The raw average system usability score was 76.75 (SD 8.28), which is in the 80th percentile rank and corresponds to grade B.
+
+
+Conclusions
+This study shows that interactive learning environments might deliver resilience interventions in an accessible and cost-effective manner in formal education, potentially even in distance-learning conditions owing to the COVID-19 pandemic. Interactive learning environments on resilience are also valuable tools for parents who can use them with their children at home, for informal learning, using mobile devices. As such, they could be a promising first-step, low-intensity intervention that children and the youth can easily access.

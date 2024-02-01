@@ -1,0 +1,12 @@
+Abstract
+Background
+Health workforce planning is critical for health systems to safeguard the ability to afford, train, recruit, and retain the appropriate number and mix of health workers. This balance is especially important when macroeconomic structures are also reforming. The Kingdom of Saudi Arabia is moving toward greater diversification, privatization, and resiliency; health sector reform is a key pillar of this transition.
+
+Methods
+We used the Ministry of Health Yearbook data on the number of workers and health expenditures from 2007 to 2018 and projected health labor market supply and demand of workers through 2030, evaluated the potential shortages and surpluses, and simulated different policy scenarios to identify relevant interventions. We further focused on projections for health workers who are Saudi nationals and health worker demand within the public sector (versus the private sector) to inform national objectives of reducing dependency on foreign workers and better deploying public sector resources.
+
+Results
+We projected the overall health labor market to demand 9.07 physicians and nurses per 1,000 population (356,514) in 2030; the public sector will account for approximately 67% of this overall demand. Compared to a projected supply of 10.16 physicians and nurses per 1,000 population (399,354), we estimated an overall modest surplus of about 42,840 physicians and nurses in 2030. However, only about 17% of these workers are estimated to be Saudi nationals, for whom there will be a demand shortage of 287,895 workers. Among policy scenarios considered, increasing work hours had the largest effect on reducing shortages of Saudi workers, followed by bridge programs for training more nurses. Government resources can also be redirected to supporting more Saudi nurses while still ensuring adequate numbers of physicians to meet service delivery goals in 2030.
+
+Conclusion
+Despite projected overall balance in the labor market for health workers in 2030, without policy interventions, severe gaps in the Saudi workforce will persist and limit progress toward health system resiliency in Saudi Arabia. Both supply- and demand-side policy interventions should be considered, prioritizing those that increase productivity among Saudi health workers, enhance training for nurses, and strategically redeploy financial resources toward employing these workers.

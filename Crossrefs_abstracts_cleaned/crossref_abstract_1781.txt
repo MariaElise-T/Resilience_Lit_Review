@@ -1,0 +1,16 @@
+ABSTRACT
+
+Introduction
+The effectiveness of the Stress Management and Resilience Training (SMART) with U.S. military personnel has not been reported in the literature. The purpose of this study was to examine the effectiveness of SMART in increasing resilience in Air Force healthcare personnel.
+
+
+Materials and Methods
+We conducted a pilot, randomized preventive trial with active component Air Force healthcare personnel. SMART was offered via an in-person, 2-h training session delivered through face-to-face or synchronous video teleconference training, or via a self-paced, computer-based training. A baseline survey included demographics questions and the Connor–Davidson-10 Resilience Scale (CD-10), Perceived Stress Scale (PSS), Generalized Anxiety Disorder Scale (GAD-7), and overall quality of life (QOL) measure. Follow-up surveys with the CD-10, PSS, GAD-7, and quality of life were sent to participants at 12, 18, and 24 weeks after completing SMART.
+
+
+Results
+Fifty-six service members completed the baseline assessment and were randomized to either the in-person modality (comprised of video teleconference or face-to-face training) or the computer-based training modality, and 49 participants completed SMART. Significant increases in median CD-10 scores were observed among all participants, showing a 4-point (14%), 6-point (21%), and 5-point (17%) increase at week-12, -18, and -24, respectively, from the baseline. A significant overall decrease in median PSS scores from baseline were observed, with 5.5-points (22%), 7.81-points (32%), and 8.5-points (35%) decrease at 12, 18, and 24 weeks post-SMART, respectively.
+
+
+Conclusions
+In this pilot study, SMART demonstrated significant and meaningful improvements in self-reported CD-10 and PSS-14 scores at 12, 18, and 24 weeks post-training completion. A future replication of the study is necessary to evaluate the effectiveness of SMART on a larger scale.

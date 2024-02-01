@@ -1,0 +1,27 @@
+
+Background:
+Does the brain become more resilient after a first stroke to reduce the consequences of a new lesion? Although recurrent strokes are a major clinical issue, whether and how the brain prepares for a second attack is unknown. This is due to the difficulties to obtain an appropriate dataset of stroke patients with comparable lesions, imaged at the same interval after onset. Furthermore, timing of the recurrent event remains unpredictable.
+
+
+Methods:
+Here, we used a novel clinical lesion simulation approach to test the hypothesis that resilience in brain networks increases during stroke recovery. Sixteen highly selected patients with a lesion restricted to the primary motor cortex were recruited. At 3 time points of the index event (10 days, 3 weeks, 3 months), we mimicked recurrent infarcts by deletion of nodes in brain networks (resting-state functional magnetic resonance imaging). Graph measures were applied to determine resilience (global efficiency after attack) and wiring cost (mean degree) of the network.
+
+
+Results:
+
+              At 10 days and 3 weeks after stroke, resilience was similar in patients and controls. However, at 3 months, although motor function had fully recovered, resilience to clinically representative simulated lesions was higher compared to controls (cortical lesion
+              P
+              =0.012; subcortical:
+              P
+              =0.009; cortico-subcortical:
+              P
+              =0.009). Similar results were found after random (
+              P
+              =0.012) and targeted (
+              P
+              =0.015) attacks.
+            
+
+
+Conclusions:
+Our results suggest that, in this highly selected cohort of patients with lesions restricted to the primary motor cortex, brain networks reconfigure to increase resilience to future insults. Lesion simulation is an innovative approach, which may have major implications for stroke therapy. Individualized neuromodulation strategies could be developed to foster resilient network reconfigurations after a first stroke to limit the consequences of future attacks.

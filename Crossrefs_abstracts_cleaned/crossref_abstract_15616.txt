@@ -1,0 +1,12 @@
+Abstract
+Introduction
+Adolescents react differently to challenging negative life events. Resilience, a dynamic characteristic of individuals, was studied to be a protective factor against such events. In order to study the resilience among Arabic-speaking adolescent populations, age-appropriate measures that are fully apprehended by younger respondents are needed. In this context, the present study aimed to examine the psychometric properties of an Arabic translation of the Resilience Scale for Adolescents (READ) in a community sample of native Arabic–speaking adolescents aged 13–18 years.
+
+Methods
+A sample of 546 community Arabic-speaking adolescents from Lebanon was recruited (n = 328 females, with a mean age of 15.76 ± 1.65 years). Through an online questionnaire, participants were requested to complete the READ, Depression, Anxiety and Stress Scale (DASS-8) and the 13-item Children’s Impact of Event Scale (CRIES-13).
+
+Results
+Following the exploratory and confirmatory factor analysis (EFA-to-CFA) strategy, a unidimensional model of the Arabic version of the READ was met after 10 items were removed from the scale, and showed strong internal consistency (Cronbach’s alpha of 0.943). Additionally, the one-factor solution of the Arabic version of the READ was identical across male and female adolescents at the three levels of invariance (Configural, Metric and Scalar). Finally, higher resilience scores were significantly correlated with lower levels of psychopathology, namely depression, anxiety, stress and PTSD, thus attesting to the concurrent validity of the Arabic READ.
+
+Conclusion
+Findings lend support to the psychometric reliability and validity of the Arabic version of the READ, and therefore its suitability for use among Arabic-speaking adolescents. The availability of this tool facilitates the implementation of interventions that foster resilience, especially in adolescents who have faced a number of negative life events.

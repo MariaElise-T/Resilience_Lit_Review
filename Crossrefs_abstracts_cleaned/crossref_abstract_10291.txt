@@ -1,0 +1,12 @@
+Abstract
+Background
+After conducting necessary condition analysis (NCA), researchers have concluded that a certain, not too low, level of well-being is necessary but not sufficient for a high level of resilience. However, as acknowledged by the developers of the test, NCA only evaluates if the association between two variables is characterized by some unspecified type of non-randomness and not conditions of necessity.
+
+Method
+Earlier reported data on the association between well-being and resilience among Filipino adults (N = 533) in COVID-19 quarantine were re-analyzed with an extended version of NCA.
+
+Results
+Analyses indicated a significant necessity effect of resilience on overall well-being, which is not logically compatible with well-being being necessary but not sufficient for resilience. Analyses with an extended version of NCA suggested that the association between overall well-being and resilience was characterized by equal degrees of necessity and sufficiency.
+
+Conclusions
+The original version of NCA is only capable of evaluating if the association between two variables is characterized by some unspecified type of non-randomness. The extended version of NCA allows researchers to draw more specific conclusions.

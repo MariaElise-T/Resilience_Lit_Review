@@ -1,0 +1,15 @@
+Abstract
+Background
+Reduced cardiorespiratory fitness (CRF) is an independent risk factor for dependency, cognitive impairment and premature mortality. High-intensity interval training (HIIT) is a proven time-efficient stimulus for improving both CRF and other facets of cardiometabolic health also known to decline with advancing age. However, the efficacy of equipment-free, unsupervised HIIT to improve the physiological resilience of older adults is not known.
+
+Methods
+Thirty independent, community-dwelling older adults (71(SD: 5) years) were randomised to 4 weeks (12 sessions) equipment-free, supervised (in the laboratory (L-HIIT)) or unsupervised (at home (H-HIIT)) HIIT, or a no-intervention control (CON). HIIT involved 5, 1-minute intervals of a bodyweight exercise each interspersed with 90-seconds recovery. CRF, exercise tolerance, blood pressure (BP), body composition, muscle architecture, circulating lipids and glucose tolerance were assessed at baseline and after the intervention period.
+
+Results
+When compared to the control group, both HIIT protocols improved the primary outcome of CRF ((via anaerobic threshold) mean difference, L-HIIT: +2.27, H-HIIT: +2.29, both p < 0.01) in addition to exercise tolerance, systolic BP, total cholesterol, non-HDL cholesterol and m. vastus lateralis pennation angle, to the same extent. There was no improvement in these parameters in CON. There was no change in diastolic BP, glucose tolerance, whole-body composition or HDL cholesterol in any of the groups.
+
+Conclusions
+This is the first study to show that short-term, time-efficient, equipment-free, HIIT is able to elicit improvements in the CRF of older adults irrespective of supervision status. Unsupervised HIIT may offer a novel approach to improve the physiological resilience of older adults, combating age-associated physiological decline, the rise of inactivity and the additional challenges currently posed by the COVID-19 pandemic.
+
+Trial registration
+This study was registered at clinicaltrials.gov and coded: NCT03473990.

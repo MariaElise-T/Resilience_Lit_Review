@@ -1,0 +1,7 @@
+Summary
+
+Environmental policy instruments often require that natural resource managers safeguard the resilience of ecosystems. However, ‘resilience’ has been a difficult concept to operationalise. Two forms of resilience are recognised in the ecological literature. ‘Ecological resilience’ concerns ecosystems that possess alternative equilibrial states (attractors) and has been operationalised in a few systems. ‘Engineering resilience’ was developed for ecosystems with a single attractor, but its use is confined to systems that gravitate towards a stable equilibrium.
+We present a general method to quantify engineering resilience that can be applied irrespective of an ecosystem's stability or proclivity to obey multiple attractors. The technique uses a system model to distinguish the effects of globally driven (and essentially unmanageable) stressors, such as climate change and ocean acidification, from regional‐ and local‐scale (manageable) stressors on the ecosystem.
+We illustrate the technique using a simple coral reef model and find it able to calculate the impacts of managing crown‐of‐thorns starfish against a background of increasing stress from climate change and ocean acidification.
+Resilience analyses using our approach help assess the relative importance of local‐ or regional‐scale management interventions under varying degrees of global environmental change, even if they preside over long‐term ecosystem decline. Several frameworks of varying complexity are provided to guide the linkage of resilience metrics to environmental decision‐making.
+

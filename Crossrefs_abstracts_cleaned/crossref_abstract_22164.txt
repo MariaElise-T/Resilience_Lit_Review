@@ -1,0 +1,15 @@
+Abstract
+Background
+Acceptance and commitment therapy (ACT) is an intervention focusing on altering how patients relate to their thoughts. This study aimed to investigate the effects of ACT on self-management ability and psychological resilience of young and middle-aged patients undergoing percutaneous transluminal coronary intervention (PCI) for primary myocardial infarction (MI).
+
+Methods
+This pilot study included 98 young and middle-aged patients who underwent PCI for primary MI using a convenient sampling method. The patients were divided into a control group and an ACT group using the random number table method. The patients in the control group received routine nursing, while those in the ACT group received routine nursing combined with ACT.
+
+Results
+The psychological resilience and self-management ability scores were significantly higher in the ACT group than in the control group 3 months after the intervention (P < 0.001 and < 0.05, respectively). In addition, compared to the baseline scores of psychological resilience and self-management ability, these scores were significantly higher in the ACT group at 3 months post-intervention (P < 0.001 and < 0.05, respectively).
+
+Conclusion
+ACT could enhance the psychological resilience and self-efficacy and improve the self-management ability of young and middle-aged patients who underwent PCI for primary MI.
+
+Trial registration
+China Clinical Trial Center ChiCTR2000029775. Registered on 13 February 2020. Registration title:Study on the popularization and application of rotational atherectomy for the treatment of severely calcified coronary lesions.

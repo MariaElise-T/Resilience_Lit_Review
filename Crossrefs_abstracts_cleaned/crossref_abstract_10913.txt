@@ -1,0 +1,15 @@
+
+Purpose
+Resilience has evolved as a dynamic process in the entrepreneurship field. The purpose of this paper is to outline a comprehensive structure to analyse the patterns and trends in the publications of the existing literature at the junction of entrepreneurship and resilience. With the help of bibliometric and network analysis, this study offers insights into the topic that have not been evaluated and assessed by previous reviews.
+
+
+Design/methodology/approach
+A computerised search of 104 papers was performed using the Scopus database, and graphical visualisation of the bibliographic material was developed using VOSviewer software.
+
+
+Findings
+This comprehensive bibliometric mapping helps in the graphical visualisation of publication evolution of the domain along with identifying present research trends and possible future directions. There is not much collaborative research in the field, as most prolific thinkers work in isolation or in pairs. Hence, there are limited publications in top-rated journals. Future researchers need to work collaboratively to produce high-quality papers. Developed nations make a sound contribution to the field. The exact significance of resilience in entrepreneurship is yet to be determined due to a wide variety of themes that reflect the multi-disciplinary nature of the domain.
+
+
+Originality/value
+Uncovering the trends and developments of the field, this study provides a global perspective and potential themes lying at the junction of resilience and entrepreneurship. Hence, this study provides a robust roadmap for future researchers interested in this area.

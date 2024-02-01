@@ -1,0 +1,16 @@
+ABSTRACT:
+
+Objective:
+Parents of children with special needs such as learning and attentional disabilities (LADs) and autism spectrum disorder (ASD) are at high risk for stress-related disorders. The demands of parenting may compete with time for self-care behaviors such as physical activity, healthy eating, and adequate sleep. The objective was to describe health behaviors among this understudied population and assess the changes after a resilience intervention.
+
+
+Methods:
+This was a secondary data analysis of a randomized controlled pilot virtual mind-body resilience intervention (Stress Management and Resiliency Training: A Relaxation Response Resiliency Program) trial for parents of children with LADs (n = 52) and ASD (n = 47). Parents completed self-report questionnaires about their weekly physical activity, eating behaviors, sleep duration, and fatigue before and after the 8-week intervention. Descriptive statistics and pre-post intervention effect sizes (Cohen's d) were calculated.
+
+
+Results:
+Both parent groups reported suboptimal levels of health behaviors at baseline, but ASD parents reported lower health behaviors than LAD parents. LAD parents improved more on physical activity, with a higher percentage meeting recommendations at postintervention follow-up (d = 0.71) than ASD parents (d = 0.01). Eating behaviors showed small effect size improvements for both groups. Although sleep duration improved only with small or medium effect sizes for both groups, ASD parents rated their fatigue lower after the intervention (d = 0.81).
+
+
+Conclusion:
+Parents of children with special needs who participated in a virtual resilience intervention demonstrated suboptimal health behaviors. There is a need for targeted interventions for health behaviors that can promote resilience in these high-stress populations.

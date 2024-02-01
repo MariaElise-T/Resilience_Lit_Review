@@ -1,0 +1,12 @@
+Abstract
+Background
+The purpose of this manuscript is to introduce reserve and resilience as novel concepts in chronic kidney disease (CKD) research and present baseline data from a unique prospective cohort study designed to characterize recovery from functional decline after a health event.
+
+Methods
+The Physical REsilience Prediction in Advanced REnal Disease (PREPARED) study recruited a national, prospective cohort of Veterans ≥70 years old with an estimated glomerular filtration rate (eGFR) < 30 ml/min/1.73 m2, prior nephrology care, and at high risk for hospitalization. Electronic health record data were paired with telephone surveys. Self-reported measures of reserve included physical, psychological, and cognitive capacity and environmental resources. We calculated counts (frequencies) and medians (25th, 75th percentiles) for baseline measures of reserve. The study’s longitudinal follow-up of physical function every 8 weeks or following an acute care encounter, which will be used to define resilience, is ongoing.
+
+Results
+Participants had a median (25th, 75th percentile) age of 76.3 (72.8, 81.4) years and eGFR of 23.4 (18.2, 28.8) ml/min/1.73 m2; 23.3% were Black, and 97.4% were male, 91.6% had hypertension, 67.4% had diabetes mellitus, 46.0% had coronary heart disease, and 39.8% had heart failure. Baseline measures of physical, psychological, and cognitive domains showed low reserve on average, but with wide ranges.
+
+Conclusions
+Despite similar levels of kidney function, older adults participating in PREPARED had a wide range of measures of reserve in other health domains. Non-renal measures of reserve may be important indicators of capacity of CKD patients to recover after acute care encounters.

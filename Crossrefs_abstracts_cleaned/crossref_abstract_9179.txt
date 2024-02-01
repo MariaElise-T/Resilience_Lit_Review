@@ -1,0 +1,23 @@
+
+Objective:
+To establish a model for Public Health 3.0 in order to define and measure community resilience (CR) as a method to measure equity, address structural racism, and improve population health.
+
+
+Design:
+To develop the CR model, we conducted a literature review in medicine, psychology, early childhood development, neurobiology, and disaster preparedness and response and applied system dynamics modeling to analyze the complex interactions between public systems, policies, and community.
+
+
+Main Outcome Measures:
+The CR model focuses on community and population health outcomes associated with the policies and practices of the housing, public education, law enforcement, and criminal justice sectors as CR measures. The model demonstrates how behaviors of these systems interact and produce outcome measures such as employment, homelessness, educational attainment, incarceration, and mental and physical health.
+
+
+Results:
+The policies and practices within housing, public schools, law enforcement, and criminal justice can suppress resilience for families and communities because they are shaped by structural racism and influence the character and nature of resources that promote optimal community health and well-being.
+
+
+Conclusions:
+Community resilience is relational and place-based and varies depending on the demographic makeup of residents, historical patterns of place-based racism and discrimination, jurisdictional policy, and investment priorities—all influenced by structural racism.
+
+
+Implications for Policy and Practice:
+Using system dynamics modeling and the CR approach, chief health strategists can convene partners from multiple sectors to systematically identify, measure, and address inequities produced by structural racism that result in and contribute to adverse childhood and community experiences.

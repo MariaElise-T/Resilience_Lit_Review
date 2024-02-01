@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Psychosocial resilience is the capacity of responding positively to stressful events in life. We performed a systematic review of the literature to find whether resilience has any protective effect on cardiovascular disease (CVD) or mortality.
+
+
+Methods
+We searched Pubmed and Prospero systematic Review Registry using terms resilience, psychological or resiliency or resilience or resilient or hardiness, cardiovascular or stroke or or myocardial infarction or CVD or mortality or hospitalization. The references of each included paper were also searched for relevant studies. Longitudinal studies conducted on all populations, in English, with no time restriction were searched. They were included in the review if they examined resilience as primary exposition, and mortality for all causes, mortality for CVD, CVD events and hospitalization as outcomes and if they were longitudinal.
+
+
+Results
+The search identified 1,471 studies, of which only 8 were retained and fully examined based on the study design reported in the abstract, and 3 met all the inclusion criteria. Two studies on 237,879 young Swedish men showed that lower resilience compared with the highest (scores from an interview) resulted associated with both coronary heart disease (HR = 2.61, 95%CI:2.52-2.70) and stroke risk (HR = 1.54, 1.40-1.70) in adulthood (follow up 23 yrs). A third study on 2,765 postmenopausal Afro-American women showed that a modified Brief Resilience Scale was not associated with CVDs (lowest vs highest quartile, HR = 0.95, 95%CI:0.63-1.42; follow up 12.5 yrs).
+
+
+Conclusions
+There is not sufficient evidence of a protective attitude of resilience towards CVD: only 3 studies were eligible, with heterogeneity in sample size, exposures to stressors and scales used to measure resilience, and with resilience data available only at baseline. Further studies are necessary, since resilience is a powerful concept, and, if proved protective, might be improved in populations to ameliorate CV health.
+
+
+Key messages
+No clear association between resilience and CVD risk has been shown in literature. This is the first systematic review on the topic and further research is needed to broaden our understanding of the relation between resilience and CVD.

@@ -1,0 +1,19 @@
+
+Background
+Adherence to antihypertension medications has been explored in previous studies; however, these studies generally focus on individuals who reside in urban areas. Improved understanding is needed regarding rural older adults who are self-managing medications for hypertension and the motivational factors that may influence adherence.
+
+
+Objectives
+The purpose of this study was to examine medication adherence among rural older adults with hypertension and the association with motivational factors as defined in self-determination theory, including quality of motivation (autonomous vs controlled), perceived competence, perceived autonomy support, and basic psychological needs satisfaction. Rural nursing theory was also used to explore the concept of resilience.
+
+
+Methods
+This cross-sectional study involved 80 older adults (≥65 years old) self-managing at least 1 prescribed medication for managing their hypertension. Participants ranged in age from 65 to 89 (mean [SD], 74.04 [6.18]) years from rural areas in the northwest. Participants completed a demographic questionnaire, a measure of medication adherence, and questionnaires to assess perceived autonomy support, basic needs satisfaction, autonomous and controlled motivation, perceived competence, and resilience.
+
+
+Results
+Correlational analysis and multiple regression were used to examine associations and predict adherence. Perceived autonomy support, resilience, cost of medication, and medication regimen complexity were the only variables significantly associated with medication adherence and predicted adherence. Resilience mediated the relationship between perceived autonomy support and medication adherence.
+
+
+Conclusions
+Overall, findings indicate high levels of adherence. Interventions that enhance perceptions of autonomy support and resilience may be useful in managing hypertension.

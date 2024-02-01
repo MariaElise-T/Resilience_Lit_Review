@@ -1,0 +1,18 @@
+Abstract
+
+Objective:
+The objective of this study was to evaluate the regulatory dynamics between stress and fatigue experienced by women during the menopausal transition (MT) and early postmenopause (EPM). Fatigue and perceived stress are commonly experienced by women during the MT and EPM. We sought to discover relationships between these symptoms and to employ these symptoms as possible markers for resilience.
+
+
+Methods:
+Participants were drawn from the longitudinal Seattle Midlife Women's Health Study. Eligible women completed questionnaires on 60+ occasions (annual health reports and monthly health diaries) (n = 56 women). The total number of observations across the sample was 4,224. STRAW+10 criteria were used to stage women in either in late reproductive, early or late transition, or EPM stage. Change values were generated for fatigue and stress and analyzed with a multilevel structural equation model; slopes indicate how quickly a person returns to homeostasis after a perturbation. Coupling of stress and fatigue was modeled to evaluate resilience, the notion of maintaining stability during change.
+
+
+Results:
+Eligible women were on average 35 years old (SD = 4.71), well educated, employed, married or partnered, and white. Fit indices suggested the model depicts the relationships of stress and fatigue (χ
+2(9 df) = 7.638, P = 0.57, correction factor = 4.9244; root mean square error of approximation (RMSEA) 90% CI = 0.000 ≤ 0.000 ≤ 0.032; comparative fit index (CFI) = 1.00). A loss in model fit across stages suggests that the four stages differed in their dynamics (χ
+2Δ(12 df) = 21.181, P = .048). All stages showed fixed-point attractor dynamics: fatigue became less stable over time; stress generally became more stable over time. Coupling relationships of stress on fatigue show evidence for shifts in regulatory relationships with one another across the MT.
+
+
+Conclusions:
+Results are suggestive of general dysregulation via disruptions to coupling relationships of stress and fatigue across the MT. Findings support a holistic approach to understanding symptoms and supporting women during the MT.

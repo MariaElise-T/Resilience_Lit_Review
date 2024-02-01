@@ -1,0 +1,15 @@
+Abstract
+Context
+Tidal saline wetlands (TSWs) are highly threatened from climate-change effects of sea-level rise. Studies of TSWs along the East Coast U.S. and elsewhere suggest significant likely losses over coming decades but needed are analytic tools gauged to Pacific Coast U.S. wetlands.
+
+Objectives
+We predict the impacts of sea-level rise (SLR) on the elevation capital (vertical) and migration potential (lateral) resilience of TSWs along the Pacific Coast U.S. over the period 2020 to 2150 under a 1.5-m SLR scenario, and identified TSWs at risk of most rapid loss of resilience. Here, we define vertical resilience as the amount of elevation capital and lateral resilience as the amount of TSW displacement area relative to existing area.
+
+Methods
+We used Bayesian network (BN) modeling to predict changes in resilience of TSWs as probabilities which can be useful in risk analysis and risk management. We developed the model using a database sample of 26 TSWs with 147 sediment core samples, among 16 estuary drainage areas along coastal California, Oregon, and Washington.
+
+Results
+We found that all TSW sites would lose at least 50% of their elevation capital resilience by 2060 to just before 2100, and 100% by 2070 to 2130, depending on the site. Under a 1.5-m sea-level rise scenario, nearly all sites in California will lose most or all of their lateral migration resilience. Resilience losses generally accelerated over time. In the BN model, elevation capital resilience is most sensitive to elevation capital at time t, mean tide level at time t, and change in sea level from time 0 to time t.
+
+Conclusions
+All TSW sites were projected with declines in resilience. Our model can further aid decision-making such as prioritizing sites for potential management adaptation strategies. We also identified variables most influencing resilience predictions and thus those potentially prioritized for monitoring or development of strategies to prevent loss regionally.

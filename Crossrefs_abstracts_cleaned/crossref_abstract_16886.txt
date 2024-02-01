@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+A growing body of literature indicates that neighborhood social cohesion is generally associated with lower levels of psychological distress and higher levels of life satisfaction (LS). However, very few studies have examined these relationships among Chinese older adults, the fastest growing aging population across all racial/ethnic groups in the U.S. Focusing on this population, the current study aims to examine the associations of neighborhood cohesion with psychological distress and LS as well as the mediating role of resilience and the moderating role of birth place in the associations.
+
+
+Research Design and Methods
+Ordinary least squares regressions were applied to analyze data collected among 430 Chinese older adults aged 55 and older residing in Honolulu, Hawai’i.
+
+
+Results
+Results show that neighborhood social cohesion was positively associated with lower levels of psychological distress and higher levels of LS for the whole sample. The association between social cohesion and psychological distress was moderated by birth place such that the protecting effects of neighborhood cohesion on distress were only salient for the U.S.-born but not for the foreign-born. Moreover, the mediating role of resilience was identified: It contributed to more than 60% of the association between social cohesion and psychological distress, and more than 22% of the association between social cohesion and LS.
+
+
+Discussion and Implications
+Our findings indicate the importance of a cohesive social environment and resilience in shaping psychological well-being and quality of life for older Chinese adults, the U.S.-born in particular, living in Honolulu, Hawai’i.

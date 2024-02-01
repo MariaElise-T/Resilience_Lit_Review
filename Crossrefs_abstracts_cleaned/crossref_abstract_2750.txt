@@ -1,0 +1,27 @@
+
+Background
+Sexual and gender minority youth (SGMY) are at an increased risk of a range of mental health problems. However, few evidence-informed interventions have been developed specifically to support their mental well-being. Interventions that are evidence-informed for the general population and are fine-tuned specifically with SGMY in mind proffer considerable potential. A particular opportunity lies in the delivery of engaging interventions on the web, where the focus is on enhancing the coping skills and building the resilience of SGMY, in a way that is directly relevant to their experiences. On the basis of earlier work related to an intervention called Rainbow SPARX (Smart, Positive, Active, Realistic, X-factor thoughts), we seek to create a new resource, especially for SGMY in the United Kingdom.
+
+
+Objective
+This project has 3 main objectives. First, together with SGMY as well as key adult experts, we aim to co-design a media-rich evidence-informed web-based SGMY well-being prototype toolkit aimed at those aged between 13 and 19 years. Second, we will explore how the web-based toolkit can be used within public health systems in the United Kingdom by SGMY and potentially other relevant stakeholders. Third, we aim to conduct a preliminary evaluation of the toolkit, which will inform the design of a future effectiveness study.
+
+
+Methods
+The first objective will be met by conducting the following: approximately 10 interviews with SGMY and 15 interviews with adult experts, a scoping review of studies focused on psychosocial coping strategies for SGMY, and co-design workshops with approximately 20 SGMY, which will inform the creation of the prototype toolkit. The second objective will be met by carrying out interviews with approximately 5 selected adult experts and 10 SGMY to explore how the toolkit can be best used and to determine the parameters and user-generated standards for a future effectiveness trial. The final objective will be met with a small-scale process evaluation, using the think out loud methodology, conducted with approximately 10 SGMY.
+
+
+Results
+The study commenced on September 1, 2021, and data gathering for phase 1 began in October 2021.
+
+
+Conclusions
+A considerable body of work has described the issues faced by the SGMY. However, there is a dearth of research seeking to develop interventions for SGMY so that they can thrive. This project aims to co-design such an intervention.
+
+
+Trial Registration
+Research Registry Reference researchregistry6815; https://www.researchregistry.com/browse-the-registry#home/registrationdetails/609e81bda4a706001c94b63a/
+
+
+International Registered Report Identifier (IRRID)
+PRR1-10.2196/31036

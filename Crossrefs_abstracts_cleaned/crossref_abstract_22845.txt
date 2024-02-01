@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience is vital for facing natural disasters and public health challenges. Despite the significance of resilience-building activities, there is a scarcity of locally-tailored planning and response strategies, leaving communities incapable of addressing the unique challenges posed by natural disasters and public health crises. This study aims to explore how the “One Community at a Time” approach enhances community resilience in facing natural hazards and public health challenges.
+
+Methods
+A systematic review was conducted over journal articles published from January 2001 to April 2023 through PRISMA approach. Multiple databases such as Web of Science and Scopus were thoroughly searched. We used independent screening by two researchers and painstaking data extraction using standardized forms. This approach was adopted to assure the reliability, validity, and precision of our study selection and analysis. The included studies’ quality was evaluated by the Mixed Methods Appraisal Tool.
+
+Results
+In the evaluation, 35 studies were deemed eligible for inclusion and underwent in-depth examination. Several major components of “One Community at a Time” have been identified, including social capital and networks, local knowledge and learning, effective governance and leadership, preparedness and response capacity, and adaptive infrastructure and resources. This framework highlights the significance of individualized approaches to resilience-building initiatives, recognizing that each community has specific strengths, needs, and challenges.
+
+Conclusion
+Relevant stakeholders can adapt suitable resilient strategies to help prepare and recover from natural hazards and public health challenges. By adopting a localized strategy, stakeholders can collaborate to develop a culture of readiness and resilience, ultimately leading to more sustainable and resilient communities. This framework advises community-based groups, local government, and other stakeholders on prioritizing partnerships, preparedness planning, community participation, and leadership as essential components of creating and maintaining resilience. “One Community at a Time” framework offers practical guidance for community-based organizations, local government, and other stakeholders to prioritize partnerships, preparedness planning, community participation, and leadership as essential components of creating and sustaining resilience.

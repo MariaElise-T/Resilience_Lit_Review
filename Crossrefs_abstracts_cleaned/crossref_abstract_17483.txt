@@ -1,0 +1,18 @@
+Abstract
+Background
+Online learning presents unique challenges for students, such as reduced social support and increased distractions. Understanding the psychological factors that contribute to educational attainment in online classes is therefore important.
+
+Purpose
+This study aimed to investigate the structural relations among the psychological factors: academic resilience, personality, academic well-being, and educational attainment in online classes using the Tencent Meeting application in China. The study also explored the mediating role of student engagement in the relationship between the variables.
+
+Methodology
+This study used structural equation modeling (SEM) to investigate the relationships among the variables of the study. The participants were 384 undergraduate, graduate, and postgraduate students from Henan Polytechnic University in China. The participants completed self-report surveys of academic resilience, academic well-being, educational attainment, student engagement and personality types.
+
+Data analysis
+The data were analyzed using structural equation modeling (SEM) to examine the relationships among variables. The goodness of fit of the SEM was assessed using several fit indices, including the chi-square test, the comparative fit index (CFI), the Tucker-Lewis index (TLI), and the root mean square error of approximation (RMSEA). The study also conducted mediation analyses to explore the potential mediating roles of learner enjoyment in the relationships between psychological factors and educational attainment.
+
+Findings
+The results of the study showed that all variables of the study were positively related to educational attainment. The findings suggest that promoting academic resilience, academic well-being, and student engagement may be effective strategies for enhancing educational attainment in online classes using the Tencent Meeting application in China.
+
+Conclusions
+Using the Tencent Meeting application in China, this study provides insights into the complex interplay among several psychological factors and educational attainment in online classes. The findings highlight the importance of promoting academic resilience, personality, academic well-being, and student engagement to enhance educational attainment.

@@ -1,0 +1,13 @@
+Abstract
+Purpose
+The aim of this study was to determine the impact of age on patient-reported health-related quality of life (HRQoL) and the capacity to show resilience—i.e., the ability to adapt to stressful adverse events—after sustaining a polytrauma.
+
+Methods
+A cross-sectional multicenter cohort was conducted between 2013 and 2016 that included surviving polytrauma patients (ISS ≥ 16). HRQoL was obtained by the Short Musculoskeletal Function assessment and EuroQol (SMFA and EQ-5D-5L). The effect of age on HRQoL was tested with linear regression analysis. Next, the individual scores were compared with age- and sex-matched normative data to determine whether they showed resilience. Multivariate binary logistic regression was used to assess the effect of age on reaching the normative threshold of the surveys, correcting for several confounders.
+
+Results
+A total of 363 patients responded (57%). Overall, patients had a mean EQ-5D-5L score of 0.73. With higher age, scores on the SMFA subscales “upper extremity dysfunction,” “lower extremity dysfunction” and “daily activities” significantly dropped. Only 42% of patients were classified as being resilient, based on the EQ-5D-5L score. Patients aged 60–69 showed the highest resilience (56%), and those aged 80 + showed the lowest resilience (0%).
+
+Conclusion
+Sustaining a polytrauma leads to a serious decline in HRQoL. Aging is associated with a decline in the physical components of HRQoL. No clear relationship with age was seen on the non-physical components of quality of life. Octogenarians, and to a lesser extent septuagenarians and tricenarians, showed to be very vulnerable groups, with low rates of resilience after surviving a polytrauma.
+

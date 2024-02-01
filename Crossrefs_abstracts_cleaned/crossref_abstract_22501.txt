@@ -1,0 +1,7 @@
+Abstract
+
+Intense controversy surrounds the compounded disturbance of salvage logging, which superimposes an anthropogenic disturbance on already disturbed ecosystems and thereby provides a litmus test of forest regeneration and resilience.
+We conducted meta‐analysis to assess whether salvage logging affects tree regeneration, and whether potential effect moderators (disturbance type and severity, logging intensity, time elapsed between disturbance and logging or since logging, forest type and age, regeneration syndrome and aridity) modify this overall effect. Thirty‐seven publications yielded 305 effect sizes for tree density and 135 for height.
+We found no significant effect of salvage logging on tree density or height. Also, most effect moderators were not significant. The effect size of salvage logging on tree density increased over time after logging, potentially indicating resilience to initial salvage logging impacts. Tree density in old (>100 years) disturbed forests was less negatively affected by salvage logging than in young (<50 years) and intermediate‐aged forests. Study site and phylogenetic relatedness improved model fit, indicating modulation by local ecological factors and tree species characteristics.
+Synthesis. Salvage logging does not produce generalised detrimental effects on tree regeneration. Potential impacts and their mitigation should be assessed upon knowledge of local conditions and species.
+

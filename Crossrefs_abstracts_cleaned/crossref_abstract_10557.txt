@@ -1,0 +1,12 @@
+Abstract
+Background
+This study aimed to determine whether individual differences in resilience interacted with those in alcohol consumption habits in situations involving exposure to psychosocial stressors (Trier Social Stress Test-Online; TSST-OL). Additionally, we investigated whether individuals exhibiting resilience in their psychological scale scores showed biological responses that could be interpreted as resilience in stressful situations, such as the TSST-OL. We hypothesized that there would be no association between drinking habits and stress responses in the high-resilience group. Furthermore, high drinking habits would be associated with high stress responses in the low-resilience group.
+
+Methods
+We recruited 22 and 20 individuals from the high and low-resilience groups, respectively, from among those who completed the online survey comprising the Alcohol Use Disorders Identification Test (AUDIT) and resilience scales; we excluded individuals with AUDIT scores of 15 or higher, and divided them by the median total resilience scale score. During the TSST-OL, self-rated stress measurement and saliva sample collection were performed seven times. Frozen samples were collected at the Tokyo site, and salivary hormonal (cortisol and dehydroepiandrosterone) levels were measured after transport in frozen state. Finally, 36 participants were included in the analysis of self-rated stress and cortisol levels.
+
+Results
+We observed the typical subjective stress responses to the TSST-OL. People with higher psychological scale scores for resilience traits showed significantly higher salivary cortisol levels than those with lower scores. Due to deficiencies in the survey and experimental design, the classification criteria were changed and an exploratory analysis was performed to investigate the interaction of individual differences in resilience and drinking habits. In contrast to our expectation, those with low resilience scores showed stress responses, regardless of their drinking habits. Furthermore, those with high resilience and drinking habits showed a specific insensitivity to salivary cortisol levels. Their self-rated stress scores were similar to those of other groups.
+
+Conclusions
+Our study showed the applicability of the TSST-OL in the Japanese population, the individual relationship between psychological resilience measures and biological stress responses, and a specific insensitivity in the salivary cortisol response as a result of individual differences in high resilience and drinking habits.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Schizophrenia (SZ) arises from a complex interplay involving genetic and molecular factors. Early intervention of SZ hinges upon understanding its vulnerability and resiliency factors in study of SZ and genetic high risk for SZ (GHR).
+
+Methods
+Herein, using integrative and multimodal strategies, we first performed a longitudinal study of neural function as measured by amplitude of low frequency function (ALFF) in 21 SZ, 26 GHR, and 39 healthy controls to characterize neurodevelopmental trajectories of SZ and GHR. Then, we examined the relationship between polygenic risk score for SZ (SZ-PRS), lipid metabolism, and ALFF in 78 SZ, and 75 GHR in cross-sectional design to understand its genetic and molecular substrates.
+
+Results
+Across time, SZ and GHR diverge in ALFF alterations of the left medial orbital frontal cortex (MOF). At baseline, both SZ and GHR had increased left MOF ALFF compared to HC (P < 0.05). At follow-up, increased ALFF persisted in SZ, yet normalized in GHR. Further, membrane genes and lipid species for cell membranes predicted left MOF ALFF in SZ; whereas in GHR, fatty acids best predicted and were negatively correlated (r = -0.302, P < 0.05) with left MOF.
+
+Conclusions
+Our findings implicate divergence in ALFF alteration in left MOF between SZ and GHR with disease progression, reflecting vulnerability and resiliency to SZ. They also indicate different influences of membrane genes and lipid metabolism on left MOF ALFF in SZ and GHR, which have important implications for understanding mechanisms underlying vulnerability and resiliency in SZ and contribute to translational efforts for early intervention.

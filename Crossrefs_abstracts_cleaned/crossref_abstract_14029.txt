@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Adverse childhood experiences (ACEs) include an array of maltreatment and they have been shown to confer higher risks of early mobility loss and ultimately disablement in older ages. This study aims to identify resilience factors associated with physical function in a diverse sample of older adults (65-74 years) from the 2012 International Mobility in Aging Study (IMIAS) who reported ACEs.
+
+
+Methods
+2002 participants were recruited from Kingston, Ontario; St. Hyacinthe, Quebec; Tirana, Albania; Manizales, Colombia; and Natal, Brazil. Economic ACEs were classified by self-report of at least one-poor childhood economic status, childhood hunger, parental unemployment-before the age of 15 years. The Short Physical Performance Battery was used to measure physical function; a score of &lt; 8 was considered poor. Associations between hypothesized resilience factors (education, social support, expressed gender roles) and physical function were identified via bivariate analysis and logistic regression; after adjusting for sex, age, and sample site.
+
+
+Results
+Nearly half (46%) the participants reported economic ACES. High levels of education (OR 0.39; CI: 0.22-0.66) and social support from family (OR: 0.52; CI: 0.36-0.76), partners (OR: 0.47; CI: 0.29-0.74), and friends (OR: 0.59; CI: 0.38-0.92), as well as masculine (OR:0.49; CI: 0.29-0.83) and androgynous (0.48; CI: 0.30-0.77) gender roles, protected against poor physical function for those reporting childhood economic ACEs.
+
+
+Conclusions
+Despite encountering economic ACEs, those who achieved high relative levels of education, greater levels of support, as well as those characterized by masculine or androgynous gender roles, were more likely to maintain good physical performance in older ages compared to those with low education, no social support, and those classified as undifferentiated gender roles. Findings highlight critical points of intervention for those who experienced ACES.
+
+
+Key messages
+These findings imply that the associated negative physical health outcomes of ACEs can be delayed or eliminated via exposure to certain protective factors. Economic ACE exposure may be unavoidable, but there are resilience factors that could be promoted to foster the better health across the life course.

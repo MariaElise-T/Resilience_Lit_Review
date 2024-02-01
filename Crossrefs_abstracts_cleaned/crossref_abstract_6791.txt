@@ -1,0 +1,19 @@
+
+Purpose
+This paper aims to investigate the impact of cooperative firms on the patterns of regional economic resilience in Italy from 2008 to 2019.
+
+
+Design/methodology/approach
+This study uses regional statistics to compute indices of resilience for both real GDP per capita and employment during both recovery and resistance periods. By means of a linear model, the authors investigate the relationships between indices of resilience and the cooperative presence, while controlling for a set of demographic, social and economic variables.
+
+
+Findings
+This study shows that during (and after) recessions such regional indices exhibit very different patterns, with notably poorer performance observed in Southern regions compared to the rest of the country. Furthermore, this study illustrates that the size of the cooperative employment improves the overall resilience of regional employment, especially during recovery periods.
+
+
+Social implications
+The findings hint at policies enhancing the strength and scope of the cooperative movement as a driver of territorial resilience.
+
+
+Originality/value
+To the best of the authors’ knowledge, this is the first study in relating territorial resilience and the presence of a type of companies. This study performs the analysis at the regional level regarding cooperative enterprises. The new findings hint at some policies enhancing the strength and scope of the cooperative movement.

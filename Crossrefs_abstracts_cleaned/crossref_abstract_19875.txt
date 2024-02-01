@@ -1,0 +1,12 @@
+Abstract
+Background
+Physical resilience is known to minimize the adverse outcomes of health stressors for older people. However, validated instruments that assess physical resilience in older adults are rare. Therefore, we aimed to validate the Physical Resilience Instrument for Older Adults (PRIFOR) to fill the literature gap.
+
+Methods
+Content analysis with content validity was first carried out to generate relevant items assessing physical resilience for older adults, and 19 items were developed. Psychometric evaluation of the 19 items was then tested on 200 older adults (mean [SD] age = 76.4 [6.6] years; 51.0% women) for item properties, factor structure, item fit, internal consistency, criterion-related validity, and known-group validity.
+
+Results
+All 19 items had satisfactory item properties, as they were normally distributed (skewness = -1.03 to 0.38; kurtosis = -1.05 to 0.32). However, two items were removed due to substantial ceiling effects. The retained 17 items were embedded in three factors as suggested by the exploratory factor analysis (EFA) results. All items except one had satisfactory item fit statistics in Rasch model; thus, the unidimensionality was supported for the three factors on 16 items. The retained 16 items showed promising properties in known-group validity, criterion-related validity, and internal consistency (α = 0.94).
+
+Conclusions
+The 16-item PRIFOR exhibits good psychometric properties. Using this instrument to measure physical resilience would be beneficial to identify factors that could protect older people from negative health consequence. With the use of the PRIFOR, intervention effects could also be evaluated. It is helpful to strengthen resilience and thereby facilitate successful aging.

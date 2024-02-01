@@ -1,0 +1,12 @@
+Abstract
+Background
+Disease-modifying agents to counteract cognitive impairment in older age remain elusive. Hence, identifying modifiable factors promoting resilience, as the capacity of the brain to maintain cognition and function with aging and disease, is paramount. In Alzheimer’s disease (AD), education and occupation are typical cognitive reserve proxies. However, the importance of psychological factors is being increasingly recognized, as their operating biological mechanisms are elucidated. Purpose in life (PiL), one of the pillars of psychological well-being, has previously been found to reduce the deleterious effects of AD-related pathological changes on cognition. However, whether PiL operates as a resilience factor in middle-aged individuals and what are the underlying neural mechanisms remain unknown.
+
+Methods
+Data was obtained from 624 middle-aged adults (mean age 53.71 ± 6.9; 303 women) from the Barcelona Brain Health Initiative cohort. Individuals with lower (LP; N = 146) and higher (HP; N = 100) PiL rates, according to the division of this variable into quintiles, were compared in terms of cognitive status, a measure reflecting brain burden (white matter lesions; WMLs), and resting-state functional connectivity, examining system segregation (SyS) parameters using 14 common brain circuits.
+
+Results
+Neuropsychological status and WMLs burden did not differ between the PiL groups. However, in the LP group, greater WMLs entailed a negative impact on executive functions. Subjects in the HP group showed lower SyS of the dorsal default-mode network (dDMN), indicating lesser segregation of this network from other brain circuits. Specifically, HP individuals had greater inter-network connectivity between specific dDMN nodes, including the frontal cortex, the hippocampal formation, the midcingulate region, and the rest of the brain. Greater functional connectivity in some of these nodes positively correlated with cognitive performance.
+
+Conclusion
+Expanding previous findings on AD pathology and advanced age, the present results suggest that higher rates of PiL may promote resilience against brain changes already observable in middle age. Furthermore, having a purposeful life implies larger functional integration of the dDMN, which may potentially reflect greater brain reserve associated to better cognitive function.

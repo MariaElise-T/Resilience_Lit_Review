@@ -1,0 +1,11 @@
+
+Background
+The growth of urbanization in the 20th and 21st centuries has resulted in unprecedented ecological security issues. The imbalance between urban development and internal ecological security is a growing concern.
+
+
+Methods
+Based on the urban development process and the characteristics of ecosystem resilience, the corresponding urbanization evaluation system (“scale-structure-benefit”) and ecosystem resilience assessment model (“resistance-adaptability-restoring”) were constructed to explore the changes in each dimension as well as to analyze the spatial and temporal changes and driving effects of the coupled coordination level of urbanization and ecological resilience using the coupled coordination degree (CCD) model and geographically and temporally weighted regression (GTWR).
+
+
+Results
+(1) From 2005 to 2020, urbanization levels increased (from 0.204 to 0.264, respectively), whereas the level of ecological resilience gradually decreased (from 0.435 to 0.421, respectively). The spatial distribution of urbanization is rather steady, with a “high-northeast low-southwest” pattern of regional distribution; however, the spatial distribution pattern of ecological resilience is essentially the reverse. (2) During the study period, there was an improvement in the level of coordination between urbanization and ecological resilience, with an increase from 0.524 to 0.540. However, the main coordination type remained the same, with over 46% being at the basic coordination stage. The relative development type was dominated by the lagging urbanization stage, with the lagging ecological resilience and synchronous development stages accounting for a smaller proportion, and the space was distributed in a block-like cluster. (3) The running results of the GTWR show that the core dimensions of the whole region are scale, benefit, and structure, and the impact of each dimension shows obvious spatial heterogeneity. Cities with different levels of relative development also have different central dimensions. This research will provide support for the coordination of urban development in areas where economic construction and ecological resilience are not coordinated, and will contribute to the sustainable development of urban areas.

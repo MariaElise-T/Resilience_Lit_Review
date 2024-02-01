@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience, referring to the inherent ability to naturally recover in the face of adverse conditions, is an essential concept in discussions of substance use disorder (SUD) recovery. This study’s objective was to shed light on resilience and related factors that affect relapse risk in patients with SUDs.
+
+Method
+Fifty-two patients with SUDs were given a self-administrated questionnaire from February to April 2015 consisting of question items for sociodemographic characteristics, relapse risk (Stimulant Relapse Risk Scale), and resilience (Bidimensional Resilience Scale). Scale scores were tested for associations with subject attributes, after which resilience’s effects on relapse risk were analyzed using correlation and multiple regression (forced-entry) analyses.
+
+Results
+Stimulants were the most common substance related to SUD (n = 26, 21.7%; multiple answers). Bivariate correlation showed that higher acquired resilience was significantly associated with a lower relapse risk (r = − 0.314, P < 0.01). Reduced relapse risk was significantly associated with current employment (Std. β = − 0.446, P < 0.05).
+
+Conclusion
+Our findings demonstrate the necessity of recovery support to enhance acquired resistance in patients with SUDs to prevent relapses. Reinforcing employment support services and encouraging patients to continue treatment were suggested as potentially effective measures to enhance resilience in individuals with SUDs on their road to recovery.

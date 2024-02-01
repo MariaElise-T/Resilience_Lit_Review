@@ -1,0 +1,15 @@
+
+Purpose
+This paper aims to enhance the small and medium enterprises’ (SMEs) ability to develop resilience in the face of any turbulences, addressing the question on how these organizations can maintain business continuity when faced with a critical event.
+
+
+Design/methodology/approach
+A mediated regression analysis is conducted to investigate the relationships among big data analytics (BDA) capabilities, coinnovation (CI) and organizational resilience (OR) with reference to 192 big data SMEs in Europe.
+
+
+Findings
+Research reveals that the BDA capability and CI are positively associated with OR. Moreover, this study discovers the mediating impact of CI on the relationship between BDA capability and OR.
+
+
+Originality/value
+This paper provides important implications for considering CI as a viable strategy especially in a time of crisis and shows how SMEs are more able to recognize business opportunities. The microfoundations of the resilience building capacity of SMEs are also identified. These microfoundations become recommendations for practitioners to enhance SMEs’ responsiveness in light of coronavirus-related crises.

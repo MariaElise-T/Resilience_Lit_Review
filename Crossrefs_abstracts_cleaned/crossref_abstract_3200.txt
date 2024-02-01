@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+The ability of a health system to deliver services during and in the aftermath of a shock depends on the capacity of all other health system functions (governance, health workforce, physical infrastructure and finances). Countries have differing service delivery approaches (e.g., more or less emphasis on outpatient vs. hospital care), which influences how they respond to a shock. However, despite the differences in health system organisation of service delivery and the type of shock, there are common approaches that countries can take to increase the resilience of service delivery and deal with fluctuations in demand and supply.
+
+
+Methods
+A framework for understanding the impact of a shock on service delivery was developed by the European Observatory on Health Systems and Policies, and used as an analytical tool to examine the relationship between service delivery and resilience.
+
+
+Findings
+Shocks can impact the demand for and supply of services in different ways. For example, an epidemic/pandemic shock such as Covid-19 may lead to surges in demand and crowd out routine care, while a war or conflict shock (e.g., Ukraine since February 2022) may lead to (local) supply shortages as well as surges in demand, necessitating setting up new infrastructure and transferring of patients. However, health systems also responded to shocks in ways that have increased the resilience of service delivery. These include flexible decision making, innovations in digital health and better planning and management across care settings.
+
+
+Conclusions
+Flexible policies that can increase health service supply flows, rather than one-off increases, are needed to respond to unexpected changes. Furthermore, it is the linking of the impact of shocks on service delivery that ultimately influences the final health system goal of improved health. Finally, shocks can impact service delivery even after a shock, with the opportunity to transform into a more efficient and resilient health system.

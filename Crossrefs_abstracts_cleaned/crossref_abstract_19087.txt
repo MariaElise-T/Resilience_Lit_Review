@@ -1,0 +1,12 @@
+Abstract
+Background
+Primary care is a relevant pillar in managing not only individual, but also societal medical crises. The COVID-19 pandemic has demanded a rapid response from primary care with interventions in the health care system. The aim of this paper was to explore the responses of primary care practitioners (PCP) during the early COVID-19 pandemic and to analyze these with a view on the resilience of the primary health care system from the PCPs perspective.
+
+Methods
+Shortly after the first COVID-19 wave (July—October 2020) n = 39, semi-structured telephone interviews were conducted with PCP in practices and at Corona contact points (CCP) in Baden-Wuerttemberg (Germany). Qualitative content analysis was applied, and the evolved categories were related to in a framework for resilience.
+
+Results
+Primary care had an overall strong ability to adapt and show resilience, albeit with wide variance in speed and scope of the responses. When coping with uncertainty, the reasons given by PCPs in favor of opening a CCP mainly involved intrinsic motivation and self-initiative; the reasons against doing so were i.e. the lack of personal protective equipment, problems with space, and worries about organizational burden. A strong association existed between the establishment of a CCP and the use of resources (i.e. existing networks, personal protective equipment, exercising an office of professional political function). Our study predominantly found adaptive aspects for measures taken at medical practices and transformative aspects for setting up outpatient infection centers. PCPs played an important role in the coordination process (i.e. actively transferring knowledge, integration in crisis management teams, inclusion in regional strategic efforts) reaching a high level in the dimensions knowledge and legitimacy. The dimension interdependence repeatedly came into focus (i.e. working with stakeholders to open CCP, interacting among different types of primary care facilities, intersectoral interfaces). A need for regional capacity planning was visible at the time of the interviews.
+
+Conclusions
+The results can be used for practical and research-based institutional and capacity planning, for developing resilience in primary care and for augmentation by perspectives from other stakeholders in the primary health care system.

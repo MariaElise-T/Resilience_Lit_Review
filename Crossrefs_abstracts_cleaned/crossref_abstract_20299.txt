@@ -1,0 +1,12 @@
+Abstract
+Background
+Agricultural research and technology adoption play a key role in improving productivity and therefore generate impact on household livelihoods. The push–pull technology developed by the International Centre of Insect Physiology and Ecology and collaborators/partners has been recognized for its multiple roles in productivity improvement and income generation. However, the subsequent impacts after its adaptation to drier agro-ecologies have not been ascertained. An ex-post study was conducted to evaluate the impact of the climate-resilient push–pull technology on farmers’ income.
+
+Methodology
+This study was conducted in eight counties in Kenya and Mara region in Tanzania, involving 486 farmers; half were climate-resilient push–pull technology adopters. The study adopted the propensity score matching (PSM) technique in order to correct the self-selection bias in adoption.
+
+Results
+From the results, education of the farmer, household size, Tropical Livestock Unit and group membership positively and significantly influenced adoption. The average treatment effect on the treated was positive for all the matching methods; USD 455.8 for Nearest Neighbor Matching, USD 474.2 for the Kernel Matching and USD 439.1 for the Radius/Caliper Matching. The balancing test for self-selection bias showed that none of the observed covariates was significant after matching. The results demonstrate that adopting climate-resilient push–pull technology has a positive impact on the adopter farmers’ income. Adopter farmers were able to earn much more in terms of gross margin.
+
+Conclusion
+The positive change in income for adopters was attributable to the technology. With increased incomes, farmers were able to access alternative foodstuff, hence had more food security and diversity than those without. Efforts to expand dissemination and adoption of climate-resilient push–pull technology will have positive impacts on adopting families and hence to the economy.

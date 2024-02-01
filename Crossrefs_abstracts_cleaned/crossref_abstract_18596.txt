@@ -1,0 +1,12 @@
+Abstract
+Purpose
+This study investigated the mediating role of individual resilience in the relationship between caregiver burden and quality of life (QoL) among Chinese adult children providing care to their parents with advanced cancer, with the aim to inform effective coping strategies and positive caregiving outcomes.
+
+Methods
+In a cross-sectional design, 614 caregivers from multiple centers, whose parents were undergoing chemotherapy and/or radiotherapy, completed questionnaires encompassing demographics, caregiver burden, symptoms of anxiety and depression, resilience, and QoL.
+
+Results
+Findings revealed a moderate level of caregiver burden among participants, significantly influenced by factors including education level, family income, single-child status, and participation in social media patient support groups. Caregivers who were only children or involved in patient support groups reported higher burden. Importantly, path analysis showed a significant impact of caregiver burden, anxiety, and depression on QoL, with these relationships being mediated by individual resilience.
+
+Conclusions
+Chinese adult child caregivers face a considerable burden, negatively influencing their QoL. Individual resilience, a modifiable factor, was identified as a critical mediator in this relationship, mitigating the negative implications of caregiver burden, anxiety, and depression. These findings underscore the need for caregiver interventions that consider not only demographics but also the socio-psychological dynamics of caregiving to enhance caregiver QoL.

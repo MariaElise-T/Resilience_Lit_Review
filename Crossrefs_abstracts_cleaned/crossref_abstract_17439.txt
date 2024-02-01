@@ -1,0 +1,12 @@
+Abstract
+Background
+Law enforcement officers (LEOs) are exposed to significant stressors, elevating their risk for aggression and excessive use of force, as well as mental health consequences, including post-traumatic stress disorder, burnout, alcohol misuse, depression, and suicide. Mindfulness training is a promising approach with high-stress populations that has been shown effective for increasing resilience and improving negative mental health outcomes common among LEOs.
+
+Method
+Implemented at two sites, the proposed study is designed to establish optimal protocols and procedures for a future full-scale, multisite trial assessing effects of mindfulness-based resilience training versus an attention control (stress management education) and a no-intervention control on physiological, behavioral, and psychological outcomes. To prepare for this future clinical trial, the current study is designed to: enhance efficiency of recruitment, engagement, and retention; optimize laboratory, assessment, and data management procedures; optimize intervention training and ensure fidelity to intervention protocols; and assess participant experience and optimize outcome measures across two sites. Herein, we describe the protocol and methodology of this multisite, randomized, single-blind clinical feasibility trial.
+
+Discussion
+The long-term objective of this line of research is to develop an intervention that will reduce violence and increase resilience and mental health among LEOs, as well as yield significant benefits for the communities and residents they serve.
+
+Trial registration
+ClinicalTrials.gov, NCT03784846. Registered on 24 December 2018.

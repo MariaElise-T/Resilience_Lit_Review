@@ -1,0 +1,15 @@
+
+Purpose
+To be able to continuously provide affordable services to consumers, managers of critical infrastructure (CI) maintenance supply networks have to balance investments in resilience with costs. At the same time, CI providers need to consider factors that influence resilience such as the geographical spread or the location of the network. This study aims to contextualize supply chain resilience knowledge by exploring how maintenance resource configurations impact resilience and costs in CI supply networks.
+
+
+Design/methodology/approach
+An in-depth longitudinal single case study of a representative CI provider that has centralized its maintenance supply network is used. Data were collected before and after the change to evaluate the effect of the changes on the maintenance supply network.
+
+
+Findings
+This study shows that in this specific CI maintenance context, structural resource choices such as the quantity or location of spare parts and tools, the creation and exploitation of tacit knowledge and staff motivation impact both resilience and costs due to geographical spread, network location and other network properties.
+
+
+Originality/value
+This study extends general supply chain resilience knowledge to a new setting (i.e. CI) and shows how existing insights apply in this context. More specifically, it is shown that even in engineered supply networks there is a need to consider the effect of human agency on resilience as the creation and exploitation of tacit knowledge are of immense importance in managing the network. In addition, the relationship between normal accidents theory and high reliability theory (HRT) is revisited as findings indicate that HRT is also important after a disruption has taken place.

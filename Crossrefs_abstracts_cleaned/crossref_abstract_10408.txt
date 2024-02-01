@@ -1,0 +1,20 @@
+Abstract
+
+Purpose
+The aim of the study was to develop a comprehensive questionnaire for assessing resilience in patients with stroke during rehabilitation and examine the questionnaire’s reliability and validity.
+
+
+Design
+A four-phased design was used to develop and validate the questionnaire.
+
+
+Methods
+The preliminary items of the Resilience Questionnaire for Stroke Rehabilitation (RQSR) were generated through a literature review and a qualitative study. Twenty experts were consulted for content validation and modification of the questionnaire. A pilot study was conducted with 55 patients with stroke. A total of 510 participants from seven rehabilitation centers or hospitals were subsequently recruited to examine the psychometric properties of the RQSR.
+
+
+Results
+The RQSR consists of 35 items within three dimensions. Dimensions include effective rehabilitation training, accessible support system, and appropriate self-regulation. The content validity index of the total questionnaire was .9335. Seven factors were derived through factor analysis, and cumulative contribution rate of variance was 65.455%. Cronbach’s alpha of the total questionnaire was .957, with each dimension ranging from .731 to .918, demonstrating high levels of reliability.
+
+
+Conclusion
+The RQSR has sound reliability and validity and can be used as an appropriate tool for assessing resilience for patients with stroke during rehabilitation to facilitate effective interventions.

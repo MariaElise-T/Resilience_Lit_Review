@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+This study pursued 3 goals: (1) to determine how depressive symptoms among U.S. older adults changed in 2018–2020, a period transitioning to the first wave of coronavirus disease (COVID) pandemic, compared to in prepandemic periods, (2) to determine whether physical disability predicts change in depressive symptoms in 2018–2020, and (3) to assess whether psychological resilience moderates the association between physical disability and change in depressive symptoms in 2018–2020.
+
+
+Methods
+Based on biennial longitudinal data of the Health and Retirement Study from 2010 to 2020, we used a before–after design and latent change score model to examine whether depressive symptoms change in 2018–2020 represents a continuation or departure from the overall trend of between-wave changes in 2010–2018. We also used physical disability in 2018 and psychological resilience in 2016–2018 to predict depressive symptoms change score in 2018–2020.
+
+
+Results
+In contrast to the relatively stable between-wave change trend in 2010–2018, there was an abrupt elevation in the latent change score of depressive symptoms in 2018–2020, which was primarily driven by increased affective symptoms (e.g., depressed mood, loneliness, unhappiness, and sadness). Increase in depressive symptoms in 2018–2020 was associated positively with physical disability but negatively with psychological resilience. Moderation effect of psychological resilience, however, was not significant.
+
+
+Discussion
+Our findings reveal heavier COVID-related mental health burden for older adults with physical disabilities and the potential benefits of enhancing individual psychological resilience. They also suggest that health interventions addressing the COVID impacts need to particularly focus on the affective aspects of depressive symptoms.

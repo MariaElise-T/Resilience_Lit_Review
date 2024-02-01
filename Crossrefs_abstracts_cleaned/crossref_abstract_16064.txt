@@ -1,0 +1,12 @@
+Abstract
+Background
+In the sports context, coaches must be able to improve their players physically, psychologically, and socially. Hence, a fundamental part of this process is the athlete’s individual resilience (IR).
+
+Methods
+Three hundred and fifteen youth team-sport players (boys: n = 283; Mage = 16.02, SD = 0.56; and girls: n = 32; Mage = 15.92, SD = 0.62) completed the measures of coach’s interpersonal style, individual resilience, perceived performance, and team adherence intention (intention to remain on the same team the following year) twice (Time 1: mid-season; Time 2: end-season). Structural equation modeling was used to test the relationships between variables.
+
+Results
+The results showed that coach support was positively related to IR (p < 0.001) and, in turn, IR to individual (p < 0.01) and team performance (p < 0.05) at Time 1, and to individual performance (p < 0.001) and team adherence intention at Time 2 (p < 0.01). In addition, team performance at Time 2 was positively related to team adherence intention (p < 0.001). Finally, a mediating effect of IR was observed between interpersonal coaching style, individual and team performance, and team adherence intention.
+
+Conclusions
+These results show the importance of a supportive interpersonal coaching style to foster athletes’ levels of resilience, which could have positive consequences in performance (individual and team) and team adherence intention.

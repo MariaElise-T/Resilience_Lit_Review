@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+Research on life course inequality and successful aging has sought to understand how events and challenges may lead to poor outcomes in later life for some individuals, while others fare well in the face of adversity. Among internalized resources, research suggests psychological resilience is protective in the face of challenges, but little is known about the predictive efficacy of this measure compared to other resources such as mastery. This paper examines connections between psychological resilience and later life health compared to other internalized resources.
+
+
+Method
+Standardized associations between 4 resources (resilience, mastery, optimism, hopelessness) and 5 health outcomes were tested using short-term health transitions and longer term health trajectories in a structural equation modeling (SEM) framework using the Leave Behind Questionnaire (LBQ) and linked Health and Retirement Study (HRS) between 2006/2008 and 2014/2016 (n = 11,050–12,823).
+
+
+Results
+Psychological resilience had consistent and robust associations with health transitions and trajectories. Further, the effects of this resource were generally 4–10 times greater than for mastery, optimism, and hopelessness in combined models. Trajectory analyses replicate these findings and suggest the beneficial associations of resilience over time were persistent for some health outcomes, and cumulative for others.
+
+
+Discussion
+The results suggest that psychological resilience is powerfully associated with health in later life, with substantially greater predictive efficacy than other commonly used resource measures. Future research should establish how this intrapersonal resource works alongside structural and interpersonal resources to promote and protect health and functioning in the face of challenges and adversity.

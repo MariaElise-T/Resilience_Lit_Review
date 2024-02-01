@@ -1,0 +1,12 @@
+Abstract
+Background
+The studies of hospital resilience have been of increasing importance during the last decade due to disasters and pandemics. However, studies in developing the domain and indicators of hospital resilience were limited mainly on disaster response. A few studies of hospital resilience focused on how to deal with disruptions such as environmental turbulence, rapid technological changes, and changes in patient preferences. This study aims to develop domains and indicators of hospital resilience in facing the disruption era.
+
+Methods
+This qualitative study focused on exploring the domains and indicators to face disruptions that have been identified in the first exploratory phase of the studies. Key informants included hospital experts from the government, medical practitioners, and academics. A total of 20 key informants were involved in semi-structured interviews which were conducted face-to-face, via telephone and Zoom. Data was analyzed using a grounded theory approach to discover domains for a resilient hospital.
+
+Results
+The study identified a number of domains that are fundamental for a hospital to become a resilient in the face of disruption. These include readiness to face digital transformation, effective leadership, and flexibility in managing resources among others. Situation awareness and resilience ethos, implementation of marketing management, networking, and disaster anticipation are found to be equally important. These domains focused on the hospital’s ability to deal with specific shocks from different perspectives as the result of changes from disruptions which are inevitable within the organizational business environment.
+
+Conclusions
+The domains identified in the study are able to respond to the limitations of the concept of hospital resilience, which is currently more focused on hospital disaster resilience. They can be used to measure hospital resilience in the context of the volatility, uncertainty, complexity, and ambiguity (VUCA), which are relevant to the context of the Indonesia hospital industry.

@@ -1,0 +1,4 @@
+Managing vibro-acoustic energy transfer between spaces has traditionally relied upon resilient channel to achieve acceptable isolation between spaces. Resilient channel is very sensitive to installation errors requiring well trained and skilled installers. Even then results can be compromised
+ by any connection to the wall framing. Beyond the added cost of the resilient channel , the wall thickness increases by at least one-half inch and up to one and a quarter inches depending on the remediation required which effects door, window, and fixture installations. Leveraging the fundamental
+ learnings of studying the vibro-acoustic energy transfer mechanism in partition walls, an alternative approach for acoustic isolation for partition walls was determined. A study of performance based on design parameters allowed the design and development of a material solution. The resulting
+ performance and comparative results will be presented.

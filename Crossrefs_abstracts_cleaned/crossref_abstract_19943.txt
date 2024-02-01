@@ -1,0 +1,12 @@
+Abstract
+Background
+The prevalence of depression symptoms and related modifiable factors in prostate cancer (PCa) are not well evaluated. We aimed to assess the effects of perceived social support, hope and resilience on depressive symptoms within 18 months after diagnosis of PCa, and to evaluate the role of hope and resilience as mediators of that relationship.
+
+Method
+A cross-sectional study was analyzed in consecutive inpatients with PCa during the months of January 2018 and August 2019. A total of 667 patients eligible for this study completed questionnaires on demographic and clinic variables, Center for Epidemiologic Studies Depression Scale, Multidimensional Scale of Perceived Social Support, Adult Hope Scale, and Resilience Scale (14 items). All registered patients were all volunteers and anonymous. Depressive symptoms, perceived social support, hope and resilience were measured anonymously. Out of 667 patients, a total of 564 effective respondents (< 30% missing data) became our subjects. Hierarchical linear regression was used to identify the factors associated with depressive symptoms. Asymptotic and resampling strategies were used to conduct the mediating effects of hope and resilience.
+
+Results
+The prevalence of depressive symptoms was 65.9% in PCa patients. Hierarchical regression analyses indicated that perceived social support, hope, and resilience together accounted for 27.5% variance of depressive symptoms. Support from family, hope, and resilience significantly associated with depressive symptoms, respectively. Hope (a*b = − 0.0783, BCa95% CI: − 0.134 to − 0.0319, p < 0.05), and resilience (a*b = − 0.1315, BCa95% CI: − 0.1894 to − 0.0783, p < 0.05) significantly mediated the association between perceived social support and depressive symptoms.
+
+Conclusions
+The high prevalence of depressive symptoms among PCa patients should receive more attention. Perceived social support, hope and resilience could be positive resources for combating depressive symptoms, and hope and resilience mediated the association between perceived social support and depressive symptoms. Enhancing social support, particularly the support form family, and improving patients’ outlook and resilience may be potential targets for future psychosocial interventions aimed at reducing depressive symptoms.

@@ -1,0 +1,23 @@
+
+Background
+Alzheimer disease and related dementias (ADRD) are increasingly common conditions that disrupt the lives of persons living with dementia and their spousal care partners. At the time of ADRD diagnoses, many couples experience challenges that produce emotional distress and relationship strain. At present, there are no interventions to address these challenges early after diagnoses to promote positive adjustment.
+
+
+Objective
+The study protocol described here is part of the first phase of a larger program of research that aims to develop, adapt, and establish the feasibility of Resilient Together for Dementia (RT-ADRD), a novel dyadic skills-based intervention to be delivered over live video early after diagnosis, with the goal of preventing chronic emotional distress. This study will elicit and systematically summarize perspectives of ADRD medical stakeholders to inform the procedures (eg, recruitment and screening methods, eligibility, timing of intervention, and intervention delivery) of the first iteration of RT-ADRD prior to pilot-testing.
+
+
+Methods
+We will recruit interdisciplinary medical stakeholders (eg, neurologists, social workers, neuropsychologists, care coordinators, and speech language pathologists) from academic medical center clinics in the departments treating persons living with dementia such as neurology, psychiatry, and geriatric medicine via flyers and word-of-mouth referrals from clinic directors and members of relevant organizations (eg, dementia care collaboratives and Alzheimer disease research centers). The participants will complete electronic screening and consent procedures. Consenting individuals will then participate in a 30- to 60-minute qualitative virtual focus group, held either via telephone or Zoom, using an interview guide designed to assess provider experiences with postdiagnosis clinical care and to gather feedback on the proposed RT-ADRD protocol. The participants will also have the opportunity to participate in an optional exit interview and web-based survey to gather additional feedback. Qualitative data will be analyzed using a hybrid inductive-deductive approach and the framework method for thematic synthesis. We will conduct approximately 6 focus groups with 4-6 individuals in each group (maximum N=30 individuals; until saturation is reached).
+
+
+Results
+Data collection began in November 2022 and will continue through June 2023. We anticipate that the study will be completed by late 2023.
+
+
+Conclusions
+The results from this study will inform the procedures of the first live video RT-ADRD dyadic resiliency intervention focused on the prevention of chronic emotional and relational distress in couples shortly after ADRD diagnoses. Our study will allow us to gather comprehensive information from stakeholders on ways to best deliver our early prevention–focused intervention and gain detailed feedback on study procedures prior to further testing.
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/45533

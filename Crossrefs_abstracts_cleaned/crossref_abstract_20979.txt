@@ -1,0 +1,7 @@
+
+            This article introduces the resilient adaptive algebraic architecture that aims at adapting parallelism exploitation of a matrix multiplication algorithm in a time-deterministic fashion to reduce power consumption while meeting real-time deadlines present in most DSP-like applications. The proposed architecture provides low-overhead error correction capabilities relying on the hardware implementation of the algorithm-based fault-tolerance method that is executed concurrently with matrix multiplication, providing efficient occupation of memory and power resources. The Resilient Adaptive Algebraic Architecture (RA
+            3
+            ) is evaluated using three real-time industrial case studies from the telecom and multimedia application domains to present the design space exploration and the adaptation possibilities the architecture offers to hardware designers. RA
+            3
+            is compared in its performance and energy efficiency with standard high-performance architectures, namely a GPU and an out-of-order general-purpose processor. Finally, we present the results of fault injection campaigns in order to measure the architecture resilience to soft errors.
+          

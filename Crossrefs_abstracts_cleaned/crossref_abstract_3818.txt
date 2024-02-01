@@ -1,0 +1,15 @@
+
+Objective
+This study aims to uncover the relationship between leadership behaviors (servant and resilient), leaders’ psychological capital, and employee resilient behaviors over time, and we assess whether employee resilient behaviors and employee psychological capital mediate this relationship.
+
+
+Methods
+Based on dyadic 3-wave data collected from 111 unique leader-follower pairs, we use time-lagged path analysis to test our hypotheses.
+
+
+Results
+Servant leadership and leaders’ psychological capital may strengthen employees’ psychological capital, which in turn may foster resilient behaviors in employees over time. Resilient leadership was, however, negatively related to employee psychological capital on the short term but positively related to employee resilient behaviors over a 6-week time window.
+
+
+Conclusions
+Enacting servant leadership and resilient behavior and through their psychological capital leaders can foster resilient behaviors in employees.

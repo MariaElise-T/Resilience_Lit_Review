@@ -1,0 +1,23 @@
+
+Background
+Antimicrobial resistance (AMR) is an escalating global crisis with serious health, social, and economic consequences. Building social-ecological system resilience to reduce AMR and mitigate its impacts is critical.
+
+
+Objective
+The aim of this study is to compare and assess interventions that address AMR across the One Health spectrum and determine what actions will help to build social and ecological capacity and readiness to sustainably tackle AMR.
+
+
+Methods
+We will apply social-ecological resilience theory to AMR in an explicit One Health context using mixed methods and identify interventions that address AMR and its key pressure antimicrobial use (AMU) identified in the scientific literature and in the gray literature using a web-based survey. Intervention impacts and the factors that challenge or contribute to the success of interventions will be determined, triangulated against expert opinions in participatory workshops and complemented using quantitative time series analyses. We will then identify indicators using regression modeling, which can predict national and regional AMU or AMR dynamics across animal and human health. Together, these analyses will help to quantify the causal loop diagrams (CLDs) of AMR in the European and Southeast Asian food system contexts that are developed by diverse stakeholders in participatory workshops. Then, using these CLDs, the long-term impacts of selected interventions on AMR will be explored under alternate future scenarios via simulation modeling and participatory workshops. A publicly available learning platform housing information about interventions on AMR from a One Health perspective will be developed to help decision makers identify promising interventions for application in their jurisdictions.
+
+
+Results
+To date, 669 interventions have been identified in the scientific literature, 891 participants received a survey invitation, and 4 expert feedback and 4 model-building workshops have been conducted. Time series analysis, regression modeling of national and regional indicators of AMR dynamics, and scenario modeling activities are anticipated to be completed by spring 2022. Ethical approval has been obtained from the University of Waterloo’s Office of Research Ethics (ethics numbers 40519 and 41781).
+
+
+Conclusions
+This paper provides an example of how to study complex problems such as AMR, which require the integration of knowledge across sectors and disciplines to find sustainable solutions. We anticipate that our study will contribute to a better understanding of what actions to take and in what contexts to ensure long-term success in mitigating AMR and its impact and provide useful tools (eg, CLDs, simulation models, and public databases of compiled interventions) to guide management and policy decisions.
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/24378

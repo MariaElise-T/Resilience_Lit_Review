@@ -1,0 +1,23 @@
+
+PURPOSE:
+This study aimed to evaluate associations between resilience and ostomy adjustment in a group of patients with a permanent ostomy.
+
+
+DESIGN:
+Descriptive, correlational study.
+
+
+SUBJECTS AND SETTING:
+One hundred participants were interviewed; most were male (N = 56; 56%), married (N = 77; 77%), illiterate (N = 46; 46%), and self-employed (N = 35; 35%). The most frequent condition leading to ostomy surgery was colorectal cancer (N = 24; 24%). A majority (N = 43; 43%) had been diagnosed with cancer 1 to 5 years before data collection, and 35 (35%) had lived with an ostomy for 1 to 5 years. Participants were recruited from an ostomy clinic of in Kerman, located in southeastern Iran. Data were collected from August to October 2019.
+
+
+METHODS:
+Data were collected via interviews. A questionnaire, developed for purposes of this study, was developed that included items querying demographic and pertinent clinical characteristics and 2 validated instruments, the Resilience Scale and the Ostomy Adjustment Inventory-23 (OAI-23). Data were analyzed using t tests, analysis of variance, Pearson correlation coefficient, and linear regression.
+
+
+RESULTS:
+The mean score for ostomy adjustment was 43.37 (SD = 11.57) indicating less than optimal adjustment to life with an ostomy. The mean score of the Resilience Scale was 104.56 (SD = 25.98); most participants (n = 67, 67%) had very low and low resilience. Resilience was weakly associated with ostomy adjustment; specifically, participants who scored higher on the Resilience Scale tended to score higher on the OAI-23 (r = 0.32, P = .006). Linear regression indicated that resilience had the greatest predictive effect on ostomy adjustment (P = .004).
+
+
+CONCLUSIONS:
+Results suggest that higher levels of resilience may facilitate adjustment to a permanent ostomy. Findings indicate that nurses should design and implement programs to aid ostomy adjustment via resilience assessment.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Utu is a Kiswahili term with a long history of cultural significance in Tanzania. It conveys a value system of shared, collective humanity. While variants of Utu have been studied in other contexts, a measure of Utu that captures this important collective asset has not been developed in Tanzania. The aims of this study were to (1) examine dimensional constructs that represent Utu, (2) validate a measurement scale of Utu for use with adolescents, (3) examine differences between orphan and non-orphan adolescents in self-reported Utu and, (4) examine structural paths between adverse life experiences, coping strategies, Utu, and resilience. 
+
+Methods
+This study collected survey data from adolescents from three districts in peri-urban Tanzania in two samples: 189 orphan adolescents ages 10–17 in May 2020 and 333 non-orphan adolescents ages 10–14 in August 2020. Confirmatory factor analysis was used to validate the hypothesized factor structure of the developed Utu measure. Structural equation models were used to examine path associations with adverse life experiences, coping and resilience.
+
+Results
+The five dimensional constructs comprising the Utu measure included Resource Sharing, Group Solidarity, Respect and Dignity, Collectivity, and Compassion. Confirmatory factor analysis of the Utu measure demonstrated excellent fit (CFI = 0.98; TLI = 0.97; SRMR = 0.024; RMSEA = 0.046) and internal consistency (α = 0.94) among adolescents in this study. Positive, significant associations were found between Utu and coping (β = 0.29, p < 0.001) and Utu and intra/interpersonal and collective resilience (β = 0.13, p < 0.014). Utu was not significantly associated with adverse life experiences, age or gender.
+
+Conclusions
+A five-dimensional measurement scale for Utu was validated in a sample of orphan and non-orphan adolescents in Tanzania. Utu is a collective asset associated with higher levels of reported resilience in both orphan and non-orphan adolescent populations in Tanzania. Promoting Utu may be an effective universal public health prevention approach. Implications for adolescent programming are discussed.

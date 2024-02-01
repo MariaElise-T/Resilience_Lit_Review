@@ -1,0 +1,5 @@
+
+            Resilience, the ability to recover from adverse events, is of fundamental importance to food security. This is especially true in poor countries, where basic needs are frequently threatened by economic, environmental and health shocks. An empirically sound formalization of the concept of food security resilience, however, is lacking. Here, we introduce a general non-equilibrium framework for quantifying resilience based on the statistical notion of persistence. Our approach can be applied to any food security variable for which high-frequency time-series data are available. We illustrate our method with
+            per capita
+            kilocalorie availability for 161 countries between 1961 and 2011. We find that resilient countries are not necessarily those that are characterized by high levels or less volatile fluctuations of kilocalorie intake. Accordingly, food security policies and programmes will need to be tailored not only to welfare levels at any one time, but also to long-run welfare dynamics.
+          

@@ -1,0 +1,9 @@
+Abstract
+Background
+Emerging evidence indicates that long noncoding RNAs (lncRNAs) are important regulators of various biological processes, and their expression can be altered following certain pathological conditions, including central nervous system injury. Retinal ganglion cells (RGCs), whose axons form the optic nerve, are a heterogeneous population of neurons with more than 40 molecularly distinct subtypes in mouse. While most RGCs, including the ON-OFF direction-selective RGCs (ooDSGCs), are vulnerable to axonal injury, a small population of RGCs, including the intrinsically photosensitive RGCs (ipRGCs), are more resilient.
+
+Results
+By performing systematic analyses on RNA-sequencing data, here we identify lncRNAs that are expressed in ooDSGCs and ipRGCs with and without axonal injury. Our results reveal a repertoire of different classes of lncRNAs, including long intergenic noncoding RNAs and antisense ncRNAs that are differentially expressed between these RGC types. Strikingly, we also found dozens of lncRNAs whose expressions are altered markedly in response to axonal injury, some of which are expressed exclusively in either one of the types. Moreover, analyses into these lncRNAs unraveled their neighboring coding genes, many of which encode transcription factors and signaling molecules, suggesting that these lncRNAs may act in cis to regulate important biological processes in these neurons. Lastly, guilt-by-association analysis showed that lncRNAs are correlated with apoptosis associated genes, suggesting potential roles for these lncRNAs in RGC survival.
+
+Conclusions
+Overall, the results of this study reveal RGC type-specific expression of lncRNAs and provide a foundation for future investigation of the function of lncRNAs in regulating neuronal type specification and survival.

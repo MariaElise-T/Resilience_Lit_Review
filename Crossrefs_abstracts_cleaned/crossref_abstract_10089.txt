@@ -1,0 +1,12 @@
+Abstract
+Background
+A variety of studies point to a deterioration of educational equity in Sweden and increasing school segregation with respect to achievement and socioeconomic composition. Some schools are resilient to socioeconomic disadvantages in their student body and demonstrate high levels of achievement. However, little attention has been given to these resilient schools. Material well-being, as one important dimension of student well-being, comprises the student’s home background and school resources. The relationship between home background and achievement is well-established but less literature includes school-level factors of material well-being. In comparing the material well-being at resilient, non-resilient, and more advantaged schools, this study aims at detecting possible patterns that may provide crucial information as to why some schools succeed better in compensating for disadvantages.
+
+Methods
+Using Swedish data from the Programme for International Student Assessment (PISA) from 2000 to 2018, the shares of resilient, non-resilient, and more advantaged school groups with different achievement levels were identified by using aggregated achievement and socioeconomic background measures. Making use of a well-being framework specifically designed for PISA data, the school groups were compared regarding their material well-being as measured by the perceived shortage of material resources and teachers, the percentage of teachers fully certified, the availability of computers, and extracurricular activities. This comparison of school groups was computed using the nonparametric Kruskal-Wallis test and a Bonferroni-adjusted pairwise comparison.
+
+Results
+The shares of resilient schools decreased considerably from 14% in 2000 to 3% in 2015. Yet, the comparison of the material well-being at resilient and other school groups led to mostly non-significant results. Overall, disadvantaged schools reported higher teacher shortages than advantaged schools, which indicates the need for a more compensatory allocation of (human) resources.
+
+Conclusions
+The study concluded that the landscape of resilient schools is under continuous change. As no patterns of significant differences between resilient and other school groups were found, the study shows no indication that the material well-being at school compensates for disadvantages in a school’s student body. The findings call for further research regarding changes in the presence of resilient schools and their possible relationship with school material well-being.

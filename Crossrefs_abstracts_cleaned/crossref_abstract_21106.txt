@@ -1,0 +1,16 @@
+ABSTRACT
+
+Introduction
+Successful employment is a functional outcome of high importance for veterans after military discharge. There is a significant rising concern regarding exposure to military sexual trauma (MST) and related mental health outcomes that can impair functional outcomes, such as employment. Although resilience training is a key component of preparing for military service, to date the impact of resilience on employment outcomes for veterans with exposure to MST has yet to be examined. We sought to examine the relationship between resilience and employment in a national sample of post-9/11 veterans with and without MST exposure.
+
+
+Materials and Methods
+A national survey was conducted between October 2021 and January 2022 to respond to the 2021 National Defense Authorization Act mandate to identify factors affecting post-9/11 women veteran’s unemployment. Of veterans, 1,185 completed the survey. Of these, 565 (47.6%) were post-9/11 veterans. The survey collected data on demographics and employment; MST, adult sexual trauma (AST, outside of military), and childhood sexual trauma (CST) exposure; resilience (Response to Stressful Experiences Scale); Post Traumatic Stress Disorder (PTSD) Checklist (PCL-5); and depression (Patient Health Questionnaire-2). Multivariable logistic regression models identified gender-specific associations of resilience with employment among those exposed and not exposed to MST, adjusting for AST, CST, PTSD, and depression. Significance was set at P &lt; .05.
+
+
+Results
+Of 322 women and 243 men post-9/11 veterans, 86.5% were employed. MST exposure (MST[+]) was reported by 31.4% (n = 101) of women and 16.9% (n = 41) of men. MST(+) women veterans were more likely to report CST (35.6% vs. 14.5%; P &lt; .001), AST (68.3% vs. 17.2%; P &lt; .001), and both CST and AST (19.8% vs. 7.2%; P &lt; .001) than MST(−) women. MST(+) men were more likely to report AST (65.9% vs. 7.9%; P &lt; .001), and both CST and AST (14.6% vs. 1.0%; P &lt; .001) than MST(−) men. Levels of self-reported resilience were similar for MST(+) women and men and their MST(−) counterparts (women: 11.1 vs. 11.0; men: 11.5 vs. 12.0). For MST(+) women, each unit increase in resilience was associated with a 36% increase in odds of employment (OR: 1.36, 95% CI, 1.08-1.71); resilience was not associated with increased odds of employment among MST(−) women. Among MST(+) men veterans, each unit increase in resilience was associated with an 83% increase in odds of employment (aOR: 1.83, 95% CI, 1.13-2.98), and like women veterans, resilience was not associated with employment among MST(−) men.
+
+
+Conclusions
+Among MST(+) women and men post-9/11 veterans, higher resilience was associated with increased odds of employment, whereas resilience was not associated with employment in MST(−) veterans. These findings suggest that resiliency during and after military service is a key component for potentially improving long-term outcomes. Improving resilience using evidence-based approaches among post-9/11 veterans exposed to MST may be an important avenue for increasing successful functional outcomes such as employment. Moreover, MST(+) women and men veterans may benefit from trauma-informed care as a substantial proportion of these individuals also report exposure to CST, AST, PTSD, and depression.

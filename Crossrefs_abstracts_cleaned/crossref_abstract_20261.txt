@@ -1,0 +1,16 @@
+Abstract
+
+Study Objectives
+Substantial individual differences exist in cognitive deficits due to sleep restriction (SR) and total sleep deprivation (TSD), with various methods used to define such neurobehavioral differences. We comprehensively compared numerous methods for defining cognitive throughput and working memory resiliency and vulnerability.
+
+
+Methods
+Forty-one adults participated in a 13-day experiment: 2 baseline, 5 SR, 4 recovery, and one 36 h TSD night. The Digit Symbol Substitution Test (DSST) and Digit Span Test (DS) were administered every 2 h. Three approaches (Raw Score [average SR performance], Change from Baseline [average SR minus average baseline performance], and Variance [intraindividual variance of SR performance]), and six thresholds (±1 standard deviation, and the best/worst performing 12.5%, 20%, 25%, 33%, 50%) classified Resilient/Vulnerable groups. Kendall’s tau-b correlations compared the group categorizations’ concordance within and between DSST number correct and DS total number correct. Bias-corrected and accelerated bootstrapped t-tests compared group performance. 
+
+
+Results
+The approaches generally did not categorize the same participants into Resilient/Vulnerable groups within or between measures. The Resilient groups categorized by the Raw Score approach had significantly better DSST and DS performance across all thresholds on all study days, while the Resilient groups categorized by the Change from Baseline approach had significantly better DSST and DS performance for several thresholds on most study days. By contrast, the Variance approach showed no significant DSST and DS performance group differences.
+
+
+Conclusion
+Various approaches to define cognitive throughput and working memory resilience/vulnerability to sleep loss are not synonymous. The Raw Score approach can be reliably used to differentiate resilient and vulnerable groups using DSST and DS performance during sleep loss.

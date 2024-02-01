@@ -1,0 +1,9 @@
+Abstract
+Background
+In nature, microbial communities undergo changes in composition that threaten their resiliency. Here, we interrogated sourdough, a natural cereal-fermenting metacommunity, as a dynamic ecosystem in which players are subjected to continuous environmental and spatiotemporal stimuli.
+
+Results
+The inspection of spontaneous sourdough metagenomes and transcriptomes revealed dominant, subdominant and satellite players that are engaged in different functional pathways. The highest microbial richness was associated with the highest number of gene copies per pathway. Based on meta-omics data collected from 8 spontaneous sourdoughs and their identified microbiota, we de novo reconstructed a synthetic microbial community SDG. We also reconstructed SMC-SD43 from scratch using the microbial composition of its spontaneous sourdough equivalent for comparison. The KEGG number of dominant players in the SDG was not affected by depletion of a single player, whereas the subdominant and satellite species fluctuated, revealing unique contributions. Compared to SMC-SD43, SDG exhibited broader transcriptome redundancy. The invariant volatilome profile of SDG after in situ long-term back slopping revealed its stability. In contrast, SMC-SD43 lost many taxon members. Dominant, subdominant and satellite players together ensured gene and transcript redundancy.
+
+Conclusions
+Our study demonstrates how, by starting from spontaneous sourdoughs and reconstructing these communities synthetically, it was possible to unravel the metabolic contributions of individual players. For resilience and good performance, the sourdough metacommunity must include dominant, subdominant and satellite players, which together ensure gene and transcript redundancy. Overall, our study changes the paradigm and introduces theoretical foundations for directing food fermentations.

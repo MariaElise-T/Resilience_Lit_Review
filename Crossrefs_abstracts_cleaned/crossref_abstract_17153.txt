@@ -1,0 +1,21 @@
+Abstract
+
+Background
+The role of leadership in resilience is commonly acknowledged but empirical studies in the context of healthcare are less frequent. One key to public health preparedness is to understand how primary healthcare organisations are able to build resilience before, during, and after unexpected or sudden shocks. Finland offers an opportunity to investigate resilience in a public sector setting where the health system is decentralized and local health systems, including primary healthcare, are responsible for most public health actions. In this study we examined how leaders responsible for local health systems interpreted changes in their operational environment in Finland during the first year of COVID-19, and to how these views reflect aspects of resilience in healthcare.
+
+
+Methods
+We identified 14 leaders in four regions in Finland from a larger data set of 53 interviews. Leaders had responsibilities for local health and social care during the COVID-19 pandemic. Semi-structured interviews were conducted in March-June 2021. The audio recorded data were transcribed and analysed with abductive thematic analysis using Atlas.TI.
+
+
+Results
+From the data we identified three core issues of leadership in building primary healthcare resilience. Firstly, living with constant uncertainty was seen as an integral part of leadership not only during crises but also at normal times. Secondly, health systems’ adaptability was considered important. This was maintained through decisions on workforce, information, and collaboration. Thirdly, the leaders responsible for local health systems emphasized holistic approach to crisis governance and service needs of the public.
+
+
+Conclusions
+Leaders in local health systems have to consider uncertainties and various entwined aspects of resilience during public health crises. This should be emphasised in decision-making and policy recommendations. Qualitative research designs are needed to obtain a broad understanding of the entity.
+
+
+Key messages
+• Holistic approach and adaptability were key factors of local health system resilience in Finland.
+• Resilience should be studied more in the context of local health systems and primary healthcare where complexities are processed continuously.

@@ -1,0 +1,19 @@
+
+BACKGROUND
+Community violence remains a clinical concern for urban hospitals nationwide; however, research on resilience and posttraumatic growth (PTG) among survivors of violent injury is lacking. This study intends to assess survivors of violent injury for resilience and PTG to better inform mental health interventions.
+
+
+METHODS
+Adults who presented with nonaccidental penetrating trauma to an urban level 1 trauma center and were at least 1 month, but no more than 12 months, from treatment were eligible. Participants completed the Connor-Davidson Resiliency Scale, Posttraumatic Growth Inventory (PTGI), Primary Care Posttraumatic Stress Disorder screen, and a community violence exposure screen. Additional demographic, injury, and treatment factors were collected from medical record.
+
+
+RESULTS
+A total of 88 patients participated. The mean resiliency score was 83.2, with 71.1% scoring higher than the general population and 96.4% scoring higher than the reported scores of those seeking treatment for posttraumatic stress disorder (PTSD). Participants demonstrated a mean PTGI score of 78 (SD, 20.4) with 92.4% scoring above the significant growth threshold of 45. In addition, 60.5% of patients screened positive for significant PTSD symptoms, approximately eight times higher than general population. Exposure to other traumatic events was high; an overwhelming 94% of participants stated that they have had a family member or a close friend killed, and 42% had personally witnessed a homicide. Higher resilience scores correlated with PTGI scores (p < 0.001) and lower PTSD screen (p = 0.02).
+
+
+CONCLUSION
+Victims of violent injury experience a myriad of traumatic events yet are highly resilient and exhibit traits of growth across multiple domains. Resiliency can coexist with posttraumatic stress symptoms. Practitioners should assess for resiliency and PTG in addition to PTSD. Further investigation is needed to clarify the relational balance between resilience and posttraumatic stress.
+
+
+LEVEL OF EVIDENCE
+Epidemiological study type, Level II.

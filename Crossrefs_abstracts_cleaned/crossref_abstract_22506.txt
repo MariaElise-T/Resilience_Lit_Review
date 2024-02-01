@@ -1,0 +1,12 @@
+Abstract
+Background
+The purpose of this study was to investigate the sociodemographic factors related to psychological distress, spirituality, and resilience, and to examine the mediating role of spirituality with respect to psychological distress and resilience in patients with advanced, unresectable cancer during the Covid-19 pandemic.
+
+Methods
+A prospective, cross-sectional design was adopted. Data were collected from 636 participants with advanced cancer at 15 tertiary hospitals in Spain between February 2019 and December 2021. Participants completed self-report measures: Brief Resilient Coping Scale (BRCS), Brief Symptom Inventory (BSI-18), and Spiritual well-being (FACIT-Sp). Hierarchical linear regression models were used to explore the mediating role of spirituality.
+
+Results
+Spirituality was significantly different according to the person’s age and marital status. Psychological distress accounted for 12% of the variance in resilience (β = − 0.32, p < 0.001) and spirituality, another 15% (β =0.48, p < 0.001). Spirituality acted as a partial mediator in the relationship between psychological distress and resilience in individuals with advanced cancer.
+
+Conclusions
+Both psychological distress and spirituality played a role in resilience in cases of advanced cancer. Spirituality can help promote subjective well-being and increased resilience in these subjects.

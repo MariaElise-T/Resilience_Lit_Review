@@ -1,0 +1,9 @@
+Abstract. 
+
+A naturally evolved arthropod community in a 6‐year‐old apple orchard was treated with three applications of permethrin; a second naturally evolved community was studied as an untreated control. Disturbance to the community was measured with Shannon's index of species diversity for the phytophagous and beneficial portions of the community.
+Initially, there was a reduction in diversity of both phytophagous and beneficial arthropods because of the insecticide. Reduction in diversity was a result of both lower number of species and lower evenness of species abundance.
+Two months after the last permethrin spray, there was no difference between diversity in the phytophagous community, but the beneficial community was more diverse in the treated orchard than in the untreated control.
+The year after treatment there were few differences between the phytophagous communities, but the beneficial community was more diverse in the treated orchard than in the untreated orchard in May and early June; however, by September the beneficial community was less diverse in the treated orchard.
+Although diversity statistics of the phytophagous communities were similar 15 months after treatment, differences still remained with the treated community being dominated by more r‐selected species and the control orchard dominated by more K‐selected species.
+The arthropod community on apple has a high level of stability as reflected by its resilience to a severe external disturbance. This stability would allow for large, but infrequent, disturbances for pest management and still maintain long‐term ecological equilibrium in the community.
+

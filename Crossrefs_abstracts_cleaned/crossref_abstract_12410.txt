@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+Resilience is the ability to maintain or quickly return to a stable physical and psychological equilibrium despite experiencing stressful events. Flexibility of the autonomic nervous system is particularly important for adaptive stress responses and may contribute to individual differences in resilience. Power spectrum analysis of heart rate variability (HRV) allows measurement of sympathovagal balance, which helps to evaluate autonomic flexibility. The present study investigated HRV as a broad index of resilience.
+
+
+Materials and Methods
+Twenty-four male participants from the Army National Guard Special Forces completed psychological measures known to relate to resilience and had HRV measured while undergoing stressful virtual environment scenarios. Pearson product-moment correlations were used to explore the relationships between HRV and resilience factors. All research was conducted with the oversight of the Human Subjects Review Committee of Fuller Theological Seminary.
+
+
+Results
+Trends toward significance were reported in order to provide results that would reasonably be expected in a study of higher power. Trends between resilience factors and HRV were found only during specific stress-inducing simulations (see Tables III).
+
+
+Conclusion
+Greater resilience to stress was associated with HRV during nonstress periods. Higher levels of resilience to traumatic events were associated with HRV during circumstances that were more stressful and emotionally distressing. Post hoc analysis revealed that specific factors including flexibility, emotional control, and spirituality were driving the relationship between general resilience and HRV following emotionally laden stressors. Less stress vulnerability was associated with HRV following intermittent brief stressors. In sum, HRV appears to represent some aspects of an individual’s overall resilience profile. Although resilience remains a complex, multidimensional construct, HRV shows promise as a global psychophysiological index of resilience. This study also offers important perspectives concerning ways to optimize both physical and psychological health.

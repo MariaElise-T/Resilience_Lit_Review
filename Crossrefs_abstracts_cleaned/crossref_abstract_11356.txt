@@ -1,0 +1,1 @@
+AbstractA theory has been developed for the average bending deformation of fibers in an assembly subjected to compression. It is shown that the maximum average bending deformation of the fibers does not exceed 17°, implying that the method of bulk resilience cannot be used as an indicator of elastic recovery of fibers for any precision measurements.

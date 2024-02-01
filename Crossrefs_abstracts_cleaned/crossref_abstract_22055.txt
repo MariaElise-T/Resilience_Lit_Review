@@ -1,0 +1,15 @@
+Abstract
+Background
+Recent research, which explored the use of Quality Improvement (QI) methods in the Covid-19 pandemic response, found that Quality Improvement principles were utilised during the crisis management period, albeit without direct intention. Following on from this work, the aim of this paper extends that study by investigating the sustainability and resilience of not only the changes implemented by healthcare staff during Covid-19 in Ireland, but the resilience of the wellbeing of healthcare staff themselves through the various waves of Covid-19.
+
+Methods
+To explore healthcare staffs experience of Quality Improvement and the sustainability and resilience of both Quality Improvement initiatives and healthcare staff, a qualitative design was implemented. Semi-structured interviews took place online over Zoom with 11 healthcare staff members from the Irish healthcare service in the Spring of 2022. An analysis of the narratives was conducted using thematic analysis supported by NVivo12.
+
+Results
+Four key themes were evident from the data: (i) From fear to exhaustion; (ii) maintaining person-centred approaches to care; (iii) Covid-19 as a medium for change, and; (iv) staff resilience and appetite for Quality Improvement.
+
+Discussion
+The results of this work identified three key learnings; (i) integrating learning into policies and practice: (ii) the role of collective leadership and devolving/sharing power; and (iii) key drivers/factors that promote sustainability of QI interventions. Despite the challenges in recruitment of research participants experienced during the pandemic, a narrative approach supported the collation of rich and nuanced insights into the experiences of healthcare staff during this time.
+
+Conclusion
+A growing body of literature currently exists on how healthcare staff felt during the Covid-19 pandemic. However, as the waves of Covid-19 have declined, it is vital to examine how the feelings of burnout and disillusionment will affect engagement with Quality Improvement in the future. It is also worth noting and examining the feeling of purpose and pride participants expressed from working through the Covid-19 pandemic. This study has helped to address this gap.

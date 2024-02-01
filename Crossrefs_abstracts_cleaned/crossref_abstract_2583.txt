@@ -1,0 +1,15 @@
+
+Purpose
+However, due to the huge number of studies and on the other hand to be new and creative, the represented models and methods – as the two main parts of this field – have been got more complicated, which consequently have been turned into unpractical research studies for the realistic situations. Therefore, the purpose of this study is the representation of a novel and simple method to deal with the aforementioned gap.
+
+
+Design/methodology/approach
+To this end, Fazl-Tash method have been proposed, in which a thorough and complete model including 114 criteria and a simple technique to rank and select the best supplier have been presented. Sustainability and resiliency are considered in collecting criteria effective on supplier selection.
+
+
+Findings
+The method was carried out in a case study in an industrial company. The efficiency of the proposed method is evaluated in comparison with other conventional approaches.
+
+
+Originality/value
+As selecting the supplier plays a crucial role to bring some important advantages for companies, such as coping with the cost and time problems and influencing the majority of contemporary markets’ requirements, in recent years, there have been representing more effective studies in the supplier selection literature.

@@ -1,0 +1,12 @@
+Abstract
+Background
+A pandemic is a very stressful event, especially for highly vulnerable people (e.g., older adults). The purpose of the current study was to investigate the main and interactive relationships of social support and resilience on individual mental health during the COVID-19 pandemic across three age groups: emerging adults, adults, and older adults.
+
+Methods
+A survey was conducted with 23,192 participants aged 18–85. Respondents completed a questionnaire, including items on the COVID-19-related support they perceived from different sources, the abbreviated version of the Connor-Davidson Resilience Scale, and the Mental Health Inventory.
+
+Results
+Latent profile analysis identified five profiles of social support, and the patterns of potential profiles were similar in all groups. However, category distribution in the five profiles was significantly different among the age groups. Furthermore, analysis using the BCH command showed significant differences in mental health among these profiles. Lastly, interactive analyses indicated resilience had a positive relationship with mental health, and social support served as a buffer against the negative impact of low resilience on mental health.
+
+Conclusions
+This study provides quantitative evidence for socioemotional selectivity theory (SST) and enables several practical implications for helping different age groups protecting mental health during pandemic.

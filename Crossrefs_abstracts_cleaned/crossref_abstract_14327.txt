@@ -1,0 +1,21 @@
+Abstract
+
+Introduction/Background
+Health care providers in neonatal intensive care units (NICU) experience critical or distressing events that can overwhelm their usual coping skills and lead to significant stress. Ineffective support for health care providers dealing with critical incidents can lead to poor unit resilience, staff burnout and compromised patient care behaviours. A formalized peer program and process to address critical workplace incidents and support care providers, “Critical Incident Stress Management (CISM)” is used in many first responder professions. While there is growing interest in implementing peer CISM teams in critical care units, there is a lack of research describing the impact of CISM in NICU.
+
+
+Objectives
+This study examined the effect of implementing a multidisciplinary NICU health care provider peer CISM team on resilience, burnout, and team/safety culture in a tertiary NICU.
+
+
+Design/Methods
+Multidisciplinary team members were peer selected and formally CISM trained. Change management strategies were employed to introduce CISM to the NICU. All health care providers were invited to complete an anonymous online or paper survey before and 1 year after NICU CISM team implementation. The survey contained validated measures of resilience, burnout, and team/safety culture that were analyzed pre and post intervention.
+
+
+Results
+The response rate pre-intervention was 66% (114/172 staff) and 32% post (60/186 staff). Stress recognition significantly improved as fewer staff reported being less effective at work when feeling stressed post incident (74% vs 61%, pre and post CISM respectively, p&lt;0.05) (Table 1). Fewer staff reported feeling burned out from their work (41% vs 31%, p=0.4), trending towards improved resilience (Table 1). Communication in the NICU significantly improved as staff indicated debriefing methods met their needs (38% vs 57%, p&lt;0.05) and felt comfortable speaking up about safety concerns (66% vs 78%) (Table 1). Post-intervention, despite feelings of increased workload indicated by a significant decrease in agreement that “NICU staff levels were sufficient for patient load” (54% vs 33%, p&lt;0.001), a majority of staff reported a supportive environment in the NICU (59% vs 77%, p=0.08) (Table 1). Work culture significantly improved as staff felt rewarded and recognized for improving quality (13% vs 31%, p&lt;0.05) (Table 1).
+
+
+Conclusion
+Implementation of a peer CISM team led to improved NICU care provider resilience, stress recognition, and team culture, all of which can mitigate the effects of increased patient load. Findings from this research and knowledge gained from the CISM implementation process should be shared with other health care environments.
+

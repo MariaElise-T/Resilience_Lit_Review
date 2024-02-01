@@ -1,0 +1,16 @@
+ABSTRACT
+
+Introduction
+To support soldier readiness and mitigate the mental health consequences of deployments, Army regulation mandates soldiers to receive Deployment Cycle Resilience Training (DCRT) throughout their deployment cycle. A recent evaluation revealed several issues with the existing version that threatened the relevancy and usefulness of the training. The present article details the systematic approach taken by the Research Transition Office at the Walter Reed Army Institute of Research to revise the DCRT curriculum and presents the revision updates that are now included in DCRT version 3.
+
+
+Method
+Curriculum developers (n = 2) with subject matter expertise relevant to the project followed an iterative process that was critical to the efficacy of the revisions. Developers used the existing DCRT modules as the curriculum framework and utilized several materials to inform the revisions to include Army doctrine, data from the quality improvement evaluation conducted by the Walter Reed Army Institute of Research, and the current research related to the deployment cycle, resilience, and behavior change. Internal and external stakeholders (n = 31) provided iterative feedback to ensure each of the six modules met DCRT revision objectives.
+
+
+Results
+The revised DCRT curriculum was implemented in August 2021. The resulting revisions included an increase in inclusivity, an emphasis on growth opportunities, an integrative approach to the deployment cycle phases, and greater practical application. Additionally, the curriculum incorporates best practices found to enhance the delivery of resilience-based psychoeducational interventions, specifically within high-risk occupational settings like the military.
+
+
+Conclusions
+The revisions outlined in this article enhance the training quality and potential effectiveness of DCRT, which can positively influence soldier and family readiness and mission success. Furthermore, the deliberate and iterative curriculum revision process can serve as a guide to other curriculum development projects, specifically within the military context. Implementation considerations and potential limitations are provided, and future directions are discussed to include the ongoing evaluation.

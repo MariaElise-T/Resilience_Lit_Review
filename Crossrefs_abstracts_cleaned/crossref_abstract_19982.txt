@@ -1,0 +1,23 @@
+
+Purpose
+This paper aims to study the dimensions and subdimensions of humanitarian supply chain resilience through the case of an non-governmental organization (NGO) logistics organization facing the international COVID-19 pandemic.
+
+
+Design/methodology/approach
+The methodology of this empirical research paper is based on a qualitative study using semistructured interviews with key actors of the Médecins Sans Frontières Logistique (MSF Log), NGO during the COVID-19 crisis in 2020 and 2021.
+
+
+Findings
+The data analysis highlighted four main dimensions of humanitarian supply chain resilience: organizational capacity, collaboration, flexibility and humanitarian culture. The transversal importance of the information system and that of the humanitarian culture were also pointed out. Furthermore, the authors have identified the subdimensions of each dimension; these subdimensions further elaborate the main dimension and provide a more detailed understanding of the concept. These dimensions require both proactive and reactive actions to be effective. Finally, based on these empirical results, a conceptual model of humanitarian supply chain resilience is proposed.
+
+
+Research limitations/implications
+Additionally, further research can be done to explore the impact of digital technologies on the humanitarian supply chain resilience and how these technologies can be used to improve the resilience of humanitarian supply chains. Additionally, future research can also be conducted to explore how to measure the resilience of humanitarian supply chains and how to develop methods to improve the resilience of these supply chains.
+
+
+Practical implications
+The dimensions and subdimensions of resilience that have been highlighted may provide a guide for managers to target their actions, both responsively and proactively, to act on resilience over time when facing a crisis such as an international pandemic.
+
+
+Originality/value
+The value of this research is linked to the findings that result not only from literature about resilience but are also founded on an empirical and qualitative study of an NGO logistics organization facing an international crisis. The research provides an in-depth understanding of the practical application of supply chain resilience in a humanitarian context and the specific challenges and opportunities that arose during the COVID-19 pandemic for MSF Log. It also highlights the importance of information systems and humanitarian culture in maintaining the supply chain resilience. The findings of this research can be used as a guide for other humanitarian organizations to improve their supply chain resilience in times of crisis.

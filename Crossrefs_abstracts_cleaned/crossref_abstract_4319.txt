@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilient health system (RHS) is crucial to achieving universal health coverage (UHC) and health security. However, little is known about strategies towards RHS to improve UHC and health security. This systematic review aims to synthesise the literature to understand approaches to build RHS toward UHC and health security.
+
+Methods
+A systematic search was conducted including studies published from 01 January 2000 to 31 December 2021. Studies were searched in three databases (PubMed, Embase, and Scopus) using search terms under four domains: resilience, health system, universal health coverage, and health security. We critically appraised articles using Rees and colleagues’ quality appraisal checklist to assess the quality of papers. A systematic narrative synthesis was conducted to analyse and synthesise the data using the World Health Organization’s health systems building block framework.
+
+Results
+A total of 57 articles were included in the final review. Context-based redistribution of health workers, task-shifting policy, and results-based health financing policy helped to build RHS. High political commitment, community-based response planning, and multi-sectorial collaboration were critical to realising UHC and health security. On the contrary, lack of access, non-responsive, inequitable healthcare services, poor surveillance, weak leadership, and income inequalities were the constraints to achieving UHC and health security. In addition, the lack of basic healthcare infrastructures, inadequately skilled health workforces, absence of clear government policy, lack of clarity of stakeholder roles, and uneven distribution of health facilities and health workers were the challenges to achieving UHC and health security.
+
+Conclusions
+Advanced healthcare infrastructures and adequate number of healthcare workers are essential to achieving UHC and health security. However, they are not alone adequate to protect the health system from potential failure. Context-specific redistribution of health workers, task-shifting, result-based health financing policies, and integrated and multi-sectoral approaches, based on the principles of primary health care, are necessary for building RHS toward UHC and health security.

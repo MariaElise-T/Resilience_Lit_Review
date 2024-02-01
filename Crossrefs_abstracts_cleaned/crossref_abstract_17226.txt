@@ -1,0 +1,6 @@
+Abstract
+Objectives
+We evaluated the internal consistencies and the correlation between measures of adverse childhood experiences (ACE), bully victimization, self-esteem, resilience, and social support in children/adolescents in Nigeria.
+
+Results
+The Cronbach’s alphas were 0.67 for the ACE Questionnaire; 0.79 for the victimization subscale of the Illinois Bully Scale; 0.60 for Rosenberg’s self-esteem scale; 0.81 for Connor–Davidson resilience scale; and 0.93 for multidimensional perceived social support scale. Social support was negatively correlated with ACE (r = − 0.21) and bully victimization (r = − 0.16) and was associated with higher self-esteem (r = − 0.29) and higher resilience (r = 0.15). Likewise, higher resilience was associated with fewer ACE (r = − 0.07), higher self-esteem (r = − 0.21), and higher bully victimization (r = 0.13). Higher self-esteem was associated with fewer ACE (r = 0.25) and lower bully victimization (r = 0.16), whereas bully victimization was positively correlated with ACE (r = 0.20). The correlations were all statistically significant.

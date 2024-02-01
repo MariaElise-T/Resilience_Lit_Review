@@ -1,0 +1,15 @@
+
+Purpose
+The dynamics and effects of interconnected risks among construction organisations tend to be overlooked across the Malaysian public project supply chains, making them highly vulnerable to supply chain disruptions. This study aims to investigate this dynamism by assessing the supply chain’s critical vulnerabilities and capabilities that formulate the level of resilience in handling disruptive events in construction projects.
+
+
+Design/methodology/approach
+A comprehensive questionnaire survey was conducted with 105 construction professionals from two groups of respondents, the public and private organisations that work in public projects to identify their current vulnerabilities and capabilities. Data were analysed and compared using the Mann–Whitney U and Kruskal–Wallis tests.
+
+
+Findings
+The findings revealed that the top five critical vulnerability factors of the supply chain include political or regulatory changes, market pressures, management, financial and strategic vulnerability. Further comparisons highlighted that the public organisations faced significantly higher political threats compared to the private organisations whilst the private organisations faced significant market pressures. The survey also shows that despite the private organisations’ high capability in financial strength, the public organisations’ financial vulnerability has destabilised the entire supply chain.
+
+
+Originality/value
+This study presents the construction supply chain’s vulnerabilities in a layered framework approach that can provide managers a new perspective on the dynamics of the cascading impacts of these vulnerabilities when observed through several layers of supply chains.

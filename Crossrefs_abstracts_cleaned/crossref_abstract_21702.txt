@@ -1,0 +1,9 @@
+Abstract
+Background
+Fundamental knowledge of cellular and molecular mechanisms in developing testicular tissues is critical to better understand gonadal biology and responses to non-physiological conditions. The objective of our study was to (1) analyze transcriptome dynamics in developing testis of the domestic cat and (2) characterize age effects on the initial response of the tissue to vitrification. Tissues from adult and juvenile cats were processed for histology, DNA integrity, and RNA sequencing analyses before and after vitrification.
+
+Results
+Transcriptomic findings enabled to further characterize juvenile period, distinguishing between early and late juvenile tissues. Changes in gene expression and functional pathways were extensive from early to late juvenile to adult development stages. Additionally, tissues from juvenile animals were more resilient to vitrification compared to adult counterparts, with early juvenile sample responding the least to vitrification and late juvenile sample response being closest to adult tissues.
+
+Conclusions
+This is the first study reporting comprehensive datasets on transcriptomic dynamic coupled with structural analysis of the cat testis according to the age and exposure to cryopreservation. It provides a comprehensive network of functional terms and pathways that are affected by age in the domestic cat and are either enriched in adult or juvenile testicular tissues.

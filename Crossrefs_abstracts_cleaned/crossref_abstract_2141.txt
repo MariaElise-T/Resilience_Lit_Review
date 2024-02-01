@@ -1,0 +1,2 @@
+Abstract
+We refine local limit theorems for the distribution of a part of the weight vector of subfunctions and for the distribution of a part of the vector of spectral coefficients of linear combinations of coordinate functions of a random binary mapping. These theorems are used to derive improved asymptotic estimates for the numbers of correlation-immune and k-resilient vectorial Boolean functions.

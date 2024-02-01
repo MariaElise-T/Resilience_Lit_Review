@@ -1,0 +1,19 @@
+
+Purpose
+This paper aims to assess the vulnerability and resilience of the Spanish non-financial corporations (NFC) to the shock from the COVID pandemic with consolidated income accounts data, and shows comparative labor productivity and endowment of organizational capital of Spanish firms, as indicators of their capabilities at the outset of the new digital transformation wave proposed by the next generation EU program.
+
+
+Design/methodology/approach
+The paper first describes the recent evolution (quarterly 2020 data) of the Spanish non-financial corporate sector (gross value added, labor cost, capital formation, profits) in the assessment of the vulnerability and resilience of the sector to the shock of the COVID pandemic. Then second, it estimates a probit model to evaluate the EU country effects in the explanation of the different propensity firms in the European Company Survey database to adopt innovative management and organization practices.
+
+
+Findings
+In the Spring of 2020, the Spanish NFC were still recovering from the great recession (low resilience), and the severe contraction in value-added and profits of the corporate sector in the first three quarters of the year evidences its high vulnerability. The proved complementarity between organizational and information related assets implies that the low endowment of organizational capital of Spanish firms, could be a severe limitation for the advancement toward digitalization.
+
+
+Research limitations/implications
+The aggregate corporate sector data used in the analysis of vulnerability and resilience of Spanish firms does not account for the heterogeneous effects of the pandemic across economic sectors (manufacturing and services, for example) and across firms (large versus small ones).
+
+
+Originality/value
+The paper complements the country-level analysis of the impact of the COVID pandemic in the Spanish economy with the analysis of the impact of the pandemic in the performance of the corporate sector. It provides one of the first analysis of the current endowment of organization capital of Spanish firms and highlights its relevance for productivity growth.

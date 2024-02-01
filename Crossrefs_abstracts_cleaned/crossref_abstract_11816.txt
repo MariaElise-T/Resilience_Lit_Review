@@ -1,0 +1,15 @@
+
+Purpose
+The purpose is to replicate and extend Ambulkar et al.’s (2015) work testing resource reconfiguration as a mediator of the supply chain disruption/firm resilience relationship and testing risk management infrastructure as a moderator. This study extends the work of Ambulkar in that it uses analysis of survey data gathered from manufacturing firms during an actual disruption event (COVID-19). The previous work is also in extended in that the authors include a pandemic disruption impact variable and supply chain performance is an expanded model.
+
+
+Design/methodology/approach
+Partial least squares structural equation modeling techniques were used to analyze data gathered from 184 US manufacturing managers during the height (Summer 2021) of the COVID-19 pandemic.
+
+
+Findings
+Two of four of Ambulkars et al.’s (2015) hypotheses were confirmed as relevant to firm resilience during the pandemic while two were not confirmed. Results also show that supply chain disruption orientation, risk management infrastructure and resource reconfiguration combine to improve firm resilience, which in turn improves supply chain performance while mitigating the disruption impact of COVID-19.
+
+
+Originality/value
+Previous work is replicated and extended, using data from an actual disruption event (COVID-19). This study presents a more comprehensive model using a newly developed and validated scale to measure pandemic impact and including supply chain performance.

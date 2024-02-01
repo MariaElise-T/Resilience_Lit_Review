@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+There are substantial, stable individual differences in cognitive performance resulting from sleep restriction (SR) and total sleep deprivation (TSD). The best method for defining cognitive resilience and vulnerability to sleep loss remains an unanswered, yet important question. To investigate this, we compared multiple approaches and cutoff thresholds to define resilience and vulnerability using the 10-minute Psychomotor Vigilance Test (PVT).
+
+
+Methods
+Forty-one healthy adults (ages 21-49; mean±SD, 33.9±8.9y; 18 females) participated in a 13-night experiment [2 baseline nights (10h-12h time-in-bed, TIB), 5 SR nights (4h TIB), 4 recovery nights (12h TIB), and 36h TSD]. The PVT was administered every 2h during wakefulness. PVT lapses (reaction time [RT]&gt;500 ms) and 1/RT (response speed) were measured. Resilient and vulnerable groups were defined by three approaches: average performance during SR1-5, average performance change from baseline to SR1-5, and variance in performance during SR1-5. Within each approach, resilient/vulnerable groups were defined by +/- 1 standard deviation and by the top and bottom 12.5%, 20%, 25%, 33%, 50%. Bias-corrected and accelerated bootstrapped t-tests compared PVT performance between the resilient and vulnerable groups during baseline and SR1-5. Kendall’s tau correlations compared the ranking of individuals in each group.
+
+
+Results
+T-tests revealed that the resilient and vulnerable PVT lapses groups, defined by all three approaches, had significantly different mean PVT lapses at all cutoffs. Resilient and vulnerable PVT 1/RT groups, defined by raw scores and by change from baseline, had significantly different mean PVT 1/RT at all cutoffs. However, resilient/vulnerable PVT 1/RT groups defined by variance only differed at the 33% and 50% cutoffs. Notably, raw scores at baseline significantly differed between resilient/vulnerable groups for both PVT measures. Variance vs. raw scores and variance vs. change from baseline had the lowest correlation coefficients for both PVT measures.
+
+
+Conclusion
+Defining resilient and vulnerable groups by raw scores during SR1-5 produced the clearest differentiation between resilient and vulnerable groups at every cutoff threshold for PVT lapses and response speed. As such, we propose that using PVT raw score is the optimal approach to define resilient and vulnerable groups for behavioral attention performance during sleep loss.
+
+
+Support (if any)
+ONR Award No.N00014-11-1-0361;NIH UL1TR000003;NASA NNX14AN49G and 80NSSC20K0243;NIH R01DK117488

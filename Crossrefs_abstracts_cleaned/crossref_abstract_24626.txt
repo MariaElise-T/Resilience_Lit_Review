@@ -1,0 +1,12 @@
+Abstract
+Background
+Published studies examining the association between childhood maltreatment (CM) and self-harm (SH) among adolescents have been accumulated. It is possible that resilience serves as a moderator or mediator in CM-SH association, nevertheless, this topic has never been thoroughly investigated.
+
+Methods
+In this population-based cross-sectional study, we surveyed 3146 students aged 10–17 in southwest China. The Childhood Trauma Questionnaire (CTQ), the Modified version of Adolescents Self-Harm Scale (MASHS), and the Resilience Scale for Chinese Adolescents (RSCA) were used to measure CM, SH, and resilience. Correlational analyses, hierarchical multivariate linear regression, and structural equation modeling (SEM) were performed to test the moderation and mediation of resilience in CM-SH association.
+
+Results
+Findings revealed that, resilience with its five dimensions, CM, and SH were significantly correlated with each other. Resilience partially moderated and mediated the association between CM and SH. Besides, among all dimensions of resilience, emotion regulation, interpersonal assistance, and family support presented the strongest mediation in CM-SH association.
+
+Conclusions
+Our results highlight the importance of resilience in CM related SH among Chinese teenagers. Resilience-oriented intervention could be considered in SH intervention measures for adolescents who had experienced CM.

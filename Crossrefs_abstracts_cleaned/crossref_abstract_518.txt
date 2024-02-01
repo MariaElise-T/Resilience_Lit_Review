@@ -1,0 +1,23 @@
+
+Purpose
+Supply chain resilience (SCR) has recently become an important issue for organizations all around the world. In order to decrease the risk of failures, managers and decision makers are constantly looking for practices to enhance SCR. The purpose of this paper is to propose a research model that mainly focuses on the effect of information sharing (IS) to enhance SCR.
+
+
+Design/methodology/approach
+Survey method is used in this research. Data were collected from the supply chain, procurement, executive and IT managers of 82 of Tehran’s stock exchange production companies. Structural equation modeling with SmartPLS3 software is used to analyze the collected data.
+
+
+Findings
+Research results show that IS significantly enhances SCR.
+
+
+Research limitations/implications
+Data were collected at one point in time, and therefore a longitudinal study can further investigate the results of this study. The research was carried out in production companies in Iran. Future research can examine the research model in other industry sectors, e.g. services, in other countries to validate the accuracy of the findings.
+
+
+Practical implications
+The findings of this research should help managers, and decision makers create more resilient supply chains for their own and partners’ organizations.
+
+
+Originality/value
+The research model provides insightful results regarding the significance of IS in the SCR context.

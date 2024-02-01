@@ -1,0 +1,15 @@
+Summary
+
+
+It is expected that extreme climate events such as droughts will increase in both severity and intensity as a consequence of forecasted climate change. Complementarity among tree species in resource acquisition strategy may reduce interspecific competition and increase the occurrence of facilitative interactions, resulting in an improved tree growth and resilience to extreme climatic events. However, the response of individual trees growing in more functionally diverse stands to extreme events is still under debate.
+
+
+We investigate the growth response of silver fir (Abies alba) to an extreme drought event which occurred in 1985–1986 in the Central Spanish Pyrenees and how the growth and resilience of trees relate to their neighbourhood functional diversity, stand heterogeneity and intraspecific and interspecific competition. Dendroecological methods were used to reconstruct radial growth. We recorded all tree species living around each sampled tree and calculated indices of intra‐ and interspecific competition among coexisting trees. Functional diversity around each focal tree was calculated by using the Rao's quadratic entropy.
+
+
+Silver fir growth decreased significantly in response to the drought in the vast majority of trees, but most of them showed a growth recovery 3 years later. Despite most trees showed negative growth trends following the drought event (70%), those trees growing in more functionally diverse stands were more resilient, recovered more quickly and displayed greater growth and growth trends.
+
+
+Synthesis. The presented findings support the growing body of evidence that shows a positive impact of diversity on forest function. In addition, we provide a direct linkage between tree growth response to climate at the individual tree scale and a direct quantification of neighbourhood functional diversity and competition. An enhanced functional diversity facilitating a more efficient use of resources at the interspecific level and potentially increasing facilitative interactions contributes to lessening the negative impacts of extreme events as droughts on forest growth.
+
+

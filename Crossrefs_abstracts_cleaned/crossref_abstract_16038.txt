@@ -1,0 +1,15 @@
+
+Purpose
+COVID-19 preventive measures disrupted the media and entertainment business ecosystem, increased over the top (OTT) consumption, brought new OTT players, thus increased competition, and shaped consumer behaviour and habits. Despite this knowledge, in-depth insights into OTT's consumer behaviour, new usage habit and strategies used by subscription-based OTT platforms to maintain resilience during the COVID-19 pandemic are unknown. This paper aims to fill the two gaps in the extant OTT literature.
+
+
+Design/methodology/approach
+This study used Eisenhardt's multiple case studies approach to derive the strategies used by the top-performing subscription-based OTT platforms in India. Moreover, a purposive semi-structured Google survey was used to explore consumers' OTT experience during the pandemic. This study analysed data using NVivo 12 (survey) and MS Excel 2010 (case studies).
+
+
+Findings
+This study derived seven resilient OTT strategies; competitive low pricing, enhancing customer experience, launching innovative service plans, content localisation, strategic collaboration, flexibility in technology adoption and proactive sales promotion. Consequent to adopting these strategies, consumers' usage of OTT evolved from occasional to habitual. Convenience, ease of accessibility, risk of contracting COVID-19, variety and quality of content, online reviews and affordability drive consumer preference for OTT. Also, this study revealed consumers' varied OTT experiences.
+
+
+Originality/value
+The contribution is two-fold; the derived strategies for maintaining resilience and the in-depth insights into habit formation and consumer behaviour during and after the COVID-19 pandemic. This study is valuable for media and entertainment stakeholders like streaming service providers, OTT services, cable operators, etc.

@@ -1,0 +1,12 @@
+Abstract
+Background/Objectives
+Nurses in Lebanon are facing multiple crises and the severity of the situation calls for an empirical examination of their resilience status. Evidence indicates that resilience can buffer the negative effect of workplace stressors on nurses and is associated with favorable patient outcomes. The objective of this study was to test the psychometric properties of the Arabic Resilience Scale-14 that was utilized to measure resilience among Lebanese nurses,
+
+Methods
+Data was collected from nurses working in health care centers using a cross-sectional survey design. We estimated the confirmatory factor analysis using the Diagonally Weighted least Squares. Fit indices for the confirmatory factor analysis model included Model chi-square, root-mean squared error of approximation and Standardized Root Mean Square Residual. Statistical significance was set at p < 0.05.
+
+Results
+1,488 nurses were included in the analysis. The squared multiple correlations values ranged from 0.60 to 0.97 thus supporting the construct validity of the originally hypothesized five factor model (self-reliance, purpose, equanimity, perseverance, and authenticity).
+
+Conclusions
+The Arabic version of the Resilience Scale 14 tool is considered a valid tool for measuring resilience in any situation involving Arabic speaking nurses.

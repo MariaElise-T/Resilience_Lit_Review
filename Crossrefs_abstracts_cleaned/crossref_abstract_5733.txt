@@ -1,0 +1,17 @@
+Abstract
+
+Introduction
+We have shown in a previous study that despite significant improvements in sleep patterns and sleep duration during COVID-19 in teens and young adults, only teens reported better sleep quality and satisfaction. Moreover, sleep difficulties seem to be more prominent in the older group during the pandemic, suggesting that there could be additional risk factors involved. The current study aimed to investigate the role of resilience in the association between changes in sleep and the subjective sleep quality (SSQ) in teens and young adults during COVID-19.
+
+
+Methods
+289 teens (12-17 years old) and 294 young adults (18-25 years old) completed the Connor-Davidson Resilience Scale-10 and an adapted version of the Pittsburgh Sleep Quality Index online. Teens and young adults were each divided into a resilient and less resilient group. Hierarchical regression models were conducted to examine the unique contribution of weekdays sleep duration, sleep difficulties, and resilience to SSQ. Sleep duration, sleep difficulties and SSQ before COVID-19, and gender were entered as controls.
+
+
+Results
+Results show that in less resilient teens, changes in sleep onset difficulties (β=-.285, p=.003), nocturnal and early awakenings (β=-.218, p=.019), and weekdays sleep duration (β=.282, p=.001) significantly predicted SSQ and explained 36.5% of the variance. In less resilient young adults, changes in nightmares (β=-.309, p=.027) and sleep onset difficulties (β=-.263, p=.012) significantly predicted SSQ and explained 24.1% of the variance. In resilient teens, changes in weekdays sleep duration (β=.296, p=.007) significantly predicted SSQ and explained 20.1% of the variance. In resilient adults, changes in sleep onset difficulties (β=-.325, p=.001), nocturnal and early awakenings (β=-.374, p=.000), and weekdays sleep duration (β=.192, p=.009) significantly predicted SSQ and explained 46.0% of the variance.
+
+
+Conclusion
+Our results suggest that resilience appears to be a protecting factor in the impacts of sleep difficulties on sleep quality, but only in adolescents. Indeed, in young adults, sleep difficulties seem to be a more important factor modulating sleep quality than changes in sleep duration. These results underline the importance of focusing on the intrinsic characteristics of each population to better target interventions.
+Support (if any):

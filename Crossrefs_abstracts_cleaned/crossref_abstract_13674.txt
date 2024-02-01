@@ -1,0 +1,6 @@
+ 
+Purpose: To identify point prevalence of psychosocial resilience (PR) and to test moderating and predictive relationships among optimism, chronological age, gender, perceived family and friend support, number of bad life events, and PR in rural adolescents.  
+Design: A secondary analysis of a cross‐sectional survey of 624 rural adolescents aged 14 to 18 in an eastern U.S. state.  
+Method: Descriptive statistics were used to identify point prevalence, and stepwise logistic regression was used to identify which variables alone or in combination had significant effects upon PR.  
+Findings: The point prevalence of PR was 17% with the largest percentage of students reporting medium levels of resilience. Level of adolescent PR was partially predicted by cognitive factors (optimism, perceived family support), number of bad life events, age, and gender. Perceived support of friends and optimism modified the level of PR.  
+Conclusions: The predictive and moderating model was useful for building knowledge about the process of PR in rural adolescents. 

@@ -1,0 +1,15 @@
+
+Purpose
+Facing the challenges posed by the pandemic of COVID-19, this paper aims to contribute to the resilience of businesses through the development of a real options approach (ROA) that provides alternatives and opportunities for a decision process under situations when future events and outcomes are unknown and not capable of being known from current information.
+
+
+Design/methodology/approach
+This paper involves a stochastic modelling process in generating a set of absolute option values, using available data and scenarios from the COVID-19 pandemic event. The modelling and simulations using ROA suggest how strategic portfolios resolve the growing problem during the endemic to all but in the most isolated societies.
+
+
+Findings
+This study finds the emergent correlation between circuit breakers and lockdowns, which have brought about a “distorted gravity” effect (inverse growth of global businesses and trades). However, “time-to-build” real options (i.e. deferral, expand, switch and compound exchange) start to function in the adaptive-transformative capabilities for growth opportunities of both government and corporate sectors. Significantly, some sectors grow faster than others while the compound exchange remains primarily challenging. Clearly, the government and corporate sectors are entangled, inevitably, the decoherence allows for the former to change uncertainty in the latter; therefore, government sector options change option values in the corporate sector.
+
+
+Originality/value
+The ROA by empirically focusing on both government and corporate sectors demonstrates under conditions of uncertainty how options in decision-making generate opportunities that hitherto have not been recognised and exercised upon by research in the immediate context of the COVID-19 pandemic. Importantly, the ROA provides an insightful concatenation (capability–behaviour approach) that drives resilience.

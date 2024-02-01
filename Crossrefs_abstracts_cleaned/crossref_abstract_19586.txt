@@ -1,0 +1,8 @@
+Abstract
+
+Flooding threatens the functioning of managed grasslands by decreasing primary productivity and increasing nitrogen losses, notably as the potent greenhouse gas nitrous oxide (N2O). Sowing species with traits that promote flood resilience and mitigate flood‐induced N2O emissions within these grasslands could safeguard their productivity while mitigating nitrogen losses.
+We tested how plant traits and resource acquisition strategies could predict flood resilience and N2O emissions of 12 common grassland species (eight grasses and four legumes) grown in field soil in monocultures in a 14‐week greenhouse experiment.
+We found that grasses were more resistant to flooding while legumes recovered better. Resource‐conservative grass species had higher resistance while resource‐acquisitive grasses species recovered better. Resilient grass and legume species lowered cumulative N2O emissions. Grasses with lower inherent leaf and root δ13C (and legumes with lower root δ13C) lowered cumulative N2O emissions during and after the flood.
+Our results highlight the differing responses of grasses with contrasting resource acquisition strategies, and of legumes to flooding. Combining grasses and legumes based on their traits and resource acquisition strategies could increase the flood resilience of managed grasslands, and their capability to mitigate flood‐induced N2O emissions.
+
+A free Plain Language Summary can be found within the Supporting Information of this article.

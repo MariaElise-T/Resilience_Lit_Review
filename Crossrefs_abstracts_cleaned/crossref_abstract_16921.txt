@@ -1,0 +1,29 @@
+This study was an exploratory sequential mixed-methods design to develop a resilience scale for Thai elderly with chronic diseases and depression. The qualitative findings from the focus group discussion with 6 participants were used to develop a resilience scale, and the scale was then tested on 310 samples to check the reliability and validity of the scale. The qualitative results showed that resilience was defined in 3 themes: My Characteristics, My Abilities, and My Dependencies, which were composed of 9 different categories. The results of the quantitative examination showed that all 21 items of the resilience scale had a good corrected item-total correlation and the Cronbach’s alpha coefficient of 0.85 indicated that the scale was internally consistent and highly reliable. The construct validity of the resilience scale was tested by confirmatory factor analysis and revealed that the resilience model was consistent with the empirical data based on the goodness-of-fit index (
+
+chi
+−
+square
+=
+161.51
+
+, 
+
+df
+=
+186
+
+, 
+
+p
+ 
+value
+=
+0.90
+
+, 
+
+RMSEA
+=
+0.000
+
+). All the results show that the resilience scale has excellent and appropriate psychological properties. Health-care workers can use the resilience scale to assess the elderly and develop a resilience-promoting program specifically for the elderly with chronic diseases and depression to improve the well-being of the elderly.

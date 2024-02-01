@@ -1,0 +1,1 @@
+This paper deals with actively studied terms “flexibility” and “resiliency” of electric power systems (EPS). Definitions and content of these new fundamental EPS properties are analysed. Objective trends in development of EPS with regard to these properties are discussed. Possible measures for improving flexibility and resiliency of EPS are suggested.

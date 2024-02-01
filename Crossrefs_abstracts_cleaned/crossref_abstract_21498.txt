@@ -1,0 +1,12 @@
+Abstract
+Purpose
+To evaluate the relationship between lifestyle behaviours, emotional health factors, and low back pain (LBP) resilience.
+
+Methods
+This retrospective longitudinal study utilised 1,065 twins with a recent history of LBP from the Washington State Twin Registry. A lifestyle behaviour score was built using variables of body mass index, physical activity engagement, sleep quality, smoking status, and alcohol consumption. An emotional health score was built using variables of the absence of depressed mood, perceived stress, and active coping. The main outcome was LBP resilience, assessed as recovery (“bouncing back”), and sustainability (maintaining high levels of function despite LBP).
+
+Results
+After adjusting for covariates, there was no relationship between the lifestyle behaviour score (OR 1.05, 95% CI 0.97–1.15, p = 0.218) and the emotional health score (OR 1.08, 95% CI 0.98–1.19, p = 0.142) with the likelihood of recovering from LBP. There was however, evidence of a positive association between the lifestyle behaviour score (β 0.20, 95% CI 0.04–0.36, p = 0.013), the emotional health score (β 0.22, 95% CI 0.00–0.43, p = 0.049), and greater levels of sustainability. These results were confirmed by a within-pair analysis (lifestyle behaviour score: β 1.79, 95% CI 0.05–3.53, p = 0.043) and (emotional health score: β 0.52, 95% CI 0.09–0.96, p = 0.021) adjusting for genetic and early shared environmental confounding.
+
+Conclusion
+Findings from this study suggest that people who adopt optimal lifestyle behaviours and positive emotional factors are more likely to be resilient and maintain high levels of function despite suffering from LBP.

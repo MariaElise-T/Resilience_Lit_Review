@@ -1,0 +1,19 @@
+
+Background
+Resilience is defined as the ability to rely on internal characteristics and external strengths to adapt to adverse events. Although universal resilience-enhancing programs are effective for adolescents, there is a need for interventions that are more easily accessible and can be customized for individual teens. Phone apps are easy to use, can be tailored to individuals, and have demonstrated positive effects for mental health outcomes.
+
+
+Objective
+This study aimed to examine the feasibility and acceptability of a resilience app for adolescents. This app aimed to enhance resilience through modules focused on depression prevention, stress management, and healthy lifestyle approaches containing videos, measures, and practice suggestions. Furthermore, the study aimed to evaluate the effect of short-term app use on changes in resilience.
+
+
+Methods
+In study 1, individual interviews and focus groups were conducted with adolescents, parents, teachers, and clinicians to discuss possible incentives for using a mental health app, the benefits of app use, and concerns associated with app use. Feedback from study 1 led to ideas for the prototype. In study 2, individual interviews and focus groups were conducted with adolescents, parents, teachers, and clinicians to gather feedback about the resilience app prototype. Feedback from study 2 led to changes in the prototype, although not all suggestions could be implemented. In study 3, 40 adolescents used the app for 30 days to determine feasibility and acceptability. Additionally, resilience and secondary mental health outcomes were measured before and after app use. Dependent samples 2-tailed t tests were conducted to determine whether there were changes in resilience and secondary mental health outcomes among the adolescents before and after app use.
+
+
+Results
+Multiple themes were identified through study 1 individual interviews and focus groups, including app content, features, engagement, benefits, concerns, and improvement. Specifically, the adolescents provided helpful suggestions for making the prototype more appealing and functional for teen users. Study 2 adolescents and adults reported that the prototype was feasible and acceptable through the Computer System Usability Questionnaire (mean 6.30, SD 1.03) and Mobile App Rating Scale (mean 4.08, SD 0.61). In study 2, there were no significant differences in resilience and mental health outcomes after using the app for 30 days. There was variation between the participants in the extent to which they used the app, which may have led to variation in the results. The users appeared to prefer the depression module and survey sections, which provided mental health feedback.
+
+
+Conclusions
+Qualitative and quantitative data provide evidence that youth are interested in a resilience mental health app and that the current prototype is feasible. Although there were no significant mental health changes in study 3 users, practical implications and future directions are discussed for mental health app research.

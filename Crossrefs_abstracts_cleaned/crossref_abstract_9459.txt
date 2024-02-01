@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Resilience is the ability to resist, cope with life positively after suffering a negative event. Midwifery has been defined as ’emotionally demanding’; midwives with an higher levels of resilience experience higher levels of subjective well-being (SWB). The aim of this study was to evaluate the relationship between resilience and SWB amongst midwives.
+
+
+Materials and methods
+Data were collected using a questionnaire, distributed between September 2018-January 2019 in hospitals in the Tuscany region (Italy). For evaluation of SWB, we used OECD scale (2013) evaluating three items: actual happiness (AH); emotive wellbeing (BE) composed of positive (PA) and negative affect (NA) and life satisfaction (LS). Also, job satisfaction (JS) was evaluated. Resilience (RS) was evaluated using the Italian version of the Resilience Scale by Wagnild and Young. All items were expressed on the Likert scale, statistical analysis was performed with Minitab 18.
+
+
+Results
+In total 123 questionnaires were analyzed. The average scores were: AH: 6.9±1.8; BE: 5.9±1.6; PA: 6.0±1.8; NA: 4.2±2.1; LS: 7.1±1.6; JS: 6.5 ± 2.4. Average R was 130.3±18.1. RS was correlated (p &lt; 0.001) to AH (Coef=0.4), PA (Coef=0.4), BE (Coef=0.3) e LS (Coef=0.4). The sample was divided into three groups according to RS: low (LR)&lt;116, medium (MR):116-139 and high (HR) ≥140. MR represented 44%, followed by HR (35%). AH, PA, BE values were significantly higher in the HR group (ANOVA; Tukey; p &lt; 0.001). For NA the highest values were observed in the LR group, but the difference was not significant. LS resulted significantly lower in LR group (ANOVA; Tukey; p &lt; 0.001) and JS was significantly higher in medium resilience group in confrontation to other two groups (ANOVA; Tukey; p &lt; 0.001).
+
+
+Conclusions
+Our results confirmed, that the higher levels of RS influenced positively almost all components of SWB (AH, PA, BE, LS). On the other hand to achieve a higher level of JS the level of RS should not be nor too high, nor too low.
+
+
+Key messages
+Midwifery has been defined as ’emotionally demanding’, higher levels of resilience influenced positively almost all components of subjective wellbeing. The medium resilience was correlated to higher level of job satisfaction.

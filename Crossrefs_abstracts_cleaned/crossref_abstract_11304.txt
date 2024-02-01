@@ -1,0 +1,15 @@
+
+Purpose
+This paper aims to propose a conceptualization of the supply chain resilience domain using conceptual modelling techniques formalized through a metamodel and illustrated through an example.
+
+
+Design/methodology/approach
+This research uses conceptual modelling techniques to build and modularize the metamodel, the latter to manage complexity. The metamodel was built iteratively and subsequently instantiated with an example of a yogurt factory to analyse its usefulness and theoretical relevance, and thus its contributions to the domain.
+
+
+Findings
+Conceptual modelling techniques can represent a complex domain such as supply chain resilience simply, and the proposed metamodel makes it possible to create models that become valuable decision support tools.
+
+
+Originality/value
+Consolidation and structuring of concepts in the supply chain resilience domain through conceptual modelling techniques.

@@ -1,0 +1,27 @@
+Abstract. Several past episodes of rapid carbon cycle and climate change are
+hypothesised to be the result of the Earth system reaching a tipping point
+beyond which an abrupt transition to a new state occurs. At the
+Palaeocene–Eocene Thermal Maximum (PETM) at ∼56 Ma and at subsequent
+hyperthermal events, hypothesised tipping points involve the abrupt transfer
+of carbon from surface reservoirs to the atmosphere. Theory suggests that
+tipping points in complex dynamical systems should be preceded by critical
+slowing down of their dynamics, including increasing temporal autocorrelation
+and variability. However, reliably detecting these indicators in
+palaeorecords is challenging, with issues of data quality, false positives,
+and parameter selection potentially affecting reliability. Here we show that
+in a sufficiently long, high-resolution palaeorecord there is consistent
+evidence of destabilisation of the carbon cycle in the ∼1.5 Myr prior
+to the PETM, elevated carbon cycle and climate instability following both the
+PETM and Eocene Thermal Maximum 2 (ETM2), and different drivers of carbon
+cycle dynamics preceding the PETM and ETM2 events. Our results indicate a
+loss of “resilience” (weakened stabilising negative feedbacks and greater
+sensitivity to small shocks) in the carbon cycle before the PETM and in the
+carbon–climate system following it. This pre-PETM carbon cycle
+destabilisation may reflect gradual forcing by the contemporaneous North
+Atlantic Volcanic Province eruptions, with volcanism-driven warming
+potentially weakening the organic carbon burial feedback. Our results are
+consistent with but cannot prove the existence of a tipping point for abrupt
+carbon release, e.g. from methane hydrate or terrestrial organic carbon
+reservoirs, whereas we find no support for a tipping point in deep ocean
+temperature.
+                    

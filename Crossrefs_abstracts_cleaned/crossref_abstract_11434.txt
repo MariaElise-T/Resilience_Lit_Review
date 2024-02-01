@@ -1,0 +1,12 @@
+Abstract
+Background
+Problematic smartphone use (PSU) is adversely correlated with resilience. To completely comprehend the mechanism underlying this relationship, however, more investigation is required.
+
+Methods
+For this cross-sectional study, the method of stratified random cluster sampling was applied. 834 Chinese undergraduate students (aged 17 to 24) were recruited, and self-reported questionnaires were administered to measure their levels of resilience, perceived social support, the sense of school belonging, and habitual and problematic smartphone use.
+
+Results
+The findings showed that resilience both directly and indirectly predicted PSU through perceived social support and the sense of school belonging. Additionally, there were significant moderating effects of habitual smartphone use between resilience and perceived social support, the sense of school belonging, and PSU.
+
+Conclusions
+Our research identified the negative influence of resilience on PSU, and specifically, highlighted the mediation effects of perceived social support and the sense of school belonging. Of significance, we also found the moderation effect of habitual smartphone use in the development of PSU.

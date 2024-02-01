@@ -1,0 +1,27 @@
+
+Purpose
+This study aims to identify supply chain (SC) management practices applied to purchasing capable of improving the resilience of the health-care SC and mitigating the effects of material and service disruption during pandemics.
+
+
+Design/methodology/approach
+The approach adopted is qualitative and is based on a systematic literature review from the ScienceDirect, Emerald, Wiley and Web of Science databases. After selecting 705 documents, filters are applied, and 52 articles present problems faced by purchasing the health-care SC during the coronavirus disease 2019 (COVID-19) pandemic.
+
+
+Findings
+This article suggests five propositions of resilient practices that can increase purchasing resilience in the face of pandemics such as COVID-19. The proposed practices are collaboration, flexibility, visibility, agility and information sharing, which suggest a sequence for the adoption of management practices based on the number of occurrences and importance found in the analysed studies.
+
+
+Research limitations/implications
+This study does not find robust empirical evidence that could categorically state that the results can be replicated in organisations in general. Thus, as a continuation of research, more studies should use an empirical methodology and case analysis to organise different branches. As the human factor was decisive for the results observed in the literature, future research should dedicate part of the studies to the psychological area of professionals. Actions to combat the pandemic were implemented, impacting positively and negatively on the results obtained. Future research on combat actions could indicate which ones should be avoided.
+
+
+Practical implications
+As a result, disruptions are expected to be reduced, and consequently, the resilience of the SC will increase. Accordingly, purchasing processes and procedures can be redefined to positively influence the resilience of the health-care SC. Resilience is related to maintaining the flow of supply, as well as systems and actions aimed at mitigating the effects of disruptions in the hospital’s core business.
+
+
+Social implications
+Health systems need to respond to society’s needs even in the face of global crises, such as the one faced during the COVID-19 pandemic. The overload in hospitals and the exponential demand for specific medicines and services in the fight against the crisis caused by the COVID-19 pandemic require enormous coordination in procurement by the purchasing sector. This planning aims to ensure that the care provided by health services maintains the flow of value that serves hospitalised patients.
+
+
+Originality/value
+This study introduces a new approach to the recurrent problem of disruption of the health-care SC during a pandemic using a combination of five important management practices. This proves useful for mitigating disruptions and their effects on the health-care SC.

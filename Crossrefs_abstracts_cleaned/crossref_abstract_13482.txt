@@ -1,0 +1,6 @@
+Abstract
+Objective
+The comparison of Google internet searches for worker wellbeing and resilience during COVID has not previously been undertaken. It is important to understand interest in wellbeing and resilience as both constructs influence health and burnout. Our objective to investigate internet interest in both wellbeing and resilience during COVID. Using Google Trends, data on global search English word queries we compared “worker wellbeing” or “wellbeing” versus “resilience” or “psychological resilience”. Two time periods were compared, the last 5 years and the last 12 months, both up until the end of April 2022. The relationship between web search interest, reflected by search volume index (SVI) for all categories versus the business and industrial category evaluated.
+
+Results
+Open category searches on Google trends for the key words “worker wellbeing” or “wellbeing” demonstrated increased SVI peaks for COVID periods. Sub-group analyses demonstrated the category business and industrial had less web search interest in wellbeing and an increase in search terms related to resilience but not psychological resilience. Online interest in wellbeing and resilience represents a complex search metric. There are differing search interests depending on whether the category business and industrial is chosen versus the general Google Trends category.

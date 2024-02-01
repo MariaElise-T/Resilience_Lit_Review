@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience is central to positive mental health and well-being especially when faced with adverse events. Factors such as exercise, location, sleep, mental health, and personality are moderators and mediators of resilience. However, the impact of these factors on resilience during severe adverse events are unknown. The present study examined how the COVID-19 pandemic affected resilience and its moderators and mediators by investigating whether there was a difference in resilience and quality of life between people with varying levels of exercise, including those who changed their exercise levels pre and during a COVID-19-related lockdown, and whether location affected the relationship between levels of exercise and resilience and quality of life.
+
+Methods
+Following ethical approval, a cross-sectional online survey capturing data on self-reported key moderators and mediators of resilience before and during the COVID-19 lockdown imposed on the 23rd March 2020 in the UK was distributed via social media and completed over a three week time period during July 2020 via a self-selecting sample of the general population (N = 85). The key moderators and mediators of resilience the survey assessed were exercise, location, life-orientation, mental health, and sleep quality. All data were self-reported.
+
+Results
+Participants’ exercise intensity level increased as resilience increased (F(2,82) = 4.22, p = .003: Wilks’ lambda = .82, partial n2 = 0.09). The relationship between exercise, and resilience and quality of life was independent of sleep and mental health status pre-lockdown (p = .013, p = .027 respectively). In the face of the COVID-19 pandemic, this relationship was dependent on mental health but not sleep quality (p = <.001 for resilience p = .010 for quality of life). There were no statistically significant differences between participants living in urban or rural locations.
+
+Conclusion
+Exercise is strongly correlated to resilience and during a pandemic such as COVID-19 it becomes a mechanism in which to moderate resilience. The relationship between exercise and resilience is supported by this study. The influence that a pandemic had on mental health is mediated by its effect on quality of life.

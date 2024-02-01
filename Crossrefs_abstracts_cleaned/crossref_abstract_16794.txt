@@ -1,0 +1,15 @@
+Abstract
+Background
+The tremendous physical and mental burden that comes with caregiving puts the intimate partners of patients diagnosed with advanced cancer at risk for mental disorders. However, most partners seem to be protected by resilience. Such a resilience process is promoted by certain individual characteristics (e.g., flexibility, positive attitude, internal strength, capacity to balance incoming and outgoing information, and ability to ask for and accept support and advice) and by the availability of a support network, consisting of family, friends, and healthcare professionals. Such a heterogeneous group striving towards the same goals can be considered a complex adaptive system (CAS), a concept stemming from complexity science.
+
+Aims
+To study the behavior of the support network through the lens of complexity science and to provide insights to the means by which an available network may promote resilience.
+
+Methods
+Nineteen interviews with members from the support networks of eight intimate partners were analyzed deductively using the CAS principles as a coding framework. Subsequently, the quotes under each principle were coded inductively to concretize patterns in the behavior of the support networks. Eventually, the codes were charted into a matrix to identify intra- and inter-CAS similarities, differences, and patterns.
+
+Findings
+The network’s behavior adapts dynamically to the changing circumstances as the patient’s prognosis worsens. Furthermore, the behavior is based on internalized basic rules (such as reassuring availability and maintaining communication without being intrusive), attractors (e.g., feeling meaningful, appreciated, or connected), and the history of the support network. However, the interactions are non-linear and often unpredictable due to the context member’s own concerns, needs, or emotions.
+
+Conclusions
+Applying the lens of complexity science to the behavior of an intimate partner’s support network gives us insight into the network’s behavioral patterns. Indeed, a support network is a dynamic system that behaves according to the principles of a CAS and adapts resiliently to the changing circumstances as the patient’s prognosis worsens. Moreover, the behavior of the support network appears to promote the intimate partner’s resilience process throughout the patient’s care period.

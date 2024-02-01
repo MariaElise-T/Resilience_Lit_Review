@@ -1,0 +1,15 @@
+
+Background:
+While nursing homes increase, the number of registered nurses (RNs) working there continues to decline. This study explored the effects of resilience, burnout, and work-related physical distress on the work-life balance of RNs to improve retention rates.
+
+
+Methods:
+This cross-sectional study involved 155 RNs working in 37 nursing homes, spread across 10 South Korean cities. Data were collected from May to July 2019 using self-report questionnaires, with items relating to general and work-related characteristics, work-life balance, resilience, and burnout. Multiple regression analysis was performed to identify factors affecting participants’ work-life balance, including variables that showed significant results in univariate analysis. All analyses were performed using the PASW SPSS win 26.0 program.
+
+
+Results:
+Participants’ average age was 48.48 years, and they had been working as RNs for 17.36 years on average. Work-related physical pain was reported by 70.3% of participants. Resilience had a positive correlation with work-life balance (r = 0.38; P < .001), whereas burnout had a negative correlation with work-life balance (r = −0.45; P < .001). Work-related physical pain (β = −0.27; 95% confidence interval [CI], −25.89 to −7.48), resilience (β = 0.20; 95% CI, 0.02–0.70), and burnout (β = −0.33; 95% CI, −0.9 to −0.24) affected participants’ work-life balance.
+
+
+Conclusion:
+Interventions to facilitate work-life balance among nursing home RNs must aim to increase resilience and reduce burnout and work-related physical pain. A healthy work-life balance should improve RN retention in nursing homes, boosting the safety and quality of life of residents in turn.

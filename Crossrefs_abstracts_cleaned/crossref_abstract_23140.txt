@@ -1,0 +1,19 @@
+
+Background
+The COVID-19 pandemic has resulted in increased strain on health care systems and negative psychological effects on health care workers (HCWs). This is anticipated to result in long-term negative mental health effects on the population, with HCWs representing a particularly vulnerable group. The scope of the COVID-19 pandemic necessitates the development of a scalable mental health platform to provide services to large numbers of at-risk or affected individuals. The Mount Sinai Health System in New York City was at the epicenter of the pandemic in the United States.
+
+
+Objective
+The Center for Stress, Resilience, and Personal Growth (CSRPG) was created to address the current and anticipated psychological impact of the pandemic on the HCWs in the health system. The mission of the Center is to support the resilience and mental health of employees through educational offerings, outreach, and clinical care. Our aim was to build a mobile app to support the newly founded Center in its mission.
+
+
+Methods
+We built the app as a standalone digital platform that hosts a suite of tools that users can interact with on a daily basis. With consideration for the Center’s aims, we determined the overall vision, initiatives, and goals for the Wellness Hub app, followed by specific milestone tasks and deliverables for development. We defined the app’s primary features based on the mental health assessment and needs of HCWs. Feature definition was informed by the results of a resilience survey widely distributed to Mount Sinai HCWs and by the resources offered at CSRPG, including workshop content.
+
+
+Results
+We launched our app over the course of two phases, the first phase being a “soft” launch and the second being a broader launch to all of Mount Sinai. Of the 231 HCWs who downloaded the app, 173 (74.9%) completed our baseline assessment of all mental health screeners in the app. Results from the baseline assessment show that more than half of the users demonstrate a need for support in at least one psychological area. As of 3 months after the Phase 2 launch, approximately 55% of users re-entered the app after their first opening to explore additional features, with an average of 4 app openings per person.
+
+
+Conclusions
+To address the mental health needs of HCWs during the COVID-19 pandemic, the Wellness Hub app was built and deployed throughout the Mount Sinai Health System. To our knowledge, this is the first resilience app of its kind. The Wellness Hub app is a promising proof of concept, with room to grow, for those who wish to build a secure mobile health app to support their employees, communities, or others in managing and improving mental and physical well-being. It is a novel tool offering mental health support broadly.

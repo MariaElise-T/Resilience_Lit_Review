@@ -1,0 +1,6 @@
+
+Abstract
+To prove the positive association between resilience and clinical communication ability among Chinese nursing students, and to determine whether coping styles play a mediating role in the relationship between them.
+Four hundred and seventy-one nursing students from a traditional Chinese Medical university were enrolled in this study. They completed some questionnaires, which included the Chinese Version of the Simplified Coping Style Questionnaire (SCSQ), Connor-Davidson Resilience Scale Chinese Version, and Clinical Communication Ability Scale. Structural equation modeling was utilized to analyses the relationships between coping styles, resilience, and clinical communication ability.
+Resilience was positively associated with clinical communication ability (P < .01). Coping styles which included positive coping and negative coping both significantly affected clinical communication ability (P < .01) and intermediated the relationship between resilience and clinical communication ability (P < .01).
+Resilience is positively related to clinical communication ability among Chinese nursing students, and coping styles intermediated the relationship between them, which may provide scientific evidence to aid in developing intervention strategies to improve interpersonal skills.

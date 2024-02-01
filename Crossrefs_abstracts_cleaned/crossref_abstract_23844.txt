@@ -1,0 +1,12 @@
+Abstract
+Background
+Methamphetamine (METH) dependence is a complex and dynamic public health problem. Long-term abuse of METH can increase numerous risks of mental and physical problems. Currently, the methods to reduce METH dependence and improve the withdrawal symptoms are limited and ineffective. Resilience is seen as a multidimensional and dynamic capability to recover or bounce back from stressful events and is also generally considered as a protective factor against mental dysfunction.
+
+Methods
+One hundred thirty-four males with METH dependence were consecutively recruited from Huanglong Compulsory Isolated Detoxification Center between 2019 and 2021, of whom 112 were into the group. The Connor-Davidson Resilience Scale (CD-RISC), Self-rating depression scale (SDS), Self-rating anxiety scale (SAS), Barratt Impulsiveness Scale-11(BIS-11), and the Repeatable Battery for the Assessment of Neuropsychological Status (Rbans) were used to evaluate resilience, depression, anxiety, impulsivity, and cognition respectively.
+
+Results
+The results mainly indicated that high resilience group showed lower SDS, SAS and BIS-11 scores than low resilience group (all p < 0.05). Besides, the total scores of Rbans were higher in high resilience groups than low resilience group (both p < 0.05). Moreover, linear regression results showed that resilience may be influenced by the scores of SDS and SAS.
+
+Conclusions
+Resilience is negatively correlated with impulsivity and depression. Besides, it is also positively associated with cognitive function. Drug users with higher resilience may have a strong ability to mobilize psychological resources to create a good psychological environment, which may have a positive effect on the relief or improvement of symptoms.

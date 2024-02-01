@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Although some previous studies have suggested that posttraumatic growth (PTG) is comprised of several factors with different properties, few have examined both the association between PTG and posttraumatic stress disorder (PTSD) and between PTG and resilience, focusing on each of the factors of PTG. This study aimed to examine the hypothesis that some factors of PTG, such as personal strength, relate to resilience, whereas other factors, such as appreciation of life, relate to PTSD symptoms among Japanese motor vehicle accident (MVA) survivors.
+
+
+Methods
+This cross-sectional study was performed with 118 MVA survivors at 18 months post MVA. Data analyzed included self-reporting questionnaire scores on the Posttraumatic Growth Inventory (PTGI), the Impact of Event Scale- Revised (IES-R), and the Sense of Coherence (SOC) scale, which is one of the most widely used scales for measuring resilience. Correlations between scores on the PTGI and IES-R, the PTGI and SOC scale, and the IES-R and SOC scale were established by calculating Spearman's correlation coefficients.
+
+
+Results
+PTGI was positively correlated with both SOC and PTSD symptoms, in spite of an inverse relationship between SOC and PTSD symptoms. Relating to others, new possibilities, and personal strength on the PTGI were correlated positively with SOC, and spiritual change and appreciation of life on the PTGI were positively correlated with PTSD symptoms.
+
+
+Conclusions
+Some factors of PTG were positively correlated with resilience, which can be regarded as an outcome of coping success, whereas other factors of PTG were positively correlated with PTSD symptoms, which can be regarded as signifying coping effort in the face of enduring distress. These findings contribute to our understanding of the psychological change experienced by MVA survivors, and to raising clinicians' awareness of the possibility that PTG represents both coping effort coexisting with distress and outcome of coping success.

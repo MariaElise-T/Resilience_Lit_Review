@@ -1,0 +1,17 @@
+Abstract
+
+Background
+Adolescence is crucial period for laying the foundations for healthy development and mental well-being. The increasing prevalence of mental disorders amongst adolescents makes promotion of mental well-being and prevention interventions at schools important. UPRIGHT (Universal Preventive Resilience Intervention Globally implemented in schools to improve and promote mental Health for Teenagers) is designed as a whole school approach (school community, students and families) to promote a culture of mental well-being and prevent mental disorders by enhancing resilience capacities. The present article aims at describing the rationale, conceptual framework, as well as methodology of implementation and evaluation of the UPRIGHT intervention.
+
+
+Methods
+UPRIGHT project is a research and innovation project funded by the European Union’s Horizon 2020 Research and Innovation programme under grant agreement No. 754919 (Duration: 48 months). The theoretical framework has been developed by an innovative and multidisciplinary approach using a co-creation process inside the UPRIGHT Consortium (involving seven institutions from Spain, Italy, Poland, Norway, Denmark, and Iceland). Resulted is the UPRIGHT programme with 18 skills related to 4 components: Mindfulness, Coping, Efficacy and Social and Emotional Learning.
+Among the five Pan-European regions, 34 schools have been currently involved (17 control; 17 intervention) and around 6000 adolescents and their families are foreseen to participate along a 3-year period of evaluation. Effectiveness of the intervention will be evaluated as a randomized controlled trial including quantitative and qualitative analysis in the five Pan-European regions representative of the cultural and socioeconomic diversity. The cost-effectiveness assessment will be performed by simulation modelling methods.
+
+
+Discussion
+We expect a short- to medium-term improvement of mental well-being in adolescents by enhancing resilience capacities. The study may provide robust evidence on intrapersonal, familiar and social environmental resilience factors promoting positive mental well-being.
+
+
+Trial registration
+ClinicalTrials.gov Identifier: NCT03951376. Registered 15 May 2019.

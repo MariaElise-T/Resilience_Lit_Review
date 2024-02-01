@@ -1,0 +1,15 @@
+
+Purpose
+Transportation project evaluation and prioritization use traditional performance measures including travel time, safety, user costs, economic efficiency and environmental quality. The project impacts in terms of enhancing the infrastructure resilience or mitigating the consequences of infrastructure damage in the event of disaster occurrence are rarely considered in project evaluation. This paper aims to present a methodology to address this issue so that in prioritizing investments, infrastructure with low security can receive the attention they deserve. Second, the methodology can be used for prioritizing candidate investments from a budget that is dedicated specifically to security enhancement.
+
+
+Design/methodology/approach
+In defining security as the absence of risk of damage from threats due to inherent structural or functional resilience, this paper uses security-related considerations in investment prioritization, thus introducing robustness in such evaluation. As this leads to an increase in the number of performance criteria in the evaluation, the paper adopts a multi-criteria analysis approach. The paper’s methodology quantifies the overall security level for an infrastructure in terms of the threats it faces, its resilience to damage and the consequences in the event of the infrastructure damage.
+
+
+Findings
+The paper demonstrates that it is feasible to develop a security-related measure that can be used as a performance criterion in the evaluation of general transportation projects or projects dedicated specifically toward security improvement. Through a case study, the paper applies the methodology by measuring the risk (and hence, security) of each for multiple infrastructure assets. On the basis of the multiple types of impacts including risk impacts (i.e. increase in security) because of each candidate investment, the paper shows how to prioritize security investments across the multiple infrastructure assets using multi-criteria analysis.
+
+
+Originality/value
+The overall framework consists of the traditional steps in risk management, and the paper’s specific contribution is in the part of the framework that measures the risk. The paper shows how infrastructure security can be quantified and incorporated in the project evaluation process.

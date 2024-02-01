@@ -1,0 +1,27 @@
+
+Objectives:
+There are increased rates of depression, anxiety, and stress disorders in families of critically ill patients. Interventions directed at family members may help their ability to cope with this stress. Specifically, resilience is a teachable psychologic construct describing a person’s ability to adapt to traumatic situations. Resilience can inherently assist individuals to diminish adverse psychologic outcomes. Consequently, we determined the relationship between resilience and symptoms of depression, anxiety, and acute stress in family members of critically ill patients.
+
+
+Design:
+This is a cross-sectional study.
+
+
+Setting:
+Three medical ICUs were screened by study staff.
+
+
+Patients:
+Family members of ICU patients admitted for greater than 48 hours were approached for enrollment.
+
+
+Interventions:
+The Connor-Davidson Resilience Scale was used to stratify family members as resilient or nonresilient.
+
+
+Measurements and Main Results:
+The Hospital Anxiety and Depression Scale, Impact of Event Scale-Revised, and Family Satisfaction in the ICU were collected prior to ICU discharge to measure symptoms of depression, anxiety, and acute stress, as well as satisfaction with care. One-hundred and seventy family members were enrolled. Seventy-eight family members were resilient. Resilient family members had fewer symptoms of anxiety (14.2% vs 43.6%; p < 0.001), depression (14.1% vs 44.9%; p < 0.001), and acute stress (12.7% vs 36.3%; p = 0.001). Resilient family members were more satisfied with care in the ICU (76.7 vs 70.8; p = 0.008). Resilience remained independently associated with these outcomes after adjusting for family member age and gender, as well as the patient’s need for mechanical ventilation.
+
+
+Conclusions:
+When caring for the critically ill, resilient family members have fewer symptoms of depression, anxiety, and acute stress. Resilient families were generally better satisfied with the care delivered. These data suggest that interventions aimed at increasing resilience may improve a family member’s experience in the ICU.

@@ -1,0 +1,16 @@
+ABSTRACT
+
+Objective
+Exposure to trauma increases the risk of somatic symptoms, as well as acute and chronic physical diseases. However, many individuals display psychological resilience, showing positive psychological adaptation despite trauma exposure. Resilience to prior trauma may be a protective factor for physical health during subsequent stressors, including the COVID-19 pandemic.
+
+
+Methods
+Using data from 528 US adults in a longitudinal cohort study, we examined psychological resilience to lifetime potentially traumatic events early in the pandemic and the risk of COVID-19 infection and somatic symptoms across 2 years of follow-up. Resilience was defined as level of psychological functioning relative to lifetime trauma burden, assessed in August 2020. Outcomes included COVID-19 infection and symptom severity, long COVID, and somatic symptoms assessed every 6 months for 24 months. Using regression models, we examined associations between resilience and each outcome adjusting for covariates.
+
+
+Results
+Higher psychological resilience to trauma was associated with a lower likelihood of COVID-19 infection over time, with one standard deviation higher resilience score associated with a 31% lower likelihood of COVID-19 infection, adjusting for sociodemographics and vaccination status. Furthermore, higher resilience was associated with lower levels of somatic symptoms during the pandemic, adjusting for COVID-19 infection and long COVID status. In contrast, resilience was not associated with COVID-19 disease severity or long COVID.
+
+
+Conclusions
+Psychological resilience to prior trauma is associated with lower risk of COVID-19 infection and lower somatic symptoms during the pandemic. Promoting psychological resilience to trauma may benefit not only mental but also physical health.

@@ -1,0 +1,15 @@
+
+Purpose
+ – The Benchmark Resilience tool (BRT-53) is an organisational-level resilience quantification methodology that assesses behavioural traits and perceptions linked to the organisation's ability to plan for, respond to and recover from emergencies and crises. The purpose of this paper is to show the development and validation of a short version of the BRT-53.
+
+
+Design/methodology/approach
+ – Items were drawn from the BRT-53 to create two short-form versions of the tool using two different methods for comparative purposes. The first method involves the selection of items based on the 13 theoretical constructs used in the development of the original tool. This shortened index is called the BRT-13A. The second method derived 13 items from the theoretical constructs using statistical correlations of the items within each construct. This shortened index is called the BRT-13B. The scores from each short-form index were computed into overall resilience scores that were then compared with the overall resilience scores generated from the BRT-53.
+
+
+Findings
+ – The results of these comparisons found that both the BRT-13A and BRT-13B produced valid and reliably similar results to the BRT-53. The BRT-13B proved to be slightly more valid and reliable than the BRT-13A and is recommended over the BRT-53.
+
+
+Originality/value
+ – The BRT-13B short-form version allows for the quantification of organisational resilience while significantly decreasing the likelihood of survey fatigue and low response rates with very little sacrifice to survey validity or reliability.

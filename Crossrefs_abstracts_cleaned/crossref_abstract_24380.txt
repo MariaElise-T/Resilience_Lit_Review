@@ -1,0 +1,15 @@
+Abstract
+Context
+Coral reef resilience is the product of multiple interacting processes that occur across various interacting scales. This complexity presents challenges for identifying solutions to the ongoing worldwide decline of coral reef ecosystems that are threatened by both local and global human stressors.
+
+Objectives
+We highlight how coral reef resilience is studied at spatial, temporal, and functional scales, and explore emerging technologies that are bringing new insights to our understanding of reef resilience. We then provide a framework for integrating insights across scales by using new and existing technological and analytical tools. We also discuss the implications of scale on both the ecological processes that lead to declines of reefs, and how we study those mechanisms.
+
+Methods
+To illustrate, we present a case study from Kāneʻohe Bay, Hawaiʻi, USA, linking remotely sensed hyperspectral imagery to within-colony symbiont communities that show differential responses to stress.
+
+Results
+In doing so, we transform the scale at which we can study coral resilience from a few individuals to entire ecosystems.
+
+Conclusions
+Together, these perspectives guide best practices for designing management solutions that scale from individuals to ecosystems by integrating multiple levels of biological organization from cellular processes to global patterns of coral degradation and resilience.

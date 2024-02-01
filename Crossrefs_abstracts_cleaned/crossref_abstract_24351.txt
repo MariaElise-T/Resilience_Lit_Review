@@ -1,0 +1,15 @@
+
+            Mental health disorders often arise as a combination of environmental and genetic factors. The
+            FKBP5
+            gene, encoding the GR co-chaperone FKBP51, has been uncovered as a key genetic risk factor for stress-related illness. However, the exact cell type and region-specific mechanisms by which FKBP51 contributes to stress resilience or susceptibility processes remain to be unravelled. FKBP51 functionality is known to interact with the environmental risk factors age and sex, but so far data on behavioral, structural, and molecular consequences of these interactions are still largely unknown. Here we report the cell type- and sex-specific contribution of FKBP51 to stress susceptibility and resilience mechanisms under the high-risk environmental conditions of an older age, by using two conditional knockout models within glutamatergic (
+            
+              Fkbp5
+              Nex
+
+            ) and GABAergic (
+            
+              Fkbp5
+              Dlx
+
+            ) neurons of the forebrain. Specific manipulation of Fkbp51 in these two cell types led to opposing effects on behavior, brain structure and gene expression profiles in a highly sex-dependent fashion. The results emphasize the role of FKBP51 as a key player in stress-related illness and the need for more targeted and sex-specific treatment strategies.
+          

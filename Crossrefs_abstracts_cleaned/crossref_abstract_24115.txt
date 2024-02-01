@@ -1,0 +1,20 @@
+Abstract
+
+Background
+There is a growing interest in the promotion of mental health, and concepts as resilience are re-emerging and taking relevance. In addition, Information and Communication Technologies can provide potential benefits in the field of mental health, and the treatment of mental disorders in particular. This study aims to synthesize the evidence of internet-based resilience interventions, analyzing the theoretical adequacy, methodological quality and efficacy.
+
+
+Methods
+A systematic search was performed. The eligibility criteria stated for this article were: randomized controlled trials targeted at adults or adolescents and including any psychological intervention focussing on resilience in its rationale or design. Studies with direct (e.g. resilience scales) and proximal resilience measures (e.g. scales on well-being) were included. Risk of bias was assessed for each trial using Cochrane’s Collaboration Tool. Two reviewers worked independently in order to identify potential articles. A total of 11 articles were selected. A random-effects pooling model using the Hartung–Knapp–Sidik–Jonkman method based on direct and proximal resilience measures at post-test was used.
+
+
+Results
+The overall effects of online resilience training compared to control groups at post-test were not significant; the effect size concerning the improvement of resilience was g=0.12 (95% CI: −0.14 to 0.38). In addition, a potential association between the type of outcome and the effect size could be revealed.
+
+
+Conclusions
+The results of the present meta-analysis showed that the overall effect of online resilience trainings was not significant. Nonetheless, a tendency for a higher benefit for resilience was found in the studies with a clear assessment theory, indicating some promising effects.
+
+
+Registration Number
+PROSPERO CRD42018083339.

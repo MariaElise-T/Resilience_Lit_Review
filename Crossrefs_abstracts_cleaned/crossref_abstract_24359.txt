@@ -1,0 +1,8 @@
+Summary
+
+Norway rats (Rattus norvegicus) were introduced to the Falkland Islands and are detrimental to native passerines. Rat eradication programmes are being used to help protect the avifauna.
+This study assesses the effectiveness of eradication programmes while using this conservation practice as a natural experiment to explore the ecological resistance, resilience and homeostasis of bird communities.
+We conducted bird surveys on 230 islands: 85 in the presence of rats, 108 that were historically free of rats and 37 from which rats had been eradicated. Bird detection data were used to build occupancy models for each species and estimate species–area relationships. Count data were used to estimate relative abundance and community structure.
+Islands with invasive rats had reduced species richness of passerines and a different community structure than islands on which rats were historically absent. Although the species richness of native passerines was remarkably similar on eradicated and historically rat‐free islands, community structure on eradicated islands was more similar to that of rat‐infested islands than to historically rat‐free islands.
+The results suggest that in the Falkland Islands, species richness of passerines is not resistant to invasive rats, but seems to be resilient following their removal. In contrast, community structure seems to be neither resistant nor resilient. From a conservation perspective, rat eradication programmes in the Falkland Islands appear to be effective at restoring native species richness, but they are not necessarily beneficial for species of conservation concern. For species that do not recolonize, translocations following eradications may be necessary.
+

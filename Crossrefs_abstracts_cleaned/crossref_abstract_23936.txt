@@ -1,0 +1,12 @@
+Abstract
+Background
+Adverse childhood experience (ACE), attention deficit hyperactivity disorder (ADHD), and resilience can all contribute to depressive symptoms. However, little is known regarding the complex relationships between these factors and their joint effects on depressive symptoms. This study aimed to explore the underlying mechanism of ACE, ADHD, and resilience on depressive symptoms among men have sex with men (MSM) in China.
+
+Methods
+A total of 714 MSM were recruited from gay/bisexual men-serving venues in Wuhan, Changsha, and Nanchang of China. The data was collected using computer-assisted self-interview. The mediated and moderated mediation models were employed to explore the underlying mechanisms between ACE, ADHD, resilience, and depressive symptoms.
+
+Results
+Among 714 MSM, 51.4% reported at least one ACE and 13.0% reported three or more. ACE had a direct (β = 1.01, 95% CI: 0.45–1.57) effect on depressive symptoms. ADHD partially mediated the correlation between ACE and depressive symptoms (indirect effect: 0.55; 95% CI: 0.34–0.79). Additionally, the effect of ACE on depressive symptoms was moderated and buffered by resilience (β = −0.09, 95% CI: -0.15 - −0.03).
+
+Conclusion
+The findings suggested that, programs and policies that promote resilience and address ADHD might protect Chinese MSM exposed to ACE from depressive symptoms.

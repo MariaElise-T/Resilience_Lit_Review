@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience, the capacity to adapt and respond to challenges and disturbances, is now considered fundamental to understanding how healthcare systems maintain required levels of performance across varying conditions. Limited research has examined healthcare resilience in the context of implementing healthcare improvement programs across multiple system levels, particularly within community-based mental health settings or systems. In this study, we explored resilient characteristics across varying system levels (individual, team, management) during the implementation of a large-scale community-based suicide prevention intervention.
+
+Methods
+Semi-structured interviews (n=53) were conducted with coordinating teams from the four intervention regions and the central implementation management team. Data were audio-recorded, transcribed, and imported into NVivo for analysis. A thematic analysis of eight transcripts involving thirteen key personnel was conducted using a deductive approach to identify characteristics of resilience across multiple system levels and an inductive approach to uncover both impediments to, and strategies that supported, resilient performance during the implementation of the suicide prevention intervention.
+
+Results
+Numerous impediments to resilient performance were identified (e.g., complexity of the intervention, and incompatible goals and priorities between system levels). Consistent with the adopted theoretical framework, indicators of resilient performance relating to anticipation, sensemaking, adaptation and tradeoffs were identified at multiple system levels. At each of the system levels, distinctive strategies were identified that promoted resilience. At the individual and team levels, several key strategies were used by the project coordinators to promote resilience, such as building relationships and networks and carefully prioritising available resources. At the management level, strategies included teambuilding, collaborative learning, building relationships with external stakeholders, monitoring progress and providing feedback. The results also suggested that resilience at one level can shape resilience at other levels in complex ways; most notably we identified that there can be a downside to resilience, with negative consequences including stress and burnout, among individuals enacting resilience.
+
+Conclusions
+The importance of considering resilience from a multilevel systems perspective, as well as implications for theory and future research, are discussed.

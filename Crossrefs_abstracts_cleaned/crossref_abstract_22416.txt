@@ -1,0 +1,27 @@
+
+Background
+Participation in ambulatory cardiac rehabilitation remains low, especially among older adults. Although mobile health cardiac rehabilitation (mHealth-CR) provides a novel opportunity to deliver care, age-specific impairments may limit older adults’ uptake, and efficacy data are currently lacking.
+
+
+Objective
+This study aims to describe the design of the rehabilitation using mobile health for older adults with ischemic heart disease in the home setting (RESILIENT) trial.
+
+
+Methods
+RESILIENT is a multicenter randomized clinical trial that is enrolling patients aged ≥65 years with ischemic heart disease in a 3:1 ratio to either an intervention (mHealth-CR) or control (usual care) arm, with a target sample size of 400 participants. mHealth-CR consists of a commercially available mobile health software platform coupled with weekly exercise therapist sessions to review progress and set new activity goals. The primary outcome is a change in functional mobility (6-minute walk distance), which is measured at baseline and 3 months. Secondary outcomes are health status, goal attainment, hospital readmission, and mortality. Among intervention participants, engagement with the mHealth-CR platform will be analyzed to understand the characteristics that determine different patterns of use (eg, persistent high engagement and declining engagement).
+
+
+Results
+As of December 2021, the RESILIENT trial had enrolled 116 participants. Enrollment is projected to continue until October 2023. The trial results are expected to be reported in 2024.
+
+
+Conclusions
+The RESILIENT trial will generate important evidence about the efficacy of mHealth-CR among older adults in multiple domains and characteristics that determine the sustained use of mHealth-CR. These findings will help design future precision medicine approaches to mobile health implementation in older adults. This knowledge is especially important in light of the COVID-19 pandemic that has shifted much of health care to a remote, internet-based setting.
+
+
+Trial Registration
+ClinicalTrials.gov NCT03978130; https://clinicaltrials.gov/ct2/show/NCT03978130
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/32163

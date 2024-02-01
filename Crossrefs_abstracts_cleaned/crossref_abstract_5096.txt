@@ -1,0 +1,15 @@
+Abstract
+Background
+The prevailing patient safety strategies in suicide prevention are suicide risk assessments and retrospective reviews, with emphasis on minimising risk and preventing adverse events. Resilient healthcare focuses on how everyday clinical practice succeeds and emphasises learning from practice, not from adverse events. Yet, little is known about resilient practices for suicidal inpatients. The aim of the study is to draw upon the perspectives of patients and healthcare professionals to inform the conceptual development of resilient practices in inpatient suicide prevention.
+
+Methods
+A narrative synthesis was conducted of findings across patients and healthcare professionals derived from a qualitative case study based on interviews with patients and healthcare professionals in addition to a systematic literature review.
+
+Results
+Three sub-themes categorise resilient practices for healthcare professionals and for patients hospitalised with suicidal behaviour: 1) interactions capturing non-verbal cues; 2) protection through dignity and watchfulness; and 3) personalised approaches to alleviate emotional pressure. The main theme, the establishment of relationships of trust in resilient practices for patients in suicidal crisis, is the foundation of their communication and caring.
+
+Conclusion
+Clinical practice for patients hospitalised with suicidal behaviour has characteristics of complex adaptive systems in terms of dynamic interactions, decision-making under uncertainty, tensions between goals solved through trade-offs, and adaptations to patient variability and interpersonal needs. To improve the safety of patients hospitalised with suicidal behaviour, variability in clinical practice should be embraced.
+
+Trial registration
+https://doi.org/10.1136/bmjopen-2016-012874

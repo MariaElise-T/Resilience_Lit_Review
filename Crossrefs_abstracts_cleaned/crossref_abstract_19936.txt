@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to examine the relationship between the three dimensions of intellectual capital (IC), i.e. human, social and organizational, and supply chain resilience (SCR) through testing a primary (mediation) and competing (moderation) model.
+
+
+Design/methodology/approach
+Structural equation modelling and regression analysis were used to test the mediation and moderation models using survey data from Chinese manufacturers.
+
+
+Findings
+Dual processes in which human, social and organizational capitals build SCR are revealed: all three IC components act as knowledge stocks for informing each other, and both organizational and social capitals act as intervention mechanisms that draw knowledge resided within individuals and collectively deploy/enrich such knowledge for responding to supply chain disruptions.
+
+
+Practical implications
+The empirical results provide useful and timely guidance to managers on how to leverage knowledge resources to develop resilience, which is particularly valuable in the current volatile environment.
+
+
+Originality/value
+By empirically testing both the mediation and moderation models, this study provides crucial evidence for advancing the understanding of how the three IC components may be managed to achieve SCR, which is of critical importance for addressing the many unprecedented disruptions facing global supply chains and economies.

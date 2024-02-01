@@ -1,0 +1,9 @@
+Abstract
+Background
+Understanding the mechanisms behind resilience has become more relevant in the last decades, due to the increasing and intensifying disturbances from natural and anthropogenic sources that threaten biodiversity. Evidence from terrestrial populations suggests that resilience increases with genetic diversity. Few studies, however, have evaluated the relationship between genetics and resilience in benthic marine populations.
+
+Methods and results
+For this review, we gathered studies where genetic diversity was the predictor variable, and resilience was the response variable. Twenty-five publications between 2001 and 2018 were included. Thirteen benthic marine species were identified, mainly sea-grass species, among which Zostera marina was the most frequently studied. The relationship between genetic diversity and resilience was variable-dependent. Considering all the analyses (N = 150) in the studies reviewed, 44% reported positive relationships between genetic diversity and resilience capacity. Negative relationships were found in 6%, and no relationship was found in 50%. Positive relationships indicated that genetic diversity increased resistance and recovery capacity after different types of disturbances. Dominance and complementarity were suggested as the underlying mechanism explaining these findings in the few studies that conducted this type of evaluation.
+
+Conclusions
+The results of this review suggest that the relationship between genetic diversity and resilience is mainly positive. However, this relationship relies on how genetic diversity and resiliency were measured, as well as on the biological characteristics of the species under study. This reinforces the importance of acknowledging and maintaining genetic diversity for the conservation of benthic populations in marine ecosystems.

@@ -1,0 +1,23 @@
+
+Purpose
+ – The purpose of this paper is to investigate synergy/trade-off relationship between lean and operational resilience paradigms upon disruption. Lean and resilience are operationalised with practice bundles and core functions, respectively. 
+
+
+Design/methodology/approach
+ – The study uses the Bayesian inference approach to analyse systematically encoded data from firms that faced disruptions in their supply chain. The data were collected from publicly available sources, and encoded using predefined constructs prior to analysis. 
+
+
+Findings
+ – Findings show that the synergetic relations between operational resilience and lean in mitigating performance losses outweigh the trade-off. Just-in-time/flow and total productive maintenance lean practices appear to be major sources for the trade-off; there is limited-synergy leveraged on the anticipative (sense) capability of operational resilience. 
+
+
+Research limitations/implications
+ – The dependence on secondary data and small sample size are possible limitations. Future research may employ large-scale studies with the same encoding approach by combining both primary and secondary sources. 
+
+
+Practical implications
+ – This study implies that companies need not abandon their lean implementation in order to be resilient against unanticipated disruptive circumstances. Most lean practices can be used to leverage agility to mitigate disruptions. 
+
+
+Originality/value
+ – This is a first study to empirically compare synergy/trade-off between operational resilience and lean with reference to changes in operations performance upon disruption. It is also a first study to investigate sources of synergy/trade-off at lean practice bundles and resilience core functions level. This is a much more practical level compared to how previous studies have addressed the issue.

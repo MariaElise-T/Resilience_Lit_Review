@@ -1,0 +1,9 @@
+Many authors have highlighted the importance of physical assets maintenance management
+in relation to resilience engineering, especially for systems operating under significant uncertainty. Thus, the authors presented a new approach to system maintenance based on resilience concept implementation. They introduced Maintenance Support Potentials (MSP)
+as a measure of an organization's maintenance support capacity. Moreover, based on the
+MSP definition, they developed a fuzzy-based organization's maintenance support potential
+level assessment method. The proposed approach takes into account two main MSP parameters – potential readiness level and process regency. It followed four main steps, including
+organization's MSP identification/evaluation, MSP weights assessment, Maintenance Support Capacity assessment, and final reasoning. A case study of a global manufacturer from
+the automotive industry is presented to illustrate the method's applicability. The authors
+also indicated further research directions to optimize the maintenance strategy based on
+Resilience-Based Maintenance concept.

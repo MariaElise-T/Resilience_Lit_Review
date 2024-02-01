@@ -1,0 +1,12 @@
+Abstract
+Backgrounds
+Individuals with chronic medical conditions are considered highly exposed to COVID-19 pandemic stress, but emerging evidence is demonstrating that resilience is common even among them. We aimed at identifying sustained resilient outcomes and their predictors in chronically ill people during the first year of the pandemic.
+
+Methods
+This international 4-wave 1-year longitudinal online survey included items on socio-demographic characteristics, economic and living situation, lifestyle and habits, pandemic-related issues, and history of mental disorders. Adherence to and approval of imposed restrictions, trust in governments and in scientific community during the pandemic were also investigated. The following tools were administered: the Patient Health Questionnaire, the Generalized Anxiety Disorder scale, the PTSD Checklist DSM-5, the Oslo Social Support Scale, the Padua Inventory, and the Portrait Values Questionnaire.
+
+Results
+One thousand fifty-two individuals reporting a chronic condition out of 8011 total participants from 13 countries were included in the study, and 965 had data available for the final model. The estimated probability of being “sustained-resilient” was 34%. Older male individuals, participants employed before and during the pandemic or with perceived social support were more likely to belong to the sustained-resilience group. Loneliness, a previous mental disorder, high hedonism, fear of COVID-19 contamination, concern for the health of loved ones, and non-approving pandemic restrictions were predictors of not-resilient outcomes in our sample.
+
+Conclusions
+We found similarities and differences from established predictors of resilience and identified some new ones specific to pandemics. Further investigation is warranted and could inform the design of resilience-building interventions in people with chronic diseases.

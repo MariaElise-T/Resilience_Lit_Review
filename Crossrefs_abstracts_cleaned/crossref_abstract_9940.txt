@@ -1,0 +1,24 @@
+Abstract
+
+Objective
+The aim was to develop a method based on resilient healthcare principles to proactively identify system vulnerabilities and quality improvement interventions.
+
+
+Design
+Ethnographic methods to understand work as it is done in practice using concepts from resilient healthcare, the Concepts for Applying Resilience Engineering model and the four key activities that are proposed to underpin resilient performance—anticipating, monitoring, responding and learning.
+
+
+Setting
+Accident and Emergency Department (ED) and the Older People’s Unit (OPU) of a large teaching hospital in central London.
+
+
+Participants
+ED—observations 104 h, and 14 staff interviews. OPU—observations 60 h, and 15 staff interviews.
+
+
+Results
+Data were analysed to identify targets for quality improvement. In the OPU, discharge was a complex and variable process that was difficult to monitor. A system to integrate information and clearly show progress towards discharge was needed. In the ED, patient flow was identified as a complex high-intensity activity that was not supported by the existing data systems. The need for a system to integrate and display information about both patient and organizational factors was identified. In both settings, adaptive capacity was limited by the absence of systems to monitor the work environment.
+
+
+Conclusions
+The study showed that using resilient healthcare principles to inform quality improvement was feasible and focused attention on challenges that had not been addressed by traditional quality improvement practices. Monitoring patient and workflow in both the ED and the OPU was identified as a priority for supporting staff to manage the complexity of the work.

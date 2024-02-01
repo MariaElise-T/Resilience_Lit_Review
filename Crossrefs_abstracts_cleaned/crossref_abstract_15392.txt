@@ -1,0 +1,28 @@
+ABSTRACT
+
+Objectives:
+Identifying the correlates of mental health resilience (MHR)—defined as the discrepancy between one’s reported current mental health and one’s predicted mental health based on their physical performance—may lead to strategies to alleviate the burden of poor mental health in aging adults. Socioeconomic factors, such as income and education, may promote MHR via modifiable factors, such as physical activity and social networks.
+
+
+Design:
+A cross-sectional study was conducted. Multivariable generalized additive models characterized the associations between socioeconomic and modifiable factors with MHR.
+
+
+Setting:
+Data were taken from the population-based Canadian Longitudinal Study on Aging (CLSA), which collected data at various data collection sites across Canada.
+
+
+Participants:
+Approximately 31,000 women and men between the ages of 45 and 85 years from the comprehensive cohort of the CLSA.
+
+
+Measurements:
+Depressive symptoms were assessed by the Center for Epidemiological Studies Depression Scale. Physical performance was measured objectively using a composite of grip strength, sit-to-stand, and balance performance. Socioeconomic and modifiable factors were measured by self-report questionnaires.
+
+
+Results:
+Household income, and to a lesser extent, education were associated with greater MHR. Individuals reporting more physical activity and larger social networks had greater MHR. Physical activity accounted for 6% (95% CI: 4 to 11%) and social network accounted for 16% (95% CI: 11 to 23%) of the association between household income and MHR.
+
+
+Conclusions:
+The burden of poor mental health in aging adults may be alleviated through targeted interventions involving physical activity and social connectedness for individuals with lower socioeconomic resources.

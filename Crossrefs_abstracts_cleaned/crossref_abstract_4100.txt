@@ -1,0 +1,10 @@
+This study aims at identifying the key agile, lean, resilient and green practices that influence capability of 
+  cold supply chain (CSC) using Interpretive Structural Modelling (ISM) technique. Various measures of lean, green, resilient, and agile 
+  practices in CSC were identified from previous studies and experts’ opinions. Contextual relationships between practice measures were 
+  established via brainstorming session. Measures were then classified based on their driving and dependence powers. The results showed 
+  that measures of lean, green, resilient, and agile practices in CSC can be organized in a six-level structural model. Moreover, highly 
+  dependent measures at top level in CSC model are operational costs and customer satisfaction, whereas the highly driving at most bottom 
+  level of this model are ISO 14001 implementation and government support system for green cold supply chain. Validity of CSC model was 
+  assessed in three CSC firms; food, pharmaceutical, and Third Party logistics firms. In conclusion, measures emerging with higher driving 
+  power and those with high dependence in ISM hierarchy contribute significantly to enhancing capability of CSC. The proposed ISM may support 
+  decision makers in prioritization improvement efforts and achieving effective CSC.

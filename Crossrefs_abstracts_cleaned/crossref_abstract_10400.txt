@@ -1,0 +1,15 @@
+
+Background:
+Children of parents with a mental illness (COPMI) are at greater risk of psychological and physical ill-health, increased behavioral and developmental difficulties, educational underachievement and lower competency than their peers compared to children of healthy parents. The aim of this study was to find resilience, Social Connectedness, mental health status and quality of life (QoL) in COPMI.
+
+
+Materials and Methods:
+Cross sectional Analytical study was used in the present study. Thirty COPMI with age group of 11–18 years of age, either of the biological parents was diagnosed with severe mental illness (Schizophrenia and Bipolar affective disorder according to international classification of diseases-10) were selected. Socio-demographic data sheet, Connor-Davidson Resilience Scale, KIDSCREEN-27 (QoL), Social Connectedness Scale, Strength and Difficulties Questionnaire (SDQ) were administered.
+
+
+Results:
+The finding shows that 33.3% of COMPI had low level of resilience and a stronger sense of social connectedness (M = 78.63, standard deviation [SD] = 6.83). Psychological wellbeing (M = 20.77, SD = 2.68) was higher than other domains of QoL, followed by autonomy and parents (M = 18.46, SD = 3.43), school environment (M = 14.56, SD = 2.87), physical wellbeing (M = 14.43, SD = 1.88), and peer and social support (M = 10.87, SD = 2.08). The finding shows that in the total difficulty score (SDQ), 26.7% falls under normal category while 73.3% have abnormal scores. Total Difficulties score (SDQ) has a significant negative correlation with QoL [r=-0.520, P = 0.01] and Social Connectedness (r = ‒0.478, P = 0.01).
+
+
+Conclusion:
+The study highlighted the risk of developing emotional and behavioral problems among COPMI. Resilience based intervention is required at school and community level for mental health promotion among children.

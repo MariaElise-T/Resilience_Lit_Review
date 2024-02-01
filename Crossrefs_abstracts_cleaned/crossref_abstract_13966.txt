@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to study the impact of organizational ambidexterity capability and resource availability on firm resilience along with perceived environmental uncertainty playing a moderating role. This study also intends to investigate the interplaying relationship between exploration capability and exploitation capability as components of organizational ambidexterity with resource availability.
+
+
+Design/methodology/approach
+Quantitative data was collected through self-administered surveys targeting 202 firms in Egypt. SEM (AMOS-SPSS) was used to test the proposed hypotheses.
+
+
+Findings
+The results indicated that both organizational ambidexterity capability and resource availability impact firm resilience. Moreover, the relationship between the enablers was found to be significant, where resource availability has a positive impact on the firm’s exploitation capability, the firm’s exploitation capability has a positive impact on its exploration capability and finally, the firm’s exploration capability has a positive impact on resource availability. However, the moderating role of perceived environmental uncertainty was found to be insignificant.
+
+
+Research limitations/implications
+Nonprobability convenience sampling technique, cross-sectional design and the relatively small sample size may hinder the ability to generalize this study.
+
+
+Practical implications
+This study identifies the importance of exploration (innovation) and exploitation (efficiency) capabilities for managers to build responsive organizations.
+
+
+Originality/value
+This study contributes to the understanding of firm resilience in times of uncertainties, where empirical research has not been enough. In addition, this study contributes to the identification of possible antecedents of firm resilience, highlighting the importance of certain strategic features including organizational ambidexterity capability and resource availability. This study also investigates the relationship between exploitation capabilities, exploration capabilities and resource availability, which was not empirically tested in the literature.

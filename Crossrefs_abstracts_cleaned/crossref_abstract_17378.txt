@@ -1,0 +1,16 @@
+Abstract
+
+Objective:
+The purpose of this research was a pilot examination to identify and assess relationships among social vulnerability, personal resilience, and preparedness for a sample of US residents living in the Gulf South, who had experienced climate-related disaster (e.g., hurricanes) and the COVID-19 pandemic.
+
+
+Methods:
+Binary logistic regression was conducted using primary survey data collected in 2020 (n = 744) to identify statistically significant explanatory variables of sociodemographic characteristics and resilience, measured by the CD-RISC 10, of climate-related disaster, and pandemic preparedness.
+
+
+Results:
+Results indicate that respondents who identified as white, had more education, were in a relationship, and spoke English as a first language, as well as respondents who had exhibited greater resilience, were more likely to prepare for a climate-related disaster. Respondents who spoke English as a first language, had more education, and greater resilience were found to be statistically significant explanatory variables of pandemic preparedness. Respondents who prepared for disaster were also more likely to prepare for the pandemic.
+
+
+Conclusions:
+These findings provide insights into protective factors related to preparedness, including linkages between resilience and preparedness that can aid public health professionals in supporting resilience and preparedness efforts for impacted communities.

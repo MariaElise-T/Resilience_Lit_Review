@@ -1,0 +1,15 @@
+
+Purpose
+Research on the “black box” of cognitive capital remains limited in supply chain resilience (SCRES) literature. Drawing from an in-depth single case study of a major consumer electronics multinational facing the COVID-19 disruption, this paper aims to develop a clearer picture of cognitive capital’s elements while contextualizing how they interact with SCRES temporal capabilities to prepare, respond, recover and learn.
+
+
+Design/methodology/approach
+Consisting of 40 in-depth interviews collected during a four-month period, this single case revolves around the buyer’s view across 36 multiregional buyer–supplier dyads, spanning 17 product and service categories. Data were processed during the pandemic, while findings discuss pre- and intra-crisis events based on two scenarios: the impact of disruption on category demand, comparing sudden pandemic-driven product and service demand fluctuations (i.e. increase, decrease); and the geographical proximity of the supplier relative to the buying firm.
+
+
+Findings
+The case unveils different elements of cognitive capital (e.g. shared goals, assumptions, values, kinesics language, multilingualism, virtual negotiation, prior disruption experience, shared process capabilities) during a major global disruption, suggesting that different cognitive capital elements influence positively and differently SCRES’ temporal capabilities. Overall, buying firms are urged to build on cognitive capital to improve SCRES preparation, response, recovery and learning.
+
+
+Originality/value
+This paper extends the understanding of cognitive capital in buyer–supplier relationships by identifying its elements and offering a theoretical articulation of how they enable episodically the four SCRES temporal capabilities under contingencies of increased and decreased demands, and suppliers’ geographical proximity.

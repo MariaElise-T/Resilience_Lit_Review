@@ -1,0 +1,11 @@
+
+Purpose of review
+In this review we provide an overview of definitions and determinants of resilience in the context of neuroimaging research in major depressive disorder (MDD). We summarize emerging literature on functional neuroimaging biomarkers of resilience in MDD and discuss their clinical relevance and implications for future research.
+
+
+Recent findings
+Resilience in MDD is characterized by dissociable profiles of activation and functional connectivity within brain networks involved in cognitive control, emotion regulation, and reward processing. Increased activation of frontal cortical brain regions implicated in cognitive appraisal and emotion regulation is a common characteristic of resilient individuals at high risk for MDD and of individuals with MDD with a favorable illness course. Furthermore, significant associations between fronto-striato-limbic functional connectivity and both positively interpreted stressful life events in resilient high-risk individuals and a favorable response to first-line treatments in depressed individuals suggest that neuro-compensatory changes and experience-dependent plasticity underlie resilience in MDD.
+
+
+Summary
+Emerging research has identified functional neuroimaging biomarkers of resilience in MDD. A continued focus on identifying neurobiological underpinnings of resilience, in the context of dynamic environmental and developmental influences, will advance our understanding of resilience and improve approaches to prevention and treatment of MDD.

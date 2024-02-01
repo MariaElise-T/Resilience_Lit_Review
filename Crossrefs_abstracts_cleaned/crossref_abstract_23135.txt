@@ -1,0 +1,12 @@
+Abstract
+Background
+Generalized Anxiety Disorder (GAD) is a common but urgent mental health problem during disease outbreaks. Resilience buffers against the negative impacts of life stressors on common internalizing psychopathology such as GAD. This study assesses the prevalence of GAD and examines the protective or compensatory effect of resilience against worry factors during the COVID-19 outbreak.
+
+Methods
+A cross-sectional online survey was conducted among Chinese citizens aged ≥18 years from January 31 to February 2, 2020. A total of 4827 participants across 31 provinces and autonomous regions of the mainland of China participated in this study. The Generalized Anxiety Disorder scale (GAD-7), the Connor-Davidson Resilience Scale (CD-RISC), and a self-designed worry questionnaire were used to asses anxiety disorder prevalence, resilience level, and anxiety risk factors. Multivariable logistic regression was used to identify the associations of resilience and worry factors with GAD prevalence after controlling for other covariates.
+
+Results
+The prevalence of anxiety disorder was 22.6% across the 31 areas, and the highest prevalence was 35.4% in Hubei province. After controlling for covariates, the results suggested a higher GAD prevalence among participants who were worried about themselves or family members being infected with COVID-19 (adjusted odds ratio, AOR 3.40, 95%CI 2.43–4.75), worried about difficulty obtaining masks (AOR 1.92, 95%CI 1.47–2.50), worried about difficulty of distinguishing true information (AOR 1.65, 95%CI 1.36–2.02), worried about the prognosis of COVID-19 (AOR 2.41, 95%CI 1.75–3.33), worried about delays in working (AOR 1.71, 95%CI 1.27–.31), or worried about decreased income (AOR 1.45, 95%CI 1.14–1.85) compared with those without such worries. Additionally, those with a higher resilience level had a lower prevalence of GAD (AOR 0.59, 95%CI 0.51–0.70). Resilience also showed a mediating effect, with a negative influence on worry factors and thereby a negative association with GAD prevalence.
+
+Conclusion
+It may be beneficial to promote public mental health during the COVID-19 outbreak through enhancing resilience, which may buffer against adverse psychological effects from worry factors.

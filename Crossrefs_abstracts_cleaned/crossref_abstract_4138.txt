@@ -1,0 +1,1 @@
+At the very high level of abstraction, the Internet of Things (IoT) can be modeled as the hyper-scale, hyper-complex cyber-physical system. Study of resilience of IoT systems is the first step towards engineering of the future IoT eco-systems. Exploration of this domain is highly promising avenue for many aspiring Ph.D. and M.Sc. students.

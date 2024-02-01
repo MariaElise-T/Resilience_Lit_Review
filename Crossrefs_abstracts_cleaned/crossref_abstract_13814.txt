@@ -1,0 +1,21 @@
+Abstract
+
+Background
+A noisy information environment has led to an increase in people seeking health information; however, they may encounter and act upon misinformation that can be widely disseminated through social media. Currently, there is limited evidence regarding valid instruments for measuring resilience to misinformation in adults. We aim to develop and validate a resilience to misinformation instrument.
+
+
+Methods
+The development of the resilience to misinformation instrument followed standardized criteria (e.g., selecting and formulating items, scoring issues, pilot and field-testing). The items formulation was based on the examination of resilience instruments, such as the OCDE Study on Social and Emotional Skills. A panel of experts (n = 5) from the field of communication, psychology and health, and childreńs parents assessed the items for comprehensibility, relevance and completeness. A final instrument with 15 items was completed by 554 parents (82.3% mothers) with mean age of 38.7 years old (SD = 5.49). Participants were asked to indicate their agreement from ‘strongly disagree’ to ‘strongly agree’ for each item. Data were analysed using exploratory and confirmatory factor analysis to of the scale, while Cronbach's alpha and Omega MacDonald coefficients were estimated to assess its reliability.
+
+
+Results
+Exploratory factor analyses were conducted, and a two-factor model was obtained and tested using confirmatory factor analysis. The two factors identified (stress persistence and resistance) exhibited good internal consistency (α = 0.73; ω = 0.69).
+
+
+Conclusions
+The Portuguese version of the resilience to misinformation instrument demonstrated adequate psychometric criteria, indicating that it can be confidently used to assess resilience to misinformation. However, more studies are needed to provide valuable insights about resilience to misinformation among different target groups, and identify areas where further interventions are required.
+
+
+Key messages
+• Misinformation can be widely disseminated through social media.
+• The Portuguese version of the resilience to misinformation instrument demonstrated adequate psychometric criteria.

@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Sleep loss that is inherent to military operations can lead to cognitive errors and potential mission failure. Single Nucleotide Polymorphisms (SNPs) allele variations of several genes (COMT, ADORA2A, TNFa, CLOCK, DAT1) have been linked with inter-individual cognitive resilience to sleep loss through various mechanisms. U.S. Army Soldiers with resilience-related alleles may be better-suited to perform cognitively-arduous duties under conditions of sleep loss than those without these alleles. However, military-wide genetic screening is costly, arduous, and infeasible. This study tested whether a brief survey of subjective resilience to sleep loss (1) can demarcate soldiers with and without resilience-related alleles, and, if so, (2) can predict cognitive performance under conditions of sleep loss.
+
+
+Methods
+Six SNPs from the aforementioned genes were sequenced from 75 male U.S. Army special operations Soldiers (age 25.7±4.1). Psychomotor vigilance, response inhibition, and decision-making were tested after a night of mission-driven total sleep deprivation. The Iowa Resilience to Sleeplessness Test (iREST) Cognitive Subscale, which measures subjective cognitive resilience to sleep loss, was administered after a week of recovery sleep. A receiver operating characteristic (ROC) curve was used to determine whether the iREST Cognitive Subscale can discriminate between gene carriers, and a cutoff score was determined. Cognitive performance after sleep deprivation was compared between those below/above the cutoff score using t-tests or Mann-Whitney U tests.
+
+
+Results
+The iREST discriminated between allele variations for COMT (ROC=.65,SE=.07,p=.03), with an optimal cutoff score of 3.03 out of 5, with 90% sensitivity and 51.4% specificity. Soldiers below the cutoff score had significantly poorer for psychomotor vigilance reaction time (t=-2.39,p=.02), response inhibition errors of commission (U=155.00,W=246.00,p=.04), and decision-making reaction time (t=2.13,p=.04) than Soldiers above the cutoff score.
+
+
+Conclusion
+The iREST Cognitive Subscale can discriminate between those with and without specific vulnerability/resilience-related genotypes. If these findings are replicated, the iREST Cognitive Subscale could be used to help military leaders make decisions about proper personnel placement when sleep loss is unavoidable. This would likely result in increased safety and improved performance during military missions.
+
+
+Support (if any)
+Support for this study came from the Military Operational Medicine Research Program of the United States Army Medical Research and Development Command.

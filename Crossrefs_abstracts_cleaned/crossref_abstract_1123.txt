@@ -1,0 +1,16 @@
+ABSTRACT
+
+BACKGROUND
+Care partners are essential supports to individuals with multiple sclerosis (MS). Both negative and positive outcomes associated with the caregiving role have been reported. Psychological resilience may be an important factor influencing the MS caregiving experience, but an MS-specific model of care partner resilience has yet to be established. This study sought to explore an explicit model of MS care partner resilience.
+
+
+METHODS
+Cross-sectional data from 471 Canadian MS care partners were collected via an online survey. Confirmatory factor analysis (CFA) and structural equation modeling (SEM) were used to test measures within a hypothesized model of resilience. Resilience was measured using the 25-item Connor-Davidson Resilience Scale.
+
+
+RESULTS
+Following CFA, the hypothesized model was simplified due to the poor fit of several variables. The final model yielded a moderate SEM fit (χ2 = 6030.95, P &lt; .01). Being a woman was associated with greater caregiving tasks (β = 0.53, P &lt; .001) and poorer spiritual health (β = –0.35, P &lt; .001). Spiritual health, but not caregiving tasks, had a positive impact on both positive (β = 0.48, P &lt; .01) and negative coping (β = 0.49, P = .01). Quality of life and resilience did not have relationships with other variables in the model. However, quality of life had a positive, unidirectional influence on resilience (β = 0.83, P &lt; .01).
+
+
+CONCLUSIONS
+Our findings indicate that spiritual health is an important predictor of coping and should be further explored in MS care partners. Quality of life may act as a precursor to resilience within MS care partners. Further research and exploration into MS care partner resilience is warranted to confirm this exploratory model.

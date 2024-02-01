@@ -1,0 +1,2 @@
+A resilient occupational safety and health (OSH) management system focuses on both failures and successes at each stage of management, i.e., learning, monitoring, anticipating and responding. The article aims to present the concept of resilience engineering with special focus on anticipating risks and challenges in an OSH management system.
+

@@ -1,0 +1,27 @@
+
+Background
+Young people are a target population for mental health–related early intervention and prevention. Although evidence for early intervention is promising, availability of and access to youth mental health services remain limited. Therefore, the development of an evidence-based hybrid intervention is urgently needed.
+
+
+Objective
+This study aimed to present a manual for a hybrid intervention, combining an ecological momentary intervention and face-to-face sessions aimed for enhancing resilience in help-seeking young people based on compassion-focused interventions, and explore whether participants’ baseline characteristics are associated with putative mechanisms and outcomes of the EMIcompass intervention. Specifically, we aimed to explore initial signals as to whether participants’ sociodemographic, clinical, and functional characteristics at baseline are associated with putative mechanisms (ie, change in self-compassion, change in emotion regulation, working alliance, training frequency); and whether participants’ sociodemographic, clinical, and functional characteristics, self-compassion, and emotion regulation at baseline are associated with clinical outcomes (ie, psychological distress and general psychopathology at postintervention and 4-week follow-ups) in the experimental condition and obtain first parameter estimates.
+
+
+Methods
+We recruited young people aged 14 to 25 years, with psychological distress, Clinical High At-Risk Mental State, or first episodes of severe mental disorder for an exploratory randomized controlled trial with assessments at baseline and postintervention and 4-week follow-ups. A structured manual was developed and optimized based on a pilot study’s manual, a scoping review of existing literature and manuals, exchange with experts, the team’s clinical experience of working with compassion-focused interventions, and the principles of ecological momentary interventions. This analysis focuses on the experimental condition receiving the EMIcompass intervention.
+
+
+Results
+A total of 46 young individuals were randomized to the experimental condition. There was evidence for initial signals of effects of age (B=0.11, 95% CI 0.00-0.22), general psychopathology (B=0.08, 95% CI −0.01 to 0.16), and clinical stage (B=1.50, 95% CI 0.06-2.93) on change in momentary self-compassion and change in emotion regulation from baseline to postintervention assessments. There was no evidence for associations of other baseline characteristics (eg, gender, minority status, and level of functioning) and putative mechanisms (eg, overall self-compassion, working alliance, and training frequency). In addition, except for an initial signal for an association of momentary self-compassion at baseline and psychological distress (B=−2.83, 95% CI −5.66 to 0.00), we found no evidence that baseline characteristics related to clinical outcomes.
+
+
+Conclusions
+The findings indicated the reach of participants by the intervention largely independent of sociodemographic, clinical, and functional baseline characteristics. The findings need to be confirmed in a definitive trial.
+
+
+Trial Registration
+German Clinical Trials Register NDRKS00017265; https://www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00017265
+
+
+International Registered Report Identifier (IRRID)
+RR2-10.2196/27462

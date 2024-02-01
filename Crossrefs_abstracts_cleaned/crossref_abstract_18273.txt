@@ -1,0 +1,45 @@
+ABSTRACT
+
+            This work investigated the role of
+            rpoS
+            in the development of increased cell envelope resilience and enhanced pressure resistance in stationary-phase cells of
+            Escherichia coli
+            . Loss of both colony-forming ability and membrane integrity, measured as uptake of propidium iodide (PI), occurred at lower pressures in
+            E. coli
+            BW3709 (
+            rpoS
+            ) than in the parental strain (BW2952). The
+            rpoS
+            mutant also released much higher concentrations of protein under pressure than the parent. We propose that RpoS-regulated functions are responsible for the increase in membrane resilience as cells enter stationary phase and that this plays a major role in the development of pressure resistance. Strains from the Keio collection with mutations in two RpoS-regulated genes,
+            cfa
+            (cyclopropane fatty acyl phospholipid synthase) and
+            osmB
+            (outer membrane lipoprotein), were significantly more pressure sensitive and took up more PI than the parent strain, with
+            cfa
+            having the greatest effect. Mutations in the
+            bolA
+            morphogene and other RpoS-regulated lipoprotein genes (
+            osmC
+            ,
+            osmE
+            ,
+            osmY
+            , and
+            ybaY
+            ) had no effect on pressure resistance. The cytoplasmic membranes of the
+            rpoS
+            mutant failed to reseal after pressure treatment, and strains with mutations in
+            o
+smB
+            and
+            nlpI
+            (new lipoprotein) were also somewhat impaired in the ability to reseal their membranes. The
+            cfa
+            mutant, though pressure sensitive, was unaffected in membrane resealing, implying that the initial transient permeabilization event is critical for loss of viability rather than the failure to reseal. The enhanced pressure sensitivity of
+            polA
+            ,
+            recA
+            , and
+            xthA
+            mutants suggested that DNA may be a target of oxidative stress in pressure-treated cells.
+          

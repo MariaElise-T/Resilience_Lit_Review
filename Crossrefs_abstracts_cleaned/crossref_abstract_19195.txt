@@ -1,0 +1,15 @@
+
+Objective
+The objective of this research was to assess the relative contribution of three resilience-related dispositional resources (trait mindfulness, core self-evaluations, and optimism) to emergency medicine physicians’ fatigue, retention, and productivity.
+
+
+Methods
+We surveyed emergency physicians employed by a national (US) medical staffing organization. The survey included measures of work stressors, resilience resources, job search behavior, and fatigue. We linked the survey responses to objective demographic and productivity measures from the organization’s records.
+
+
+Results
+A total of 371 respondents completed the survey. Multiple regression analyses demonstrated support for each of the three resilience-related resources as predictors. Relative weights analyses showed that resilience accounted for 14% and 62% of the outcome variance, whereas work demands accounted for between 32% and 56%.
+
+
+Conclusions
+Multiple facets of dispositional resilience are important predictors of emergency medicine physicians’ occupational health, retention, and productivity.

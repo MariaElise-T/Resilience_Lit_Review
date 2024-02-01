@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to concentrate on the place of cyber security risk in the framework of global commitments adopted in 2015 to reduce disaster risks in an all-hazards approach. It explores the correlations between traditional risks associated with critical infrastructures – as understood by the Sendai framework – cyber security risks and the cascading effects characteristic of today’s complex and interrelated shocks and stresses. It takes a step further, expanding the focus of traditionally understood technological risks to explore cyber security risks, at the heart of our societies’ digital transformations,and showcase opportunities from the European context.
+
+
+Design/methodology/approach
+By reviewing existing literature on cyber security, disaster resilience and cascading disasters, this paper highlights current challenges and good practices undertaken by various governments.
+
+
+Findings
+Understanding disaster risks is a precondition to improving the mitigation of impacts of existing risks and preventing new risks. Effective risk reduction relies on a solid understanding of losses resulting from events to inform future actions, and on the assessment of risks relying on a robust evidence base and state-of-the-art scientific capacity to model and simulate potential hazards. In this context, embedding cyber security risks, and the complexity of cascading impacts in improving the understanding of disaster risks, calls for appropriate methods and tools allowing for a multi-risk and holistic focus to the assessment of risks and the planning of risk management capacities that follow.
+
+
+Research limitations/implications
+Globally and in Europe, focus on interconnected risk and their impacts is steadily increasing. Risk assessments are still conservative; incorporation of cyber resilience into national and local level DRR plans is yet not visible.
+
+
+Originality/value
+Existing research is restricted to cyber security and disaster resilience, as separated subjects. This paper, for the first time, brings together the interconnection between the two topic options to address them.

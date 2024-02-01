@@ -1,0 +1,19 @@
+
+Background
+The effects of adverse childhood experiences (ACEs) on mental health, self-regulatory capacities, and overall resilience are well-known. Given such effects, ACEs may play a role in how individuals adjust to challenges later in life. Of interest in this study is the transition to university, a time of heightened stress when adapting to circumstances is required and when those with ACEs may need additional in-the-moment support to exercise resilience. A smartphone app may provide a worthwhile and readily accessible medium for a resilience intervention, provided behavioral outcomes are adequately evaluated.
+
+
+Objective
+This study evaluates the impact of an innovative, smartphone app–based resilience intervention. The JoyPop app was designed to promote resilience through the use of self-regulatory skills such as emotion regulation and executive functioning. Among a sample of first-year undergraduate students, we explored whether use of the app would be associated with positive changes in resilience and related outcomes, and whether these benefits were influenced by level of childhood adversity.
+
+
+Methods
+Participants (N=156) were requested to use the JoyPop app for 4 weeks, at least twice daily. Changes in resilience, emotion regulation, executive functioning, and depression were assessed after 2 and 4 weeks of app usage using multilevel modeling.
+
+
+Results
+The sample of 156 participants included 123 females and 33 males, with a mean age of 19.02 years (SD 2.90). On average participants used the app on 20.43 of the possible 28 days (SD 7.14). App usage was associated with improvements in emotion regulation (χ21=44.46; P<.001), such that it improved by 0.25 points on the 18-point scale for each additional day of app usage, and symptoms of depression (χ21=25.12; P<.001), such that depression symptoms were reduced by .08 points on the 9-point scale with each additional day of app usage. An interaction between ACEs and days of app usage existed for emotion regulation, such that participants with more adversity evidenced a faster rate of change in emotion regulation (P=.02).
+
+
+Conclusions
+Results highlight that daily incorporation of an app-based resilience intervention can help youth who have experienced adversity to improve emotion regulation skills and experience reductions in depression. The JoyPop app represents an important step forward in the integration of resilience intervention research with a technology-based medium that provides in-the-moment support.

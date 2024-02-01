@@ -1,0 +1,16 @@
+Abstract
+
+Objective:
+The purpose of this study is to further deepen our understanding of the relationship between community resilience and disaster risk perception of residents, so as to provide beneficial enlightenment for the construction of community resilience disaster prevention system and disaster risk management.
+
+
+Methods:
+This study surveyed 327 rural households in four counties of Sichuan Province, China, that were affected by the Wenchuan and Lushan earthquakes. Community disaster resilience was divided into five dimensions: connection and caring, resources, transformative potential, disaster management, and information and communication. Residents’ disaster risk perception was divided into three dimensions: possibility, threat, and worry. This study analyzed the characteristics of community disaster resilience and residents’ disaster risk perceptions. Ordinary least squares (OLS) methods were used to explore the correlations between these factors.
+
+
+Results:
+The results show that (1) Residents’ overall disaster risk perception was at a moderate level, and the community’s overall disaster resilience were above the moderate level. (2) Community connection and caring has a positive significant correlation with the possibility perception of disaster occurrence; transformative potential has a negative significant correlation with the possibility perception of disaster occurrence; the overall community disaster resilience has negative significant correlations with the possibility and the overall residents’ perception of disaster risk occurrence.
+
+
+Conclusions:
+The implication for the local government is that the government should appropriately increase its contact with external institutions/organizations, especially some Non-Governmental Organization, to strengthen the resilience and disaster prevention capacity of the community. Establish and improve information and communication networks to ensure the timely and effective transmission of effective disaster information, and strengthen the supervision of the dissemination of false information to reduce the losses caused by false information to residents. Attention should be paid to psychological counseling for people in disaster-hit areas to reduce the psychological trauma of the disaster.

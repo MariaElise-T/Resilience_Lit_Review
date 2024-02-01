@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Increased connectivity via air travel can facilitate the geographic spread of infectious diseases. The number of travellers alone does not explain risk; passenger origin and destination will also influence risk of disease introduction and spread. We described trends in international air passenger numbers and connectivity between countries with different capacities to detect and respond to infectious disease threats.
+
+
+Methods
+We used the Fragile States Index (FSI) as an annual measure of country-level resilience and capacity to respond to infectious disease events. Countries are categorized as: Sustainable, Stable, Warning or Alert, in order of increasing fragility. We included data for 177 sovereign states for the years 2010 to 2019. Annual inbound and outbound international air passengers for each country were obtained for the same time period. We examined trends in FSI score, trends in worldwide air travel and the association between a state’s FSI score and air travel.
+
+
+Results
+Among countries included in the FSI rankings, the total number of outbound passengers increased from 0.865 billion to 1.58 billion between 2010 and 2019. Increasing fragility was associated with a decrease in travel volumes, with a 2.5% (95% CI: 2.0–3.1%) reduction in passengers per 1-unit increase in FSI score. Overall, travel between countries of different FSI categories either increased or remained stable.
+
+
+Conclusions
+The world’s connectivity via air travel has increased dramatically over the past decade. There has been notable growth in travel from Warning and Stable countries, which comprise more than three-quarters of international air travel passengers. These countries may have suboptimal capacity to detect and respond to infectious disease threats that emerge within their borders.

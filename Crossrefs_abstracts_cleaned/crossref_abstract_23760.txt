@@ -1,0 +1,23 @@
+
+Background
+Individuals with a psychotic disorder are at an increased risk of victimization, but evidenced-based interventions are lacking.
+
+
+Aims
+A body-oriented resilience therapy (‘BEATVIC’) aimed at preventing victimization was developed and its effectiveness was assessed in a multicenter randomized controlled trial.
+
+
+Methods
+105 people with a psychotic disorder were recruited from six mental health centers. Participants were randomly allocated to 20 BEATVIC group sessions (n = 53) or befriending group sessions (n = 52). Short term effects on risk factors for victimization (e.g. social cognitive deficits, inadequate interpersonal behavior, low self-esteem, internalized stigma, aggression regulation problems), physical fitness and secondary outcomes were expected. At six-month follow-up, the effect on victimization (either a 50% reduction or an absence of victimization incidents) was examined.
+
+
+Results
+Intervention-dropout was 28.30% for BEATVIC and 39.62% for befriending. In both conditions the majority of participants (60.5% BEATVIC vs 62.9% befriending) showed a reduction or absence of victimization incidents at six months follow-up, which was not significantly different according to condition. Multilevel analyses revealed no main effect of time and no significant time x group interaction on other outcome measures. Per protocol analyses (participants attending ≥ 75% of the sessions) did not change these results.
+
+
+Conclusions
+Although a reduction or absence of victimization was found at short term follow-up for the majority of participants, BEATVIC was not more effective than the active control condition. No short-term additional effects on risk factors of victimization were found. Analysis of the data at 2-year follow-up is warranted to investigate possible effects in the long-term.
+
+
+Trial registration number
+Current Controlled Trials: ISRCTN21423535.

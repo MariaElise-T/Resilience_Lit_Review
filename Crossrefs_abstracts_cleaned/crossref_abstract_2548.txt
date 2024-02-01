@@ -1,0 +1,21 @@
+The high pace rising global competitions across education sector has forced institutions to enhance aforesaid aspects,
+which require assessing students or related stakeholders’ perception and opinion towards the learning materials, courses, learning
+methods or pedagogies, etc. To achieve it, the use of reviews by students can of paramount significance; yet, annotating student’s
+opinion over huge heterogenous and unstructured data remains a tedious task. Though, the artificial intelligence (AI) and natural
+language processing (NLP) techniques can play decisive role; yet the conventional unsupervised lexicon, corpus-based solutions,
+and machine learning and/or deep driven approaches are found limited due to the different issues like class-imbalance, lack of
+contextual details, lack of long-term dependency, convergence, local minima etc. The aforesaid challenges can be severe over
+large inputs in Big Data ecosystems. In this reference, this paper proposed an outlier resilient semantic featuring deep driven
+sentiment analysis model (ORDSAENet) for educational domain sentiment annotations. To address data heterogeneity and
+unstructured-ness over unpredictable digital media, the ORDSAENet applies varied pre-processing methods including missing
+value removal, Unicode normalization, Emoji and Website link removal, removal of the words with numeric values, punctuations
+removal, lower case conversion, stop-word removal, lemmatization, and tokenization. Moreover, it applies a text size-constrained
+criteria to remove outlier texts from the input and hence improve ROI-specific learning for accurate annotation. The tokenized
+data was processed for Word2Vec assisted continuous bag-of-words (CBOW) semantic embedding followed by synthetic
+minority over-sampling with edited nearest neighbor (SMOTE-ENN) resampling. The resampled embedding matrix was then
+processed for Bi-LSTM feature extraction and learning that retains both local as well as contextual features to achieve efficient
+learning and classification. Executing ORDSAENet model over educational review dataset encompassing both qualitative
+reviews as well as quantitative ratings for the online courses, revealed that the proposed approach achieves average sentiment
+annotation accuracy, precision, recall, and F-Measure of 95.87%, 95.26%, 95.06% and 95.15%, respectively, which is higher
+than the LSTM driven standalone feature learning solutions and other state-of-arts. The overall simulation results and allied
+inferences confirm robustness of the ORDSAENet model towards real-time educational sentiment annotation solution.

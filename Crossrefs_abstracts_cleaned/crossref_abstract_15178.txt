@@ -1,0 +1,16 @@
+Abstract
+
+Background
+In the last decades psychological resilience has been increasingly recognized as a relevant area of research and clinical intervention in mental health. However, in the field of “at risk mental states” this topic remains underexplored. Limited studies involving individuals with ‘at risk mental state’ have demonstrated that they have lower levels of resilience than healthy controls, and that baseline resilience is lower among those who convert to frank psychosis than among those who do not. What is more, at risk individuals are characterized by a wide range of cognitive impairments, including general intelligence, executive function, verbal and visual memory, verbal fluency, attention, working memory, processing speed and social cognition. Recently, it has also been shown that a great majority of at-risk individuals have personality disorders, mainly depressive, borderline or schizotypal type.
+
+
+Methods
+Ninety-three young adults were administered a neurocognitive battery assessing attention, processing speed, verbal learning, working memory and verbal fluency along with Cloninger’s Temperament and Character Inventory (TCI), a self-report measure of psychological resilience (CD-RISC 10) and a semi-structured interview assessing at-risk mental state (CAARMS). We performed a two-step regression analysis. In the first model the results of cognitive tests were included as predictors of resilience, in the second model we added personality and temperamental traits to the significant cognitive predictors from the first model.
+
+
+Results
+The first model demonstrated that verbal fluency (b*=0.25, p=0.033), digit coding score (b*=-0.27, p=0.039), TMT version B performance time (b*=-0.33, p&lt;0.005), and D2 test total score (b*=-0.32, p&lt;0.005) were all significant predictors of resilience. In the second model all of them except for D2 test total score, remain significant along with Self-directedness (b*=0.33, p&lt;0.001) and Reward dependence (b*=0.22, p=0.022) subscales of TCI. What is more, resilience has proven to be a predictor of the positive symptoms subscale in CAARMS (b=-0.21, p=0,047).
+
+
+Discussion
+The obtained results indicate that resilience is associated with both neurocognitive functioning and personality traits, although significant standardized beta scores are not high (they range from 0.21 to 0.33) in this sample. Generally, they are consistent with previous findings that more resilient people are more ‘cognitively dexterous’ than those who are more prone to stress and adversity. However, an interesting findings of our study is the negative beta coefficients for digit symbol coding and D2 total score with resilience, which suggests that more resilient individuals do not necessarily “do their best” on cognitive testing. The result can also be examined from the point of view of the relationship between resilience and reward dependence demonstrated in this study. Perhaps the more resilient participants were aware that they would receive a reward (cash voucher) for participating in the study anyway, so they were not motivated enough to complete the task at their utmost. Nontheless, these results stimulate the reflection on the definition of resilience that still remain equivocal and polysemic.

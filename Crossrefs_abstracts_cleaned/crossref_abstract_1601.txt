@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+The COVID-19 pandemic continues to evolve internationally, increasing levels of psychological stress in adolescents around the world, and thereby increasing their risk for emotional disorders associated with chronic stress. This ongoing threat to adolescents’ mental health requires that we identify factors that contribute to their ability to cope with situations shown to carry significant risks, such as the COVID-19 pandemic (i.e., their resiliency).Negative emotions are associated with chronic stress, and factors that reduce levels of negative emotions are associated with improved resiliency. Healthier sleep is associated with lower levels of negative emotions. Cognitive reappraisal (changing the way one thinks about potentially emotion-eliciting events) is an emotional regulation strategy that downregulates negative emotions. However, there is little information about the associations between sleep quality, emotional regulation, and resiliency in adolescents. The present study sought to fill this gap by examining the associations between adolescents’ sleep quality and disturbances, emotional regulation strategies and adolescents’ resiliency during the COVID-19 pandemic.
+
+
+Methods
+Forty-five adolescents (M=13.47, SD=1.7 years) participated in the study during the first wave of the COVID-19 pandemic in Canada (May 15 to June 30, 2020). The Pittsburgh Sleep Quality Index was used to assess adolescents’ self-reported sleep quality and disturbances. The Emotion Regulation Questionnaire was used to assess respondents' tendencies to regulate their emotions using cognitive reappraisal or expressive suppression. The Connor-Davidson Resilience Scale was used to measure resilience. Behavioral/emotional problems were assessed before the pandemic using the Youth Self Report (YSR).
+
+
+Results
+Hierarchical multiple linear regression analyses revealed that lower levels of sleep disturbances and frequent use of cognitive reappraisal to regulate emotions were associated with a higher level of resiliency during the COVID-19 pandemic, above and beyond the contributions of gender or pre-pandemic emotional or behavioral problems.
+
+
+Conclusion
+Better sleep quality and the habitual use of an emotional regulation strategy that is effective in downregulating negative emotions are associated with higher resiliency in adolescents facing the COVID-19 pandemic. The cross-sectional nature of the study does not allow the inference of causation.
+
+
+Support (If Any)
+CIHR 418638 to Reut GruberRGPIN-2015-04467 to Reut Gruber

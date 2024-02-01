@@ -1,0 +1,11 @@
+
+            Networking communications play an important role to secure a dependable and timely operation of distributed and real-time embedded system applications; however, an effective real-time support is not yet properly addressed in the wireless realm. This paper presents
+            Wi-STARK
+            , a novel architecture for resilient and real-time wireless communications within an one-hop communication domain. Low level reliable (frame) communications, node failure detection, membership management, and networking partition control are provided; since these low level services extend and build upon the exposed interface offered by networking technologies,
+            Wi-STARK
+            is in strict compliance with wireless communication standards, such as IEEE 802.15.4 and IEEE 802.11p. The
+            Wi-STARK
+            service interface is then offered as operating system primitives, helpful for building distributed control applications. The one-hop dependability and timeliness guarantees offered by
+            Wi-STARK
+            are a fundamental step towards an effective design of real-time wireless networks with multiple hops, including end-to-end schedulability analysis of networking operations.
+          

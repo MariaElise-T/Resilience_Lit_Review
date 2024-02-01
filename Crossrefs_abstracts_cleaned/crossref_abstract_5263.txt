@@ -1,0 +1,12 @@
+Abstract
+Background
+The COVID-19 pandemic tested the capacity of intensive care units (ICU) to respond to a crisis and demonstrated their fragility. Unsurprisingly, higher than usual mortality rates, lengths of stay (LOS), and ICU-acquired complications occurred during the pandemic. However, worse outcomes were not universal nor constant across ICUs and significant variation in outcomes was reported, demonstrating that some ICUs could adequately manage the surge of COVID-19.
+
+Methods
+In the present editorial, we discuss the concept of a resilient Intensive Care Unit, including which metrics can be used to address the capacity to respond, sustain results and incorporate new practices that lead to improvement.
+
+Results
+We believe that a resiliency analysis adds a component of preparedness to the usual ICU performance evaluation and outcomes metrics to be used during the crisis and in regular times.
+
+Conclusions
+The COVID-19 pandemic demonstrated the need for a resilient health system. Although this concept has been discussed for health systems, it was not tested in intensive care. Future studies should evaluate this concept to improve ICU organization for standard and pandemic times.

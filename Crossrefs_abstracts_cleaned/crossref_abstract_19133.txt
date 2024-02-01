@@ -1,0 +1,11 @@
+Abstract
+
+The relationship between diversity and resilience is relatively well‐established for ecological systems, but remains much less explored for socio‐economic systems. Institutional diversity can have particular relevance for protected areas, whose managerial responses to environmental change depend on their legal basis, ability to make and enforce rules and socio‐political acceptance and endorsement.
+Protected area expansion strategies are increasingly turning to private land conservation to increase the configuration and connectivity of national protected area networks. Yet, we know little about the relative role of privately owned protected areas in protecting threatened and poorly protected (under‐represented) habitats, and in the overall connectivity of the national protected area network.
+We present an empirical assessment of protected area tenure diversity across South Africa.
+Privately owned protected areas comprise 25.58% (2,878,422.26 ha) of the area of the total protected area estate.
+Private nature reserves emerged as the dominant protected area type in under‐represented and threatened habitats, protecting, on average, 32%, 38% and 41%, respectively, of poorly protected, threatened and endangered vegetation classes.
+Private nature reserves had the largest overall effect, compared to other protected area types, on connectivity within the national network. A spatially randomized comparison showed that privately owned protected areas are overdispersed and more strategically positioned to connect other types of protected areas than would be expected by chance from their extent and abundance.
+Our results suggest that privately owned protected areas enhance the resilience of the national protected area network, making it more extensive and better‐connected, with greater levels of habitat redundancy. More generally, our analysis highlights the potentially valuable role of institutional diversity in building resilient habitat networks for biodiversity conservation.
+
+A free Plain Language Summary can be found within the Supporting Information of this article.

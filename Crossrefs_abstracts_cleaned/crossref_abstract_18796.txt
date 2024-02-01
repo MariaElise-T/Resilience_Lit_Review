@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+This report introduces National Social Life, Health, and Aging Project (NSHAP) data users to 2 new measures—one that assesses older adults’ resilience, defined as personal attributes that indicate an adaptive reserve that can be drawn on during adversity, and a second that expands on existing measures of social support received from others to also assess social support given to close others.
+
+
+Method
+Data from 4,604 NSHAP respondents born 1920–1965 were used to conduct psychometric analyses and validation of our measures of resilience and social support-giving.
+
+
+Results
+Scale reliabilities were acceptable for the 4-item resilience scale, and the 2-item scales for family support-giving and friend support-giving. The 2 spousal support-giving items did not cohere well as a single scale. The resilience scale exhibited significant correlations with criterion validation variables, even after adjusting for correlated personality traits. The support-giving scales, and the spousal support-giving items, also exhibited significant correlations with criteria, and with the resilience scale, even after adjusting for social support receipt. Scale means exhibited demographic differences.
+
+
+Discussion
+The resilience and social support-giving measures have acceptable psychometric characteristics (with the exception of spousal support-giving), convergent validity, and predictive utility net of related variables. NSHAP data users are offered several suggestions (key points) in the use of these measures in future research.

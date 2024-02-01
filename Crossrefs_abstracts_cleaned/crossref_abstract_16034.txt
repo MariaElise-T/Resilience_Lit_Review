@@ -1,0 +1,19 @@
+
+Background
+Digital interventions offer new avenues for low-threshold prevention and treatment in young people. Ecological momentary interventions (EMIs) represent a powerful approach that allows for adaptive, real-time, and real-world delivery of intervention components in daily life by real-time processing of ecological momentary assessment (EMA) data. Compassion-focused interventions (CFIs) may be particularly amenable to translation into an EMI to strengthen emotional resilience and modify putative risk mechanisms, such as stress sensitivity, in the daily lives of young help-seeking individuals.
+
+
+Objective
+This study aims to investigate the feasibility, safety, and initial therapeutic effects of a novel, accessible, transdiagnostic, ecological momentary CFI for improving emotional resilience to stress (EMIcompass).
+
+
+Methods
+In this uncontrolled pilot study, help-seeking youth with psychotic, depressive, or anxiety symptoms were offered the EMIcompass intervention in addition to treatment as usual. The EMIcompass intervention consisted of a 3-week EMI (including enhancing, consolidating, and EMA-informed interactive tasks) administered through a mobile health app and three face-to-face sessions with a trained psychologist intended to provide guidance and training on the CFI exercises presented in the app (ie, training session, follow-up booster session, and review session).
+
+
+Results
+In total, 10 individuals (mean age 20.3 years, SD 3.8; range 14-25) were included in the study. Most (8/10, 80%) participants were satisfied and reported a low burden of app usage. No adverse events were observed. In approximately one-third of all EMAs, individuals scored high on stress, negative affect, or threat anticipation during the intervention period, resulting in real-time, interactive delivery of the CFI intervention components in addition to weekly enhancing and daily consolidating tasks. Although the findings should be interpreted with caution because of the small sample size, reduced stress sensitivity, momentary negative affect, and psychotic experiences, along with increased positive affect, were found at postintervention and the 4-week follow-up. Furthermore, reductions in psychotic, anxiety, and depressive symptoms were found (r=0.30-0.65).
+
+
+Conclusions
+Our findings provide evidence on the feasibility and safety of the EMIcompass intervention for help-seeking youth and lend initial support to beneficial effects on stress sensitivity and mental health outcomes. An exploratory randomized controlled trial is warranted to establish the feasibility and preliminary evidence of its efficacy.

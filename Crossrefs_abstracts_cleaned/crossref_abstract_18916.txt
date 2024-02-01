@@ -1,0 +1,15 @@
+
+Purpose
+Multinational small-to-medium-sized enterprises (SMEs) are increasingly participating in cross-border digital platforms – especially amid the COVID-19 pandemic. Accordingly, knowledge integration (KI) has become more and more important. In fact, it has been deemed by many as the key to organizational resilience. Given this burgeoning phenomenon, this study aims to explore a path for improving the resilience of multinational SMEs. Through this process, this study also finds a relationship between the KI processes associated with adopting global digital platforms and the resiliency of local–global businesses. Hence, in part, this paper also explores the effectiveness of all these mechanisms.
+
+
+Design/methodology/approach
+This study used the stepwise regression method in Stata 16.0 to analyze the direct effects of both horizontal and vertical KI processes on the resilience of local–global businesses. Additionally, t-tests were also used to compare the differences in coefficients between the mechanisms. The sample analyzed comprised data on multinational manufacturing SMEs in the Yangtze River Delta region of China who are using global digital platforms.
+
+
+Findings
+The KI processes of these firms, both horizontal and vertical, positively correlate to resilience. Horizontal KI processes more efficiently increase the resilience of global businesses, whereas vertical processes more efficiently increase the resilience of local businesses.
+
+
+Originality/value
+First, this study provides insights into how multinational SMEs can improve their resilience in a crisis. In addition to adding to the knowledge of KI processes, this expands the KM literature on pandemics. Second, by creating two KI processes based on global digital platforms and discussing their influence on resilience, this research deepens the understanding of affordance in the KM literature. Third, focusing on the KI research stream, the results shed light on how KI processes might occur and how firms develop their KI processes.

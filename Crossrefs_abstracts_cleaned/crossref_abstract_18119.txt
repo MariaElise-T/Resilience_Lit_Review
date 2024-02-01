@@ -1,0 +1,16 @@
+Abstract
+
+Background
+War-related traumata in childhood and young-adulthood may have long-lasting negative effects on mental health. The focus of recent research has shifted to examine positive adaption despite traumatic experiences, i.e. resilience. We investigated personal and environmental factors associated with resilience in a sample of elderly Austrians (N = 293) who reported traumatic experiences in early life during World War II and subsequent occupation (1945–1955).
+
+
+Methods
+After reviewing different concepts of resilience, we analysed our data in a 3-phased approach: Following previous research approaches, we first investigated correlates of PTSD and non-PTSD. Secondly, we compared a PTSD positive sample (sub-threshold and full PTSD, n = 42) with a matched control sample regarding correlates of resilience and psychometrically assessed resilience (CD-RISC). Thirdly, we examined factors of resilience, discriminating between psychologically healthy participants who were exposed to a specific environmental stressor (having lived in the Soviet zone of occupation during 1945–1955) from those who were not.
+
+
+Results
+A smaller number of life-time traumata (OR = 0.73) and a medium level of education (OR = 2.46) were associated with better outcome. Matched PTSD and non-PTSD participants differed in psychometrically assessed resilience mainly in aspects that were directly related to symptoms of PTSD. Psychologically healthy participants with an environmental stressor in the past were characterized by a challenge-oriented and humorous attitude towards stress.
+
+
+Conclusions
+Our results show no clear picture of factors constituting resilience. Instead, most aspects of resilience rather appeared to be concomitants or consequences of PTSD and non-PTSD. However, special attention should be placed on a challenge-oriented and humorous attitude towards stress in future definitions of resilience.

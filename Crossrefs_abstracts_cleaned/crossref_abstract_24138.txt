@@ -1,0 +1,12 @@
+Abstract
+Objectives
+This study aimed to explore differences between psychological resilience and problem-solving ability in grade one junior middle school adolescents with and without suicidal ideation, focusing on the relationship between these factors and suicidal ideation.
+
+Methods
+Ninety-nine adolescents (aged 10 to 14) were divided into Suicidal Ideation (SI, n = 49) and Non-Suicidal Ideation (NSI, n = 50) grouped by the Self-rating Idea of Suicide Scale (SIOSS). The Psychological Resilience Scale (PRS) and Tower of Hanoi task (TOH) were applied to assess psychological resilience and problem-solving ability, respectively.
+
+Results
+The SI group scored significantly lower than the NSI group on PRS (p < 0.001) and performed more poorly on TOH than the NSI group, with more mistakes in the number of errors index (p < 0.001) and requiring a longer time in the task completion time index (p < 0.05). Among all the participants in this study, a significant negative correlation was observed between PRS and SIOSS (r = − 0.413, p < 0.01). The sub-dimensions of PRS including emotional control, family support, and interpersonal assistance were significantly negatively correlated with the SIOSS total score (r = − 0.361, − 0.360, − 0.382; p < 0.01).
+
+Conclusions
+This study profiled the characteristics and differences in psychological resilience and problem-solving ability between adolescents with and without suicidal ideation. The data suggested adolescents with SI might have deficits in psychological resilience and problem-solving ability, which may serve as potential targets for suicide intervention.

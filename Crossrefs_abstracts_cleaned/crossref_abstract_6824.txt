@@ -1,0 +1,20 @@
+ABSTRACT
+
+Background
+In Turkey, nurses are responsible for the treatment and care of patients with coronavirus disease (COVID-19) and for tracing their contacts. Healthcare professionals exposed to COVID-19 face high levels of stress.
+
+
+Purpose
+This study was designed to determine the influence of psychological resilience and several sociodemographic and professional characteristics on stress perception in nurses during the COVID-19 pandemic.
+
+
+Methods
+A cross-sectional design was used in this study, which was conducted between June 16 and 29, 2020. Two hundred one nurses living in Turkey were enrolled as participants. Data were collected using an information form, the Perceived Stress Scale, and the Brief Psychological Strength Scale. This study aligns with the Strengthening the Reporting of Observational Studies in Epidemiology Checklist.
+
+
+Results
+According to the results of the multivariate linear regression analysis, the psychological resilience score of the participants accounted for 25.2% of the variance related to stress perception (p < .05). However, several of the demographic and professional characteristics considered in this study were not found to statistically significantly influence stress perception (p > .05).
+
+
+Conclusions/Implications for Practice
+The findings support that psychological resilience is significant in explaining perception of stress in nurses in Turkey. Interventions targeting psychological resilience are needed to reduce nurses' stress perceptions.

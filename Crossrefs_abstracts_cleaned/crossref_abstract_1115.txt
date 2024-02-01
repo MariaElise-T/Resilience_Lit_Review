@@ -1,0 +1,12 @@
+Abstract
+Background
+Research on health systems resilience has focused primarily on the theoretical development of the concept and its dimensions. There is an identified knowledge gap in the research on how to build resilience in health systems in practice and ‘what works’ in different contexts. The aim of this study is to identify practical strategies for building resilient health systems from the empirical research on health systems resilience.
+
+Methods
+A scoping review included empirical research on health systems resilience from peer-reviewed literature. The search in the electronic databases PubMed, Web of Science, Global Health was conducted during January to March 2021 for articles published in English between 2013 to February 2021. A total of 1771 articles were screened, and data was extracted from 22 articles. The articles included empirical, applied research on strategies for resilience, that observed or measured resilience during shocks or chronic stress through collection of primary data or analysis of secondary data, or if they were a review study of empirical research. A narrative summary was done by identifying action-oriented strategies, comparing them, and presenting them by main thematic areas.
+
+Results
+The results demonstrate examples of strategies used or recommended within nine identified thematic areas; use of community resources, governance and financing, leadership, surveillance, human resources, communication and collaboration, preparedness, organizational capacity and learning and finally health system strengthening.
+
+Conclusions
+The findings emphasize the importance of improved governance and financing, empowered middle-level leadership, improved surveillance systems and strengthened human resources. A re-emphasized focus on health systems strengthening with better mainstreaming of health security and international health regulations are demonstrated in the results as a crucial strategy for building resilience. A lack of strategies for recovery and lessons learnt from crises are identified as gaps for resilience in future.

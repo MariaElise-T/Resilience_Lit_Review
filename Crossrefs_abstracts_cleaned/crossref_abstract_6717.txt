@@ -1,0 +1,29 @@
+ABSTRACT
+
+
+Context:
+Rising stress levels among students in the current era of cutthroat competition are a cause of concern, and one of the major reasons for this rising stress is to excel in academics. Academic stress negatively impacts the lives of students, which raises an utmost need to control this stress among students. With a decrease in stress, there is also a necessity to make them able to bear stress up to some extent, i.e. to make them resilient. Meditative practices are considered effective in reducing stress among students, and these also led to improvements in resilience among practitioners. These studies served as a base for executing meditative practices as an intervention for the current study.
+
+
+Aims:
+The aim of this study was to investigate the effects of meditative practices on the academic stress and resilience of ninth-graders.
+
+
+Settings and Design:
+A nonequivalent pretest–posttest control group design was used. The school was chosen using purposive sampling, and the experiment was conducted on ninth-class students; the intact sections of the class were randomly assigned as the experimental and control groups for the purpose.
+
+
+Materials and Methods:
+The Academic Stress Scale by Chavhan and the Resilience Scale by Kaur were administered for the assessment of academic stress and resilience.
+
+
+Statistical Analysis Used:
+The Mann–Whitney U test was used to compare the gain scores of the experimental and control groups for academic stress and resilience. The rank biserial correlation was done to calculate the effect sizes.
+
+
+Results:
+Academic stress was significantly decreased in the intervention group compared to the control group at the time of the posttest; however, no significant improvements were observed on the scale of resilience among the students of the intervention group compared to the control group at the time of the posttest.
+
+
+Conclusions:
+Meditative practices can be appraised as a valuable tool for the reduction of academic stress among students and that does not cost a penny. More intensive and long practices may be needed for the improvement of resilience among ninth-class students.

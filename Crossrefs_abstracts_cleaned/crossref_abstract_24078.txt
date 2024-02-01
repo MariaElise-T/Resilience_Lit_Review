@@ -1,0 +1,45 @@
+
+Background
+The risk of atherosclerotic cardiovascular disease (ASCVD) increases sharply with age. Some older individuals, however, remain unaffected despite high predicted risk. These individuals may carry cardioprotective genetic variants that contribute to resilience. Our aim was to assess whether asymptomatic older individuals without prevalent ASCVD carry cardioprotective genetic variants that contribute to ASCVD resilience.
+
+
+Methods and Results
+
+              We performed a genome‐wide association study using a 10‐year predicted ASCVD risk score as a quantitative trait, calculated only in asymptomatic older individuals aged ≥70 years without prevalent ASCVD. Our discovery genome‐wide association study of N=12 031 ASCVD event‐free individuals from the ASPREE (Aspirin in Reducing Events in the Elderly) trial identified 2 independent variants, rs9939224 (
+              P
+              <5×10
+              −8
+              ) and rs56156922 (
+              P
+              <10
+              −6
+              ), in the
+              CETP
+              (cholesteryl ester transfer protein) gene. The
+              CETP
+              gene is a regulator of plasma high‐density lipoprotein cholesterol, low‐density lipoprotein cholesterol, and lipoprotein(a) levels, and it is a therapeutic drug target. The associations were replicated in the UK Biobank (subpopulation of N=13 888 individuals aged ≥69 years without prevalent ASCVD). Carriers of the identified
+              CETP
+              variants (versus noncarriers) had higher plasma high‐density lipoprotein cholesterol levels, lower plasma low‐density lipoprotein cholesterol levels, and reduced risk of incident ASCVD events during follow‐up. Expression quantitative trait loci analysis predicted the identified
+              CETP
+              variants reduce
+              CETP
+              gene expression across various tissues. Previously reported associations between genetic
+              CETP
+              inhibition and increased risk of age‐related macular degeneration were not observed among the 3917 ASPREE trial participants with retinal imaging and genetic data available.
+            
+
+
+Conclusions
+
+              Common genetic variants in the
+              CETP
+              gene region are associated with cardiovascular resilience during aging.
+            
+
+
+Registration
+
+              URL:
+              https://www.clinicaltrials.gov
+              ; Unique identifier: NCT01038583.
+            

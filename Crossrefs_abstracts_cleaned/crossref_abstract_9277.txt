@@ -1,0 +1,15 @@
+
+Purpose
+Although proactive fault handling plans are widely spread, many unexpected data center outages still occurred. To rescue the jobs from faulty data centers, the authors propose a novel independent job rescheduling strategy for cloud resilience to reschedule the task from the faulty data center to other working-proper cloud data centers, by jointly considering job nature, timeline scenario and overall cloud performance.
+
+
+Design/methodology/approach
+A job parsing system and a priority assignment system are developed to identify the eligible time slots for the jobs and prioritize the jobs, respectively. A dynamic job rescheduling algorithm is proposed.
+
+
+Findings
+The simulation results show that our proposed approach has better cloud resiliency and load balancing performance than the HEFT series approaches.
+
+
+Originality/value
+This paper contributes to the cloud resilience by developing a novel job prioritizing, task rescheduling and timeline allocation method when facing faults.

@@ -1,0 +1,31 @@
+
+Context:
+The Los Angeles County Community Disaster Resilience project is a community-based program to improve disaster resilience. We collected baseline measures of resilience-related attitudes and practices among targeted communities prior to the implementation of the intervention.
+
+
+Objectives:
+This study identified community disaster resilience behavior patterns and assessed their associations with sociodemographic and social cognitive characteristics.
+
+
+Design:
+Telephone surveys during summer 2013.
+
+
+Setting:
+Sixteen communities in Los Angeles County (2 per service planning area).
+
+
+Participants:
+The address-based sample of adults (≥18) was selected to be representative of 2010 census tracts in each of the communities
+
+
+Main Outcome Measures:
+We examined relationships between sociodemographic characteristics, social cognitive factors, and participation in community disaster resilience activities.
+
+
+Results:
+Three clusters of community resilience behavior patterns emerged. Cluster distribution significantly differed across several sociodemographic and social cognitive factors. Participants who were African American, Hispanic, had higher education, income, self-efficacy, trust in the public health department, civic engagement, and social capital were significantly associated with being in the cluster most active in resilience-building activities.
+
+
+Conclusions:
+The results confirm that there are distinct community resilience behavior patterns. These patterns vary according to population characteristics, which supports audience segmentation approaches and developing a range of emergency preparedness programs targeted to the strengths and weaknesses of the different audience segments.

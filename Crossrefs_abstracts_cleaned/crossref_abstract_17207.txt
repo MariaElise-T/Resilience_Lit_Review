@@ -1,0 +1,15 @@
+AbstractThe associations between digital media use and mental well-being among children and adolescents have been inconclusive. We examined (i) the associations between digital media use and mental health outcomes, anxiety, depression, and ADHD, (ii) whether family resilience and neighborhood factors attenuate the associations, and (iii) whether sleep mediates these associations. We used the National Survey of Children’s Health data from 2019 to 2020. A total of 45,989 children’s (6–17 years) data were analyzed in this study. Multivariate logistic regression was used to assess the associations between digital media use and anxiety, depression, and ADHD. Path models and Paramed command in STATA were used to test the role of sleep as a mediator of these associations. The prevalence of heavy digital media users (who spent 4 or more hours per day) among the analytic sample was 30.52%, whereas anxiety was 13.81%, depression was 5.93%, and ADHD was 12.41%. Children in the heavy media user group had 63% increased odds of anxiety (95% CI: 1.32–2.01) and 99% increased odds of depression (95% CI: 1.35–2.94) after adjusting for sociodemographic factors, compared to the children in light media user group (who spent < 2 h per day), and these relations were significant at 0.01 level. However, family resilience and community factors significantly attenuated the effect of digital media use on anxiety and depression. Sleep did not mediate the associations between digital media use and anxiety or depression.
+  Conclusions: Family resilience and neighborhood factors protect against the harmful effects of digital media use. Further research is needed to examine the relationships of media contents, the presence of electronic devices in bedrooms, and sleep quality with mental health.
+
+
+What is Known:
+
+
+• Spending long hours on digital media may adversely affect children and adolescents' health and development. However, the mediating role of sleep in the association between digital media use and mental health outcomes is inconclusive.
+
+
+What is New:
+
+
+• Digital media use has detrimental effects on anxiety and depression. However, family resilience and neighborhood factors attenuated the association. The study highlights the importance of positive family functioning and neighborhood conditions reducing the harmful effects of digital media use.
+

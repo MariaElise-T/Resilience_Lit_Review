@@ -1,0 +1,15 @@
+Abstract
+Context
+The difficulty of analysing resilience and threshold responses to changing environmental drivers becomes evident in the social-ecological systems framework due to their inherent complexity. Research is needed to develop new tools able to deal with such challenges and determine potential thresholds for SES variables that primarily influence tipping point behaviour.
+
+Objectives
+In this paper, a methodology based on the application of Bayesian Networks (BNs) has been developed to quantify the social-ecological resilience along an urban–rural gradient in Madrid Region, detecting the tipping point values of the main socioeconomic indicators implying critical transitions at landscape stability thresholds.
+
+Method
+To do this, the spatial–temporal trends of the landscape in an urban–rural gradient from Region de Madrid (Spain) were identified, to then quantify the intensity of the changes and explain them using BNs based on regression models. Finally, through inference propagation the thresholds of landscape change were detected.
+
+Results
+The results obtained for the study area indicate that the most resilient landscapes analysed are those where the traditional silvo-pastoral activity was maintained by elderly people and where there is cohesion between neighbouring rural municipalities.
+
+Conclusion
+The method developed has allowed us to detect the tipping points from which small changes in socioeconomic indicators generate large changes at the landscape level. We demonstrate that the use of BNs is a useful tool to achieve an integrated social-ecological spatial planning.

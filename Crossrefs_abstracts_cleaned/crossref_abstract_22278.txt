@@ -1,0 +1,16 @@
+Abstract
+
+Background
+In Pakistan there is a dire need to explore the quality of life in infertile males and females and its undesirable psychological outcomes. This, study aimed to compare the quality of life (QoL) of males and females visiting an infertility centre for treatment and to assess its association with resilience, depression, and other socio-demographic factors.
+
+
+Methods
+An Analytical Cross-Sectional study was conducted amongst infertile males and females at the Australian Concept Infertility Medical Centre (ACIMC), Karachi, Pakistan. The non-probability (purposive) sampling strategy was used to recruit the participants. The sample size was 668. Data was analysed using STATA version 12. FertiQoL tool, Beck II Depression Inventory Tool and Resilience Scale 14 (RS-14) were used for assessing the quality of life, depression and resilience respectively of infertile patients.
+
+
+Results
+Total 668 infertile patients, 334 males and 334 females participated in the study. The mean age was 35.53 ± 6.72, among males, and 30.87 ± 6.12 among females. The mean resilience scores were significantly higher among males, (77.64 ± 8.56), as compared to females (76.19 ± 8.69) (95% CI; − 2.757, − 0.1347). However, a significantly higher proportion of females were depressed (13.8%) as compared to males (6%). The mean QoL scores for the general health domain, emotional domain, mind and body domain, and relational domain, and the total QoL were significantly higher in males as compared to females (p value< 0.001); however, QoL for the social domain was not significantly different in both the groups. On multivariable linear regression resilience and depression among males had a significant association with QoL, after adjusting for the covariates educational status, monthly income, and number of friends. Similar association was observed among females after adjusting for the covariate monthly income only.
+
+
+Conclusion
+Fertility related QoL of men and women has a significant association with no formal education, number of friends, income, depression and resilience. Therefore, health care professionals in the field of infertility must be adequately trained to respond to the needs of individuals going through these psychological problems.

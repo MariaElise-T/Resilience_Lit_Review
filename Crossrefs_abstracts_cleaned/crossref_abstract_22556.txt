@@ -1,0 +1,18 @@
+
+            Naturally occurring disturbances and malicious attacks can lead to faults in synchronizing the clocks of two network nodes. In this article, we investigate the fundamental resilience bounds of network clock synchronization for a system of
+            N
+            nodes against the peer-to-peer synchronization faults. Our analysis is based on practical synchronization algorithms with time complexity down to
+            O
+            (
+            N
+3
+            ) that attempt to correct the faults by checking the consistency among the following three types of data: (1) the estimated faults, (2) the estimated clock offsets among the nodes, and (3) the measured clock offsets from the potentially faulty peer-to-peer synchronization sessions. Our analysis gives the following three major results. First, the maximum number of faults that can be corrected by the algorithms has a tight bound of ⌊
+            N
+            /2 ⌋ − 1 when every node pair performs a synchronization session. Second, by converting the fault resilience problem to a graph-theoretic edge connectivity problem and applying Menger’s theorem, we develop an algorithm to compute the tight bound when not every node pair performs a synchronization session. Third, the number of synchronization sessions to achieve the capability of correcting any
+            K
+            faults has a lower bound of ⌈
+            N
+            (2
+            K
+            +1) / 2 ⌉ ; we also develop an algorithm to schedule the synchronization sessions to approach the lower bound. The above results provide basic understanding and useful guidelines to the design of resilient clock synchronization systems. For instance, our results suggest that, the four-node network achieves the highest degree of resilience that is defined as the ratio of the maximum number of correctable faults to the number of synchronization sessions. Therefore, by organizing a large-scale clock synchronization system into a hierarchy of multiple tiers with each consisting of four-node synchronization groups, we can achieve satisfactory and understood resilience against faults with reduced synchronization sessions.
+          

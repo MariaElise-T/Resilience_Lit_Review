@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to examine how external and internal conditions drive the impact of circular economy mechanism by decomposing into three policy networks in terms of reduce, reuse and recycle, to better understand the contingency model of climate change and effect of firm size on subsequent performance.
+
+
+Design/methodology/approach
+Drawing on circular economy network and resource-based view (RBV)-network-resilience strategy framework, a pooled longitudinal cross-sectional data model is developed using a sample of 4,050 Taiwanese manufacturing multinational corporations (MNCs) making foreign direct investment between 2013 and 2018. Structural equation modeling analysis is used to comprehensively examine and investigate each circular economy policy network in the context of climate change and firm size. Post hoc multigroup analysis (MGA) is also conducted.
+
+
+Findings
+MGA shows that the reduce policy network is positively and negatively related to manufacturing know-how and production size, respectively. The impact of reuse policy network can enhance the competence of large firms. The recycle policy network is more prominent in terms of competence enhancement of climate change.
+
+
+Practical implications
+MNCs are seeking to build circular economy policy networks to a greater extent, given climate change pressure and guidelines.
+
+
+Originality/value
+This study adds to the circular economy and RBV-network-related literature on climate change and interactions to enhance performance, echoing the recent call on the sustainability of the circular economy of MNCs.

@@ -1,0 +1,23 @@
+
+Background
+Patients with gastric cancer experience severe psychological distress as a result of their cancer diagnosis and chemotherapy. Resilience is a defense mechanism that enables one to thrive amid distress. However, little research has been done to explore the formation and development mechanism of resilience among patients with gastric cancer before their first chemotherapy treatment.
+
+
+Objective
+The mediating roles of self-efficacy and hope on the relationship between positive coping and resilience among patients with gastric cancer before their first chemotherapy treatment were examined to inform the future resilience intervention.
+
+
+Methods
+A total of 253 patients with gastric cancer before their first chemotherapy treatment were investigated using the Simplified Coping Style Questionnaire, the General Self-efficacy Scale, the Herth Hope Index, and the 14-Item Resilience Scale. Structural equation modeling was conducted using Mplus version 7.03 to test the hypothesized mediational model.
+
+
+Results
+Structural equation modeling analysis showed self-efficacy and hope completely mediated the relationship between positive coping and resilience; the indirect effects were 0.242 (P < .01) and 0.258 (P < .01), respectively; indirect effects accounted for 81% of the total effect.
+
+
+Conclusions
+Positive coping is not the independent predictor that may contribute to resilience among patients with gastric cancer before their first chemotherapy treatment, but it can indirectly affect resilience through self-efficacy and hope.
+
+
+Implications
+Self-efficacy and hope may increase the positive influence of positive coping on resilience among patients with gastric cancer before their first chemotherapy treatment. Resilience intervention might be enhanced by addressing the impact of positive coping on self-efficacy and hope.

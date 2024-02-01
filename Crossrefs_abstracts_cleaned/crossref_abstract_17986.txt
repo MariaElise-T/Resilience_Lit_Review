@@ -1,0 +1,19 @@
+
+Background
+Self-care (SC) is a cornerstone in heart failure management and is related to patient outcomes. The continuous and complex demands of SC can be experienced as stressful and may require patients to apply resilient behaviors as they manage their conditions. Resilience may be a helpful factor in performing SC.
+
+
+Objective
+The aim of this study was to determine the association between resilience and SC in patients with heart failure.
+
+
+Methods
+A cross-sectional study was performed between January 2020 and January 2021. Participants were asked to complete a questionnaire addressing baseline characteristics, the 2-item Patient Health Questionnaire, the Resilience Evaluation Scale, and the Self-Care of Chronic Illness Inventory, which measures 3 concepts of SC: SC maintenance, SC monitoring, and SC management. Multiple regression analysis was performed to determine whether resilience was associated with SC.
+
+
+Results
+Eighty-six patients were included, and 74 patients completed the questionnaire. In the univariate analysis, an association was found between resilience and SC maintenance, resulting in an increase in SC for patients with higher resilience (β = 0.24; 95% confidence interval, 0.03–0.96). In the multivariate analysis adjusted and corrected for confounders, no significant associations between resilience and all SC scales were found.
+
+
+Conclusion
+This study could not demonstrate significant associations between resilience and all SC scales. This study contributes to the body of knowledge on factors that can mediate or moderate SC. Further longitudinal research should be performed to study cause-effect relationships.

@@ -1,0 +1,23 @@
+
+Background
+Internationally, the impact of continued exposure to workplace environmental and psychological stressors on health care professionals’ mental health is associated with increased depression, substance misuse, sleep disorders, and posttraumatic stress. This can lead to staff burnout, poor quality health care, and reduced patient safety outcomes. Strategies to improve the psychological health and well-being of health care staff have been highlighted as a critical priority worldwide. The concept of resilience for health care professionals as a tool for negotiating workplace adversity has gained increasing prominence.
+
+
+Objective
+This systematic review aims to examine the effectiveness of web-based interventions to enhance resilience in health care professionals.
+
+
+Methods
+We searched the PubMed, CINAHL, PsycINFO, and Ovid SP databases for relevant records published after 1990 until July 2021. We included studies that focused on internet-delivered interventions aiming at enhancing resilience. Study quality was assessed with the Risk of Bias 2 tool for randomized controlled trial designs and Joanna Briggs Institute critical appraisal tool for other study designs. The protocol was registered on PROSPERO (International Prospective Register of Systematic Reviews; CRD42021253190). PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines were followed.
+
+
+Results
+A total of 8 studies, conducted between 2014 and 2020 and involving 1573 health care workers, were included in the review. In total, 4 randomized controlled trial designs and 4 pre- and postdesign studies were conducted across a range of international settings and health care disciplines. All of these studies aimed to evaluate the impact of web-based interventions on resilience or related symptoms in health care professionals involved in patient-facing care. Interventions included various web-based formats and therapeutic approaches over variable time frames. One randomized controlled trial directly measured resilience, whereas the remaining 3 used proxy measures to measure psychological concepts linked to resilience. Three pretest and posttest studies directly measured resilience, whereas the fourth study used a proxy resilience measure. Owing to the heterogeneity of outcome measures and intervention designs, meta-analysis was not possible, and qualitative data synthesis was undertaken. All studies found that resilience or proxy resilience levels were enhanced in health care workers following the implementation of web-based interventions. The overall risk of bias of all 8 studies was low.
+
+
+Conclusions
+The findings indicate that web-based interventions designed to enhance resilience may be effective in clinical practice settings and have the potential to provide support to frontline staff experiencing prolonged workplace stress across a range of health care professional groups. However, the heterogeneity of included studies means that findings should be interpreted with caution; more web-based interventions need rigorous testing to further develop the evidence base.
+
+
+Trial Registration
+PROSPERO CRD42021253190; https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=253190

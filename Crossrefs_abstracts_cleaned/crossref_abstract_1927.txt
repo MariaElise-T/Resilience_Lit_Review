@@ -1,0 +1,3 @@
+
+Secure and resilient electrical power and energy systems: the SDN-microSENSE project
+The smart energy ecosystem constitutes the next technological leap of the conventional electrical grid. However, although it brings beneficial changes, it also generates significant cybersecurity challenges due to the various heterogeneous technologies. Thus, the SDN-microSENSE project intends to provide a set of cyberattacks mechanisms, thus ensuring the normal operation of the Electrical Power and Energy Systems (EPES).

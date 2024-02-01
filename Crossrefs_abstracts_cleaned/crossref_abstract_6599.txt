@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Post-traumatic stress disorder (PTSD) is one of the major psychological disorders developed after burn injuries, though this subject of burn injuries and their destructive chronic psychological impact are not considered as thoughtfully in developing countries like Pakistan. Hence, the current study investigated the relationship between PTSD symptoms and resilience among burn patients in Pakistan, exploring the variance occurrence of the two variables concerning male burn patients and female burn patients.
+
+
+Methods
+Seventy burn patients from three burn units of Rawalpindi and Islamabad, Pakistan, during January 2015 to September 2015 were recruited. Patients with psychiatric disorder which would restrict the study procedures were excluded from the study. PTSD symptoms of burn patients were measured by PTSD CheckList-Civilian Version (PCL-C) and resilience was measured by Connor-Davidson Resilience scale (CD-RISC). Spearman’s Rank-Order correlation was used to analyze the relationship between symptoms of PTSD and resilience in burn patients, and analysis of covariance (ANCOVA) was applied to analyze the gender difference in symptoms of PTSD and level of resilience.
+
+
+Results
+Negative correlation between PTSD and resilience among burn patients was found (r = − 0.72, p &lt; 0.001). Moreover, significant gender differences were observed on PTSD symptoms and resilience between male and female burn patients when demographic variables such as age, socioeconomic status, marital status, and educational background were controlled. Female burn patients showed more PTSD symptoms (η2 = 0.18, p &lt; 0.001) and less resilience (η2 = 0.25, p &lt; 0.001) when compared to male burn patients.
+
+
+Conclusions
+PTSD and resilience were negatively correlated in burn patients. Female burn patients have more PTSD symptoms and lower resilience compared to male burn patients.

@@ -1,0 +1,1 @@
+ While there are advantages to having connected devices such as lighting systems, doorbells and refrigerators, they also open the door to cyber attacks and the consequences that come with them. It is crucial that the ongoing integrity and safety of these devices are ensured, with cyber resilience playing a key role in mitigating the risk of potential attacks. 

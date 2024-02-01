@@ -1,0 +1,12 @@
+Abstract
+Background
+Stress and over-care burden are problems for mothers of children with Autism Spectrum Disorder (ASD). Therefore, it seems necessary to evaluation of coping with stress according to the burden of care for these mothers. This study aimed to determine the relationship between care burden with coping styles and resilience of mothers of children with ASD.
+
+Methods
+The present study is a descriptive-analytical study performed on mothers of children with ASD in Kermanshah, Iran. Participants in the study were selected by convenience sampling. A Demographic questionnaire, Caregiver Burden Inventory (CBI), Connor-Davidson Resilience Scale (CD-RISC), and Coping strategies questionnaire (CSQ) were used for collecting data. Then it was analyzed through an independent t-test, ANOVA, and Pearson correlation test.
+
+Results
+The mean total score of the burden of care was 95.5 ± 9.1, resilience was 52.7 ± 8.7, and coping styles were 92.4 ± 8.4. Mothers of children with autism experience a severe burden of care and moderate levels of resiliency. There was also a significant negative correlation between the burden of care and resilience) p < 0.001, r = -0.536), but no significant correlation was found between burden of care and coping style) p = 0.937, r = -0.010).
+
+Conclusion
+According to the results of this study, it is necessary to pay more attention to the factors affecting resiliency. Also, considering the significant relationship between burden of care and resiliency, teaching strategies to increase resiliency can be used in the educational program for mothers with autistic children.

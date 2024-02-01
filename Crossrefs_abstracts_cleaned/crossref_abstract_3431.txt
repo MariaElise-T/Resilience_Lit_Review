@@ -1,0 +1,11 @@
+
+            Adversarial machine learning is a prominent research area aimed towards exposing and mitigating security vulnerabilities in AI/ML algorithms and their implementations. Data poisoning and neural Trojans enable an attacker to drastically change the behavior and performance of a
+            Convolutional Neural Network (CNN)
+            merely by altering some of the input data during training. Such attacks can be catastrophic in the field, e.g. for self-driving vehicles. In this paper, we propose deploying a CNN as an
+            ecosystem of variants
+            , rather than a singular model. The ecosystem is derived from the original trained model, and though every derived model is structurally different, they are all functionally equivalent to the original and each other. We propose two complementary techniques:
+            stochastic parameter mutation
+            , where the weights θ of the original are shifted by a small, random amount, and a
+            delta-update
+            procedure which functions by XOR’ing all of the parameters with an update file containing the Δ θ values. This technique is effective against transferability of a neural Trojan to the greater ecosystem by amplifying the Trojan’s malicious impact to easily detectable levels; thus, deploying a model as an ecosystem can render the ecosystem more resilient against a neural Trojan attack.
+          

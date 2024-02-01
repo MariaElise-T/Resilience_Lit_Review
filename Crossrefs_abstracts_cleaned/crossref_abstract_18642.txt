@@ -1,0 +1,19 @@
+
+Purpose
+Critical infrastructures (CIs) for essential services such as water supply and electricity delivery are notoriously vulnerable to disruptions. While extant literature offers important insights into the resilience of CIs following large-scale disasters, our understanding of CI resilience to the more typical disruptions that affect CIs on a day-to-day basis remains limited. The present study investigates how the interorganizational (supply) network that uses and manages the CI can mitigate the adverse consequences of day-to-day disruptions.
+
+
+Design/methodology/approach
+Longitudinal archival data on 277 day-to-day disruptions within the Dutch national railway CI were collected and analyzed using generalized estimating equations.
+
+
+Findings
+The empirical results largely support the study’s predictions that day-to-day disruptions have greater adverse effects if they co-occur or are relatively unprecedented. The findings further show that the involved interorganizational network can enhance CI resilience to these disruptions, in particular, by increasing the overall level of cross-boundary information exchange between organizations inside the network.
+
+
+Practical implications
+This study helps managers to make well-informed choices regarding the target and intensity of their cross-boundary information-exchange efforts when dealing with day-to-day disruptions affecting their CI. The findings illustrate the importance of targeting cross-boundary information exchange at the complete interorganizational network responsible for the CI and to increase the intensity of such efforts when CI disruptions co-occur and/or are unprecedented.
+
+
+Originality/value
+This study contributes to our academic understanding of how network-level processes (i.e. cross-boundary information exchange) can be managed to ensure interorganizational (supply) networks’ resilience to day-to-day disruptions in a CI context. Subsequent research may draw from the conceptual framework advanced in the present study for examining additional supply network-level processes that can influence the effectiveness of entire supply networks. As such, the present research may assist scholars to move beyond a simple dyadic context and toward examining complete supply networks

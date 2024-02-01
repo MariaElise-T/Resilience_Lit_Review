@@ -1,0 +1,16 @@
+ABSTRACT
+
+Introduction
+Active duty service members transitioning to civilian life can experience significant readjustment stressors. Over the past two decades of the United States’ longest sustained conflict, reducing transitioning veterans’ suicidal behavior and homelessness became national priorities. However, it remains a significant challenge to identify which service members are at greatest risk of these post-active duty outcomes. Discharge characterization, which indicates the quality of an individual’s military service and affects eligibility for benefits and services at the Department of Veterans Affairs, is a potentially important indicator of risk.
+
+
+Materials and Methods
+This study used data from two self-report panel surveys of the Study to Assess Risk and Resilience in Servicemembers-Longitudinal Study (STARRS-LS) (LS1: 2016-2018, n = 14,508; and LS2: 2018-2019, n = 12,156), which were administered to respondents who previously participated while on active duty in one of the three Army STARRS baseline self-report surveys (2011-2014): the New Soldier Study (NSS), a survey of soldiers entering basic training; All Army Study, a survey of active duty soldiers around the world; and the Pre-Post Deployment Study, a survey of soldiers before and after combat deployment. Human Subjects Committees of the participating institutions approved all recruitment, informed consent, and data collection protocols. We used modified Poisson regression models to prospectively examine the association of discharge characterization (honorable, general, “bad paper” [other than honorable, bad conduct, dishonorable], and uncharacterized [due to separation within the first 180 days of service]) with suicide attempt (subsample of n = 4334 observations) and homelessness (subsample of n = 6837 observations) among those no longer on active duty (i.e., separated or deactivated). Analyses controlled for other suicide attempt and homelessness risk factors using standardized risk indices that were previously developed using the LS survey data.
+
+
+Results
+Twelve-month prevalence rates of self-reported suicide attempts and homelessness in the total pooled LS sample were 1.0% and 2.9%, respectively. While not associated with suicide attempt risk, discharge characterization was associated with homelessness after controlling for other risk factors. Compared to soldiers with an honorable discharge, those with a bad paper discharge had an increased risk of homelessness in the total sample (relative risk [RR] = 4.4 [95% CI = 2.3-8.4]), as well as within subsamples defined by which baseline survey respondents completed (NSS vs. All Army Study/Pre-Post Deployment Study), whether respondents had been separated (vs. deactivated), and how much time had elapsed since respondents were last on active duty.
+
+
+Conclusions
+There is a robust association between receiving a bad paper discharge and post-separation/deactivation homelessness. Policies that enhance transition assistance and access to mental healthcare for high-risk soldiers may aid in reducing post-separation/deactivation homelessness among those who do not receive an honorable discharge.

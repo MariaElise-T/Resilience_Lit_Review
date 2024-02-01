@@ -1,0 +1,11 @@
+
+            Resilience to short-term perturbations, like inflammation, is a fundamental feature of microbiota, yet the underlying mechanisms of microbiota resilience are incompletely understood. Here, we show that
+            Lactiplantibacillus plantarum
+            , a major
+            Drosophila
+            commensal, stably colonizes the fruit fly gut during infection and is resistant to
+            Drosophila
+            antimicrobial peptides (AMPs). By transposon screening, we identified
+            L. plantarum
+            mutants sensitive to AMPs. These mutants were impaired in peptidoglycan O-acetylation or teichoic acid D-alanylation, resulting in increased negative cell surface charge and higher affinity to cationic AMPs. AMP-sensitive mutants were cleared from the gut after infection and aging-induced gut inflammation in wild-type, but not in AMP-deficient flies, suggesting that resistance to host AMPs is essential for commensal resilience in an inflamed gut environment. Thus, our work reveals that in addition to the host immune tolerance to the microbiota, commensal-encoded resilience mechanisms are necessary to maintain the stable association between host and microbiota during inflammation.
+          

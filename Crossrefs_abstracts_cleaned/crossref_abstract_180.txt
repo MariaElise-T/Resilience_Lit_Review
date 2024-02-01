@@ -1,0 +1,19 @@
+Abstract. To better understand factors shaping adaptive behavior
+and resilience is crucial in designing policy strategies to prepare people
+for future flooding. The central question of our paper is how frequent flood
+experience (FFE) impacts adaptive behavior and self-reported resilience. The
+applied empirical methods are binary logistic and linear regression models
+using data from a panel dataset including 2462 residents (Germany, state of
+Saxony). Four main conclusions from the investigations can be drawn. First,
+more flood-experienced respondents are statistically significantly more
+likely to have taken precautionary measures in the past. Second, FFE has a
+statistically significant negative impact on self-reported resilience.
+Third, the impact of FFE on the capacity to recover and the capacity to
+resist is statistically significantly non-linear. Fourth, putting together
+these results reveals the paradox of more flood-experienced respondents
+being better prepared but feeling less resilient at the same time. It can be
+concluded that more research is needed to obtain deeper insights into the
+drivers behind self-reported resilience and that this study can be seen as a
+piece of the puzzle, taking frequent flood experience as the primary entry
+point.
+                    

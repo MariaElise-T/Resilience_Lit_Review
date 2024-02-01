@@ -1,0 +1,19 @@
+
+Background
+Knowledge of mental distress and resilience factors over the time span from before to after a stressor is important to be able to leverage the most promising resilience factors and promote mental health at the right time. To shed light on this topic, we designed the RESIST (Resilience Study) study, in which we assessed medical students before, during, and after their yearly exam period. Exam time is generally a period of notable stress among medical students, and it has been suggested that exam time triggers mental distress.
+
+
+Objective
+In this paper, we aim to describe the study protocol and to examine whether the exam period indeed induces higher perceived stress and mental distress. We also aim to explore whether perceived stress and mental distress coevolve in response to exams.
+
+
+Methods
+RESIST is a cohort study in which exam stress functions as a within-subject natural stress manipulation. In this paper, we outline the sample (N=451), procedure, assessed measures (including demographics, perceived stress, mental distress, 13 resilience factors, and adversity), and ethical considerations. Moreover, we conducted a series of latent growth models and bivariate latent change score models to analyze perceived stress and mental distress changes over the 3 time points.
+
+
+Results
+We found that perceived stress and mental distress increased from the time before the exams to the exam period and decreased after the exams to a lower level than before the exams. Our findings further suggest that higher mental distress before exams increased the risk of developing more perceived stress during exams. Higher perceived stress during exams, in turn, increased the risk of experiencing a less successful (or quick) recovery of mental distress after exams.
+
+
+Conclusions
+As expected, the exam period caused a temporary increase in perceived stress and mental distress. Therefore, the RESIST study lends itself well to exploring resilience factors in response to naturally occurring exam stress. Such knowledge will eventually help researchers to find out which resilience factors lend themselves best as prevention targets and which lend themselves best as treatment targets for the mitigation of mental health problems that are triggered or accelerated by natural exam stress. The findings from the RESIST study may therefore inform student support services, mental health services, and resilience theory.

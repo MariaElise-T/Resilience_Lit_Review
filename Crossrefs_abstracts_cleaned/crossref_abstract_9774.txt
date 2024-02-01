@@ -1,0 +1,16 @@
+
+Objective:
+            A cardiovascular disease (CVD) diagnosis is a stressful event that challenges patients physically and psychologically. Tertiary prevention of CVD focuses on management of traditional risk factors, including biological factors such as hyperlipidemia, hypertension, and diabetes, and behavioral factors such as smoking, diet, and sedentary lifestyle. Recent evidence indicates nontraditional psychological and social risk factors, including depression, anxiety, hostility, low social support, social isolation, and low socioeconomic status, also influence CVD incidence and prognosis. A focus on resilience, the ability to rebound from stress or adversity, could positively impact the health of CVD patients. The objective of this systematic review was to synthesize the evidence for biological, behavioral, psychological, and social factors that influence resilience among patients with CVD.
+          
+
+Methods:
+            A systematic search of PubMED, PsycINFO, and CINAHL was conducted from database inception through October 2019. The Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines were followed, and study quality was evaluated with the National Institutes of Health Study Quality Assessment Tools. Inclusion criteria were: quantitative research studies; adult sample, age 18 or above; CVD diagnosis (e.g. acute coronary syndrome, heart failure, stroke); resilience; and published in English.
+          
+
+Results:
+            Of the 746 articles retrieved for review, 67 were retained for full text assessment, and 30 were eligible for study inclusion. Twenty-seven of these studies were observational, with sample sizes from 11 to >237,000 participants, and settings in Europe, America, Asia, and Australia. The majority of participants were men, and only three studies reported on resilience among black participants. Psychological factors of depression, anxiety, and perceived stress were inversely associated with resilience, while quality of life and self-efficacy were positively associated with resilience. Among behavioral factors, composite measures of self-care were positively associated with resilience. Evidence for biological and social factors was minimal, but findings from a recent study suggest blacks living in lower versus higher cardiovascular-risk neighborhoods have higher levels of resilience, which was assessed with measurements of neighborhood perceptions and psychological attributes.
+          
+
+Conclusions:
+            This review provides evidence for factors influencing resilience in the CVD population. Research is needed to further delineate the relationship of these factors with resilience, ascertain differential effects between sexes and among minority populations, and explore interventions to enhance resilience among CVD patients. In addition, attention to the relationship of community factors with resilience in CVD is needed.
+          

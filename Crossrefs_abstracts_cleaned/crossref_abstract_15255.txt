@@ -1,0 +1,21 @@
+Abstract
+
+Background
+Instagram has become one of the most popular social media platforms worldwide, particularly among young adults. While social media use was found to impact negatively on mental health, few studies have focused solely on Instagram, and research on young adults’ positive mental health is still limited. Therefore, this study aims to explore the relationship between Instagram addiction, subjective well-being (SWB), and depression among college students, as well as investigate the moderating effects of resilience and self-esteem.
+
+
+Methods
+A total of 441 college students in Taipei, Taiwan participated in this study through convenience sampling between December 2022 and February 2023. Participants completed paper-based questionnaires that evaluated Instagram addiction using the Instagram Addiction Scale, SWB using items adapted from OECD Guidelines, and resilience and self-esteem using the Resilience Scale for Adults and Rosenberg Self-Esteem Scale, respectively. Data were analyzed using multiple linear regression.
+
+
+Results
+The sample consisted of 441 undergraduate students and the mean Instagram usage time was 67.4 minutes per day, and the mean addiction score was 27.3. After adjusting for potential confounders, Instagram addiction was negatively associated with life satisfaction (β=-0.06, 95% CI=-0.09∼-0.03), eudaimonia (β=-0.07, 95%CI=-0.12∼-0.03), and positive affect (β=-0.03, 95%CI=-0.05∼-0.01), and positively associated with negative affect (β = 0.05, 95%CI=0.03∼0.08) and depression (β = 0.16, 95%CI=0.12∼0.20). The correlation between addiction and mental health status was even stronger in the low resilience and low self-esteem groups.
+
+
+Conclusions
+College student with higher addiction to Instagram reported poorer mental well-being, with resilience and self-esteem showing moderation effects. Education on proper use and interventions promoting resilience and self-esteem are recommended to prevent the impacts of Instagram addiction on mental health.
+
+
+Key messages
+• Instagram addictions is associated with lower positive and worse negative mental health status.
+• Resilience and self-esteem are protective factors for the potential harm of Instagram addiction.

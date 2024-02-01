@@ -1,0 +1,13 @@
+Purpose of this study: In accordance with the current world economy, building climate sustainability resiliency is very important under the physical risk and transitional risk mitigation. This classification of climate risks could have an enormous positive impact focusing on ESG (Environmental, Social and Corporate Governance) goal achievement during the post-COVID pandemic situation focusing on climate risk issues. The European Green Deal has also increased the EU’s climate ambitions. In addition, global cooperation on sustainable finance has increased and the international context has changed. The financial sector will play a critical role in our transition to sustainability.The strategy of this study aims to support the European Green Deal aims, as well as an inclusive and sustainable recovery from the COVID-19 pandemic consequences.
+
+
+Methodology: In this study, the relative carbon risk and absolute carbon risk is shown based on the dynamic common factor model. The graphical representation of absolute versus relative carbon risk is measured in this time series data based research on the ten years timeline of 2010 to 2019.
+
+
+Main findings:  The study shows the graphical figure regardingregion-wise dynamics of the relative and absolute carbon emissions risk in an average by adopting the dynamic common factor model throughout the global level by obtaining the Kalman filtering tool.
+
+
+Research limitations/Implications: Lack of resources of primary data is the main creating hindering effect that is faced in this study. This article portrays the increase in CO2 emissions leading to consequences of climate risk also accelerating these problems within the regions and countries mentioned in this research.
+
+
+Novelty/Originality: Due to the COVID-19 outbreak, the developed nations, as well as emerging economies, are facing vulnerability in the area of financial, governmental, environmental to be sustainably resilient. This is the high time of detecting these problems and taking precautionary measures by the policymakers and government in the economic sector by adopting implementable methodologies. This study may benefit readers by advancing the existing knowledge or creating new knowledge in this subject. The current study reflects the situation of forthcoming researchers who intends to study as well as interested in this particular area.

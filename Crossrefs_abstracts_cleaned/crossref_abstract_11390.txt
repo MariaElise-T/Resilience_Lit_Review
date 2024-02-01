@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to investigate supply network (SN) resilience capabilities across the organizational, supply chain (SC) and industry levels by drawing on the complex adaptive systems (CASs) theory and the social–ecological perspective of resilience. An empirically grounded framework operationalizes the concept of social–ecological resilience by expounding resilience capabilities across phases of the CAS adaptive cycle.
+
+
+Design/methodology/approach
+This research uses a qualitative multiple case study approach. It draws on the case of the Australian Defence Manufacturing SN (ADM SN) during COVID-19 disruptions. A total of 28 interviews with senior decision makers from 17 companies, complemented by 5 interviews with the Australian Defence SC organizations and secondary data analysis, support the findings.
+
+
+Findings
+Individual organizations’ SC visibility and flexibility enabled by effective risk management and collaboration enhance the ability of the SN to anticipate and prepare for disruption. At the same time, the strength of SC relationships reduces resilience. SN disruption response velocity is enabled by inventory redundancy, process flexibility at the organizational level and visibility and collaboration at the SC level. Institutional support at the national industry level, development of value-adding capabilities and manufacturing process flexibility at the organizational level enhances the SN’s ability to re-organize. The transition from hierarchical to decentralized collaborative governance enhances SN resilience.
+
+
+Practical implications
+From a practitioner’s perspective, the findings highlight the need to embrace a broader view of SC beyond immediate tiers. Decision-makers in multinational companies must recognize the long-term impact of their procurement decisions on the supplier ecosystem. Developing local supplier capabilities rather than relying on established global SCs will pay off with future resilience. It, however, demands substantial investment and radical changes across all SC tiers. The lesson for smaller firms is not to over-rely on the existing relationships with supply partners. Although trust-based relationships and collaboration are essential, over-commitment can be counterproductive during global disruptions. With a lack of visibility and control over the SC, operational flexibility is critical for small firms to adapt to shifts in supply and demand.
+
+
+Originality/value
+To the best of the authors’ knowledge, this empirical research is one of the first attempts to operationalize the social–ecological perspective of SN resilience. Evidence-based theoretical propositions contribute to the emerging conversation about the CAS nature of resilience by demonstrating the multi-level effects of resilience capabilities.

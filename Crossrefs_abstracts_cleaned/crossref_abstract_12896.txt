@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience, or the ability to bounce back from stress, is a key psychological factor that is associated with ongoing functional independence and higher quality of life in older adults in the context of chronic health conditions. Emerging research has explored resilience and patient-reported outcomes after TKA. Our primary aim was to explore the relationship between resilience and acute hospital length of stay after total knee arthroplasty (TKA).
+
+Methods
+A prospective observational study recruited 75 participants one month before total knee arthroplasty from two Australian hospitals. Two preoperative psychological measures were used: the Brief Resilience Scale, and for comparison, the Depression, Anxiety and Stress Scale-21 (DASS-21). We collected sociodemographic, medical and surgical details, patient-reported pain, function, fatigue and quality of life one month before TKA. Health service data describing acute hospital length of stay, inpatient rehabilitation use, and physiotherapy occasions of service were collected after TKA. Non-parametric analysis was used to determine any differences in length of stay between those with low or high resilience and DASS-21 scores. Secondary regression analysis explored the preoperative factors affecting acute hospital length of stay.
+
+Results
+No significant difference was detected in length of stay between those with a low or a high resilience score before TKA. However, the group reporting psychological symptoms as measured by the DASS-21 before TKA had a significantly longer acute hospital length of stay after TKA compared to those with no psychological symptoms [median length of stay 6 (IQR 2.5) days vs. 5 (IQR 2) days, respectively (Mann-Whitney U = 495.5, P=0.03)]. Multivariate regression analysis showed that anesthetic risk score and fatigue were significant predictors of length of stay, with the overall model demonstrating significance (χ2=12.426, df = 4, P=0.014).
+
+Conclusions
+No association was detected between the brief resilience score before TKA and acute hospital length of stay after TKA, however, symptoms on the DASS-21 were associated with longer acute hospital length of stay. Preoperative screening for psychological symptoms using the DASS-21 is useful for health services to identify those at higher risk of longer acute hospital length of stay after TKA.

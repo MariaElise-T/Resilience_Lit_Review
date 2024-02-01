@@ -1,0 +1,12 @@
+Abstract
+Background
+COVID-19 has resulted in substantial global upheaval. Resilience is important in protecting wellbeing, however few studies have investigated changes in resilience over time, and associations between resilience with depression, anxiety, stress, and physical activity during the COVID-19 pandemic.
+
+Methods
+Online surveys were conducted to collect both longitudinal and cross-sectional data at three time points during 2020. Australian adults aged 18 years and over were invited to complete the online surveys. Measures include the six-item Brief Resilience Scale, the 21-item Depression, Anxiety and Stress Scale, and the Active Australia Survey which have eight items identifying the duration and frequency of walking, and moderate and vigorous physical activities (MVPA), over the past 7 days. General linear mixed models and general linear models were used in the analysis.
+
+Results
+In the longitudinal sample, adjusted differences (aDif) in resilience scores did not significantly change over time (time 2 vs. time 1 [aDif = − 0.02, 95% CI = − 0.08, 0.03], and time 3 vs. time 1 [aDif = < 0.01, 95% CI = − 0.07, 0.06]). On average, those engaging in at least 150 min of MVPA per week (aDif = 0.10, 95% CI = 0.04, 0.16), and having depression (aDif = 0.40, 95% CI = 0.33), anxiety (aDif = 0.34, 95% CI = 0.26, 0.41), and stress scores (aDif = 0.30, 95% CI = 0.23, 0.37) within the normal range had significantly higher resilience scores. The association between resilience and physical activity was independent of depression, anxiety, and stress levels. All results were similar for the cross-sectional sample.
+
+Conclusions
+Resilience scores did not change significantly during the COVID-19 pandemic. However, there were significant associations between resilience with physical activity and psychological distress. This research helps inform future interventions to enhance or nurture resilience, particularly targeted at people identified as at risk of psychological distress.

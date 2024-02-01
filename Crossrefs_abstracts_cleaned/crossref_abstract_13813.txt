@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+To examine the relationship between sleep disorders and self-reported sleep problems and resilience in persons with multiple sclerosis (PwMS). We hypothesized that PwMS with sleep disorders would report lower resilience than those with self-reported sleep problems with no formal diagnosis or those without sleep disorder/problems.
+
+
+Method
+Participants (n = 112) were PwMS from a larger study conducted at a specialized MS Center. Medical record review was conducted to categorize PwMS into three groups: sleep disorders (n = 27), sleep problems with no formal diagnosis (n = 39), or no sleep disorder/problems (n = 46). Resiliency was measured using the Multiple Sclerosis Resiliency Scale (MSRS), which has five subscales. Differences between the groups on the overall MSRS and subscales were examined with ANOVAs or Kruskal-Wallis tests, with Bonferroni-corrected post-hoc tests.
+
+
+Results
+PwMS with sleep disorders reported significantly lower overall resilience (M = 72.00, SD = 9.12) than those without sleep disorders (M = 79.15, SD = 10.85; p = 0.014). Analysis of MSRS subscales showed PwMS without sleep disorders (Mdn = 17.00) reported more support from family and friends than the sleep problems group (Mdn = 15.00; p = 0.009) and the sleep disorder group (Mdn = 14.00; p &lt; 0.001). There were no significant group differences on the four other subscales (Emotional and Cognitive Strategies, Physical Activity and Diet, MS Peer Support, or Spirituality).
+
+
+Conclusion(s)
+PwMS with sleep disorders reported lower resilience than those without sleep disorders. Specifically, Support from Family and Friends was significantly different between groups, indicating that support may be particularly important in the relationship between sleep disorders/problems and resilience in MS.

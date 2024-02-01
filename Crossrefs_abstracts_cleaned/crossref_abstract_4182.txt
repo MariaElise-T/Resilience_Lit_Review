@@ -1,0 +1,12 @@
+Abstract
+Background
+The COVID-19 pandemic may have multifarious adverse effects on the mental health of some youth. To our knowledge, no study has followed young people beyond the first 6 months of the pandemic outbreak. The aim of this study was to examine 1) Change in internalizing, externalizing, and total mental health problems over two time-points with a nine-month interval during the COVID-19 outbreak and 2) Whether contextual and COVID-19-related factors contribute to change in mental health problems.
+
+Methods
+Youth within the municipality of Bergen aged 11-19 years were invited via SMS to participate in an online survey in April and again in December 2020. A total of 2997 (40% response rate) youth participated at baseline in the present study, and 1598 (53.3%) completed the second survey. At baseline, the mean age was 16.0 (standard deviations 1.7) years, about 60% were girls, and 93% were born in Norway. Comparison across time was approached using inferential statistics and mixed linear models with maximum likelihood estimation and mixed-effects logistic regression models.
+
+Results
+There was an overall increase in total mental health problems from the first weeks into lockdown to 9 months after the pandemic outbreak. The overall increase seems to be exclusively driven by internalizing difficulties, i.e., increases in emotional problems and peer problems. The level of externalizing difficulties, i.e., conduct problems and hyperactivity/inattention remained stable between the two time-points.
+
+Conclusions
+Our results imply that in the wake of the pandemic, one should be aware of emerging mental health problems among presumably resilient youth, in addition to the more expected and pronounced mental health needs of vulnerable groups. Efforts to reach out to the general youth population with preventive measures in schools may be important actions to normalize the situation for young people, and to identify those in need of more targeted mental health interventions.

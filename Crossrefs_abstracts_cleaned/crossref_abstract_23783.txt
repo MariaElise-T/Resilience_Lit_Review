@@ -1,0 +1,16 @@
+ABSTRACT
+
+Introduction
+Suicide rates among military personnel have risen in part due to war zone deployments. Yet, the degree to which deployment-related stressors, in combination with preexisting and co-occurring psychiatric symptoms and individual resilience factors, contribute to suicide ideation (SI) remains unclear. The current study leverages prospective, longitudinal data to examine both risk and protective factors associated with SI in deployed service members.
+
+
+Materials and Methods
+Participants were 1,805 active duty enlisted Marines and Navy service members assessed before and after a 7-month deployment for SI, preexisting and concurrent symptoms of depression, post-traumatic stress disorder (PTSD), alcohol consumption, as well as prior and deployment-related traumatic brain injury (TBI). Current self-reported psychological resilience and social support were analyzed as potential protective factors.
+
+
+Results
+Rates of SI were 7.3% and 3.9% before and after deployment, respectively. Of those with post-deployment SI, 68.6% were new-onset cases. Multivariate regression revealed that concurrent mild depression was the strongest risk factor (odds ratio [OR] = 10.03, 95% CI 5.28-19.07). Other significant risk factors included prior SI (OR = 3.36, 95% CI 1.60-7.05), prior subthreshold PTSD (OR = 2.10, 95% CI 1.10-3.99), and deployment TBI (OR = 1.84, 95% CI 1.03-3.28). Controlling for clinical symptoms and TBI, the risk of SI was reduced for those with moderate (OR = 0.50, 95% CI 0.27-0.93) and high psychological resilience scores (OR = 0.25, 95% CI 0.08-0.79) after deployment.
+
+
+Conclusions
+Results indicate that even mild symptoms of depression and PTSD may increase the risk of SI. Screening for subthreshold clinical symptoms and TBI while incorporating psychological resilience training would allow for a more multidimensional approach to suicide risk assessment.

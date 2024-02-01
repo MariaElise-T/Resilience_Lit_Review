@@ -1,0 +1,15 @@
+
+Purpose
+Regarding today’s volatile and turbulent markets accompanied by natural disasters and political upheavals, being resilient has become crucially important for many firms. It is widely accepted that the firm’s operations need to be cost efficient as well as customer responsive. Lean and agile have been proven to be pertinent strategies toward efficiency and responsiveness. But the operations also need to be resilient against disruptions to quickly return to their original state or even a better one. While the question of how leanness and agility impact operational performance outcomes has been researched, the question of how resilience can boost operational performance outcomes is yet to be investigated. The purpose of this paper is to show how resilience is distinguished from leanness and agility. It then examines the impact of resilience, along with leanness and agility, on operational performance outcomes.
+
+
+Design/methodology/approach
+A structural model is drawn up based on the literature to relate lean, agile and resilient practices to performance outcomes. Leanness, agility and resilience are measured through bundles of practices and operational performance outcomes are measured in terms of cost, quality, delivery, flexibility and time to recovery. The model is tested using SPSS 19 and AMOS 19 based on the data collected via survey from a sample of 151 automotive parts suppliers.
+
+
+Findings
+The results show that a higher level of resilience will lead to a better performance in terms of delivery, cost and time to recovery, while it does not have a significant impact on flexibility performance. Regarding leanness, the results confirm that lean operations positively affect cost, delivery and flexibility performances. The results also reject the hypothesis stating that higher level of leanness will lead to worse recovery performance, inferring that higher level of leanness leads to better time to recovery performance (i.e. helps time to recovery reduction).
+
+
+Originality/value
+The present research emphasizes the importance of operations resilience and demonstrates its contribution, alongside leanness and agility, to operational performance. The developed structural model contributes to the nascent theories around resilience, and the use of empirical data makes the results valuable practically. This may inform operations strategy decisions in terms of the results expected from resilience, leanness and agility.

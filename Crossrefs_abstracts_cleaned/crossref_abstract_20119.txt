@@ -1,0 +1,12 @@
+Abstract
+Background
+A significant correlation has been discovered between social participation and older adults’ life satisfaction, but the relationships among social participation, psychological resilience, and life satisfaction remain to be confirmed. Therefore, this study aims to identify the relationship between social participation and life satisfaction for Chinese older adults and to analyse the possible mediating role of psychological resilience between these two aspects.
+
+Methods
+Data on 15,779 people aged 65 years and above were extracted from the 2018 wave of the Chinese Longitudinal Healthy Longevity Survey (CLHLS). Social participation was classified into two levels: low-level involvement activities and high-level involvement activities. Hierarchical regression analysis was applied to analyse the correlations between the two levels of social participation and older adults’ life satisfaction as well as the mediating effects of psychological resilience on this association.
+
+Results
+The results indicate that two levels of social participation were each positively correlated with life satisfaction. Specifically, high-level involvement activities (β = 0.070, P < 0.001) were more strongly associated with life satisfaction than low-level involvement activities (β = 0.051, P < 0.001). Moreover, psychological resilience was found to partially mediate the association between low-level involvement activities and high-level involvement activities and life satisfaction.
+
+Conclusion
+A higher level of life satisfaction for older adults is related to participation in high-level involvement activities. Psychological resilience has a mediating effect on the association between two levels of older adults’ social participation and life satisfaction. These findings suggest that the government and society should establish a more concrete understanding of the psychological resilience of older adults.

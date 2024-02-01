@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this paper is to present a conceptual framework on resilience types in supply chain networks.
+
+
+Design/methodology/approach
+Using a complex adaptive systems perspective as an organizing framework, the paper explores three forms of resilience: engineering, ecological and evolutionary and their antecedents and links these to four phases of supply chain resilience (SCRES): readiness, response, recovery, growth and renewal.
+
+
+Findings
+Resilient supply chains need all three forms of resilience. Efficiency and system optimization approaches may promote quick recovery after a disruption. However, system-level response requires adaptive capabilities and transformational behaviors may be needed to move supply chains to new fitness levels after a disruption. The three resilience types discussed are not mutually exclusive, but rather complement each other and there are synergies and tradeoffs among these resilience types.
+
+
+Research limitations/implications
+The empirical validation of the theoretical propositions will open up new vistas for supply chain research. Possibilities exist for analyzing and assessing SCRES in multiple and more comprehensive ways.
+
+
+Practical implications
+The findings of the research can help managers refine their approaches to managing supply chain networks. A more balanced approach to supply chain management can reduce the risks and vulnerabilities associated with supply chain disruptions.
+
+
+Originality/value
+This study is unique as it conceptualizes SCRES in multiple ways, thereby extending our understanding of supply chain stability.

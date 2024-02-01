@@ -1,0 +1,12 @@
+Abstract
+Background
+Although previous studies have identified that workplace bullying causes serious mental health problems to the victims, it is not yet fully investigated moderating factors on the association between workplace bullying and psychological distress. This longitudinal study, therefore, examined the moderating role of organizational resources such as supervisor support or coworker support as well as individual resources such as stress coping styles or personal resilience on the association.
+
+Methods
+A prospective cohort study for 2036 civil servants was conducted with a one-year time lag (follow-up rate: 77.2%). At baseline, Negative Acts Questionnaire-Revised, Connor–Davidson Resilience Scale, Brief Scales for Coping Profile, and Brief Job Stress Questionnaire were used to measure workplace bullying, personal resilience, stress coping styles, and social support, respectively. Psychological distress was measured using K6 both at baseline and follow-up.
+
+Results
+The results of hierarchical multiple regression analyses showed that workplace bullying was associated with subsequent increased psychological distress even after adjusting for individual and occupational characteristics, but its association disappeared after adjusting for psychological distress at baseline. After adjusting for psychological distress at baseline, greater resilience, greater seeking help, greater changing view, and lower avoidance were associated with lower subsequent psychological distress when being bullied. In contrast, worksite social support and family/friends support was not associated with lower subsequent psychological distress when being bullied. A significant interaction effect of workplace bullying and changing mood was observed on subsequent psychological distress.
+
+Conclusions
+The effects or moderating factors were limited on the longitudinal association between bullying and mental health because psychological distress at baseline was the strongest predictor of subsequent psychological distress.

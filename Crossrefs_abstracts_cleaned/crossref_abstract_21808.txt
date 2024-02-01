@@ -1,0 +1,15 @@
+
+Background
+Given their clinical significance and impact on stress response and their potential malleability, resilience and posttraumatic growth (PTG) should receive greater attention as relevant constructs in clinical and research practice in the Arab context. We aimed through the present study to test the psychometric properties of Arabic translations of the 10-item Connor-Davidson Resilience scale (CD-RISC-10), the 10-item and the 8-item Post-Traumatic Growth Inventory-Short Form (PTGI-SF) in a sample of Lebanese adults from the general population.
+
+
+Methods
+Three hundred eighty-seven Arabic-speaking participants (mean age = 26.17; 58.4% females) responded to a self-report web-based questionnaire. The forward and backward translation method was applied with the approval of the original developers of the scales.
+
+
+Results
+Confirmatory factor analysis indicated that fit of the one-factor model was acceptable, and all indices suggested that configural, metric, and scalar invariance was supported across gender for all the three scales. The CD-RISC-10, the 10-item and the 8-item PTGI-SF yielded a good internal consistency, with a McDonald’s ω of .89, .95, and .93, respectively. Higher resilience and higher PTG were significantly and positively associated with greater cognitive reappraisal and lower emotion suppression, supporting convergent validity.
+
+
+Conclusion
+We preliminarily suggest that these Arabic instruments are appropriate for use in Lebanese community adults to assess different positive responses after life crises, identify people with lack or low levels of resilience and growth who might need intervention, and monitor their response to therapy. Further cross-cultural validations should seek to extend their use in broader Arabic-speaking populations and settings.

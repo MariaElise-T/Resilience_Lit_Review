@@ -1,0 +1,15 @@
+Accessible SummaryWhat is known about the subject?
+
+Loneliness is common among young and middle‐aged stroke survivors. It not only hinders the recovery of their neurological and physical functions but also increases the risk of stroke recurrence, disability, and even death.
+Improving the mental health of young and middle‐aged stroke survivors is of utmost importance. However, previous research has not yet investigated the impact of interpersonal sensitivity and resilience on the relationship between stigma and feelings of loneliness.
+
+What the paper adds to existing knowledge?
+
+This study confirms that stigma has a positive impact on loneliness among young and middle‐aged stroke survivors.
+Interpersonal sensitivity partially mediates the relationship between stigma and loneliness, and resilience plays a moderating role in the mediating mechanism.
+
+What are the implications for practice?
+
+Mental health nurses can formulate nursing interventions to reduce loneliness of young and middle‐aged stroke survivors with the goals of improving stigma, reducing interpersonal sensitivity and cultivating resilience.
+
+AbstractIntroductionPrevious studies have not explored the impact of interpersonal sensitivity and resilience on the relationship between stigma and loneliness. However, improving the resilience of young and middle‐aged stroke survivors and increasing their social participation is of great significance for reducing patients' loneliness of patients and promoting their physical and mental rehabilitation.AimsTo investigate the influence of stigma, interpersonal sensitivity and resilience on loneliness among young and middle‐aged stroke survivors.MethodsA cross‐sectional design was used to collect data. A total of 330 participants completed measures of stigma, resilience, interpersonal sensitivity and loneliness. The descriptive statistical approach, Pearson's correlation analysis and Hayes' PROCESS Macro Model 4 and 7 in regression analysis were used to analyse the available data.ResultsThe results revealed that young and middle‐aged stroke survivors' stigma, resilience, interpersonal sensitivity and loneliness were significantly correlated between every two variables, with coefficients ranging between −0.157 and 0.682. Interpersonal sensitivity played a partial mediating role in stigma and loneliness, accounting for 63.27% of the total effect; This process was moderated by resilience.DiscussionStigma positively predicts participants' loneliness. As a mediating mechanism with moderating, interpersonal sensitivity and resilience further explain how stigma affects loneliness.Implications for PracticeUnderstanding this mechanism is of guiding significance to reduce loneliness of young and middle‐aged stroke patients and promote their physical and mental rehabilitation.

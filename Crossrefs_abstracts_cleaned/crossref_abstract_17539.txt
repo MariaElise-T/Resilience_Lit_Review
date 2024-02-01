@@ -1,0 +1,15 @@
+
+Background and aims
+Vulnerability to stress appears to be a potential predisposing factor for developing specific internet-use disorders, such as Internet Gaming Disorder (IGD). Studies investigating the protective effect of psychological resilience against the impact of perceived stress on IGD and weekly gameplay have yet to be reported in the existing literature. The aim of this study was to examine the potential moderating relationships between perceived stress and online gaming (more specifically operationalized as IGD and weekly gameplay) with psychological resilience.
+
+
+Methods
+An online survey was administered to 605 participants (males = 82%, Mage = 24.01 years, SDage = 6.11). A multivariate multiple regression model was applied to test for the possible contribution of perceived stress and psychological resilience to weekly gameplay and IGD.
+
+
+Results
+Perceived stress was associated with higher scores of IGD, whereas psychological resilience was related to lower scores of IGD. In addition, the combination of having higher perceived stress and lower level of psychological resilience was associated with a particularly high hours of gameplay per week.
+
+
+Discussion and conclusions
+These findings further support the importance of personal traits (perceived stress and psychological resilience) in online gaming (IGD severity and weekly gameplay), and also emphasize the unique moderating relationship between perceived stress and weekly gameplay with lack of resilience. Enhancing psychological resilience to decrease the likelihood of online gamers who experience higher level of stress from spending more hours per week gaming is recommended.

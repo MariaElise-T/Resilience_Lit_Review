@@ -1,0 +1,12 @@
+Abstract
+Background
+Adolescents and young adults (AYAs) with cancer are at high risk of poor psychosocial outcomes, and evidence-based interventions designed to meet their psychosocial and communication needs are lacking. The main objective of this project is to test the efficacy of a new adaptation of the Promoting Resilience in Stress Management intervention for AYAs with Advanced Cancer (PRISM-AC).
+
+Methods/design
+The PRISM-AC trial is a 2-arm, parallel, non-blinded, multisite, randomized controlled trial. 144 participants with advanced cancer will be enrolled and randomized to either usual, non-directive, supportive care without PRISM-AC (“control” arm) or with PRISM-AC (“experimental” arm). PRISM is a manualized, skills-based training program comprised of four 30–60 min, one-on-one sessions targeting AYA-endorsed resilience resources (stress-management, goal-setting, cognitive-reframing, and meaning-making). It also includes a facilitated family meeting and a fully equipped smartphone app. The current adaptation includes an embedded advance care planning module. English- or Spanish-speaking individuals 12–24 years old with advanced cancer (defined as progressive, recurrent, or refractory disease, or any diagnosis associated with < 50% survival) receiving care at 4 academic medical centers are eligible. Patients’ caregivers are also eligible to participate in this study if they are able to speak and read English or Spanish, and are cognitively and physically able to participate. Participants in all groups complete surveys querying patient-reported outcomes at the time of enrollment and 3-, 6-, 9-, and 12-months post-enrollment. The primary outcome of interest is patient-reported health-related quality of life (HRQOL) and secondary outcomes of interest include patient anxiety, depression, resilience, hope and symptom burden, parent/caregiver anxiety, depression and health-related quality of life, and family palliative care activation. We will conduct intention-to-treat analysis to compare the group means of primary and secondary outcomes between PRISM-AC arm and control arm with regression models.
+
+Discussion
+This study will provide methodologically rigorous data and evidence regarding a novel intervention to promote resilience and reduce distress among AYAs with advanced cancer. This research has the potential to offer a practical, skills-based curriculum designed to improve outcomes for this high-risk group.
+
+Trial registration
+ClinicalTrials.gov Identifier NCT03668223, September 12, 2018.

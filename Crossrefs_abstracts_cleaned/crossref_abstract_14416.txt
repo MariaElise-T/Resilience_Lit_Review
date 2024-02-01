@@ -1,0 +1,9 @@
+Abstract
+Context
+The lockdown orders established in multiple countries in response to the Covid-19 pandemic are arguably one of the most widespread and deepest shock experienced by societies in recent years. Studying their impact trough the lens of social media offers an unprecedented opportunity to understand the susceptibility and the resilience of human activity patterns to large-scale exogenous shocks. Firstly, we investigate the changes that this upheaval has caused in online activity in terms of time spent online, themes and emotion shared on the platforms, and rhythms of content consumption. Secondly, we examine the resilience of certain platform characteristics, such as the daily rhythms of emotion expression.
+
+Data
+Two independent datasets about the French cyberspace: a fine-grained temporal record of almost 100 thousand YouTube videos and a collection of 8 million Tweets between February 17 and April 14, 2020.
+
+Findings
+In both datasets we observe a reshaping of the circadian rhythms with an increase of night activity during the lockdown. The analysis of the videos and tweets published during lockdown shows a general decrease in emotional contents and a shift from themes like work and money to themes like death and safety. However, the daily patterns of emotions remain mostly unchanged, thereby suggesting that emotional cycles are resilient to exogenous shocks.

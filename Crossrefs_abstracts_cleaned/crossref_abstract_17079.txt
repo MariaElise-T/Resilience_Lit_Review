@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience refers to an individual’s ability to maintain effective functioning, by resisting, withstanding or recovering from stressors or adversity, including pain associated with physical injury (J Clin Psychol Med Settings 28:518–28, 2021). The aim of this scoping review is to determine the role of resilience in the experience of movement-evoked pain (MEP) and return to functional activity following a musculoskeletal injury.
+
+Methods
+This review conformed to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews and the scoping review protocol of the Joanna Briggs Institute (JBI). Five databases and one grey literature database were searched using predetermined key words and index terms to capture published and unpublished records on the topic. Two authors independently screened the title and abstract of each record, with the full-text of eligible records being reviewed. Papers were eligible for inclusion if they examined the population, concept and context of interest, were written in English and the full text was available. Data were extracted from each eligible record to guide discussion of the available literature on this topic.
+
+Results
+Of 4771 records, 2695 articles underwent screening based on their title and abstract. After title and abstract screening 132 articles were eligible for full text review, with 24 articles included in the final analysis. This review identified that psychological resilience has primarily been investigated in the context of a range of age-related pathologies. The choice of functional and movement-evoked pain assessments in the included studies were often guided by the pathology of interest, with some being general or injury specific.
+
+Conclusion
+This scoping review identified inconsistent conclusions regarding the role of resilience in the experience of MEP and the ability to return to function for older adults with a musculoskeletal injury. This scoping review highlights the need for longitudinal research to be conducted that allows a broader age range, including younger adults, to determine if multidimensional resilience may promote recovery form musculoskeletal injury.

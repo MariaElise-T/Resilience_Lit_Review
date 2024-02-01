@@ -1,0 +1,12 @@
+Abstract
+Background
+To provide high quality services in increasingly complex, constantly changing circumstances, healthcare organizations worldwide need a high level of resilience, to adapt and respond to challenges and changes at all system levels. For healthcare organizations to strengthen their resilience, a significant level of continuous learning is required. Given the interdependence required amongst healthcare professionals and stakeholders when providing healthcare, this learning needs to be collaborative, as a prerequisite to operationalizing resilience in healthcare. As particular elements of collaborative working, and learning are likely to promote resilience, there is a need to explore the underlying collaborative learning mechanisms and how and why collaborations occur during adaptations and responses. The aim of this study is to describe collaborative learning processes in relation to resilient healthcare based on an investigation of narratives developed from studies representing diverse healthcare contexts and levels.
+
+Methods
+The method used to develop understanding of collaborative learning across diverse healthcare contexts and levels was to first conduct a narrative inquiry of a comprehensive dataset of published health services research studies. This resulted in 14 narratives (70 pages), synthesised from a total of 40 published articles and 6 PhD synopses. The narratives where then analysed using a thematic meta-synthesis approach.
+
+Results
+The results show that, across levels and contexts, healthcare professionals collaborate to respond and adapt to change, maintain processes and functions, and improve quality and safety. This collaboration comprises activities and interactions such as exchanging information, coordinating, negotiating, and aligning needs and developing buffers. The learning activities embedded in these collaborations are both activities of daily work, such as discussions, prioritizing and delegation of tasks, and intentional educational activities such as seminars or simulation activities.
+
+Conclusions
+Based on these findings, we propose that the enactment of resilience in healthcare is dependent on these collaborations and learning processes, across different levels and contexts. A systems perspective of resilience demands collaboration and learning within and across all system levels. Creating space for reflection and awareness through activities of everyday work, could support individual, team and organizational learning.

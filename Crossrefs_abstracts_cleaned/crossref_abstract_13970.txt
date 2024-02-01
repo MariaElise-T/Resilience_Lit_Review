@@ -1,0 +1,19 @@
+
+Objective:
+To identify and categorize system factors in complex laparoscopic surgery that have the potential to either threaten patient safety or support system resilience.
+
+
+Background:
+The operating room is a uniquely complex sociotechnical work system wherein surgical successes prevail despite pervasive safety threats. Holistically characterizing intraoperative factors that thus support system resilience in addition to those that threaten patient safety using contextual methodologies is critical for optimizing surgical safety overall.
+
+
+Method:
+In this prospective descriptive interdisciplinary study, 19 audio/video recordings of complex laparoscopic general surgical procedures were directly observed and transcribed. Using a qualitative systems-based approach, intraoperative human factors with the potential to impact patient safety, either as a safety threat or as a support for resilience, were identified. Adverse events were further assessed for shared threats and supports. Data collection was guided by the Systems Engineering Initiative for Patient Safety 2.0 work system model.
+
+
+Results:
+A total of 1083 relevant observations were made over 39.8 hours of operative time, enabling the identification of 79 distinct safety threats and 67 resilience supports within the surgical system. Safety threats associated with the physical environment, tasks, organization, and equipment were prevalent and observed in equal measure, whereas supports for resilience were predominantly attributed to clinician behaviors, including proactive team management and skills coaching. Two subclinical adverse events were identified; shared safety threats included suboptimal technology design, whereas shared resilience supports included calm clinician behavior and redundant intraoperative resourcing.
+
+
+Conclusions:
+Safety threats and resilience supports were found to be systematic in the surgical setting. Identified safety threats should be prioritized for remediation, and clinician behaviors that contribute to fostering resilience should be valued and protected.

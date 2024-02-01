@@ -1,0 +1,12 @@
+Abstract
+Objective
+Alarming rates of anxiety and burnout in pre-clinical health profession trainees are now challenged by additional COVID-19 stressors. This study explored COVID-related stressors among first-year medical, physician assistant, nurse practitioner, and veterinary medical students. The authors examined associations between resilience, news monitoring, and COVID stress.
+
+Methods
+Students completed an online questionnaire that included the Brief Resilience Scale at their matriculation in August 2019. Survey results were linked to demographic information collected by all schools. A follow-up survey in May 2020 included original questions on COVID-19 stressors and news monitoring. Statistical analyses included descriptive statistics and multivariable linear regression models.
+
+Results
+Across schools, 74% (266/360) provided consent for the 2019 survey, and 76% (201/264) responded to COVID-19 questions in the follow-up 2020 survey. Students were “extremely” or “very” concerned about family members getting infected (n = 71, 76% School of Medicine (SOM); n = 31, 76% School of Nursing (SON); n = 50, 75% School of Veterinary Medicine (SVM)) and curriculum schedule changes (n = 72, 78%, SOM; n = 28, 68% SON; n = 52, 79% SVM). Greater frequency of COVID news monitoring was associated with greater COVID-related stress (p = 0.02). Higher resilience at matriculation was associated with lower COVID-related stress ten months later (p < 0.001).
+
+Conclusions
+Amid COVID-19 uncertainty, health science schools should address the immense student stress regarding curriculum disruptions. The results of this study underscore the powerful role of resilience in protecting against stress not only during the known academic rigor of health professions training but also during unprecedented crises.

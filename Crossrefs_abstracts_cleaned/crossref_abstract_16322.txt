@@ -1,0 +1,15 @@
+
+Purpose
+Cyber resilience has emerged as an approach for seaports to deal with cyberattacks; it emphasizes ports’ ability to prepare for an attack and to keep operating and recover quickly. However, little research has been undertaken on the challenges of governing cyber risks in seaports. This study aims to address this gap.
+
+
+Design/methodology/approach
+Governing cyber resilience is shaped by distributed responsibilities, uncertainties and ambiguities. The authors use this conceptualization to explore the governance of cyber risks in seaports, taking the Port of Rotterdam as a case study and analyzing semistructured interviews with stakeholders, participatory observation and policy documents and legislation.
+
+
+Findings
+The authors found that many strategies for governing cyber risks remain dedicated to protecting computer systems against cyberattacks. Nevertheless, port stakeholders have also developed strategies in anticipation of disruptions. However, these strategies appear informal and uncoordinated due to a lack of information exchange, insufficient knowledge regarding cyber risks and disagreement about how to make the Port of Rotterdam cyber resilient. What mainly hampers the cyber resilience of the port is the lack of a comprehensive regulatory framework and economic incentives. The authors conclude that resilience is merely an ideal at the Port of Rotterdam, meaning related governance strategies remain incremental and await institutionalization.
+
+
+Originality/value
+This paper offers insights into the cyber resilience of critical socio-technical systems, which have been underexposed in cyber resilience debates, but, when exploited, can manifest in large-scale disruptions.

@@ -1,0 +1,22 @@
+
+Introduction:
+            Obesity prevalence continues to rise for all age groups, particularly in those experiencing adversity or hardship. However, not all those experiencing adversity are obese. Previous research has focused on whether resilience in adults is associated with a healthy body composition, through increased ability to make healthier lifestyle choices. However, there is no research on how parental resilience relates to the lifestyle choices and body composition of their children.
+          
+
+Hypothesis:
+            Higher parental resilience is associated with better lifestyle (moderate to vigorous physical activity (MVPA), sedentary time, sleep duration, fruit & vegetable consumption) choices and healthier body composition.
+          
+
+Methods:
+            This cross-sectional study recruited 408 children (9.7 [SD:0.69] y, 50% F) and their primary caregiver (41 [SD: 5.5] y, 84% F) from Otago, New Zealand. Three dependant variables were calculated: body mass index z-score (zBMI) using WHO criteria, fat mass index (FMI, kg/m
+            2
+            ) using bio-impedance analysis (BIA), and central adiposity (waist circumference, WC, cm). The four independent variables were: time (hours) spent asleep, sedentary or in MVPA using accelerometery, and fruit and vegetable dietary pattern derived from a food frequency questionnaire. Parental resilience was measured using the 10 item Conner-Davidson questionnaire. Associations between children’s lifestyle behaviours and body composition were examined using mixed effects regression models, with school as a random effect. Models were adjusted for child age, sex, ethnicity, level of deprivation, and parent age and sex. To explore the moderation effects of resiliency an interaction term was included, where resilience was split into low and high resilience by the median.
+          
+
+Results:
+            For the fully adjusted models, MVPA was not significantly associated with zBMI (p=0.760), FMI (p=0.984) or WC (p=0.785), nor were these relationships moderated by resiliency. Sedentary time was not associated with zBMI (p=0.447), FMI (p=0.210) or WC (p=0.380). However, resiliency moderated the association between sedentary time and WC (P=0.048), with a negative association for low resiliency (ß=-0.2, 95%CI: -1.1, 0.7), and positive association for high resiliency (ß=-1.2, 95%CI: -0.1, 2.5). Sleep duration was negatively associated with zBMI (ß=-0.1, 95%CI: -0.31, -0.0), FMI (ß=-0.3, 95%CI: -0.6, -0.1) and WC (ß=-1.1, 95%CI: =2.0, -1.6); resiliency did not moderate these relationships. Higher fruit and vegetable consumption was not associated with zBMI, but was positively associated with FMI (ß=0.2, 95%CI: 0.1, 0.3) and WC (ß=0.9, 95%CI: 0.5, 1.4); resiliency was not a significant moderator of these relationships.
+          
+
+Conclusions:
+            Parental resilience moderated the relationship between sedentary time and WC, with a positive relationship between sedentary time and WC for the high resiliency group.
+          

@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+Research on the impact of coronavirus disease 2019 (COVID-19) among older adults has primarily focused on relatively acute virus outcomes, but it is likely financial hardships during this time have eroded the adaptive capacity of older adults. It is also possible these impacts vary by race and ethnicity. We examine changes in psychological resilience (PR) among older adults before and during the pandemic to determine whether financial hardships and other stressors have altered this resource for White, Black, and Hispanic older adults.
+
+
+Method
+Using the COVID-19 module released by the Health and Retirement Study (n = 735), we examined changes in PR between 2016 and 2020 related to financial hardships during COVID-19. We tested interactions to determine whether the effects were patterned by race and ethnicity.
+
+
+Results
+Consistent with previous literature, resilience was relatively stable during this time on average. Financial hardship during COVID-19 diminished resilience, but this effect was concentrated primarily among White Americans.
+
+
+Discussion
+The results suggest that PR is a relatively stable resource in later life, even during the pandemic. However, this resource may be affected in the face of specific challenges in later life. Policies related to financial hardship during the pandemic should be seen as supporting the capacity for older adults to adapt to current as well as future challenges.

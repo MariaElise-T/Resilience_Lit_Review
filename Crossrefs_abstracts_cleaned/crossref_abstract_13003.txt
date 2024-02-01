@@ -1,0 +1,15 @@
+
+Background:
+Studies of most-cited articles have been frequently conducted on various topics and in various medical fields. To date, no study has examined the characteristics of articles associated with theme classifications and research achievements of article entities related to nursing resilience. This study aims to graphically depict the characteristics of the 100 top-cited articles addressing nurse resilience (T100NurseR), diagram the relationship between articles and author collaborations according to themes extracted from article keywords, and examine whether article keywords are correlated with article citations.
+
+
+Methods:
+T100NurseR publications were retrieved from the Web of Science (WoS) core collection on October 13, 2022. Themes associated with articles were explored using coword analysis in WoS keywords plus. The document category, journal ranking based on impact factor, authorship, and L-index and Y-index were used to analyze the dominant entities. To report the themes of T100NurseR and their research achievements in comparison to article entities and verify the hypothesis that keyword mean citation can be used to predict article citations, 5 visualizations were applied, including network diagrams, chord diagrams, dot plots, Kano diagrams, and radar plots.
+
+
+Results:
+Citations per article averaged 61.96 (range, 25–514). There were 5 themes identified in T100NurseR, including Parses theory, nurse resilience, conflict management, nursing identity, and emotional intelligence. For countries, institutes, departments, and authors in comparison of category, journal impact factor, authorship, and L-index scores, Australia (129.80), the University of Western Sydney (23.12), Nursing (87.17), and Kim Foster (23.76) are the dominant entities. The weighted number of citations according to Keywords Plus in WoS is significantly correlated with article citations (Pearson R = 0.94; P = .001).
+
+
+Conclusion:
+We present diagrams to guide evidence-based clinical decision-making in nurse resilience based on the characteristics of the T100NurseR articles. Article citations can be predicted using weighted keywords. Future bibliographical studies may apply the 5 visualizations to relevant studies, not being solely restricted to T100NurseR.

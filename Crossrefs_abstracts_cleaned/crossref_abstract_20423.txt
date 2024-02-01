@@ -1,0 +1,19 @@
+
+Purpose
+Improving the medical oxygen supply chain (MOSC) is important to cope with the uneven demand and supply seen in the MOSC when India faced the second wave of COVID-19. This improvisation increases the supply chain (SC) maturity and consequently the efficiency and resiliency to tackle oxygen shortage across the country and to prevent another similar scenario from ever happening. The purpose of this study is to identify and prioritize the solutions to overcome the issues faced by the MOSC during the second wave of COVID-19 cases in India and in turn reduce the extent of casualties in the expected third wave.
+
+
+Design/methodology/approach
+This paper uses best worst method (BWM) and fuzzy technique for order performance by similarity to ideal solution to classify the sub-criteria for solutions to solve major SC issues. BWM is used to determine the weights of the sub-criteria and fuzzy technique for order performance by similarity to ideal solution for the final ranking of the solutions to be adopted.
+
+
+Findings
+The result of this study shows that the Internet of Things based tagging system is the best solution followed by horizontal and vertical integration of SC in making a resilient and digitized MOSC capable of handling general bottlenecks during a possible third wave.
+
+
+Research limitations/implications
+The research provides insights that can enable the personnel involved in MOSC. Proper understanding will help the practitioners involved in the SC to effectively tailor the operations and to allocate the resources available in an effective and dynamic manner by minimizing or eliminating the pre-existing bottlenecks within the SC.
+
+
+Originality/value
+The proposed framework provides an accurate ranking and decision-making tool for the implementation of the solutions for the maturity of the MOSC.

@@ -1,0 +1,19 @@
+
+Purpose
+Rapid urbanisation and recent shock events have reiterated the need for resilient infrastructure, as seen in the pandemic. Yet, knowledge gaps in construction robotics and human–robot teams (HRTs) research limit maximising these emerging technologies’ potentials. This paper aims to review the state of the art of research in this area to identify future research directions in HRTs able to aid the resilience and responsiveness of the architecture, engineering and construction (AEC) sector.
+
+
+Design/methodology/approach
+A total of 71 peer-reviewed journal articles centred on robotics and HRTs were reviewed through a quantitative approach using scientometric techniques using Gephi and VOSviewer. Research focus deductions were made through bibliometric analysis and co-occurrence analysis of reviewed publications.
+
+
+Findings
+This study revealed sparse and small research output in this area, indicating immense research potential. Existing clusters signifying the need for further studies are on automation in construction, human–robot teaming, safety in robotics and robotic designs. Key publication outlets and construction robotics contribution towards the built environment’s resilience are discussed.
+
+
+Practical implications
+The identified gaps in the thematic areas illustrate priorities for future research focus. It raises awareness on human factors in collaborative robots and potential design needs for construction resilience.
+
+
+Originality/value
+Rapid urbanisation and recent shock events have reiterated the need for resilient infrastructure, as seen in the pandemic. Yet, knowledge gaps in construction robotics and HRTs research limit maximising these emerging technologies’ potentials. This paper aims to review the state of the art of research in this area to identify future research directions in HRTs able to aid the resilience and responsiveness of the AEC sector.

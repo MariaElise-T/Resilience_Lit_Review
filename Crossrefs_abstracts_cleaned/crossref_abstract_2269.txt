@@ -1,0 +1,15 @@
+
+Background:
+Seismic risk mitigation is an important issue in earthquake-prone countries, and needs to be solved in those complex communities governed by complex processes, where urban planning, socioeconomic dynamics, and, often, the need to preserve cultural assets are present simultaneously. In recent years, due to limited financial resources, mitigation activities have often been limited to post-earthquake events, and only a few in periods of inactivity, particularly in urban planning. At this point, a significant change in point of view is necessary.
+
+
+Methods:
+The seismic risk mitigation (and more generally, natural risk mitigation) must be considered as the main topic in urban planning and in the governance of communities. In fact, in several recent earthquakes, significant socioeconomic losses have been caused by the low or lack of resilience of the communities. This is mainly due to the high vulnerability of private buildings, in particular, housing units.
+
+
+Results:
+Therefore, in recent years, several studies have been conducted on the seismic resilience of communities. However, significant improvements are still needed for the resilience assessment of the housing stock, both qualitatively and quantitatively. In this study, which is applied to the housing system, a proposal regarding a change in urban planning and emergency management tools based on the concept of resilience is reported. As a first application, a case study in Italy is considered.
+
+
+Conclusion:
+The proposal is focused on defining and quantifying the improvement of the resilience of the communities and this must be obtained by modifying the current Civil Protection plan. New tools are based on a new resilience community plan by encompassing urban planning tools, resilient mitigation strategies, and consequently, emergency management planning.

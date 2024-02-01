@@ -1,0 +1,19 @@
+
+Background
+Professional fulfillment is crucial for physicians’ well-being and optimal patient care. Highly demanding work environments, perfectionism and self-critical attitudes jeopardize physicians’ professional fulfillment.
+
+
+Objective
+To explore to what extent a kinder attitude towards the self, i.e. self-kindness, was associated with physicians’ professional fulfillment and whether this relationship was mediated by personal resilience and work-home interference.
+
+
+Methods
+In 2020, cardiologists (n = 374) in the Netherlands participated in a web-based survey. Self-kindness was measured by the self-kindness subscale of the Self-Compassion Scale, personal resilience by the Brief Resilience Scale, work-home interference by the negative Work-Home Interference subscale of the Survey Work-Home Interaction–Nijmegen, and professional fulfillment by the corresponding subscale of the Professional Fulfillment Index. Using Hayes’ SPSS macro PROCESS v3.5, the authors tested the parallel mediation model.
+
+
+Results
+Self-kindness was not directly associated with professional fulfillment (direct effect = .042, p = .36, 95% CI: -0.048, 0.132). Self-kindness was indirectly related to professional fulfillment through individual resilience (indirect effect = .049, 95% CI: .020, 0.086) and work-home interference (indirect effect = .057, 95% CI: .023, 096).
+
+
+Conclusions
+This study suggests that improving physicians’ self-kindness may enhance professional fulfillment through personal resilience and work-home interference. Our findings may stimulate and remind physicians to be kind towards themselves as it may benefit them and their patients.

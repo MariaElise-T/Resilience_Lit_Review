@@ -1,0 +1,12 @@
+Abstract
+Background
+The aim of the study was to use a moderated mediation model to understand and examine the relationship between negative emotions and creativity among college students during the COVID-19 pandemic, using psychological resilience as a mediator and posttraumatic growth as a moderator.
+
+Methods
+A sample of 881 college students in mainland China completed a self-report questionnaire that included four scales: the Depression-Anxiety-Stress Scale, Psychological Resilience Scale, Runco Ideational Behavior Scale and Posttraumatic Growth Inventory.
+
+Results
+Findings indicated that:(1) negative emotions were a strong predictor of creativity; (2) psychological resilience partially mediated the association between negative emotions and creativity; and (3) posttraumatic growth moderated the positive effect of psychological resilience, such that the indirect effect between negative emotions and creativity via psychological resilience was stronger for someone with a low level of resilience.
+
+Conclusion
+The findings further clarify the mechanisms that affect the relationship between negative emotions and creativity among college students.

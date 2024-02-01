@@ -1,0 +1,27 @@
+
+Background
+The emotional health of adolescent and young adult (AYA) cancer survivors is compromised both during and after cancer treatment. Targeted programs designed to support AYAs’ ability to cope with stress in the years following treatment completion are lacking. Mind-body programs may ameliorate the negative psychological and emotional effects of stress and assist AYAs with managing the psychosocial challenges of early survivorship.
+
+
+Objective
+Our randomized waitlist-control trial aims to assess the feasibility, acceptability, and preliminary efficacy of a virtual group program (Bounce Back) to promote stress management and resiliency among posttreatment AYAs.
+
+
+Methods
+Bounce Back is a stress management and resiliency program delivered via videoconference by a trained mental health clinician. Sessions were adapted from an evidence-based mind-body program (Stress Management and Resiliency Training - Relaxation Response Resiliency Program [SMART-3RP]) grounded in relaxation response elicitation, mindfulness, cognitive behavioral therapy, and positive psychology. Seventy-two AYAs (diagnosed with cancer between ages 14 years and 29 years and had completed cancer treatment within the last 5 years) were randomly assigned to the Bounce Back program or waitlist-control group and completed assessments at baseline, 3 months postbaseline, and 6 months postbaseline. The primary aim of the study is to determine the feasibility and acceptability of the Bounce Back program. Descriptive statistics, including means, frequencies, and ranges supplemented by qualitative exit interview feedback will be used to characterize the sample and to summarize feasibility and acceptability. The exploratory aims are to evaluate the preliminary effects of the program on stress coping and psychosocial outcome measures (ie, anxiety, depression) collected across the 3 time points.
+
+
+Results
+This study was funded by the National Cancer Institute in July 2017. Study procedures were approved by the Dana-Farber Harvard Cancer Center Institutional Review Board in October 2018 (Protocol 18-428). The randomized trial was conducted from July 2019 to March 2021. Quantitative data collection is complete, and qualitative exit interview data collection is ongoing. Results are expected to be published in peer-reviewed journals and presented at local, national, or international meetings in the coming years.
+
+
+Conclusions
+Few evidence-based programs exist that tackle the key transitional issues faced by AYA cancer survivors. Future analyses will help us determine the feasibility and acceptability of the Bounce Back program and its impact on AYA stress coping and psychological well-being.
+
+
+Trial Registration
+ClinicalTrials.gov NCT03768336; https://clinicaltrials.gov/ct2/show/NCT03768336
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/34033

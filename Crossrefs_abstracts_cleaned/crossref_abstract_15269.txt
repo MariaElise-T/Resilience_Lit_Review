@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to theoretically hypothesise and empirically explore the relationships amongst global supply chain risks, supply chain resilience and mitigating strategies.
+
+
+Design/methodology/approach
+The study adopts supply chain resilience as a dynamic capability and resilience capability as a mediating prerequisite in addressing supply chain risk in sourcing, manufacturing and delivery. The moderating role of diverse mitigating strategies is tested to enhance supply chain resilience. Data collected via survey was used for structural equation modelling and additional tests to explore appropriate mitigating strategies for differing risk environments.
+
+
+Findings
+Achieving better supply chain resilience capability plays an important mediating role between supply chain risks and resilience, while the relationships depend on the performance of seven mitigating strategies.
+
+
+Research limitations/implications
+The findings contribute to the theoretical development of risk management issues in global supply chains by suggesting the role of supply chain resilience capability.
+
+
+Practical implications
+The findings offer managerial guidance on how to mitigate the global supply chain risk through the appropriate practice of strategies to strengthen supply chain resilience in an uncertain environment.
+
+
+Originality/value
+This is the first empirical research examining the impact of mitigating strategies on supply chain resilience. The results provide practical implications for managing uncertain events and offering theoretical insight for future research in supply chain resilience.

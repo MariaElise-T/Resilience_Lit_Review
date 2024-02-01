@@ -1,0 +1,16 @@
+
+Background:
+            Randomized trials performed in high income countries have shown similar effects of mechanical thrombectomy (MT) in elderly and non-elderly patients with large vessel ischemic strokes (LVO). We aimed to assess the effect of age on the clinical outcome of MT in RESILIENT (a randomized, prospective, multicenter, controlled, phase III, clinical trial with blinded outcome assessment performed in Brazil designed to assess the safety, efficacy, and cost-effectiveness of mechanical thrombectomy as compared to medical treatment alone).
+          
+
+Methods:
+            Patients were classified as elderly and non-elderly (≤ 70 vs. > 70 years). The end-points were the common odds ratio (cOR) of mRs (shift analysis) and the frequency of functional independence (mRS 0-2) at 90 days. Ordinal logistic regression analysis (unadjusted and adjusted for important potential confounders) with age group as an interaction term were performed. A p value < 0.05 was considered statistically significant.
+          
+
+Results:
+            Among 221 randomized patients (117- 52.9% males), 89 (40.2%) were classified as elderly. Age had an important effect modification of MT on the mRS shift analysis (elderly - cOR 1.20 95% CI [0.57-2.51] vs. non-elderly cOR 3.9, 95% CI [1.65-5.80], p-interaction = 0.003) and on the frequency of functional independence at 90 days (elderly - OR 0.92 95% CI [0.33 - 2.59] vs. non-elderly OR 3.56, 95% CI [1.64 - 7.75], p-interaction = 0.04). A similar effect modification was observed after adjusting for IV rt-PA, occlusion site, baseline NIHSS and ASPECTS on the mRS shift analysis (elderly - cOR 1.34, 95% CI [0.63 - 2.86] vs. non-elderly cOR 3.26, 95% CI [1.73 - 6.13], p-interaction = 0.06) and on the frequency of functional independence at 90 days (elderly - OR 1.08 95% CI [0.36 - 3.21] vs. non-elderly OR 4.26, 95% CI [1.85 - 9.82], p-interaction = 0.04) .
+          
+
+Conclusion:
+            The large effect size of MT on LVO outcomes is significantly diminished in the elderly population of patients treated under the less than ideal conditions typically found in the public healthcare system of a developing country.
+          

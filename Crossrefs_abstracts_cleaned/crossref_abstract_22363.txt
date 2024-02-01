@@ -1,0 +1,12 @@
+Abstract
+Background
+Adapting to child-rearing is affected by multiple factors, including environmental and individual factors. Previous studies have reported the effect of a single factor on childcare maladjustment; however, to prevent maladaptation in and to support child-rearing, a comprehensive evaluation of factors is necessary. Therefore, this study developed a comprehensive assessment tool for childcare adaptation.
+
+Methods
+We conducted semi-structured interviews with specialists whose jobs entailed supporting parents. Items were extracted from the interview data and used to develop a new questionnaire. Mothers with a child aged 0–3 years completed the Quick Inventory of Depressive Symptomatology as a depression index. We performed both factor and correlation analyses on the collected, data and multiple regression analyses to determine which factors predict depressive tendencies leading to childcare maladaptation. Subsequently, an assessment algorithm model was built.
+
+Results
+1,031 mothers responded to the questionnaire which had 118 items in five domains. A factor analysis was performed on each domain to develop the Comprehensive Scale for Parenting Resilience and Adaptation (CPRA). The CPRA comprised 21 factors and 81 items in five subcategories: Child’s Temperament and Health (1 factor, 5 items); Environmental Resources (5 factors, 20 items), Perceived Support (4 factors, 15 items); Mother’s Cognitive and Behavioural Characteristics (6 factors, 22 items), and Psychological Adaptation to Parenting (5 factors, 19 items). Correlations between all factors and depressive symptoms were identified. Depressive symptoms were predicted by factors from four subcategories: Environmental Resources, Perceived Support, Mother’s Cognitive and Behavioural Characteristics, and Psychological Adaptation to Parenting. A comprehensive model of mothers’ psychological adjustment was developed using the CPRA’s domain structure.
+
+Conclusions
+The CPRA enables researchers to understand the strengths and weaknesses of mothers. Mother’s maladaptive states can potentially be predicted by understanding the interactions between these multiple factors. The developed model can provide the necessary support to mothers and increase mothers’—and others’—awareness of the support that can prevent childcare maladjustment.

@@ -1,0 +1,12 @@
+Abstract
+Background
+High resilience increases nurses' ability to cope with job-related stressors and enhances job satisfaction and, consequently, their retention. The study aims to identify resilience predictors and perceptions of transformational leadership in a convenience sample of registered nurses in Lebanon.
+
+Methods
+An anonymous cross-sectional survey of a convenience sample of 240 registered nurses working for more than a year at three private hospitals in an underserved area in South Lebanon was used. The survey instrument included demographic questions, the True Resilience Scale ©, and the Global Transformational Leadership Scale. Multiple linear regression was used to assess the predictors of resilience after a descriptive analysis of the study variables.
+
+Results
+The survey response rate was 85%. The nurses' mean resilience score was 119.4 (SD 15.3), and their perception of transformational leadership score was M = 25.0, SD = 6.8. Compared to bedside nurses, nurse managers, nurses with more than five years of experience, and nurses in critical nursing units had statistically significant higher resilience scores (p < 0.05). Resilience scores and perception of global transformational leadership were moderately correlated (r = 0.53, p < 0.05). In the final multiple linear regression model, 30% of the variation in resilience scores was explained by designation (p < 0.05) and perception of Global Transformational Leadership (p < 0.01). Perception of global transformational leadership scores explained 29% of the variance in resilience scores. Designation and perception of global transformational leadership predicted resilience in this sample.
+
+Conclusions
+A national survey of the Lebanese nursing workforce is needed to achieve an improved predictive model and support policy developments to increase resilience among bedside nurses and retain them in the nursing workforce. Nurse administrators can help by strengthening their transformational leadership behaviors. Consistent use of transformational leadership styles will strengthen bedside nurses' resilience, increase nurse retention, and help sustain the Lebanese nursing workforce.

@@ -1,0 +1,15 @@
+
+Objective:
+This prospective study examined risk and resilience predictors of pain and functional recovery in the first 6 months after spinal fusion surgery in adolescents.
+
+
+Methods:
+Adolescents with adolescent idiopathic scoliosis undergoing spinal fusion surgery (n=100, aged 12 to 18 y, 77% girls) completed assessments before surgery and at 3 weeks, 6 weeks, and 6 months after surgery. Recovery trajectories in pain, health-related quality of life (HRQOL), and objectively registered physical activity were identified. Presurgical pain catastrophizing and pain intensity (risk), and psychological flexibility, and postsurgical pain acceptance (resilience) were examined as predictors of recovery.
+
+
+Results:
+Latent growth class analyses revealed 4 distinct pain recovery trajectories (ie, Severe-Moderate [11%, n=9], Mild-No [58%, n=49], Moderate-Mild [24%, n=20], and Moderate-Severe [7%, n=6] pain trajectory), 2 HRQOL recovery trajectories; 2 trajectories characterizing recovery in average daily physical activity at moderate-to-vigorous intensity (MVPA); and 3 trajectories characterizing recovery in total physical activity volume characterized by the average daily number of steps. Subsequent multivariate analyses of variance revealed that presurgical pain intensity (partial η2=0.21, P<0.001) and pain catastrophizing (partial η2=0.13, P<0.01) were both predictive of poorer recovery in HRQOL, and pain catastrophizing additionally predicted poorer pain recovery (partial η2=0.15, P<0.05). Psychological flexibility (partial η2=0.25, P<0.001) and postsurgical pain acceptance (partial η2=0.07, P<0.05) were predictive of more favorable recovery trajectories in HRQOL, and psychological flexibility additionally predicted more favorable recovery trajectories in postsurgical pain (partial η2=0.15, P<0.05). Daily MVPA trajectories were not significantly predicted by any of the hypothesized factors, while presurgical pain catastrophizing levels were predictive of a delayed recovery trajectory in the daily amount of steps (partial η2=0.17 P<0.01).
+
+
+Conclusions:
+Presurgical screening could include assessment of pain intensity, pain catastrophizing, psychological flexibility, and pain acceptance to identify adolescents who are at risk for poorer recovery. These are potentially modifiable factors that can be targeted in presurgical interventions to prevent poor and foster adaptive outcomes after major surgery in adolescents.

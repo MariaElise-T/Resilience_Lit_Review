@@ -1,0 +1,15 @@
+Abstract
+Context
+In Spain, fire is a tool used for management in rural landscapes but also wildfires can play a disruptive socio-ecological role. Therefore, its spatial structure analysis and spatial resilience quantification to wildfire is useful for territorial planning and management.
+
+Objectives
+We evaluate the relationship between the spatial structure of Spanish rural landscapes with the historical wildfire frequency. We develop and calculate indices of spatial resilience to wildfires and large wildfires.
+
+Methods
+We followed a stratified sampling based on the biogeoclimatic classes grouping by ecoregions. We calculated landscape metrics with Fragstats and collected wildfires occurrence from a national wildfire database. Spatial resilience was estimated with a self-elaborated index, using wildfires data and landscape structure subjected to a MANOVA and to a linear regression model.
+
+Results
+The Northwest region suffered more wildfires and large wildfires than the other ecoregions. The differences in frequency of large wildfires were small and low in. Some landscape metrics were positively related to wildfire frequency (forest plantations and scrublands) and other negatively (“dehesas” and crops). Spatial resilience to wildfires and large wildfires was lower in the Northwest area but for large wildfires were also low in the Mediterranean Littoral and Central region.
+
+Conclusions
+The relationship between the frequency of the two types of wildfires and landscape structure determines differences in spatial resilience indices. Large wildfires are positively related to shrubland abundance, whereas small wildfires are positively related to heterogeneous agricultural areas. Therefore, spatial resilience indices could be used as early warning tools to prevent wildfires.

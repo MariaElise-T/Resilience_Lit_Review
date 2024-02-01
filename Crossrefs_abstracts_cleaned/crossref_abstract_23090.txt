@@ -1,0 +1,29 @@
+
+Background:
+Chronic exposure to socioeconomic or environmental stressors associates with greater stress-related neurobiological activity (ie, higher amygdalar activity [AmygA]) and higher risk of major adverse cardiovascular events (MACE). However, among individuals exposed to such stressors, it is unknown whether neurobiological resilience (NBResilience, defined as lower AmygA despite stress exposure) lowers MACE risk. We tested the hypotheses that NBResilience protects against MACE, and that it does so through decreased bone marrow activity and arterial inflammation.
+
+
+Methods:
+
+              Individuals underwent
+              18
+              F-fluorodeoxyglucose positron emission tomography/computed tomography; AmygA, bone marrow activity, and arterial inflammation were quantified. Chronic socioeconomic and environmental stressors known to associate with AmygA and MACE (ie, transportation noise exposure, neighborhood median household income, and crime rate) were quantified. Heightened stress exposure was defined as exposure to at least one chronic stressor (ie, the highest tertile of noise exposure or crime or lowest tertile of income). MACE within 5 years of imaging was adjudicated. Relationships were evaluated using linear and Cox regression, Kaplan-Meier survival, and mediation analyses.
+            
+
+
+Results:
+
+              Of 254 individuals studied (median age [interquartile range]: 57 years [46–67], 36.7% male), 166 were exposed to at least one chronic stressor. Among stress-exposed individuals, 12 experienced MACE over a median follow-up of 3.75 years. Among this group, higher AmygA (ie, lower resilience) associated with higher bone marrow activity (standardized β [95% CI]: 0.192 [0.030–0.353],
+              P
+              =0.020), arterial inflammation (0.203 [0.055–0.351],
+              P
+              =0.007), and MACE risk (standardized hazard ratio [95% CI]: 1.927 [1.370–2.711],
+              P
+              =0.001). The effect of NBResilience on MACE risk was significantly mediated by lower arterial inflammation (
+              P
+              <0.05).
+            
+
+
+Conclusions:
+Among individuals who are chronically exposed to socioeconomic or environmental stressors, NBResilience (AmygA <1 SD above the mean) associates with a >50% reduction in MACE risk, potentially via reduced arterial inflammation. These data raise the possibility that enhancing NBResilience may decrease the burden of cardiovascular disease.

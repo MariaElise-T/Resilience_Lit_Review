@@ -1,0 +1,12 @@
+Abstract
+Background
+The COVID-19 pandemic has a detrimental effect on the health and well-being of health care workers (HCWs). The extent to which HCWs may differ in their experience of depression and anxiety is unclear, and longitudinal studies are lacking. The present study examined theorized differences in distress between resilient and non-resilient HCWs over time, as reported in a national online survey. We also examined possible differences in distress as a function of sex and doctoral-level status.
+
+Methods
+A national sample responded to an online survey data that included the study measures. Of the HCWs who responded, 666 had useable data at the two time points. A longitudinal structural equation model tested an a priori model that specified the relationship of a resilient personality prototype to self-reported resilience, coping, depression and anxiety at both measurement occasions. Additional invariance models examined possible differences by sex and doctoral-level status.
+
+Results
+The final model explained 46.4% of the variance in psychological distress at Time 1 and 69.1% at Time 2. A non-resilient personality prototype predicted greater depression and anxiety. A resilient personality prototype was predictive of and operated through self-reported resilience and less disengaged coping to effect lower distress. No effects were found for active coping, however. The final model was generally invariant by sex and HCWs status. Additional analyses revealed that non-doctoral level HCWs had significantly higher depression and anxiety than doctoral-level HCWs on both occasions.
+
+Conclusions
+HCWs differ in their susceptibility to distress imposed by COVID-19. Those who are particularly vulnerable may have characteristics that contribute to a lower sense of confidence and efficacy in stressful situations, and more likely to rely on ineffective, disengaged coping behaviors that can exacerbate stress levels. Individual interventions and institutional policies may be implemented to support HCWs at risk.

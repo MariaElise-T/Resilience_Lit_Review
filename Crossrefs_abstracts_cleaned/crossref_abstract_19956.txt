@@ -1,0 +1,16 @@
+Abstract
+
+Background
+The aim of this study was to assess reliability and validity of the Resilience Scale 11 (RS-11) and develop a shorter scale in a population-based study.
+
+
+Methods
+The RS-11 scale was administered to 3942 participants (aged 64 – 94 years) of the KORA-Age study. To test reliability, factor analyses were carried out and internal consistency (Cronbach’s α) was measured. Construct validity was measured by correlating scores with psychological constructs. The criterion for a shorter scale was a minimum internal consistency of .80. Shorter models were compared using confirmatory factor analysis. Sensitivity and specificity of RS-5 to RS-11 was analyzed.
+
+
+Results
+Factor analysis of the RS-11 gave a 1-factor solution. Internal consistency was α = .86. A shorter version of the scale was developed with 5 items, which also gave a 1-factor solution and showed good validity. Internal consistency of this shorter scale: Resilience Scale 5 (RS-5) was α = .80. Sensitivity and specificity of RS-5 compared with RS-11 were .79 and .91 respectively. Both scales correlated significantly in expected directions with related constructs.
+
+
+Conclusions
+The RS-11 and the RS-5 are reliable, consistent and valid instruments to measure the ability of elderly individuals to successfully cope with change and misfortune.

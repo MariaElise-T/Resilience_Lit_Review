@@ -1,0 +1,4 @@
+Objectives: The study aimed to investigate resilience and the factors impacting resilience among dental hygiene students.
+Methods: Data were collected from 199 dental hygiene students in Chungcheong and Kyungsang from July 1 to 30, 2022 using the resilience scale, self-efficacy scale, and stress coping strategies scale.
+Results: Factors that significantly impacted the resilience of dental hygiene students were stress coping method, self-efficacy, and grade_dummy 2(2/3) in the order, and the most influential factor was active stress coping strategies, and the explanation power was 51.0%.
+Conclusions: There is a need for a systematic, tailored education program that can enhance resilience by strengthening protective factors such as self-efficacy, stress coping strategies.

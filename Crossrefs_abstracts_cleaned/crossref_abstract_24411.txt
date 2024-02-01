@@ -1,0 +1,15 @@
+
+Background
+Abundant studies have identified the association between childhood maltreatment and self-harm (SH), but little has been discussed with regard to the role of resilience in SH behaviors of adolescents who had experienced childhood maltreatment. In this study, we investigated if resilience, as well as its five dimensions, could present negative associations with presence, repetition, and severity of SH among maltreated and neglected adolescents in China.
+
+
+Methods
+A cross-sectional survey including 2,084 maltreated teenagers aged from 10 to 17 years was conducted in southwest China Yunnan province. The Childhood Trauma Questionnaire (CTQ), The Resilience Scale for Chinese Adolescents (RSCA), and the Modified version of Adolescents Self-Harm Scale (MASHS) were adopted to measure childhood maltreatment experiences, psychological resilience, and SH behaviors of the respondents, respectively. Binary univariate and multivariate logistic regression models were employed to discuss the associations between resilience and occurrence, repetition, severity of SH.
+
+
+Results
+Among the participants who met the criteria of CTQ, the prevalence rates of SH were 63.83%, 73.94%, 71.50%, 55.53%, and 58.21% for physical abuse (PA), emotional abuse (EA), sexual abuse (SA), physical neglect (PN), and emotional neglect (EN). Final regression model demonstrated that resilience was in general inversely associated with SH, repeated SH, and severe SH for all types of childhood maltreatment, with adjusted odds ratios (aORs) ranging from 0.29 (95% CI: 0.19-0.44) to 0.46 (95% CI: 0.26-0.81). Of the five dimensions of resilience, emotion regulation served as the strongest associated factor of SH among abused youths, regardless of maltreatment types. Besides, compared with those who had lower level of goal concentration and interpersonal assistance, subjects with higher resilience level reported significantly decreased risks of SH occurrence, SH repetition, and more severe SH, in adolescents who had experienced EA and PN.
+
+
+Conclusions
+Resilience showed inverse association with childhood maltreatment related SH in Chinese adolescents. These findings preliminarily indicated that interventions targeting on building up resilience, especially enhancing emotion regulation ability, improving goal concentration, and consolidating interpersonal assistance, could be effective in reducing SH risk, repetition, and severity in maltreated Chinese teenagers.

@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+While the negative consequences of insomnia are well-documented, a strengths-based understanding of how sleep can promote health promotion is still emerging and much-needed. Correlational evidence has connected sleep and insomnia to resilience; however, this relationship has not yet been experimentally tested. This study examined resilience as mediator of treatment outcomes in a randomized clinical trial with insomnia patients.
+
+
+Methods
+Participants were randomized to either digital Cognitive Behavioral Therapy for insomnia (dCBT-I; n=358) or sleep education control (n=300), and assessed at pre-treatment, post-treatment, and one-year follow-up. A structural equation modeling framework was utilized to test resilience as a mediator of insomnia and depression. Risk for insomnia and depression was also tested in the model, operationalized as a latent factor with sleep reactivity, stress, and rumination as indicators (aligned with the 3-P model). Sensitivity analyses tested the impact of change in resilience on the insomnia relapse and incident depression at one-year follow-up.
+
+
+Results
+dCBT-I resulted in greater improvements in resilience compared to the sleep education control. The improved resilience was a significant mediator of reduced insomnia and depression severity following treatment. Furthermore, improved resilience following dCBT-I also reduced insomnia and depression at one-year follow-up by lowering latent risk. Sensitivity analyses indicated that each point improvement in resilience following treatment reduced the odds of insomnia relapse and incident depression one year later by 76% and 65% respectively.
+
+
+Conclusion
+Improved resilience is a contributing mechanism to treatment gains following dCBT-I and may further protect against longer-term insomnia and depression by reducing risk.
+
+
+Support (If Any)
+K23HL138166; R01HL159180

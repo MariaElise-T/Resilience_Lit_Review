@@ -1,0 +1,19 @@
+
+Purpose
+Despite the efforts of organizations to improve safety performance, shortfalls of the strategies have been reported in numerous studies around the globe. However, previous studies in countries with more organized construction sectors show that adopting a resilient safety culture by organizations has a tendency of improving safety performance. As safety culture is dynamic which differs with geographical context, the purpose of this paper is to achieve two objectives: testing the causal relationship between safety performance and resilience safety culture in the Nigerian construction environment; and determining the key components for ensuring the resilience of construction organizations with regards to safety.
+
+
+Design/methodology/approach
+Quantitative research approach was used. Data was collected using a structured questionnaire. The population of the study comprises small and medium construction organizations predominantly across the Northern region in the Nigerian built environment. A total of 180 questionnaires were distributed to construction managers and safety managers in respective organizations to serve as respondents to the study. Partial least square – structural equation modeling (PLS-SEM) was used to test the relationship between safety performance and resilience safety culture. While principal component analysis was used determining the key components for ensuring the resilience of construction organizations with regards to safety.
+
+
+Findings
+Findings of this study revealed that resilient safety culture has a significantly strong positive relationship with safety performance. Safety hazard recognition and effective safety response attitude were identified as the key components for guaranteeing a resilient safety culture.
+
+
+Practical implications
+With a view to achieve a consistently high safety performance, organizations have to acknowledge and anticipate unexpected hazardous events and provide the necessary safety resources to manage them. Furthermore, there is also the need to create awareness on recognized safety concerns on safety hazards, coupled with a dynamic risk response attitude to ensure consistent improvement in safety performance.
+
+
+Originality/value
+This study presents an alternative to the slow and reactive safety culture of the Nigerian built environment. This study builds on existing literature, and the findings explore the potential impact of adopting a resilient safety culture in construction organizations in Nigeria. This study provided further insights into key factors organizations need to focus on to ensure resilient nature. To the best of the authors’ knowledge, no prior study in this regard was conducted in Nigeria despite its apparent need.

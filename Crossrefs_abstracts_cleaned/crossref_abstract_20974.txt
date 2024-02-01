@@ -1,0 +1,16 @@
+
+Background:
+            Mechanical thrombectomy (MT) in addition to intravenous thrombolysis (IVT) is now the recommended treatment for acute ischemic stroke (AIS) patients with large vessel occlusion (LVO). The positive trials also demonstrated that MT alone among patients ineligible for IVT is an effective therapy for AIS. Whether MT alone is as effective, worse, or better than pretreatment with IVT before MT among IVT-eligible AIS patients with LVO is debatable. We aimed to assess the effect of IVT on the clinical outcome of MT in the RESILIENT trial.
+          
+
+Methods:
+            RESILIENT was a randomized, prospective, multicenter, controlled trial evaluating the safety, efficacy, and cost-effectiveness of thrombectomy versus medical treatment alone. A total of 221 patient were enrolled. The trial showed a strong benefit to thrombectomy (90-day mRS ordinal shift, OR 95%CI). All eligible patients received intravenous tPA within the 4.5-hour-window. The primary end-point was the common odds ratio (cOR) of mRs at 90 days (shift analysis) and the main secondary endpoint was the rate of functional independence (mRS 0-2) at 90 days. Ordinal logistic and binary regression analyses with the use of intravenous tPA as an interaction term were performed with adjustments for potential confounders including age, baseline NIHSS score, occlusion site, IV tPA use and ASPECTS. A p value < 0.05 was considered statistically significant.
+          
+
+Results:
+            Among 221 randomized patients (median NIHSS, 18 IQR [14-21]), 155 (70%) were treated with IV tPA. The frequency of good recanalization (TICI 2b> ) and of hemorrhagic transformation was not affected by IVT. There was no significant difference in the treatment effect size across patients who received intravenous tPA versus those who did not in terms of overall functional disability (ordinal mRS shift: aOR: 2.63, 95%CI [1.48-4.69] vs. 1.54, 95%CI [0.63-3.74]; p=0.42) or functional independence (mRS 0-2: aOR: 3.06, 95%CI [1.37-6.48] vs. 1.71 95%CI [0.55-5.33], p=0.40) at 90 days.
+          
+
+Conclusions:
+            The large effect size of MT on LVO outcomes was not significantly affected by IVT. Further studies directly evaluating the role of IVT before MT are of utmost importance.
+          

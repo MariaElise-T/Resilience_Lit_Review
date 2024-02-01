@@ -1,0 +1,15 @@
+
+Purpose
+The COVID-19 pandemic and recent disruptive events are affecting firms’ operations and supply chain networks on a large scale, causing disturbances in supply, demand, production and logistics activities. Although supply chain resilience (SCR) research has received large attention in recent years, the purpose of this paper is to offer an original contribution by exploring how complex configurations and interactions between SCR strategies and capacities can lead to resilience.
+
+
+Design/methodology/approach
+This study investigates the configurations of SCR strategies and capacities using a fuzzy-set qualitative comparative analysis.
+
+
+Findings
+First, the findings reveal different SCR strategy configurations through the lens of absorptive, reactive and restorative capacities to achieve resilience. Second, this study applies the contingent resource-based view (CRBV) perspective to interpret how organizations can achieve resilience before, during and after a disruptive event. Third, it offers an analysis of different groups of organizations, based on the adoption of different SCR strategies and capacities.
+
+
+Originality/value
+This study identifies a set of equifinal SCR strategies and capacity configurations that can be implemented to cope with a disruptive event and lead to resilience. It also enriches the research addressing the consecutive phases of SCR investments, developing the CRBV perspective. In our results, five solutions describe organizations that invest in absorptive capacities, representing an ex ante readiness.

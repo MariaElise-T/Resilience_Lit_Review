@@ -1,0 +1,15 @@
+Abstract
+Background
+Little is known about resilience in an internal medicine setting. We aimed to assess the relationship between resilience and frailty and other clinical and sociodemographic characteristics in a cohort of prospectively enrolled hospitalised patients.
+
+Methods
+In 2017–2019, we consecutively enrolled patients in our internal medicine wards. We selected all patients who filled in the 25-item Connor-Davidson resilience scale (CD-RISC). Mean resilience was evaluated according to baseline demographic (i.e., age, sex, marital and socioeconomic status) and clinical (i.e., Cumulative Illness Rating Scale [CIRS], Edmonton Frail Scale [EFS], Barthel index, Short Blessed test, length of stay [LOS]) data. A multivariable analysis for assessing factors affecting resilience was fitted.
+
+Results
+Overall, 143 patients (median age 69 years, interquartile range 52–79, 74 females) were included. Resilience was significantly lower in frail (p = 0.010), elderly (p = 0.021), dependent (p = 0.032), and more clinically (p = 0.028) and cognitively compromised patients (p = 0.028), and in those with a low educational status (p = 0.032). No relation between resilience and LOS was noticed (p = 0.597). Frail patients were significantly older (p < 0.001), had a greater disease burden as measured by CIRS comorbidity (p < 0.001) and severity indexes (p < 0.001), were more dependent (p < 0.001), more cognitively impaired (p < 0.001), and displayed a lower educational level (p = 0.011) compared to non-frail patients. At multivariable analysis, frailty (p = 0.022) and dependency (p = 0.031; according to the Barthel index) were associated with lower resilience in the age groups 18–64 and ≥ 65 years, respectively.
+
+Conclusions
+Low resilience was associated with frailty and dependency with an age-dependent fashion. Studies assessing the impact of this finding on important health outcomes are needed.
+
+Trial registration
+Clinical Complexity in Internal Medicine Wards. San MAtteo Complexity Study (SMAC); NCT03439410. Registered 01/11/2017.

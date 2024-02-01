@@ -1,0 +1,23 @@
+
+Background
+Gait speed is a reliable measure of physical function and frailty in patients with aortic stenosis undergoing transcatheter aortic valve replacement (TAVR). Slow gait speed pre‐TAVR predicts worse clinical outcomes post‐TAVR. The consequences of improved versus worsened physical function post‐TAVR are unknown.
+
+
+Methods and Results
+
+              The REPRISE III (Repositionable Percutaneous Replacement of Stenotic Aortic Valve Through Implantation of Lotus Valve System–Randomized Clinical Evaluation) trial randomized high/extreme risk patients to receive a mechanically‐expanded or self‐expanding transcatheter heart valve. Of 874 patients who underwent TAVR, 576 with complete data at baseline and 1 year were included in this analysis. Slow gait speed in the 5‐m walk test was defined as <0.83 m/s. A clinically meaningful improvement (≥0.1 m/s) in gait speed 1 year after TAVR occurred in 39% of patients, 35% exhibited no change, and 26% declined (≥0.1 m/s). Among groups defined by baseline/1‐year post‐TAVR gait speeds, 1‐ to 2‐year mortality or hospitalization rates were as follows: 6.6% (normal/normal), 8.0% (slow/normal), 20.9% (normal/slow), and 21.5% (slow/slow). After adjustment, slow gait speed at 1 year (regardless of baseline speed) was associated with a 3.5‐fold increase in death/hospitalization between 1 and 2 years compared with those with normal baseline/1‐year gait speed. Patients whose slow gait speed normalized at 1 year had no increased risk. One‐year, but not baseline, gait speed was associated with death or hospitalization between 1 and 2 years (adjusted hazard ratio, 0.83 per 0.1 m/s faster gait; 95% CI, 0.74–0.93,
+              P
+              =0.001).
+            
+
+
+Conclusions
+Marked heterogeneity exists in the trajectory of physical function after TAVR and this, more than baseline function, has clinical consequences. Identifying and optimizing factors associated with physical resilience after TAVR may improve outcomes.
+
+
+Registration
+
+              URL:
+              https://www.clini​caltr​ials.gov
+              ; Unique identifier: NCT02202434.
+            

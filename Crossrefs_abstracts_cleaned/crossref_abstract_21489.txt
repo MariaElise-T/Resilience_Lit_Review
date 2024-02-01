@@ -1,0 +1,12 @@
+Abstract
+Background
+Compared to other healthcare workers, nurses are more vulnerable to the potentially devastating effects of pandemic-related stressors. Studies have not yet investigated the deeper characteristics of the relationship between team resilience and team performance among nurses during the COVID-19 pandemic. This study aimed to elucidate the characteristics of team resilience and performance networks among nurses during the pandemic.
+
+Methods
+A cross-sectional study involving 118 nursing teams comprising 1627 practice nurses from four tertiary-A and secondary-A hospitals in Shandong Province, China, was conducted. Analyzing and Developing Adaptability and Performance in Teams to Enhance Resilience Scale and the Team Effectiveness Scale were used to measure team resilience and performance, respectively. The estimation of the network model and calculation of related metrics, network stability and accuracy, and network comparison tests were performed using R 4.0.2.
+
+Results
+Node monitoring had the highest centralities in the team resilience and performance network model, followed by node anticipation, cooperation satisfaction, and cooperation with other departments. Moreover, node cooperation satisfaction and learning had the highest levels of bridge centrality in the entire network.
+
+Conclusion
+Monitoring, anticipation, cooperation satisfaction, cooperation with other departments, and learning constituted core variables maintaining the team resilience-performance network structure of nurses during the pandemic. Clinical interventions targeting core variables may be effective in maintaining or promoting both team resilience and performance in this population.

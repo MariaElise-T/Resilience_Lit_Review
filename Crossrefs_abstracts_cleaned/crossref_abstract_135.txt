@@ -1,0 +1,15 @@
+
+Purpose
+We aimed to test the reliability and validity of two brief measures of resilience adopted for the evaluation of a preventative social-emotional curriculum implemented for Aboriginal middle school students from socially disadvantaged remote communities in Australia’s Northern Territory. The questionnaires chosen were intended to measure psychological resilience and socio-cultural resilience as complementary dimensions of the capacity to cope in circumstances of significant life stress and risk of self-harm.
+
+
+Methods
+Confirmatory factor analysis (CFA) was conducted to assess construct validity of the 10-item Connor-Davidson Resilience Scale (CD-RISC-10), a measure of psychological resilience, and the 12-item Child and Youth Resilience Measure (CYRM-12), a measure of socio-cultural resilience, with a sample of 520 students. Associations between resilience and psychological distress and emotional and behavioural difficulty were analysed in relation to life stressors to assess criterion validity of the scales.
+
+
+Results
+CFA provided support for the validity of the respective constructs. There was good fit for both scales. However, assessment of criterion validity of the scales suggested that the adapted measure of socio-cultural resilience (CYRM-12NT) showed higher reliability and a clearer indication of predictive validity than the measure of psychological resilience (CD-RISC-10).
+
+
+Conclusions
+The CYRM-12NT appears to be a more useful measure of resilience among Aboriginal youth exposed to significant life stress and disadvantage. However, both measures may require further development to enhance their validity and utility among potentially at-risk adolescents in socially, culturally and linguistically diverse remote Aboriginal communities.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Innovation competence has been found to constitute distinct innovative abilities that must be analyzed together to get a more comprehensive picture of their effectiveness in various targeted groups. Drawn from the componential theory of creativity, such personal traits as individual resilience and self-monitoring play a critical role in developing innovation competence across students. This research aims to investigate the innovation competence profiles of students from various educational levels and study the role of individual resilience and self-monitoring in predicting the memberships of these profiles.
+
+Methods
+A cross-sectional survey was conducted among university and college students, studying in a metropolitan area of the North-West region. The sampling scheme was stratified by the level of education and age. The questionnaire included items on the participants’ demographics, including gender, age, and level of education, measures of innovative abilities, individual resilience, and self-monitoring. This study sought to create innovation competence profiles in the student population using latent profile analysis. Multinomial logistic regression was employed to identify the impact of individual resilience and self-monitoring on innovation competence profile membership.
+
+Results
+A sample of 638 university and college students was analyzed. The latent profile analysis classified students into three different innovation competence profiles - strong, moderate, and weak - with college and female students being identified as the typical members of the weak profile. Individual resilience increases the odds of membership into the strong profile than to moderate and weak profiles. High self-monitors have higher chances of being profiled into the strong profile than the weak and moderate profiles compared to the low self-monitors.
+
+Conclusions
+Training investment aimed at boosting the innovative abilities of employees should consider the innovation competence profile of the beneficiaries to inform decisions about the appropriate level of intervention required. Likewise, educators could enrich their courses devoted to improving the innovative abilities of students with content that aims to improve their level of resilience accompanied by social support. Theoretical and practical implications are also discussed.

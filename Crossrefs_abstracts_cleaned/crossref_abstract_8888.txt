@@ -1,0 +1,6 @@
+Abstract
+In the process of mathematics learning, every student has different characteristics and attitudes to face adversity that called mathematical resilience. Mathematical resilience is one of the factors that have a role in supporting student achievement. This study investigated the relationship between mathematical resilience with mathematics problem-solving ability among junior high school students. Participants included 100 students at Sragen Region, Central Java Province, Indonesia. The method was used in this research is the survey method with the correlation and regression technique. Data sources included the questionnaire of mathematical resilience and written test. Findings revealed a significant, positive correlation between mathematical resilience and student’s mathematical problem-solving ability, with a contribution of 16.30% obtained by the regression model 
+Y
+ = 14.355 + 0.302 
+X
+.The result indicated that positiveness response to learning mathematics, emotion regulation, curiosity and optimism in mathematical resilience beliefs were associated with mathematical problem-solving ability. Evidence presented to support and contribute to the value of students’ mathematical problem-solving abilities and provides a new approach for encouraging greater student participation and persistence in mathematics.

@@ -1,0 +1,16 @@
+ABSTRACT
+
+Objective
+Adverse life events have been associated with exacerbating multiple sclerosis (MS) symptoms, but results have been variable, raising the question on the role of other psychological factors. This study examined the role of psychological resilience and vulnerability as mediators between adverse life events on MS symptoms.
+
+
+Methods
+Participants with MS (N = 1239) were aged 18 to 81 years (mean [SD] = 45.6 [10.4] years), and 84.5% were female. MS symptoms were measured by the modified Fatigue Severity Scale, modified Fatigue Assessment Scale, Motor Dysfunction Assessment Scale, Paraesthesiae Spell Duration Scale, and the Paraesthesiae Cumulative Duration Scale. Psychological measures included the Connor-Davidson Resilience Scale, Resilience Scale for Adults, Psychological Vulnerability Scale, the vulnerability section of the Defence Style Questionnaire, and the Adverse Life Events Assessment Scale. Regression analyses and structural equation modeling were performed.
+
+
+Results
+Adverse life events during the preceding 60 days were associated with fatigue, motor dysfunction, and paresthesia, but with small effect sizes (β from 0.07 to 0.15; p ≤ .014). A structural equation model by which resilience mediated less and vulnerability more MS symptoms after adverse life events during the preceding 60 days showed a statistically significant fit with the data of a moderate to good degree (p < .001; goodness-of-fit statistic = 0.725; root mean square error of approximation = 0.047). Vulnerability played a markedly larger role than did resilience.
+
+
+Conclusion
+The results suggest that psychological resilience and vulnerability play mediating roles in the relation between adverse life events and MS symptoms, but other psychological factors also need to be investigated.

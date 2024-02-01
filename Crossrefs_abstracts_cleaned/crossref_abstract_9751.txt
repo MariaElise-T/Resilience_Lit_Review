@@ -1,0 +1,11 @@
+
+Purpose of review
+Family caregivers of patients with cancer often spend a great deal of effort on physically and emotionally demanding work while taking care of patients. However, the majority of caregivers are not properly equipped for their role as caregivers, which may lead to increased distress in both caregivers and patients. Herein, we reviewed the recent literature (last 3 years) examining online interventions that seek to support caregiver resilience and decrease distress.
+
+
+Recent findings
+Our search identified interventions involving three main themes: informational support, positive activities, and social support. These are mostly in the form of web-based tools and mobile apps targeting both usability and quality of life. Social network services are also considered in this review as a new environment for caregivers to connect with other individuals with lived experience in similar circumstances.
+
+
+Summary
+Existing studies on online interventions to support caregivers is still at a formative development stage and pilot tests of feasibility, rather than a substantive body of randomized controlled trials to assess the impact in different user populations, or to determine specific factors that impact caregiver distress level or resilience. More research is needed to further assess the long-term effects of online interventions on caregiver stress and resilience. Also, the role of different types of social network services and new forms of interaction, such as conversational agents, has not yet been fully investigated in caregiver populations. Future research should strive to seek new modes of providing services that may present novel opportunities to enhance caregiver resilience and reduce distress.

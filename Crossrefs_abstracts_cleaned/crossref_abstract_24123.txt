@@ -1,0 +1,20 @@
+
+Introduction:
+            Arterial stiffness is associated with cardiovascular (CV) risk factors and adverse cardiovascular events. While inter-racial differences in arterial stiffness have been reported, factors contributing to intra-racial differences within Blacks are less known. We examined whether neighborhood characteristics and personal resilience factors were associated with arterial stiffness among Blacks.
+          
+
+Hypothesis:
+            More desirable neighborhood characteristics and greater personal resilience are associated with reduced arterial stiffness.
+          
+
+Methods:
+            We examined 385 Black adults (age 53 ± 10, 40% male) without known CV disease living in Atlanta, GA. Arterial stiffness was measured as augmentation index (AIX) and pulse wave velocity (PWV) using applanation tonometry (Sphygmocor Inc). Perceived residential neighborhood characteristics in 7 domains: aesthetic quality, walking environment, safety, food access, social cohesion, activity with neighbors, and violence were determined. Personal resilience was also assessed using standard questionnaires on experience of discrimination, environmental mastery, purpose in life, optimism, resilient coping, and depressive symptoms. Multiple linear regression models were used to examine the differences of arterial stiffness between the highest and the lowest tertiles of neighborhood characteristics and personal resilience factors after adjustment for age, gender, systolic blood pressure, body mass index, household income, education, marital status, and employment status.
+          
+
+Results:
+            Higher composite scores of neighborhood characteristics were associated with lower AIX (β=-3.42, 95% CI [-6.42 to -0.41], P=0.026; highest vs lowest tertiles). Specifically, higher scores of safety (β=-4.26, 95% CI [-7.34 to -1.17], P=0.007) and social cohesion (β=-4.62 [-7.64 to -1.61], P=0.003) were associated with lower AIX (highest vs lowest tertiles for both). For factors of personal resilience, higher scores in purpose in life (β=-4.89 [-7.88 to -1.90], P=0.001) and resilient coping (β=-3.26 [-6.36 to -0.15], P=0.040) were significantly associated with lower AIX (highest vs lowest tertiles for both). There were no significant associations between PWV and scores of neighborhood characteristics or personal resilience factors.
+          
+
+Conclusion:
+            In a study examining the impact of neighborhood and markers of resilience on arterial stiffness in an exclusively Black cohort, we found that better neighborhood characteristics and personal resilience factors were associated with lower pulse wave reflections (AIX).
+          

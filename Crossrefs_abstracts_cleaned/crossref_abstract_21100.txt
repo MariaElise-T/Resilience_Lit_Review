@@ -1,0 +1,16 @@
+Abstract
+
+Background
+There is a need for effective primary-care interventions that help older people combat frailty and build resilience. This study aims to test the effectiveness of a co-designed exercise and dietary protein intervention.
+
+
+Methods
+This was a multicentre, randomised-controlled, parallel-arm trial in six Irish primary-care practices. We enrolled adults aged 65+ with Clinical Frailty Scale score ≤5 from December 2020 to April 2021. Participants were randomised to intervention or usual care with allocation concealed until enrolment with a GP. Intervention comprised exercises, emphasising strength, and dietary protein guidance. At three-month follow-up, effectiveness was measured by comparing SHARE-Frailty Instrument between groups, on intention-to-treat basis. Secondary outcomes included muscle mass, bone mass and biological age measured by Bioelectrical Impedance Analysis (BIA). Ease of intervention and health difference were measured on Likert scales.
+
+
+Results
+359 adults were assessed for eligibility and 168 enrolled. 156 (92.9%) attended follow-up (mean age 77.1; 67.3% women; 79 intervention, 77 control). At baseline, frailty proportions were 17.7% in the intervention and 16.9% in the control group. At follow-up, they were 6.3% and 18.2%, respectively. The odds ratio (OR) of being frail for the intervention group was 0.23 times that of the control group (95% confidence interval: 0.07-0.72; P=0.011), adjusting for age, gender and site. Absolute risk reduction was 11.9% (CI: 0.8%-22.9%; P=0.018). Number needed to treat was 8.4. BIA parameters improved, bone mass significantly (P=0.040). 66.2% found the intervention easy, 69.0% reported feeling better.
+
+
+Conclusion
+A combination of exercises and dietary protein significantly reduced frailty and improved self-reported health. Frailty was reversed in more than 1 in 9 participants.

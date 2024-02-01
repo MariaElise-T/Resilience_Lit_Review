@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+Multimorbidity resilience reflects older adults’ ability to cope with, adapt to, and rebound from its adverse effects through mobilizing resources. This study revised the multi-domain Multimorbidity Resilience Index based on the Lifecourse Model of Multimorbidity Resilience referring to the life situations of older adults in rural China to measure the multimorbidity resilience from 2018 to 2021 and to explore factors influencing multimorbidity resilience from the perspective of Life Course theory.
+
+
+Method
+This study used the seventh and eighth waves of longitudinal data (2018–2021) collected in Anhui, China. 945 older adults with two or more chronic diseases were selected, and 1201 (person-year) observations were collected and studied. A mixed linear model examined the effects of early and later factors on multimorbidity resilience.
+
+
+Results
+Multimorbidity resilience was negatively correlated with age and decreased faster with age after the outbreak of the COVID-19 pandemic. Married older adults have higher multimorbidity resilience. Exposure to hunger was associated with lower multimorbidity resilience when later factors were considered. Self-reported health before age 15, access to medical resources, and multimorbidity resilience were positively correlated. In addition, this study verified the relationship between multimorbidity resilience and number of chronic diseases, exercise frequency, religious beliefs, self-reported health, and economic satisfaction, among other factors.
+
+
+Discussion
+The associations between life course factors and multimorbidity resilience emphasizes the long-term impact of early-life experience and the adverse effects of increasing age especially after the outbreak of the COVID-19 pandemic. The findings will drive policy development from a life course perspective encompassing prevention and follow-up treatment to promote active aging.

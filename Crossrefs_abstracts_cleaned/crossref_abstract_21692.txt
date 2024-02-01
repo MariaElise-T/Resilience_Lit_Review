@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this study was to investigate how Lean Six Sigma (LSS) may help mitigate the impact of COVID-19 within health care environments. The goals of this study were to understand the current knowledge of LSS and COVID-19 through a systematic review of the current literature, identify the gap in the current knowledge of LSS in COVID-19 mitigation within health care environments and define the principles of LSS, within organizational resilience that support a health care organization’s ability to mitigate the impact of COVID-19.
+
+
+Design/methodology/approach
+A narrative literature review was conducted to identify relevant research. A total of 21 subject matter experts (SMEs) meeting the inclusion criteria were approached through a guided interview process. Content analysis was conducted to describe how LSS principles contribute to supporting health care organizations operating in the era of COVID-19.
+
+
+Findings
+Study results report that personal safety is the primary subject, followed by supporting dimensions of process redesign, and telemedicine. LSS topics that directly relate to COVID-19 are in four thematic areas: tools, applications, benefits and challenges. Particular areas of application, techniques, challenges and benefits are identified and discussed that could be applied proactively and reactively, to organizational and supply chain resilience to recover from COVID-19.
+
+
+Research limitations/implications
+There were a number of limitations to the generalizability of this work. The sample size was small and purposeful, thus, external validity of the study results are not determined. The SMEs in this study have not implemented the practices noted in the results at the time of the study, and knowledge of results is limited to the study aims.
+
+
+Originality/value
+This study of LSS principles and COVID-19 has implications for practitioners and offers specific guidance for areas of health care adoption of LSS techniques and tools that benefit patient safety, challenges for the user to be mindful of and potential benefits in resilience of operations in the era of COVID-19.

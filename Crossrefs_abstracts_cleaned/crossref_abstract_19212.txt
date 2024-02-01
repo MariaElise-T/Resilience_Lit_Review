@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+To examine the clinical utility of PTSD, Sleep, Resilience, and Lifetime Blast Exposure as ‘Risk Factors’ for predicting poor neurobehavioral outcome following traumatic brain injury (TBI).
+
+
+Methods
+Participants were 993 service members/veterans evaluated following an uncomplicated mild TBI (MTBI), moderate–severe TBI (ModSevTBI), or injury without TBI (Injured Controls; IC); divided into three cohorts: (1) &lt; 12 months post-injury, n = 237 [107 MTBI, 71 ModSevTBI, 59 IC]; (2) 3-years post-injury, n = 370 [162 MTBI, 80 ModSevTBI, 128 IC]; and (3) 10-years post-injury, n = 386 [182 MTBI, 85 ModSevTBI, 119 IC]. Participants completed a 2-hour neurobehavioral test battery. Odds Ratios (OR) were calculated to determine whether the ‘Risk Factors’ could predict ‘Poor Outcome’ in each cohort separately. Sixteen Risk Factors were examined using all possible combinations of the four risk factor variables. Poor Outcome was defined as three or more low scores (&lt; 1SD) on five TBI-QOL scales (e.g., Fatigue, Depression).
+
+
+Results
+In all cohorts, the vast majority of risk factor combinations resulted in ORs that were ‘clinically meaningful’ (ORs &gt; 3.00; range = 3.15 to 32.63, all p’s &lt; .001). Risk factor combinations with the highest ORs in each cohort were PTSD (Cohort 1 & 2, ORs = 17.76 and 25.31), PTSD+Sleep (Cohort 1 & 2, ORs = 18.44 and 21.18), PTSD+Sleep+Resilience (Cohort 1, 2, & 3, ORs = 13.56, 14.04, and 20.08), Resilience (Cohort 3, OR = 32.63), and PTSD+Resilience (Cohort 3, OR = 24.74).
+
+
+Conclusions
+Singularly, or in combination, PTSD, Poor Sleep, and Low Resilience were strong predictors of poor outcome following TBI of all severities and injury without TBI. These variables may be valuable risk factors for targeted early interventions following injury.

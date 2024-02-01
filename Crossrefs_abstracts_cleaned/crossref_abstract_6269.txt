@@ -1,0 +1,12 @@
+The construction of modern cryptographic systems relies on the so-called
+   resilient Boolean functions, a special class of Boolean functions that
+   possesses a balance between a high level of nonlinearity and correlation
+   immunity. In this paper, we discuss the problem of the compact representation
+   and efficient construction of resilient functions. Binary Decision Diagrams
+   (BDDs) were extensively used as a method of compact representation of various
+   classes of Boolean functions. Furthermore, BDDs offer an opportunity for the
+   efficient implementation of different construction methods for resilient
+   functions. In this paper, we make use of BDDs with attributed edges to
+   provide an implementation of two construction methods proposed by Maitra and
+   Sakar. In addition, we demonstrate that the size of BDDs of resilient
+   functions obtained in this way grows linearly with the number of variables.

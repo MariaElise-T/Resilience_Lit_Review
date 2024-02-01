@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to provide resiliency against earthquakes to the framework of an urban road network and to construct a comprehensive model with sufficient computational detail to assist metropolitan managers as a decision support tool in emergency situations via parametric analysis (model behaviour analysis with parameter changes) to quantify the consequences of decisions.
+
+
+Design/methodology/approach
+Performed stages are: developing existing resilience assessment frameworks for use against earthquakes in urban road networks, identifying earthquake scenarios and estimating the weight of components using AHP, including an example modelling of Tehran; and developing modelling software (using Matlab®).
+
+
+Findings
+This study produced a software that performs three-dimensional (3D) graphical modelling, resiliency index measurements and its parametric analyses for the road networks against earthquakes. Based on this model, a prioritized list of upgrades is also introduced. The developed tool also addresses issues regarding the allocation of limited resources between the network components.
+
+
+Research limitations/implications
+Because of the novelty of the study, there is limited literature on this topic.
+
+
+Practical implications
+The developed model provides urban managers with a comprehensive list of upgrades and empowering them to graphically and numerically evaluate the resiliency changes as they alter the parameters of these measures and balance their decisions based on available funding.
+
+
+Originality/value
+In contrast to previous studies, this study has focused on all of these three keywords: resiliency, earthquake and road networks, and not only two of them.

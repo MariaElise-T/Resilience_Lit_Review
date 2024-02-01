@@ -1,0 +1,21 @@
+Abstract
+Objectives
+A novel model of resilience was tested in caregivers of people with mild-to-moderate dementia and was extended to explore whether including self-efficacy, optimism, and self-esteem improved its predictive value.
+
+Design
+Cross-sectional.
+
+Setting
+Data from the IDEAL cohort were used.
+
+Participants
+The study comprised 1222 caregivers of people with dementia.
+
+Measurements
+A composite resilience score was calculated from five measures. Multivariable regressions were used to investigate factors associated with resilience.
+
+Results
+Greater resilience was associated with being older, being male, and caregiving for older people with dementia. Greater resilience was also observed when people with dementia had fewer functional difficulties and/or fewer neuropsychiatric symptoms, there was a stronger dyadic relationship, and the caregiver had fewer social restrictions, less neuroticism, and greater perceived competence. Surprisingly, caregiver self-efficacy, optimism, and self-esteem were unrelated to resilience.
+
+Conclusion
+Caregivers of people with mild-to-moderate dementia generally scored well for resilience. Resilience was associated with both the personal characteristics of caregivers and level of care need among people with dementia. Future work is needed to determine whether the caregivers in this cohort appeared resilient because the care recipients had relatively low care needs and consequently placed fewer demands on caregiver well-being than would be the case where dementia is more advanced.

@@ -1,0 +1,19 @@
+
+Purpose
+Infrastructures become critical with the emerging threats triggering through disasters. Sri Lanka is a country with a higher risk of disaster impacts, in which the eye-opening has widened towards mitigating the damages towards critical infrastructures. Based on this, the purpose of this paper is to develop an index that identifies the significance of critical infrastructure resilience.
+
+
+Design/methodology/approach
+From the initial literature survey, disaster resilience is defined as capacity of three stages, absorptive, adaptive and restorative along with ten indicators to measure capacities. Selected indicators were then checked for suitability for scope of the research based on opinions of seven experts. Subsequently, the critical infrastructure resilience index (CIRI) was introduced such that the numerical values for each indicator are aggregated using the Z score method. Statistical relations between the actual impact against disasters and CIRI calculated for administrative regions in Sri Lanka were used as the final step to validate the developed index.
+
+
+Findings
+Resilience index development is presented in this paper with a comprehensive methodology of developing and validation. Further, the case study results imply the weakness and strengths in each resilience capacities, which are important in decision-making.
+
+
+Research limitations/implications
+Unavailability of disaster impact data and centralized data repository were main constrains in the validation process of this research. Hence proxy data was used to validate resilience index in this research.
+
+
+Originality/value
+This research identified and validated a novel approach of defining disaster resilience index for regional decision-making.

@@ -1,0 +1,15 @@
+
+Purpose
+Supplier evaluation is a part of logistic management. In the present era, resilient supply chain performance (RSCP) assessment of the vendor enterprise is respected as a hot topic. The purpose of this paper is to enable the managers to map the performance in percentage system and also enabling managers for identifying the weak indices-metrics, which need to be improved up to ideal or standard level and strong indices-metrics.
+
+
+Design/methodology/approach
+The authors found two research gaps via a literature survey. The first research gap revealed that the performance of a resilient supplier is computed solely in terms of a fuzzy mathematical scale. The articles are not yet published, which could measure the RSCP in percentage. The second research gap argued about the mitigation of the multi-level hierarchical resilient vendor/supplier evaluation framework for materializing RSCP and identifying weak and strong performing indices-metrics. To compensate the both research gaps, the authors developed a novel fuzzy gain-loss evolutionary computational approach to assess the performance of a firm in percentage. Next, a revised ranking technique coupled with trapezoidal fuzzy set based fuzzy performance importance index is implemented on the framework to seek weak and strong indices-metrics. The performance loss of each metric using the ideal solution concept considering the attitude of decision makers is also revealed.
+
+
+Findings
+The authors found the RSC performance of supplier firm 74 per cent, whereas performance loss 26 per cent, while actual performance is compared with standard fuzzy performance index (SFPI). Performance loss 26 per cent can be compensated by improving the performance of weak indices-metrics.
+
+
+Originality/value
+The novelty of the paper is that the authors used the ideal solution concept to compute the SFPI and compare it with actual FPI for evaluating the gain and loss of resilient supplier firm in percentage and identify weak and strong indices so that managers can improve the performance of weak indices. The work possesses the significant for all organizations, as research work enables the managers to map and improve the RSC performance of any vendor firm in future. The presented work considers the case of an automobile parts supplier industry to validate the developed approach.

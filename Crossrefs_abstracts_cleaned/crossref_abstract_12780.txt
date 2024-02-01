@@ -1,0 +1,9 @@
+
+            Zero-Suppressed Binary Decision Diagrams (ZDDs) are widely used data structures for representing and handling combination sets and Boolean functions. In particular, ZDDs are commonly used in CAD for the synthesis and verification of integrated circuits. The purpose of this article is to design an error-resilient version of this data structure: a self-repairing ZDD. More precisely, we design a new ZDD canonical form, called index-resilient reduced ZDD, such that a faulty index can be reconstructed in time
+            O
+            (
+            k
+            ), where
+            k
+            is the number of nodes with a corrupted index. Moreover, we propose new versions of the standard algorithms for ZDD manipulation and construction that are error resilient during their execution and produce an index-resilient ZDD as output. The experimental results validate the proposed approach.
+          

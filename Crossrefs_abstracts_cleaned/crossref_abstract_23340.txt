@@ -1,0 +1,19 @@
+Abstract. Disaster-relevant authorities could make uninformed decisions due to the lack of a clear picture of urban
+resilience to adverse natural events. Previous studies have seldom examined the
+near-real-time human dynamics, which are critical to disaster emergency
+response and mitigation, in response to the development and evolution of
+mild and frequent rainfall events. In this study, we used the aggregated
+Tencent location request (TLR) data to examine the variations in collective
+human activities in response to rainfall in 346 cities in China. Then two
+resilience metrics, rainfall threshold and response sensitivity, were
+introduced to report a comprehensive study of the urban resilience to
+rainfall across mainland China. Our results show that, on average, a
+1 mm increase in rainfall intensity is associated with a 0.49 % increase
+in human activity anomalies. In the cities of northwestern and
+southeastern China, human activity anomalies are affected more by rainfall
+intensity and rainfall duration, respectively. Our results highlight the
+unequal urban resilience to rainfall across China, showing current heavy-rain-warning standards underestimate the impacts of heavy rains on residents in the northwestern arid region and the central underdeveloped areas
+and overestimate impacts on residents in the southeastern coastal
+area. An overhaul of current heavy-rain-alert standards is therefore needed
+to better serve the residents in our study area.
+                    

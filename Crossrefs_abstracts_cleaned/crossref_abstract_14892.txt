@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Approaches for quantifying physical resilience in older adults have not been described.
+
+
+Methods
+We apply two conceptual approaches to defining physical resilience to existing longitudinal data sets in which outcomes are measured after an acute physical stressor. A “recovery phenotype” approach uses statistical methods to describe how quickly and completely a patient recovers. Statistical methods using a recovery phenotype approach can consider multiple outcomes simultaneously in a composite score (eg, factor analysis and principal components analysis) or identify groups of patients with similar recovery trajectories across multiple outcomes (eg, latent class profile analysis). An “expected recovery differential” approach quantifies how patients’ actual outcomes are compared to their predicted outcome based on a population-derived model and their individual clinical characteristics at the time of the stressor.
+
+
+Results
+Application of the approaches identified different participants as being the most or least physically resilient. In the viral respiratory cohort (n = 186) weighted kappa for agreement across resilience quartiles was 0.37 (0.27–0.47). The expected recovery differential approach identified a group with more comorbidities and lower baseline function as highly resilient. In the hip fracture cohort (n = 541), comparison of the expected recovery differentials across 10 outcome measures within individuals provided preliminary support for the hypothesis that there is a latent resilience trait at the whole-person level.
+
+
+Conclusions
+We posit that recovery phenotypes may be useful in clinical applications such as prediction models because they summarize the observed outcomes across multiple measures. Expected recovery differentials offer insight into mechanisms behind physical resilience not captured by age and other comorbidities.

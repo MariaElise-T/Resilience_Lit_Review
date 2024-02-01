@@ -1,0 +1,19 @@
+
+Purpose
+Public–private partnership (PPP) has been adopted in many areas especially within the architecture, engineering and construction research domain. However, the PPP in critical infrastructure resilience (CIR) has not received the needed attention even though it has been acclaimed to be the panacea for building infrastructure resilience. This paper aims to adopt a systematic review to proactively identify the risks factors that pertains to using PPP as a mechanism to build the resilience of critical infrastructure.
+
+
+Design/methodology/approach
+Using a systematic methodology, a total record of 51 academic publications and 5 institutional reports from reputable organizations were identified and analyzed.
+
+
+Findings
+The selected literature was subjected to content analysis to retrieve 46 risk factors in PPP in CIR. The outcome of the systematic revealed the topmost risks as corruption, natural and unavoidable catastrophes, wars, terrorism, sabotage, cost overrun issues, a lack of centralized mechanism for coordinating integrated actions, inconsistent government policies, inadequate supervision, high operational cost due to robust and redundant measure, lack of supporting infrastructure, lack of open and integrated communication, unstable government, political interference, lack of PPP experience and legislation change. A conceptual framework was developed by grouping the identified risks under 13 categories.
+
+
+Research limitations/implications
+The outcome of this study will be a guide for decision makers and stakeholders with the responsibility of building the resilience of critical infrastructure.
+
+
+Originality/value
+The study contributes to CIR research area by providing an in-depth knowledge on risks that are inherent in PPP in CIR.

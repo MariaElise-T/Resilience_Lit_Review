@@ -1,0 +1,14 @@
+Abstract
+
+Purpose
+
+The current cross-sectional study had three objectives: (1) to assess the prevalence of depression and demoralization in a sample of prostate cancer (PCa) patients; (2) to examine whether masculine self-esteem and depression were associated with demoralization; and (3) to evaluate the role of resilience as a factor buffering the effects of masculine self-esteem and depression on demoralization.
+
+Methods
+197 PCa patients aged 48 to 79 years (M = 67.19; SD = 6.83) answered questions about masculine self-esteem, depression, resilience, and demoralization. An ANOVA was conducted to examine whether the association between demoralization and depressive symptoms was linear. A chi-square test was calculated to determine differences between depression and demoralization. Finally, a hierarchical multiple linear regression analysis with interaction terms was conducted to examine the associations between masculine self-esteem, depression, resilience, and demoralization.
+
+Results
+Depression scores increased linearly with demoralization severity, but demoralization scores were higher than depression scores (21.3% vs. 15.2%). Lower scores on masculine self-esteem and higher scores on depressive symptoms were associated with greater demoralization. Resilience significantly moderated the association between masculine self-esteem and demoralization, but not between depression and demoralization.
+
+Conclusion
+Assessment of depression, masculine self-esteem, resilience, and demoralization in the clinical setting is critical for improving the mental health status of PCa patients.

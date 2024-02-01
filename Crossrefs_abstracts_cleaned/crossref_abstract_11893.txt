@@ -1,0 +1,13 @@
+
+            Hybrid Casper is the new Ethereum blockchain protocol that uses both Proof of Work and Proof of Stake to reach a consensus between nodes. Here, we analyze the protocol using
+            PRISM+
+            , an extension of the probabilistic model checker
+            PRISM
+            with primitives for expressing blockchain data types. First, we extend
+            PRISM+
+            to include data types and operations for modeling and analyzing Proof of Stake based consensus protocols. Then, we model Hybrid Casper in
+            PRISM+
+            as a parallel composition of stochastic processes, thus precisely describing the behavior of the protocol and highlighting its corner cases.
+            PRISM+
+            is therefore used to rapidly and automatically analyze the resilience of Hybrid Casper when tuning, up or down, several basic parameters of the protocol, such as the rates of creating blocks, and the strategies for determining penalties. Finally, we study the robustness of Hybrid Casper to two well-known attacks: the Eclipse attack and the majority attack.
+          

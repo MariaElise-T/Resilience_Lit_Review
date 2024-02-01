@@ -1,0 +1,19 @@
+
+Background:
+The Bottom Up Project, a collaboration of clinical, community, and academic partners, consists of 7 major steps that leverage a health information exchange, a system for sharing patient health information, with real-time alerts to mobilize peer outreach workers to find and re-engage persons with HIV disconnected from care. Bottom Up faced implementation challenges in its start-up phase and produced effective responses leading to Project maturation, which we explore using a novel implementation science framework incorporating resilience.
+
+
+Methods:
+We conducted semistructured interviews with implementation staff (N = 6) and meeting minutes and protocols document reviews (N = 35). The Consolidated Framework for Implementation Research and a novel resilience framework guided thematic and process analyses. The resilience framework consisted of the following 3 resilience types: absorptive to cope with adversity, adaptive to adjust as short-term solutions, and transformative to structurally change.
+
+
+Results:
+The Project experienced 20 major challenges, 2–5 challenges per step. Challenges were multilevel and of chronic and crisis intensities. Implementers overcame challenges by leveraging multilevel factors that were absorptive, adaptive (most common), and transformative.
+
+
+Discussion:
+Bottom Up matured by practicing consistency and flexibility. The Project maintained core operations while under crisis-level stress by strategically simplifying or “downshifting” activities. Transformational responses suggest that specific initiatives can catalyze organizational change.
+
+
+Conclusions:
+Bottom Up implementation demonstrates using diverse tactics to respond to challenges, thereby shaping Project development and in turn organizations. Applying resilience to Consolidated Framework for Implementation Research helps build awareness of active and dynamic processes promoting or impeding the growth and success of intervention-oriented Projects.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Psychological resilience is an important factor in coping with Potentially Traumatic Events (PTEs) and might mitigate the development of trauma-related disorders. Due to the high risk of natural disasters, criminal activity, and transportation accidents among the Indonesian population, it is critical to assess psychological resilience as a protective factor. This study aimed to validate the Resilience Evaluation Scale (RES) in Indonesian undergraduate students.
+
+Methods
+We recruited 327 students (78% female, the mean age is 19.61 (SD = 1.24)) between March and June 2020 using convenience sampling, 256 (78.28%) of whom completed the RES twice with an interval of 2 weeks for test-retest reliability purposes. Parallel Analysis and Exploratory Factor Analysis were performed to examine the construct validity of the RES. The internal consistency and the test-retest reliability were assessed using Cronbach Alpha, Pearson Correlations, and Interclass Correlation Coefficients (ICC). Convergent and divergent validity were examined using Pearson Correlations.
+
+Results
+EFA analysis yielded a two-factor structure for the final eight-item Indonesian version of RES, which reflected two underlying constructs of resilience: self-confidence and self-efficacy. The Indonesian version of RES demonstrated good internal consistency (α = 0.74–0.82) and test-retest reliability (r = 0.68–0.78; ICC = 0.67–0.78). The result showed that the RES total and subscale scores positively correlated with all criterion variables (resilience, self-efficacy, self-esteem, level of global functioning, and adaptive coping strategy; r = 0.27–0.73). RES total and subscale scores negatively correlated with opposite constructs (PTSD, depression, social/work impairment, and maladaptive coping strategy; r = - 0.27– -0.46).
+
+Conclusions
+The current study showed that the Indonesian RES is a valid and reliable measurement of psychological resilience in Indonesian undergraduate students. The final 8-item Indonesian RES, a freely available resilience instrument, is recommended for future studies and public mental health initiatives in the Indonesian population.

@@ -1,0 +1,27 @@
+
+Background
+Factors promoting cardiovascular health in the face of high risk, ie, resilience, are unknown and may identify novel areas of intervention for reducing racial health disparities. We examined neighborhood perceptions and psychological attributes of blacks living in high and low cardiovascular–risk neighborhoods, as potential characteristics of resilience promoting cardiovascular health.
+
+
+Methods and Results
+
+              We identified 1433 blacks residing in census tracts of Atlanta,
+              GA
+              , with higher‐than‐expected (“high” risk) or lower‐than‐expected (“low” risk) rates of cardiovascular mortality, hospitalizations, and emergency department visits during 2010–2014. Domains of psychosocial well‐being and neighborhood quality were assessed via telephone survey between August 2016 and October 2016. Using multilevel logistic regression, odds of reporting better resilient characteristics were compared between individuals living in low‐ versus high‐risk neighborhoods. Those from low‐risk (versus high‐risk) neighborhoods reported better neighborhood aesthetic quality (odds ratio [
+              OR
+              ], 1.84), healthy food access (
+              OR
+              , 1.69), and absence of violence (
+              OR
+              , 0.67). Individuals from low‐risk neighborhoods reported greater optimism (
+              OR
+              , 1.38), purpose in life (
+              OR
+              , 1.42), and fewer depressive symptoms (
+              OR
+              , 0.69). After full adjustment, these associations remained significant for neighborhood factors (aesthetic quality, healthy food access, violence) and psychosocial well‐being (purpose in life). We found no evidence of differences in self‐reported cardiovascular risk factors or disease history between low‐ versus high‐risk neighborhoods.
+            
+
+
+Conclusions
+Positive neighborhood environments and psychological characteristics are associated with low cardiovascular–risk neighborhoods, despite similar prevalence of cardiovascular risk factors, in the census tracts studied. These factors may confer cardiovascular resilience among blacks.

@@ -1,0 +1,19 @@
+
+Background
+Since the emergence of COVID-19, health care workers and first responders have been at a high risk for mental health symptoms owing to their exposure to the virus and increased work stress during the pandemic. Although interventions exist to address mental health issues following exposure to disasters, emergencies, and humanitarian crises, considerably less is known about web-based unguided interventions to help mitigate the negative impacts of such events. Additionally, in contexts in which emergencies reduce access to in-person care, remote forms of support are critical, yet there are limited studies on the use of such interventions. Evidence-based, easy-to-use, scalable interventions are direly needed for this population.
+
+
+Objective
+This study aimed to develop and test the feasibility of an unguided electronic mental health program, COVID-19 Anxiety and Stress Resilience Training (COAST), tailored to first responders and health care personnel, based on scientific evidence and empirically based techniques.
+
+
+Methods
+We developed COVID-19–specific training modules focusing on several domains that are previously reported as key to resilience and stress recovery: self-efficacy, mindfulness, sleep quality, and positive thinking. The program was made available to 702 first responders between May and August 2020, during the COVID-19 pandemic. Sociodemographic, work-, and COVID-19–related information was collected, and psychometric questionnaires were completed. We examined user acceptance and user activity, including module choice and participant feedback.
+
+
+Results
+In total, 52 of 702 (7%) first responders to whom we reached out used the program at least once. COAST use was independent of age, sex, or baseline levels of self-efficacy, mindful awareness, sleep quality, and positive thinking (for all, P>.39). First responders who had tested positive and those who had been quarantined were more likely to engage in the program. A click count analysis per module showed that participants used the self-efficacy and mindfulness modules most often, with 382 and 122 clicks, respectively, over 15 weeks. Overall, first responders expressed satisfaction with the program.
+
+
+Conclusions
+Engagement of first responders in the multimodule web-based COAST program was feasible and the first responder cohort expressed overall satisfaction with the program. Those in more difficult circumstances, including those in quarantine and those who tested positive, may be more likely to engage in such programs. Further controlled studies could pave the way for efficacy studies and the development of additional modules, including just-in-time interventions or blended interventions combining individual use of an unguided self-help intervention, such as COAST, with subsequent individual psychotherapy for those who continue to experience stress and psychological symptoms.

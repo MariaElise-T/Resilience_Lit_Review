@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience is an essential aspect of wellbeing that plays a major role in undergraduate medical education. Various personal and social factors are known to affect resilience. Empirical evidence remains limited regarding resilience and the personal factors that affect it among undergraduate medical students in an Asian setting. Therefore, this study aims to identify undergraduate medical students’ level of resilience and its relationships to personal factors in Indonesia.
+
+Methods
+This cross-sectional study was conducted among undergraduate medical students in years 1–6. Respondents were asked to complete three validated questionnaires: the Connor-Davidson Resilience Scale (CD-RISC) to measure resilience, the Brief-COPE to assess coping mechanisms, and the Big Five Personality Test to measure five personality dimensions. Descriptive and Pearson’s correlation analyses were completed to explore relationships between each variable. Regression analysis was completed to analyze the extent to which coping mechanisms, personality, and academic achievement explained the variation in resilience scores.
+
+Results
+A total of 1040 respondents completed the questionnaires (a 75.42% response rate). Students in both preclinical and clinical stages had quite good levels of resilience and higher scores on adaptive coping mechanisms than on maladaptive coping mechanisms. Adaptive and maladaptive coping mechanisms, Big Five Personality traits (extraversion, agreeableness, conscientiousness, neuroticism, and openness), and students’ academic achievement explained 46.9% of students’ resilience scores.
+
+Conclusions
+Although the resilience scores in this study were comparable to resilience scores among undergraduate medical students in other settings, we found that coping mechanisms, personality traits, and academic performance may predict resilience among medical students.

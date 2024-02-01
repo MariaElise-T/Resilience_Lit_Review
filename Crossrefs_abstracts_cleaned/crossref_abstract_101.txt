@@ -1,0 +1,15 @@
+
+Background
+The healthcare system is frequently subject to unpredictable conditions such as organisational changes and pandemics. In order to perform as required under these conditions (i.e. exhibiting resilient behaviour), it is necessary to know the current position of the organisation with respect to the four resilient potentials i.e. respond, monitor, learn and anticipate. The study aimed to understand and assess resilient performance of an Internal Medicine Department in a public hospital in Denmark using the resilience assessment grid (RAG).
+
+
+Methods
+A modified Delphi method was used to develop the context specific RAG, using interviews to generate items, two rounds of expert panel reviews and pilot testing the developed RAG questionnaire. The four sets of structured RAG questions were tested and revised until satisfactory face and content validity for application was achieved. The final version of the RAG (28-item Likert scale) questionnaire was sent electronically to 87 healthcare professionals (clinicians and managers) in January 2021 and 2022. The data was statistically analysed and illustrated in radar charts to assist in interpreting the resilience profiles.
+
+
+Results
+While the resilience profiles in 2021 and 2022 were similar, the scores in 2022 were slightly lower for some of the sub-indicators. The results indicate areas for improvement, especially related to the Internal Medicine Department’s potential to respond and learn. The results from the RAG were presented to the chief clinical consultants and managers to identify initiatives for quality improvement and for planning a new workflow at the Internal Medicine Department.
+
+
+Conclusion
+The RAG is a managerial tool to assess the potential resilient performance of the organisation in respect to the four resilience potentials, i.e., responding, monitoring, learning, and anticipating. It can be used to construct the resilience profile of the system over time to manage organisational changes.

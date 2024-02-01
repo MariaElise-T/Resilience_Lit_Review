@@ -1,0 +1,27 @@
+
+Purpose
+One of the common solutions to the business problems, disruptions and new developments of the global world is enhancing the resilience of systems, countries and organizations. Applying resilience differs according to business environments and context-based requirements of industries, which create a lack of consensus regarding how to achieve and apply it. To fill this gap and answer the main question, this study proposes to handle the resilience concept from an organizational perspective. By using an organizational point of view this study aims to offer an applicable philosophy that can be used by a wide range of stakeholders.
+
+
+Design/methodology/approach
+The main question of the study is to figure out whether “Is there any approach/lens to achieve resilient organizations which can be applied by the stakeholders of the system.” To reach such a “common application/approach” where the stakeholders can reach a consensus, a systematic literature review has been conducted to determine the existing approaches and practices.
+
+
+Findings
+The contribution of the study lies in two folds: to offer a maritime business resilience definition from the organizational point of view and to show the requirement of organizational resilience management philosophy in the maritime business context. An applicable framework is offered for the stakeholders of the maritime business transport system.
+
+
+Research limitations/implications
+The research has some limitations. This study is designed on a systematic review to figure out existing approaches used in the maritime business field and to defend and prove the necessity of organizational resilience management philosophy in maritime business management which helps organizational survival. Further research should use different methods to empirically test the conceptual model according to different segments/stakeholders of the maritime industry. Also, this research opens a new field of study about resilience subject from the maritime context where organizational approach mentions hardly any. Therefore, future studies should investigate developing key performance indicators of components of the proposed model and its effects on maritime organizations.
+
+
+Practical implications
+As a volatile industry, increasing resilience capability helps maritime organizations to decrease the effects of disruptions while at the same enable them to operate the core business functions in the maritime business. Maritime business needs to solve not only one-time problems but also needs to resolve and exploit new opportunities from disruptions via resilient management philosophy, which help organizational adaption in fluctuating periods. To prevent such problems and become ready for complex environmental changes, organizational resilience management philosophy is vital.
+
+
+Social implications
+Organizational resilience offers maritime business a holistic approach to evaluate problems of the system by submitting multiple ways to handle problems that help to manage uncertainty and change. Resilient management philosophy enables maritime business organizations to fight against their vulnerabilities that create risk, especially in a turbulent business environment.
+
+
+Originality/value
+The originality of the study lies in highlighting the importance of organizational resilience management philosophy in the maritime business context. And an organizational resilience framework is offered.

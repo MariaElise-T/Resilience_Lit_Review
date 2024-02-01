@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this paper is to develop a multi-level hierarchical framework (evaluation index system) toward evaluating an “appraisement index” from the prospectus of measuring and monitoring resilient performance of the candidate industry.
+
+
+Design/methodology/approach
+In this reporting, vagueness, imprecision, as well as inconsistency associated with subjective evaluation information (aligned with ill-defined assessment indices of SC resilience performance), has been tackled by the application of fuzzy theory.
+
+
+Findings
+Subjective evaluation information (expressed in linguistic term) acquired from the committee of decision makers (called expert group), against different resilience indices/metrics, has been fruitfully explored through the proposed fuzzy-based resilience performance appraisement module. Finally, a case study from an Indian automobile company has been conducted from the perspective of checking effectiveness of the proposed methodology for evaluation of appraisement index indicating SC resilience extent.
+
+
+Originality/value
+This methodology might be successfully applied to help other decision-making problems from the perspective of performance appraisal and benchmarking of candidate alternatives/choices under predefined criteria and subjective evaluation circumstances.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Literature review has showed that family functioning is positively associated with satisfaction with life. However, the internal mechanisms of this relationship are still unclear, especially during the COVID-19. This study examined the mediating role of hope and resilience in the association between family functioning and life satisfaction of female university students in COVID-19 pandemics.
+
+Methods
+A cross-sectional online study was done throughout the fifth wave of the COVID-19 outbreak in Iran. A total of 480 female students were recruited from Lorestan University. Data was collected by the State Hope Scale, Satisfaction with Life Scale, Family APGAR Index, and Connor–Davidson Resilience Scale. Data analysis were based on structural equation modeling.
+
+Results
+Family functioning exerted a significant direct effect on hope, on resilience and on life satisfaction. Also, according to the findings, hope and resilience pose a significant mediating effect in the association between family functioning and life satisfaction.
+
+Conclusion
+This study provides a better perspective regarding the protective role of hope, family functioning, and resilience on life satisfaction among female university students during the COVID-19 pandemic. Training of such skills is needed to increase life satisfaction in female university students.

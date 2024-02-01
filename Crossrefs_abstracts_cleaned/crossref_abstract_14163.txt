@@ -1,0 +1,12 @@
+Abstract
+Background
+Heavy workloads and increasing demands for productivity have contributed to rising rates of stress and burnout among radiological staff. Different forms of mindfulness and resilience-training might assist with stress management and protect these employees against burnout.
+
+Aim
+The objective of this study is to evaluate the impact of an online training tool on individual and organizational resilience, mindfulness and quality of care.
+
+Methods
+An online questionnaire was used, consisting of the Connor-Davidson Resilience Scale, the Mindful Attention Awareness Scale, the Benchmark Resilience Tool, and questions pertaining to quality, safety, and burnout (baseline = 68 participants between July 2022 - October 2022, follow-up = 13 participants between November 2022 - February 2023). Descriptive statistics and a paired-sampled t-test were used for statistical analysis.
+
+Results and conclusions
+Few participants reported completing any of the exercises. The baseline group had significantly higher mean resilience (p = 0.018) and mindfulness scores (p = < 0.001), mean decrease in scores was 7.46 for resilience and 1.7 for mindfulness. In conclusion, both individual and organizational resilience are perceived as low among radiological personnel in Norway. However, it does not seem to affect quality and safety.

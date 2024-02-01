@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+Effective, scalable de-identification of personally identifying information (PII) for information-rich clinical text is critical to support secondary use, but no method is 100% effective. The hiding-in-plain-sight (HIPS) approach attempts to solve this “residual PII problem.” HIPS replaces PII tagged by a de-identification system with realistic but fictitious (resynthesized) content, making it harder to detect remaining unredacted PII.
+
+
+Materials and Methods
+Using 2000 representative clinical documents from 2 healthcare settings (4000 total), we used a novel method to generate 2 de-identified 100-document corpora (200 documents total) in which PII tagged by a typical automated machine-learned tagger was replaced by HIPS-resynthesized content. Four readers conducted aggressive reidentification attacks to isolate leaked PII: 2 readers from within the originating institution and 2 external readers.
+
+
+Results
+Overall, mean recall of leaked PII was 26.8% and mean precision was 37.2%. Mean recall was 9% (mean precision = 37%) for patient ages, 32% (mean precision = 26%) for dates, 25% (mean precision = 37%) for doctor names, 45% (mean precision = 55%) for organization names, and 23% (mean precision = 57%) for patient names. Recall was 32% (precision = 40%) for internal and 22% (precision =33%) for external readers.
+
+
+Discussion and Conclusions
+Approximately 70% of leaked PII “hiding” in a corpus de-identified with HIPS resynthesis is resilient to detection by human readers in a realistic, aggressive reidentification attack scenario—more than double the rate reported in previous studies but less than the rate reported for an attack assisted by machine learning methods.

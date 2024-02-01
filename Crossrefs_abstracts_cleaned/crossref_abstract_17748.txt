@@ -1,0 +1,12 @@
+Abstract
+Background
+Studies have suggested that psychotherapy improves the Quality of Life (QoL) of participants with Borderline Personality Disorder (BPD). However, there are no studies on the differential efficacy of treatments on the QoL of participants with BPD. Moreover, the relationship between QoL and resilience has rarely been studied in participants with BPD. Objectives: a) to examine whether people with BPD have worse QoL than the non-clinical population; b) to examine whether there are statistically significant differences between Dialectical Behavioural Therapy (DBT), Systems Training for Emotional Predictability and Problem Solving (STEPPS), or Cognitive Behavioural Therapy-Treatment at Usual (CBT-TAU) in the improvement of QoL; c) to examine whether participants show clinically significant improvements in QoL after treatment; d) to analyse whether resilience is associated with QoL before and after the BPD treatment; e) to analyse whether resilience is a predictor of QoL at pre-treatment and posttreatment.
+
+Method
+The sample comprised 403 participants (n = 202 participants diagnosed with BPD and n = 201 non-clinical). Participants filled out the Quality of Life Index, Resilience Scale, and Beck Depression Inventory. The clinical participants received one of these possible treatments, DBT, STEPPS, or CBT-TAU. MANOVA and regression analyses were performed.
+
+Results
+a) participants diagnosed with BPD had statistically significant lower resilience than the non-clinical population; b) all three forms of psychotherapy statistically improved QoL, but there were no statistically significant differences between DBT, STEPPS, and CBT-TAU in the improvement of QoL; c) participants did not show clinically significant improvements in QoL after treatment; d) resilience was associated with QoL before and after treatment; and e) resilience was a predictor of QoL before and after treatment.
+
+Conclusion
+It is necessary to assess QoL and Resilience in studies on psychotherapy with BPD patients.

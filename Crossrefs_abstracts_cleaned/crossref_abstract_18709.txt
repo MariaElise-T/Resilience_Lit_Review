@@ -1,0 +1,15 @@
+Abstract
+Introduction
+Compared to straight people, older sexual minorities are at a higher risk of experiencing depression because they encounter additional stressors related to sexual minority status. Nonetheless, the stressor appraisal process and the coping mechanism employed by sexual minority older adults remain understudied. Additionally, research on forgiveness in sexual minorities is scant, especially among older populations. This study examines the extent to which negative social interactions and shame about sexual minority identity explain perceived stress that underlines depression and the relative importance of forgiveness, social support, and resilience in forming adaptive coping, which moderates between stress and depression among sexual minority older adults.
+
+Methods
+We used hierarchical component models in structural equation modeling to analyze data—collected in 2017—from a sample of 50 lesbian women and 50 gay men older than 50 years.
+
+Results
+Negative social interactions and shame due to heterosexism significantly predict perceived stress, which in turn significantly predicts depressive symptoms. Also, forgiveness is more powerful at forming adaptive coping than social support, while resilience is the most powerful. Moreover, adaptive coping significantly moderates between stress and depressive symptoms.
+
+Conclusion
+Forgiveness and resilience are more important than social support in buffering between stress and mental health problems among older lesbian women and gay men.
+
+Policy Implications
+Access to forgiveness interventions should be readily available within mental health settings to promote the mental wellbeing and adaptive coping of clients who experienced interpersonal transgressions or negative self-thoughts.

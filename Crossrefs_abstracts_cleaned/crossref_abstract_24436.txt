@@ -1,0 +1,14 @@
+
+            The rapid loss of reef-building corals owing to ocean warming is driving the development of interventions such as coral propagation and restoration, selective breeding and assisted gene flow. Many of these interventions target naturally heat-tolerant individuals to boost climate resilience, but the challenges of quickly and reliably quantifying heat tolerance and identifying thermotolerant individuals have hampered implementation. Here, we used coral bleaching automated stress systems to perform rapid, standardized heat tolerance assays on 229 colonies of
+            Acropora cervicornis
+            across six coral nurseries spanning Florida's Coral Reef, USA. Analysis of heat stress dose–response curves for each colony revealed a broad range in thermal tolerance among individuals (approx. 2.5°C range in
+            
+              F
+              v
+              /F
+              m
+
+            ED50), with highly reproducible rankings across independent tests (
+            r
+            = 0.76). Most phenotypic variation occurred within nurseries rather than between them, pointing to a potentially dominant role of fixed genetic effects in setting thermal tolerance and widespread distribution of tolerant individuals throughout the population. The identification of tolerant individuals provides immediately actionable information to optimize nursery and restoration programmes for Florida's threatened staghorn corals. This work further provides a blueprint for future efforts to identify and source thermally tolerant corals for conservation interventions worldwide.
+          

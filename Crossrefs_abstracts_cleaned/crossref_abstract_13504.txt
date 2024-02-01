@@ -1,0 +1,19 @@
+
+Objective:
+To inform efforts to promote greater resilience among people living with HIV (PLHIV), we examined associations between resilience and factors at the individual, interpersonal and structural/policy levels in three countries.
+
+
+Design:
+Data come from the PLHIV Stigma Index 2.0, a cross-sectional survey with PLHIV, implemented from 2017 to 2019 in Cambodia (n = 1207), the Dominican Republic (n = 891), and Uganda (n = 391).
+
+
+Methods:
+Hierarchical multiple regression was used to assess associations between resilience and factors at the individual/interpersonal/structural-policy levels, controlling for potential confounders. Resilience was measured by the previously tested PLHIV Resilience Scale.
+
+
+Results:
+About 60% of respondents were women; mean time since HIV diagnosis was 11 years in Cambodia and seven in the Dominican Republic /Uganda. Resilience varied substantially across the six province/districts per country (all p < 0.001). In multivariable analyses, higher resilience was associated with lower internalized stigma (all three countries), no experience of human rights abuses (Dominican Republic), no food/housing insecurity (Uganda), and greater community awareness of legal protections for PLHIV (Cambodia and Dominican Republic). HIV-related enacted stigma (i.e., discrimination) in the community was associated with lower resilience in Cambodia, but higher resilience in the Dominican Republic. The set of structural/policy-level factors in Cambodia and the Dominican Republic, and individual-level in Uganda, explained the most variance in resilience.
+
+
+Conclusion:
+Factors at multiple levels affect whether PLHIV in Cambodia, the Dominican Republic, and Uganda report resilience. Multilevel interventions are required to promote resilience among PLHIV, and should incorporate efforts to reduce internalized stigma and promote supportive structural/legal environments including broader awareness of legal protections for PLHIV.

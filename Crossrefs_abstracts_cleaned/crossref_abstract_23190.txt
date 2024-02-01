@@ -1,0 +1,12 @@
+Abstract
+Background
+The global coronavirus disease 2019 (COVID-19) has caused many negative effects on physical and mental health of patients who have survived COVID-19. Apart from some long-lasting physical sequelae, those COVID-19 survivors are also suffering stigma and discrimination at different levels around the world. The current study aims to assess the role resilience played in stigma and mental disorders among COVID-19 survivors.
+
+Methods
+The cross-sectional study was carried out among former COVID-19 patients in Jianghan District (Wuhan, China) from June 10 to July 25, 2021. The demographic questions, the Impact of Events Scale-Revised, the Generalized Anxiety Disorder Questionnaire, the Patient Health Questionnaire, the Resilience Style Questionnaire and the Short Version of COVID-19 Stigma Scale of 12 items were used to collect relevant information of the participants. Descriptive analyses, Pearson correlation analysis and Structural Equation Modeling were used to make data description and analysis.
+
+Results
+A total of 1541 out of 1601 COVID-19 survivors (887 females and 654 males) were included in the analysis. Perceived stigma of those COVID-19 survivors correlates significantly with anxiety (r = 0.335, P < 0.001), depression (r = 0.325, P < 0.001) and post-traumatic stress disorder (PTSD) (r = 0.384, P < 0.001). It has a direct effect on COVID-19 survivors’ anxiety (β = 0.326, P < 0.001), depression (β = 0.314, P < 0.001), PTSD (β = 0.385, P < 0.001) and their resilience (β = − 0.114, P < 0.01). Resilience partially mediated the association between perceived stigma and anxiety (β = 0.020, P < 0.01), depression (β = 0.020, P < 0.01), and PTSD (β = 0.014, P < 0.01) among COVID-19 survivors.
+
+Conclusion
+Stigma has a significant negative impact on mental health, while resilience plays a mediator role in the relationship between stigma and mental health among COVID-19 survivors. Based on our study, we suggested that when designing psychological interventions for COVID-19 survivors, consideration should be taken into account to reduce stigma and improve resilience.

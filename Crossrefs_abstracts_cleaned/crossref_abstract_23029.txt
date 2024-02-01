@@ -1,0 +1,13 @@
+
+            Patients with advanced cancers who either do not experience initial response to or progress while on immune checkpoint inhibitors (ICIs) receive salvage radiotherapy to reduce tumor burden and tumor-related symptoms. Occasionally, some patients experience substantial global tumor regression with a rebound of cytotoxic CD8
+            +
+            T cells. We have termed the rebound of cytotoxic CD8
+            +
+            T cells in response to salvage therapy as T cell resilience and examined the underlying mechanisms of resilience. Resilient T cells are enriched for CX3CR1
+            +
+            CD8
+            +
+            T cells with low mitochondrial membrane potential, accumulate less reactive oxygen species (ROS), and express more malic enzyme 1 (ME1). ME1 overexpression enhanced the cytotoxicity and expansion of effector CD8
+            +
+            T cells partially via the type I interferon pathway. ME1 also increased mitochondrial respiration while maintaining the redox state balance. ME1 increased the cytotoxicity of peripheral lymphocytes from patients with advanced cancers. Thus, preserved resilient T cells in patients rebound after salvage therapy and ME1 enhances their resiliency.
+          

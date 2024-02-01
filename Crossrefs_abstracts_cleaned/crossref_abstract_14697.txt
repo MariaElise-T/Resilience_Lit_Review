@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to investigate the impact of environmental scanning on organizational resilience through the mediation of organizational learning and innovation based on organizational information processing theory (OIPT) within Egyptian small and medium enterprises (SMEs) during the COVID-19 pandemic.
+
+
+Design/methodology/approach
+This study adopted a cross-sectional design to collect the data used to carry out mediation analysis. A self-administered questionnaire was used to collect data from a sample consisting of 249 Egyptian SMEs. The smart partial least square structural equation modeling (PLS-SEM) technique was adopted to test the hypotheses.
+
+
+Findings
+Environmental scanning does not have a direct effect on organizational resilience. However, organizational learning and innovation fully mediate the relationship between environmental scanning and organizational resilience.
+
+
+Research limitations/implications
+The sample size was small, covering only Egyptian manufacturing SMEs. The results may differ in the service sector and other countries. The study was cross-sectional which is limited to tracing the long-term effects of environmental scanning, organizational learning and innovation on organizational resilience. Accordingly, a longitudinal study may be undertaken.
+
+
+Practical implications
+Managers in Egyptian SMEs should use signals from environmental scanning activities as input for learning and transforming business processes through innovation to develop organizational resilience.
+
+
+Originality/value
+This study is the first to investigate the role of environmental scanning in building organizational resilience through organizational learning and innovation based on the perspective of OIPT within Egyptian SMEs during the COVID-19 crisis.

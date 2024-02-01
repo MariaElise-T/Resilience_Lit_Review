@@ -1,0 +1,16 @@
+Abstract
+Background
+Women with vulvar neoplasia often complain about physical and psychological distress after surgical treatment. Lack of information and support can influence resilience. Whether an information-related intervention through an advanced practice nurse supports resilience and which other factors affect resilience in women with vulvar neoplasia has never been investigated.
+
+Methods
+The aims of this study were (a) to analyse whether counselling based on the WOMAN-PRO II program causes a significant improvement in the resilience scores of women with vulvar neoplasia compared to written information and (b) to identify the potential predictors of resilience.
+A randomized controlled trial was conducted in women with vulvar neoplasia (n = 49) 6 months after surgical treatment in four Swiss hospitals and one Austrian hospital. Analyses of resilience and its predictors were performed using a linear mixed model.
+
+Results
+Thirty-six women (intervention I, n = 8; intervention II, n = 28) completed the randomized controlled trial. In total, 13 women (26.5%) dropped out of the trial. The resilience score did not differ significantly between the two interventions three and six months after randomisation (p = 0.759). Age (b = .04, p = 0.001), social support (b = .28, p = 0.009), counselling time (b = .03, p = 0.018) and local recurrence (b = −.56, p = 0.009) were identified as significant predictors of resilience in the linear mixed model analyses.
+
+Conclusion
+The results indicate that the WOMAN-PRO II program as single intervention does not cause a significant change in the resilience scores of women with vulvar neoplasia 6 months after surgery. Predictors that promote or minimise resilience have been identified and should be considered when developing resilience programs for women with vulvar neoplasia. A repetition of the study with a larger sample size is recommended.
+
+Trial registration
+The WOMAN-PRO II program was registered in ClinicalTrials.gov NCT01986725 on 18 November 2013.

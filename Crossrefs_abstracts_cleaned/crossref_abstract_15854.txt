@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Vulnerability to sleep deprivation (SD) has been attributed to inter-individual trait-like differences in the ability to sustain vigilance and subjective alertness, which may have distinct neurobiological substrates. We have previously shown that reduced suppression of the Default Mode Network (DMN) during a cognitive task was predictive of global vulnerability to SD. However, little is known about vulnerability to mood decrements during SD and the underlying neurobiological mechanisms. Using voxel-based morphometry (VBM), we assessed structural differences in gray matter volume (GMV) of a region of the anterior DMN, the medial prefrontal cortex and its association with self-reported mood during 29 hours of SD.
+
+
+Methods
+45 healthy participants (23 male; Ages 20-43) underwent 3T structural magnetic resonance imaging (MRI). Within 4 days, participants underwent an overnight SD session (29 hours awake total) which included hourly mood assessments with several visual analog mood scales (VAMS) assessing positive and negative affect. Hourly VAMS data were converted into a comparative metric of percent worsening of mood scores from 19:00 until noon the next day. These scores were averaged to determine a “mood resilience” score, with higher scores indicating greater mood sustainment. Using SPM12, the mean mood resilience scores were correlated with whole-brain gray matter volume, restricted to the medial prefrontal cortex, p&lt;.05, FWE corrected, with a cluster threshold of 137 voxels.
+
+
+Results
+Overnight mood resilience was significantly correlated with greater grey matter volume in right rostral medial prefrontal cortex (p&lt;.05, corrected; k=137).
+
+
+Conclusion
+Individuals with greater gray matter volume within a circumscribed region of the right medial prefrontal cortex demonstrated greater resilience to mood degradation over 29 hours of continuous wakefulness. This same region of the brain has been shown to be critical for the passive maintenance of emotions. We speculate that greater GMV could protect against mood decline by better sustaining emotional state during SD.
+
+
+Support
+Defense Advanced Research Projects Agency Young Faculty Award: DARPA-12-12-11-YFA11-FP-029

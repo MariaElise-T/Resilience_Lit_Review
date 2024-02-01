@@ -1,0 +1,16 @@
+Abstract
+
+Purpose
+Investigate the association between perceived resilience and academic and social concerns expressed by children and adolescents following concussion.
+
+
+Methods
+This prospective cohort study at North Texas Concussion Registry (CONTEX) clinics included 330 participants aged 5 to 17 diagnosed with concussion. At an initial clinical visit, patients completed the Brief Resilience Scale (BRS) to measure self-perceived pre-injury resilience. Patients were categorized into Low (BRS=1.00-2.99), Average (BRS=3.00 to 4.30), and High (BRS=4.31- 5.00) resilience groups. Participants completed the Concussion Learning Assessment and School Survey (CLASS) 3 months after enrollment. Specific academic/social concerns measured by the CLASS were categorized as either "no concern/stress" or "some level of concern/stress.” Chi-square analysis was used to investigate the association between initial pre-injury resilience and concern/stress.
+
+
+Results
+Higher resilience was associated with less concern about the injury affecting school learning and performance (χ2(2,329)= 11.65, p=.003), less stress regarding support at home from parents/siblings (χ2(2,330)= 8.60, p=.014), less stress from being overwhelmed by schoolwork piling up (χ2=9.46, p=.009) and grades dropping (χ2(2,330)= 13.29, p=.001). Lower resilience was associated with greater stress from missing time with friends and/or social activities (χ2(2,330)=8.37 p=.015) and not having enough support from teachers (χ2(2,330)=8.49, p=.014).
+
+
+Conclusions
+Resilience may be associated with academic and social concerns in children and adolescents with concussion. Children with a higher perceived resilience may have better outcomes in terms of their academic and social concerns following concussion. Further studies are necessary to confirm these findings and determine the potential clinical implications.

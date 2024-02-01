@@ -1,0 +1,23 @@
+
+Background:
+Empirically derived and tested models are necessary to develop effective, holistic interventions to improve positive health outcomes in adolescents and young adults (AYA) with cancer, yet few exist. This article is the second of 2 articles reporting on evaluation of the Resilience in Illness Model (RIM) as a predictive model to guide positive health research and practice.
+
+
+Objective:
+The aim of this study was to report the confirmatory model evaluation of the RIM.
+
+
+Methods:
+A confirmatory evaluation of RIM was done using baseline data from a sample of 113 AYA aged 11 to 24  years who were undergoing hematopoietic stem cell transplant and enrolled in a randomized controlled trial of a behavioral intervention to enhance resilience. Data were analyzed using latent variable structural equation modeling.
+
+
+Results:
+Goodness-of-fit indices supported RIM as a confirmed model that accounted for large amounts of variance in the outcomes of self-transcendence (62%) and resilience (72%), and in 3 of 5 mediators, specifically social integration (74%), courageous coping (80%), and hope-derived meaning (87%), as well as small to moderate amounts of variance in the remaining mediators of defensive coping (1%) and family environment (35%).
+
+
+Conclusions:
+Findings establish the RIM as a plausible predictive framework for explaining ways AYA with cancer transcend their illness and achieve resilience resolution and for guiding intervention studies in this population. Additional research is needed to explore RIM’s transferability based on stage of illness, other chronic diseases, and cultural diversity.
+
+
+Implications for Practice:
+Results support the RIM as an appropriate guide for developing and evaluating interventions to foster positive adjustment in AYA with cancer.

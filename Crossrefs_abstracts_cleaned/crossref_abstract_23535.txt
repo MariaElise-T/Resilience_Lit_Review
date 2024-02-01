@@ -1,0 +1,26 @@
+ABSTRACT
+
+            Gram-positive bacteria are ubiquitous and diverse microorganisms that can survive and sometimes even thrive in continuously changing environments. The key to such resilience is the ability of members of a population to respond and adjust to dynamic conditions in the environment. In bacteria, such responses and adjustments are mediated, at least in part, through appropriate changes in the bacterial transcriptome in response to the conditions encountered. Resilience is important for bacterial survival in diverse, complex, and rapidly changing environments and requires coordinated networks that integrate individual, mechanistic responses to environmental cues to enable overall metabolic homeostasis. In many Gram-positive bacteria, a key transcriptional regulator of the response to changing environmental conditions is the alternative sigma factor σ
+            B
+            . σ
+            B
+            has been characterized in a subset of Gram-positive bacteria, including the genera
+            Bacillus
+            ,
+            Listeria
+            , and
+            Staphylococcus
+            . Recent insight from next-generation-sequencing results indicates that σ
+            B
+            -dependent regulation of gene expression contributes to resilience, i.e., the coordination of complex networks responsive to environmental changes. This review explores contributions of σ
+            B
+            to resilience in
+            Bacillus
+            ,
+            Listeria
+            , and
+            Staphylococcus
+            and illustrates recently described regulatory functions of σ
+            B
+            .
+          

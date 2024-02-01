@@ -1,0 +1,20 @@
+ABSTRACT
+
+Background 
+Burnout is a serious concern in graduate medical education. While enhancing resilience in trainees is considered beneficial, there are few studies showing successful interventions.
+
+
+Objective 
+We developed and implemented a curriculum to teach resilience skills to internal medicine (IM) residents.
+
+
+Methods 
+Our resilience curriculum focused on 4 small group skill-building workshops: setting realistic goals, managing expectations, letting go after stressful clinical events, and finding gratitude. All sessions were delivered by a chief resident during dedicated teaching time, and combined lectures, group discussions, reflection, and simulated skill-building exercises. Participants were assessed before and after the curriculum using the Connor-Davidson Resilience Scale.
+
+
+Results 
+Over a period of 2 years, 81 interns participated; 75% (61 of 81) responded prior to participating in the curriculum, and 79% (64 of 81) responded after participation. The majority thought sessions should continue the following year (75%, 48 of 64). Postsession, participants were more comfortable talking about stress and burnout (70%, 44 of 63), were more comfortable talking about medical errors (73%, 46 of 63), and had learned new ways to approach challenges (64%, 41 of 64). Mean resilience scores were lower after the curriculum (72.54 ± 10.18 versus 68.65 ± 10.14, P = .034). Feedback from participants indicated that the sessions fostered a sense of togetherness among peers and provided them with an additional support system.
+
+
+Conclusions 
+Small group resilience workshops were feasible over 2 years and well received by IM interns, who noted gaining new skills to approach challenges. There was no improvement in resilience scores after the sessions.

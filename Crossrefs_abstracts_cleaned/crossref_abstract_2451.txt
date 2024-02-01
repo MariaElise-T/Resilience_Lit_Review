@@ -1,0 +1,15 @@
+
+Purpose
+Tehran’s health-care system is growing, yet it lacks emergency planning procedures. The premise of this study is that the urban environment around a hospital is just as robust as the hospital itself. This study aims to look at hospital resilience in an urban setting to see where it may be improved to keep the hospital operational during a disaster.
+
+
+Design/methodology/approach
+The urban resilience (UR) of Amir-Alam Hospital was analyzed in this study using a customized version of the United Nations Office for Disaster Risk Reduction’s City Resilience Profiling Tool. The 34 indications were broken down into five categories.
+
+
+Findings
+The result revealed that the hospital’s UR score was 51.75 out of 100, indicating medium resilience. The results of this study enable the decision-makers to determine what measures they may take to improve the hospital’s resilience in terms of its surrounding urban context.
+
+
+Originality/value
+The originality of this research is based on the surrounding urban environment’s resilience as an integral part of hospital resilience.

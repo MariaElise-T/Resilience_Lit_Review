@@ -1,0 +1,10 @@
+Significance
+
+            Forkhead box P3
+            +
+            (Foxp3
+            +
+            ) regulatory T cells (Tregs) are important for maintaining immune homeostasis and tolerance. The pivotal role of Tregs in immune tolerance demands that they possess a dedicated molecular machinery to maintain stable Foxp3 expression when challenged by an inflammatory environment. Whereas epigenetic mechanisms acting on the
+            foxp3
+            locus have been extensively implicated in Tregs’ stable expression of Foxp3, the detailed molecular machinery remains elusive. In this study, we show that methyl-CpG binding protein 2 (MeCP2), an X-linked multifunctional epigenetic regulator, is a crucial player in the epigenetic machinery that confers Tregs with resilience against inflammation. Our study provides, to our knowledge, the first mechanistic description by which MeCP2, a molecule best known for its function in the central nervous system, regulates Treg function and immune tolerance.
+          

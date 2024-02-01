@@ -1,0 +1,16 @@
+Abstract
+
+Background
+There is increasing acknowledgment that medical training is stressful for students and can impact their well-being. An important aspect of this is self-determination and basic psychological need satisfaction. A better understanding of how medical student perceptions of the learning environment impacts their basic psychological needs for motivation, resilience, and well-being may help to create learning environments that support the needs of medical students and help them become better healthier physicians. We aim to add to the literature on this topic by examining this relationship through the lens of Self-Determination Theory.
+
+
+Methods
+A total of 400 students from all 4 years of the medical program at our institution were invited to complete an anonymous online survey, measuring basic need satisfaction/frustration (autonomy, competence, relatedness) within the learning environment, resilience, and psychological well-being. We used analysis of variance to assess the effect of gender, age, and year on all variables, with t-tests to compare subgroups. Structural equation modelling was performed to test a hypothesized model in which support of medical students’ basic needs would positively relate to their resilience and well-being.
+
+
+Results
+The response rate was 183/400 (46%). After data cleaning, 160 remained: 67 males (42%) and 93 females (58%). There were 67 first years (42%), 35 second years (22%), 30 third years (19%), and 28 fourth years (18%). The sample mean age was 25.8 years (SD = 4.1). A well-fitting model was confirmed to fit the data, χ2 = 3.15, df = 3, p = 0.369, RMSEA = 0.018, SRMR = 0.022, CFI = 0.999. Autonomy and relatedness satisfaction exerted direct effects on well-being. Competence satisfaction did so indirectly, through its direct effect on resilience. Female medical students had lower resilience scores compared to their male peers.
+
+
+Conclusions
+When medical students perceived their learning environment as supportive to their basic needs, it was associated with an increase in their psychological well-being. Satisfaction of competence, but not autonomy or relatedness, predicted an increase in their resilience. Fostering medical students’ basic needs for motivation, especially competence, is recommended to support their resilience and well-being. Further research is required to generalize these results further.

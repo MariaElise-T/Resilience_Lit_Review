@@ -1,0 +1,16 @@
+ABSTRACT
+
+Introduction
+Research indicates that military service involves stressors that may be related to depression. However, the military provides financial, educational, psychological, and social advantages that may help to mitigate the effects of service-related stressors. Because most prior research was based on cross-sectional data or small clinical samples, we explored individual-level trajectories of depression over time.
+
+
+Methods
+Data came from the restricted-use version of the National Longitudinal Study of Adolescent to Adult Health (Add Health) in four survey waves from 1994 to 2008, with a total of 1,112 service members, of whom 231 were female, and a total sample size of 13,544. Statistical estimation employed the multilevel growth curve modeling approach.
+
+
+Results
+Individuals who later served in the military had lower rates of depression than their civilian counterparts at year 1 of the study, and rates of depression decreased consistently for both groups throughout the study. Service members ended up with the same level of depression compared to civilians (year 14). Sex, race and parental education were unrelated to depression, and no evidence was found for the hypothesis that the military functions as a “bridging environment” to reduce depression by providing a more attractive alternative compared to civilian life.
+
+
+Conclusions
+Individuals who were less depressed at year 1 of the study were more likely to enlist into the military. While both civilians and service members displayed decreasing depression over the years of the study, military members had less decrease in depression over time beginning at a lower level of depression than civilian. Taken together, the minor differences in depression between the civilian and military samples and the lower level of depression among military members at the beginning of the study suggest that military service selects against higher levels of depression at the start of service and, given the known stressors related to the military, membership in the service may be associated with resilience to depression.

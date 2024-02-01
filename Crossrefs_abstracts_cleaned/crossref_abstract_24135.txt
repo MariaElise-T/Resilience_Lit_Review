@@ -1,0 +1,12 @@
+Abstract
+Background
+The present study is intended to examine the multiple mediating roles of sleep quality and depression in the relationship between psychological resilience and quality of life in middle-aged and older adults hospitalized with chronic diseases.
+
+Methods
+From October 2, 2021, to February 27, 2022, a questionnaire survey was conducted using a multistage stratified sampling method among 339 middle-aged and older adults (45 years and over) hospitalized with chronic diseases. These participants were recruited from a hospital in Zhejiang Province, China. The questionnaire included the Aged Cumulative Disease Rating Scale, the Psychological Resilience Scale, the Pittsburgh Sleep Quality Index Scale, the Depression Scale, and the Quality-of-Life Scale. A descriptive analysis was performed to characterize the sample. Linear regression was utilized to evaluate the relationship between psychological resilience and quality of life. Amos 24.0 was used to analyze the multiple mediated effects of sleep quality and depression.
+
+Results
+Psychological resilience exerted a remarkable direct effect on the quality of life in middle-aged and older adults hospitalized with chronic diseases (β = 0.239, 95% CI = 0.125–0.354), which represented 52.98% of the total effect. Through three significantly mediated pathways indirectly affect the quality of life: (1) through the sleep quality pathway (β = 0.115, 95% CI = 0.056–0.201), which represented 25.39% of the total effect; (2) through the depression pathway (β = 0. 060, 95% CI = 0.023–0.114), which represented 13.24% of the total effect; and (3) through both the sleep quality and depression pathway (β = 0. 038, 95% CI = 0.019–0.074), which represented 8.39% of the total effect. The total mediating effect was 47.02%.
+
+Conclusions
+Sleep quality and depression mediate the relationship between psychological resilience and quality of life in middle-aged and older adults hospitalized with chronic diseases. Therefore, healthcare professionals and stakeholders should be concerned about the sleep status and mental health of middle-aged and older adults hospitalized with chronic diseases, strengthen their attention to psychological resilience, and provide interventions and treatment measures for hospitalized patients who have sleep problems and depressive tendencies.

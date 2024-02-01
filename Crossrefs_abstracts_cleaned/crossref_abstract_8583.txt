@@ -1,0 +1,23 @@
+
+Purpose
+The SARS-CoV-2 pandemic has had severe effects on economies worldwide and, in particular, on public institutions that must keep their operations running while supply chains are interrupted. The purpose of this study is to examine how public institutions act during a pandemic to ensure the security of supply.
+
+
+Design/methodology/approach
+The distinct focus is if, why and how public institutions have adopted additive manufacturing (AM) – a production technology colloquially known as three-dimensional printing in which a product is created by joining raw material layer by layer based on a digital model (computer-aided design [CAD] file) of the product – in reaction to supply disruptions caused by the SARS-CoV-2 pandemic. For this purpose, four cases within the context of the pandemic supply disruption are used as the units of analysis.
+
+
+Findings
+The findings are twofold: public institutions reacted, on the one hand, with a behavioral solution approach, trying to solve the supply disruption with new or changed forms of cooperation and collaboration. On the other hand, public institutions used a technical solution approach (TSA) as a supply disruption response and intensified their use of AM.
+
+
+Research limitations/implications
+This research derives an implications model that focuses on the TSA. Considering the ex ante and ex post phases of the disruption, several effects of AM on resilience are identified. The most relevant is the long-term learning effect (i.e. AM data created during this disruption might also help in a new disruption).
+
+
+Practical implications
+Practitioners who act under extreme pressure and uncertainty are informed by cases that have managed to close bottleneck situations with either a behavioral or TSA. Specific strategies are given for how public buyers could use AM within a pandemic situation to mitigate supply bottlenecks, such as increasing their robustness by localizing sourcing and increasing agility by combining traditional and additive supply sources. Additionally, insights are provided into how public organizations can increase their level of preparedness by including disruption paragraphs, establishing CAD databases, in contract clauses and keeping reserve contracts with AM service providers.
+
+
+Originality/value
+This research contrasts behavioral and technical solution concepts for a pandemic in the public sector. Thus, it provides insights into the relative benefits of AM and causes and effect with regard to how AM affects supply robustness and agility.

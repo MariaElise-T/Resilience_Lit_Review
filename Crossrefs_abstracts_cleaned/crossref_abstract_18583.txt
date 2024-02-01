@@ -1,0 +1,12 @@
+Abstract
+Background
+COVID-19 has caused significant public health problems globally, with catastrophic impacts on health systems. This study explored the adaptations to health services in Liberia and Merseyside UK at the beginning of the COVID-19 pandemic (January–May 2020) and their perceived impact on routine service delivery. During this period, transmission routes and treatment pathways were as yet unknown, public fear and health care worker fear was high and death rates among vulnerable hospitalised patients were high. We aimed to identify cross-context lessons for building more resilient health systems during a pandemic response.
+
+Methods
+The study employed a cross-sectional qualitative design with a collective case study approach involving simultaneous comparison of COVID-19 response experiences in Liberia and Merseyside. Between June and September 2020, we conducted semi-structured interviews with 66 health system actors purposively selected across different levels of the health system. Participants included national and county decision-makers in Liberia, frontline health workers and regional and hospital decision-makers in Merseyside UK. Data were analysed thematically in NVivo 12 software.
+
+Results
+There were mixed impacts on routine services in both settings. Major adverse impacts included diminished availability and utilisation of critical health services for socially vulnerable populations, linked with reallocation of health service resources for COVID-19 care, and use of virtual medical consultation in Merseyside. Routine service delivery during the pandemic was hampered by a lack of clear communication, centralised planning, and limited local autonomy. Across both settings, cross-sectoral collaboration, community-based service delivery, virtual consultations, community engagement, culturally sensitive messaging, and local autonomy in response planning facilitated delivery of essential services.
+
+Conclusion
+Our findings can inform response planning to assure optimal delivery of essential routine health services during the early phases of public health emergencies. Pandemic responses should prioritise early preparedness, with investment in the health systems building blocks including staff training and PPE stocks, address both pre-existing and pandemic-related structural barriers to care, inclusive and participatory decision-making, strong community engagement, and effective and sensitive communication. Multisectoral collaboration and inclusive leadership are essential.

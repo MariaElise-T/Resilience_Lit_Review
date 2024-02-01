@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+Global policy emphasizes the need to promote healthy aging through supporting inclusivity, safety, and functional independence. Research indicates that efforts to enhance resilience can contribute to meeting these objectives. We employed a meta-analytical approach to examine evidence on resilience in community-living older adults.
+
+
+Research Design and Methods
+We searched electronic databases until January 13, 2020 for observational studies investigating factors associated with resilience in this population. Articles had to provide quantitative data based on standardized assessment and include samples where mean participants’ age and lower 95% confidence interval were more than 55 years. We included 49 studies reported in 43 articles and completed 38 independent meta-analyses, 27 for personal and 11 for contextual factors associated with resilience.
+
+
+Results
+A range of personal and contextual factors were significantly associated with resilience, with effects sizes predominantly small to moderate (0.1 &lt; r &lt; 0.49). Factors reflecting psychological and physical well-being and access to/quality of social support were associated with higher resilience. Factors indicative of poorer psychological well-being and social challenges were associated with lower resilience. Longitudinal evidence was limited. The level of between-study heterogeneity was substantial to considerable. Where relevant analysis was possible, the identified publication bias was also considerable.
+
+
+Discussion and Implications
+The quality of the available evidence, as well as issues related to measurement of resilience, indicates the need for further work relative to its conceptualization and assessment. The presented findings have important clinical implications, particularly within the context of the coronavirus disease 2019 impact on resilience in older adults.

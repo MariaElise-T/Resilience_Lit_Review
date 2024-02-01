@@ -1,0 +1,40 @@
+
+Background
+Recent estimates suggest around 14% of 11–16 years in England have a
+                     mental health problem. However, we know very little about the extent and nature
+                     of mental health problems among diverse groups in densely populated inner
+                     cities, where contexts and experiences may differ from the national
+                     average.
+
+
+Aims
+To estimate the extent and nature of mental health problems in inner city
+                     London, overall and by social group, using data from our school-based
+                     accelerated cohort study of adolescent mental health, Resilience, Ethnicity and
+                     AdolesCent Mental Health.
+
+
+Methods
+Self-report data on mental health (general mental health, depression,
+                     anxiety, self-harm) were analysed (n, 4353; 11–14 years, 85% minority ethnic
+                     groups). Mixed models were used to estimate weighted prevalences and adjusted
+                     risks of each type of problem, overall and by gender, cohort, ethnic group and
+                     free school meals (FSM) status.
+
+
+Results
+The weighted prevalence of mental health problems was 18.6% (95% CI 16.4%
+                     to 20.8%). Each type of mental health problem was more common among girls
+                     compared with boys (adjusted risk ratios: mental health problems, 1.33, 95% CI
+                     1.18 to 1.48; depression, 1.52, 1.30 to 1.73; anxiety, 2.09, 1.58 to 2.59,
+                     self-harm, 1.40, 1.06 to 1.75). Gender differences were more pronounced in
+                     older cohorts compared with the youngest. Mental health problems (1.28, 1.05 to
+                     1.51) and self-harm (1.29, 1.02 to 1.56)—but not depression or anxiety—were
+                     more common among those receiving (vs not receiving) FSM. There were many
+                     similarities, with some variations, by ethnic group.
+
+
+Conclusions
+Adolescent mental health problems and self-harm are common in inner city
+                     London. Gender differences in mental health problems may emerge during early
+                     adolescence.

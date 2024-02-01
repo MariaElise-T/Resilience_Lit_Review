@@ -1,0 +1,19 @@
+
+Background
+Digital health services can serve as scalable solutions to address the growing demand for mental health care. However, more research is needed to better understand the association between engagement with care and improvements in subclinical outcomes.
+
+
+Objective
+This study aims to fill this research gap by examining the relationship between members’ engagement with the Ginger platform and changes in their psychological resilience.
+
+
+Methods
+We conducted a retrospective observational study of 3272 members who accessed Ginger, an on-demand mental health service, between January 2021 and November 2021. Each member completed the 10-item Connor-Davidson Resilience Scale questionnaire, a measure of psychological resilience, at baseline and again during a 6- to 16-week follow-up window. Depression and anxiety symptoms (9-item Patient Health Questionnaire and 7-item Generalized Anxiety Disorder) were also measured. Linear regression was used to identify the association between engagement with Ginger’s multiple care modalities and changes in resilience. Moderator analysis was conducted to test whether clinical depression or anxiety at baseline moderated the relationship between engagement level and changes in resilience.
+
+
+Results
+Of the 3272 members, 2683 (82%) reported low resilience at baseline. The mean change in resilience was 0.77 (SD 5.50) points. Linear regression models showed that age and census region did not predict changes in resilience; however, male members showed larger improvements (coefficient=0.58; P=.04). Baseline mental health outcomes, including resilience and depression and anxiety symptoms, were strong predictors of changes in resilience. Every point decrease in baseline resilience is associated with a 0.28-point increase in change in resilience (P<.001), and members with no or mild depression and anxiety at baseline saw changes in resilience that were 1.44 points (P<.001) larger than their clinical counterparts. Engagement with the Ginger system predicted changes in resilience. Members who engaged with Ginger coaching, clinical services, or both improved their resilience by 1.82, 1.55, and 1.40 points, respectively (P<.001), more than those who only engaged with Ginger content. Screening negative for moderate to severe depression and anxiety at baseline was associated with larger improvements in resilience (coefficient=1.30; P<.001); however, subclinical status was not shown to be a moderator for the association between level of engagement and changes in resilience.
+
+
+Conclusions
+Engagement with Ginger services was associated with improvements in resilience. Members who engaged in coaching or clinical care had significantly larger improvements compared with those who only engaged in self-guided content, regardless of whether a member screened positive for clinical depression or anxiety at baseline.

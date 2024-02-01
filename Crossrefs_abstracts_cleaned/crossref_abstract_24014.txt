@@ -1,0 +1,16 @@
+
+Background:
+            Despite evidence supporting the overall efficacy of mechanical thrombectomy (MT) in acute ischemic stroke (AIS) due to large vessel occlusion (LVO) of the anterior circulation, it is unclear whether the treatment effect of MT differs by sex in different populations. We assessed the impact of sex differences in the treatment effect of MT in the RESILIENT trial.
+          
+
+Methods:
+            RESILIENT was a prospective, multicenter, randomized phase III trial that was designed to assess the safety, efficacy, and cost-effectiveness of mechanical thrombectomy as compared to medical treatment alone in patients treated under the less than ideal conditions typically found in the public healthcare system of a developing country.
+          
+
+Results:
+            Among 221 patients enrolled in the trial, 104 (47,1%) were female. Baseline characteristics were well balanced between sexes, except for a higher prevalence of hypertension (76% vs. 57.4%; p=0.004) and diabetes (34.3% vs. 21.7%; p=0.039) and a lower frequency of alcohol abuse (4% vs. 28.9%; p=0.001) in females. After adjustment for baseline characteristics, we found a significant interaction (p=0.026) between sex and the effect of MT with a lower efficacy of MT for functional independency at 90 days among women (aOR=1.13;95%CI:0.42-3.02) compared to men (aOR=4.78; 95%CI:1.88-12.15).
+          
+
+Conclusions:
+            In our study population of patients with AIS caused by LVO of the anterior circulation, women were less likely to benefit from MT than men. Further studies are necessary to investigate these findings.
+          

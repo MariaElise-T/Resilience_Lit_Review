@@ -1,0 +1,16 @@
+
+Objectives
+Breast cancer is the most challenging disease, and the level of resilience in patients determines their ability to cope with the arising stress. There is relatively limited information on the resilience of patients in clinical settings. Our study aims were to evaluate the extent of resilience and identify factors that predict resilience in women with breast cancer.
+
+
+Patients and methods
+A cross-sectional study was conducted with the participation of 218 women with breast cancer who were referred to the Oncology clinic in 2022. The participants completed three scales, namely the Conner-Davidson Resilience, Schneider’s Life Expectancy, and the Multidimensional Scale of Perceived Social Support, along with sociodemographic information. Descriptive statistics, bivariate, and multiple linear regression were used to explore the predictors of resilience.
+
+
+Result
+The mean (SD) scores for resilience, social support, and hope were 59.22 (17.25), 38.53 (6.19), and 59.37 (16.68), respectively. Based on analysis 50.8% of the variations in resilience could be explained by 6 variables including social support, hope, women’s age, employment, and income status as well as the stage of illness (R2
+adj = 0.508, P < 0.001). Employment status and disease stage did not show a significant relationship with resilience and social support was the factor with the highest impact on resilience (β = 0.516, P < 0.001).
+
+
+Conclusion
+Our study showed social support, hope, age, and income level predict significant resilience in women with breast cancer. The findings emphasize the importance of fostering strong support networks, cultivating a hopeful mindset, embracing life’s transitions, and addressing financial considerations in the pursuit of enhanced resilience.

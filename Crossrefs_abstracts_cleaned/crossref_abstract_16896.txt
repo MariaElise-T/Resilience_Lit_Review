@@ -1,0 +1,20 @@
+
+Introduction:
+            Annual age-adjusted incidence and death rates for stroke are significantly higher among Black Americans than among White Americans. Racism, which operates at structural, cultural and interpersonal levels, exerts significant stress on Black Americans and contributes to health disparities, including those related to stroke. Health-related quality of life (HRQoL) encompasses an individual’s self-perception of physical, mental, and social health. The combined effects of racism, stroke-related stress, and psychosocial stressors can result in negative outcomes, including poor HRQoL for Black stroke survivors. Resilience refers to maintaining relatively stable, healthy psychological and physical functioning in the aftermath of a stressful event like stroke. The purpose of this study will be to examine the effects of racism, resilience, and key psychosocial variables on Black stroke-survivor HRQoL.
+          
+
+Hypothesis:
+            We hypothesize racism and lower resilience will be associated with lower HRQoL.
+          
+
+Methods:
+            We will conduct a mixed-methods cohort study to examine the effects of racism and resilience on HRQoL of Black stroke survivors recruited from a stroke clinic in a large metropolitan area in the southeast US. Adult community-dwelling stroke survivors who self-identify as Black or African American and who have experienced a stroke event in the past 1 to 2 months will be eligible for study inclusion. Baseline quantitative data collection will occur at the initial clinic visit, with follow-up data collection at 5 to 6 months’ post-stroke. The exposure variables will be racism and resilience, and the outcome variable will be physical, mental, and social HRQoL. Qualitative data will be collected via focus groups. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines will be followed to report study results.
+          
+
+Results:
+            Power calculations for a two-tailed linear regression analysis with α ≤ .05, β .80, and an effect size of .15 (medium) resulted in a required sample size of 68. Our targeted sample size of 82 participants (41 males and 41 females) accounts for an attrition rate of 20%. The statistical approach to test the direct effects of each exposure variable on HRQoL will be multiple-level models. An interaction term for resilience will be included in the racism model. Qualitative data will be audio recorded, transcribed, and analyzed for themes regarding racism and resilience.
+          
+
+Conclusions:
+            Studies of the effects of racism on outcomes for Black stroke survivors are largely absent. This study will provide a first step toward identifying Black stroke survivors at risk for poor HRQoL in early stroke recovery.
+          

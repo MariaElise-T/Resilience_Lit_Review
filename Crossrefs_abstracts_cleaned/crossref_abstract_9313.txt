@@ -1,0 +1,14 @@
+Abstract
+Background
+Resilience refers to the process through which individuals deal with the adversity they experience. Previous research has shown there are multiple factors that contribute to individuals’ resilience, leading to increasing interest in the development of multidimensional resilience models. Once such recently proposed model is The Resilience Shield, which clusters groups of protective factors into different shield layers. The stronger these layers, the better the protection against adversity (Pronk et al. in The Resilience Shield, Pan Macmillan Australia, 2021). While this model was based in part on existing literature, no empirical evaluation has occurred to date. The aim of this study was therefore to evaluate the model fit for each of the modifiable shield layers and the overall model, and to examine whether each of the constructs included contributes to observed resilience scores.
+
+
+Methods
+Participants completed a series of questionnaires via The Resilience Shield website assessing constructs relevant to each resilience shield layer. Data from 3337 participants was analysed using Structural Equation Modelling and regression analyses.
+
+
+Results
+The results showed acceptable fit of the measurement model for the Social, Mind, and Professional Layers, but poor fit for the Body Layer. There was also good fit for the overall model. In addition, all but one of the constructs included in The Resilience Shield survey explained independent variance in either dispositional resilience scores, or dispositional vulnerability scores.
+
+Conclusion
+These results broadly support the multidimensional structure proposed by The Resilience Shield model and suggest that (at least in the population in which it was tested) this may be an acceptable model to index individuals’ performance on a range of indicators that contribute to resilience.

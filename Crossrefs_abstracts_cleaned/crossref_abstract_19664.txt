@@ -1,0 +1,13 @@
+
+BACKGROUND: The COVID-19 pandemic has an impact in various aspects. Learning at all levels of education must continue despite the pandemic; therefore, the learning process is conducted online. It makes that students have limitations in doing activities.
+
+
+AIM: The purpose of this study was to analyze the intelligence spiritual, adversity, and emotional as predictor factors of student resilience in online learning in pandemic era.
+
+
+METHODS: This design used correlation analysis. The population in this study was a student of nursing department in UNUSA. The sampling used was selected randomly 503 students. The dependent variables in this study were spiritual intelligence, adversity, and emotional. Dependent variables are the resilience of students in online learning. The instruments used in this study were the Spiritual Intelligence Self-Report Inventory questionnaire-24 (SISRI-24), Adversity Quotient (AQ), Emotional Intelligence Questionnaire, and Brief Resilience Scale. Data analysis between spiritual intelligence, adversity, and emotional with student resilience is rank Spearman test.
+
+
+RESULT: Spearmen rank correlation test results showed a relationship of spiritual intelligence with resilience (r = 0.680, adversity and resilience student (r = 0.975) and emotional intelligence and resilience (r = 0.635) with a significance of 0.000 (p < 0.05).
+
+CONCLUSION: There was correlation between spiritual intelligence, adversity, and emotional with the resilience of students in online learning in the pandemic era.

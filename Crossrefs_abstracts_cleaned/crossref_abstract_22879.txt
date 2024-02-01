@@ -1,0 +1,12 @@
+Abstract
+Background
+Prenatal anxiety is one of the most prevalent mental disorders during pregnancy. This study assessed the prevalence of prenatal anxiety and examined whether resilience could play the mediating role in the association between self-efficacy and symptoms of prenatal anxiety among pregnant women in China.
+
+Methods
+A nationwide smartphone cross-sectional study was carried out in three cities (Shenyang of Liaoning Province, Zhengzhou of Henan Province and Chongqing Municipality) in China from July 2018 to July 2019. The questionnaire consisted of questions on demographic characteristics, the Generalized Anxiety Disorder Scale (GAD-7), the Chinese version of General Self-efficacy Scale (GSES), and the 14-item Wagnild and Young Resilience Scale (RS-14). A total of 665 pregnant women were recruited in this study. A hierarchical multiple regression model was employed to explore the associate factors and mediators of symptoms of prenatal anxiety. A structural equation model was employed to test the hypothesis that resilience mediates the association between self-efficacy and symptoms of prenatal anxiety.
+
+Results
+The prevalence of symptoms of prenatal anxiety was 36.4% in this study. Self-efficacy was negatively correlated with symptoms of prenatal anxiety (r = -0.366, P < 0.01). Resilience had a significant positive correlation with self-efficacy (r = 0.612, P < 0.01) and had a negative correlation with symptoms of prenatal anxiety (r = -0.427, P < 0.01). The hierarchical multiple regression model indicated that self-efficacy and resilience were the main factors associated with symptoms of prenatal anxiety and contributed to 11.9% and 6.3% to the variance of symptoms of prenatal anxiety, respectively. Resilience served as a mediator between self-efficacy and symptoms of prenatal anxiety (a*b = -0.198, Bias-corrected and accelerated bootstrap 95% Confidence interval: -0.270, -0.126).
+
+Conclusions
+Self-efficacy was a negative predictor of symptoms of prenatal anxiety among pregnant women. Moreover, resilience mediated the relation between self-efficacy and symptoms of prenatal anxiety among pregnant women in China. It was observed in this study that psychological interventions might be beneficial for pregnant women to relieve symptoms of prenatal anxiety through improved self-efficacy and resilience.

@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+To assess the immediate/short-term outcomes of a maqui berry-based nutraceutical (MBN) supplementation on the autonomic nervous system (ANS), resilience level, metabolism and body composition.
+
+
+Methods
+A randomized controlled single-blind study was performed on healthy subjects. Throughout 30 days, one group took 1,000 mg/day of an MBN (Maqui 500®), the control group had no supplementation. On day 0 (T0) and 30 (T3) all subjects performed blood tests, bioimpedance spectroscopy and questionnaires for resilience, perceived stress and short-form 12 (SF12). At T0, 75′ after T0 (T1), on day 7 and at T3 the subjects underwent biometric parameter measurement and heart rate variability (HRV) test to investigate psycho-physical resilience.
+
+
+Results
+Fifteen subjects per group were included; abnormal seasonal high temperatures altered individuals’ lifestyle and nutrition, influencing the trial’s outcomes. Biometric parameters, blood pressure, oxygen saturation and blood tests did not differ between T0 and T3 in both groups. In the MBN group the HRV analysis showed a significant increase of ANS coordination (p=0.05), parasympathetic activity at 75′, very low frequencies and total power at T3, whereas these parameters decreased in the control group. SF12 mental score improved in the maqui group (p=0.02); the questionnaire-based outcomes showed no further variations. In the control subjects bioimpedance showed an increase of resistance and fat mass, with decreased total body water and lean mass (p=n.s.).
+
+
+Conclusions
+The maqui-based nutraceutical improved HRV, namely ANS activation/coordination, and SF12 mental component. Blood tests and bioimpedance/biometric parameters mildly varied. The elapsed hot weather likely biased many investigated variables.

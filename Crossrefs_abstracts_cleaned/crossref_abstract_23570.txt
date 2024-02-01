@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+The disability paradox postulates that some individuals with severe functional limitations demonstrate psychological resilience, that is, good mental health and quality of life. Resilience to disabilities has been linked to psychological (e.g., mastery) and social factors (e.g., social provisions). It is, however, less clear whether cultural factors can provide additional resources for resilience building in older immigrants. We investigated the extent to which sociodemographic, psychosocial, and cultural factors contributed to psychological resilience to disabilities among immigrants of Turkish and Moroccan descent in the Netherlands.
+
+
+Research Design and Method
+The sample included 478 older immigrants aged 55–65 years. Data were analyzed using latent profile analysis and multinomial logistic regressions.
+
+
+Results
+Five categories were identified: (a) High physical and emotional functioning; (b) High physical but poor emotional functioning; (c) Low physical but high emotional functioning (resilient); (d) Low physical and emotional functioning; and (e) Low physical and very low emotional functioning. Resilient functioning (reference category) was associated with poorer Dutch language proficiency, lower levels of loneliness, greater mastery, and more religious coping.
+
+
+Discussion and Implications
+Findings provide support for the disability paradox and highlight social provisions, mastery, and religiosity/spirituality as important resources for psychological resilience in older labor migrants. Poor Dutch language proficiency is discussed as a potential factor contributing to severe functional limitations in the resilient category.

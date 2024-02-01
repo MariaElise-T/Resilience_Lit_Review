@@ -1,0 +1,15 @@
+
+Purpose
+Natural disasters can undermine decades of development and threaten hundreds of lives. Previous research studies highlighted that natural disasters can cripple economic growth of one or many countries. The purpose of this paper is to ask the usefulness of natural disasters governance for macroeconomic performance and countries’ resilience. For that, this research emphasizes on the effects of natural disasters economic damages on the macroeconomic performance.
+
+
+Design/methodology/approach
+The used technique is the unbalanced panel data model which allows testing a big cross-section of population despite when one temporal observation for an individual is unavailable. The methodology focuses on testing the effect of natural disasters’ economic damages upon the main macroeconomic aggregates. For the study relevance, various tests were carried out by taking into account the different levels of development. So, two groups have been studied: developing countries (LDCs group) and developed countries (DCs group).
+
+
+Findings
+Findings point up that the effects of natural disasters’ economic damages differ from aggregate to another. In spite of the differences according to the development levels, effects are more serious for developing countries.
+
+
+Originality/value
+The originality of paper is justified by the lack of empirical studies that have questioned the links between natural disasters, macroeconomic performance and countries’ resilience. Furthermore, this study can be distinguished by the analysis of the effects for various aggregates at once and, in the same time, by allowing the comparison of these impacts by level of development.

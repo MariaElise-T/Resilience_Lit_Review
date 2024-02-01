@@ -1,0 +1,30 @@
+
+Background:
+The Global Navigation Satellite System (GNSS) has great potentials in
+next-generation railway train control systems. Considering the fail-safe characteristics of train control,
+the threat from GNSS interference may result in an increasing likelihood of outages of train
+positioning or even safety risks to the railway system.
+
+
+Objective:
+The interference protection solutions are investigated and demonstrated for achieving the
+resilient train positioning using GNSS.
+
+
+Methods:
+This paper describes the main types of GNSS interference and investigates the impact on
+Location Determination Unit (LDU) in the GNSS-based train control system. Specific architectures
+and solutions for interference detection and protection in both the position domain and measurement
+domain are presented.
+
+
+Results:
+Interference injection simulations are performed with both the GNSS spoofing and jamming
+signals, which evaluate the effects of interferences and demonstrate the protection performance
+of the presented solutions under GNSS attack scenarios.
+
+
+Conclusion:
+The interference protection solutions within both the position domain and measurement
+domain are effective and significant to mitigate the effects from the GNSS interference, which
+enables resilient train positioning to achieve safe train operation.

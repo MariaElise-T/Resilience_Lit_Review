@@ -1,0 +1,2 @@
+Abstract
+A resilience measuring pendulum, where potential energy is stored in elastic form inside a twisted metal wire, rather than in the more customary gravitational form, is described. The device is of very simple construction and use and, applying it to various test piece thicknesses through the use of the mechanical similitude principle, shows a remarkable accuracy.

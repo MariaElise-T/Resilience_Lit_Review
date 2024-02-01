@@ -1,0 +1,9 @@
+Abstract
+Background
+Genotype-by-environment interactions for a trait can be modeled using multiple-trait, i.e. character-state, models, that consider the phenotype as a different trait in each environment, or using reaction norm models based on a functional relationship, usually linear, between phenotype and a quantitative measure of the quality of the environment. The equivalence between character-state and reaction norm models has been demonstrated for a single trait. The objectives of this study were to extend the equivalence of the reaction norm and character-state models to a multiple-trait setting and to both genetic and environmental effects, and to illustrate the application of this equivalence to the design and optimization of breeding programs for disease resilience.
+
+Methods
+Equivalencies between reaction norm and character-state models for multiple-trait phenotypes were derived at the genetic and environmental levels, which demonstrates how multiple-trait reaction norm parameters can be derived from multiple-trait character state parameters. Methods were applied to optimize selection for a multiple-trait breeding goal in a target environment based on phenotypes collected in a healthy and disease-challenged environment, and to optimize the environment in which disease-challenge phenotypes should be collected.
+
+Results and conclusions
+The equivalence between multiple-trait reaction norm and multiple-trait character-state parameters allow genetic improvement for a multiple-trait breeding goal in a target environment to be optimized without recording phenotypes and estimating parameters for the target environment.

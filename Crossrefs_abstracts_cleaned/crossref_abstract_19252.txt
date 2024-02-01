@@ -1,0 +1,12 @@
+Abstract
+Purpose
+Most of the resilience scales were developed for the non-medical population, therefore the purpose of this study was developing and validating a resilience scale for medical professionals – namely Medical Professionals Resilience Scale (MeRS).
+
+Methods
+A questionnaire development and validation study was conducted. The resilience domains and items were identified and generated through a literature review. The content validation was carried out by content experts and the content validity index (CVI) was calculated. The face validation was performed by medical officers and the face validity index (FVI) was calculated. The final MeRS was administered to 167 medical officers, exploratory factor analysis (EFA) and reliability analysis were performed to assess MeRS’s factorial structure and internal consistency.
+
+Results
+Four domains with 89 items of medical professionals’ resilience were developed. Following that, the content and face validation was conducted, and a total of 41-items remained for construct validation. EFA extracted four factors, namely growth, control, involvement, and resourceful, with a total of 37 items. The items’ CVI and FVI values were more than 0.80. The final MeRS’s items had factor loading values ranged from 0.41 to 0.76, and the Cronbach’s alpha values of the resilience domains ranged from 0.72 to 0.89.
+
+Conclusions
+MeRS is a promising scale for measuring medical professionals’ resilience as it showed good psychometric properties. This study provided validity evidence in terms of content, response process, and internal structure that supported the validity of MeRS in the measurement of resilience domains among medical professionals.

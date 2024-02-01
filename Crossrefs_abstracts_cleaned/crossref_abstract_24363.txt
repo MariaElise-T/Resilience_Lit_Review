@@ -1,0 +1,12 @@
+Abstract
+Background
+Knowledge opportunities lie ahead as everyday activities, social participation, and psychological resilience might be important predictors for frailty state transitioning in the oldest old. Therefore, this article aims to examine whether changes in basic-, instrumental-, advanced- activities of daily living (b-, i-, a-ADLs), social participation, and psychological resilience predict both a transition from robustness to prefrailty or frailty and vice versa among community-dwelling octogenarians over a follow-up period of one year.
+
+Methods
+To evaluate worsened and improved frailty transitions after one year in 322 octogenarians (Mage = 83.04 ± 2.78), the variables sex, ADLs (b-ADL-DI, i-ADL-DI, a-ADL-DI as baseline and as difference after 6 months values), the CD-RISC (Connor-Davidson Resilience Scale, as baseline and as difference after 6 months), the social participation variables (total participation score, being a member, total number of memberships, level of social participation, being a board member, volunteering, and formal participation as baseline and as difference after 6 months values), were included in a logistic regression analysis.
+
+Results
+Limitations in a-ADLs at baseline (OR: 1.048, 95% confidence interval, 1.010–1.090) and an increment of limitations in a-ADLs after 6 months (OR: 1.044, 95% confidence interval, 1.007–1.085) were predictors to shift from robust to a worsened frailty state after one year follow-up. Additionally, being a woman (OR: 3.682, 95% confidence interval, 1.379–10.139) and social participation, specifically becoming a board member in 6 months (OR: 4.343, 95% confidence interval, 1.082–16.347), were protectors of robustness and thus related to an improved frailty transition after one year.
+
+Conclusions
+Encouraging healthy lifestyle behaviors to help the maintenance of ADLs, possibly leading to more social participation, could be promising in the prevention of frailty.

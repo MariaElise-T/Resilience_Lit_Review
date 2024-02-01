@@ -1,0 +1,18 @@
+
+            Novel fire regimes are expected in many boreal regions, and it is unclear how biogeochemical cycles will respond. We leverage fire and vegetation records from a highly flammable ecoregion in Alaska and present new lake-sediment analyses to examine biogeochemical responses to fire over the past 5300 years. No significant difference exists in δ
+            13
+            C, %C, %N, C : N, or magnetic susceptibility between pre-fire, post-fire, and fire samples. However, δ
+            15
+            N is related to the timing relative to fire (
+            χ
+2
+            = 19.73,
+            p
+            < 0.0001), with higher values for fire-decade samples (3.2 ± 0.3‰) than pre-fire (2.4 ± 0.2‰) and post-fire (2.2 ± 0.1‰) samples. Sediment δ
+            15
+            N increased gradually from 1.8 ± 0.6 to 3.2 ± 0.2‰ over the late Holocene, probably as a result of terrestrial-ecosystem development. Elevated δ
+            15
+            N in fire decades likely reflects enhanced terrestrial nitrification and/or deeper permafrost thaw depths immediately following fire. Similar δ
+            15
+            N values before and after fire decades suggest that N cycling in this lowland-boreal watershed was resilient to fire disturbance. However, this resilience may diminish as boreal ecosystems approach climate-driven thresholds of vegetation structure, permafrost thaw and fire.
+          

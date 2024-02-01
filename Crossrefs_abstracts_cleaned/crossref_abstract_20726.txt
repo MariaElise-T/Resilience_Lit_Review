@@ -1,0 +1,19 @@
+
+Background
+Due to strict, nationwide, comprehensive COVID-19 protective measures, including home quarantine, all Chinese medical students began taking web-based classes beginning in the spring semester of 2020. Home quarantine, web-based classes, and the stress surrounding the COVID-19 pandemic may have triggered an increased incidence of mental health problems among medical students. Although there have been increasing amounts of literature on depression among medical students, studies focusing on positive psychological resources, such as resilience during the COVID-19 pandemic, still need to be expanded.
+
+
+Objective
+This study aims to assess depression among medical students who are taking web-based classes during the COVID-19 pandemic and to investigate the role of coping styles as mediators between resilience and depression.
+
+
+Methods
+A cross-sectional study of 666 medical students involving stratified sampling in Shenyang, Liaoning Province, China, was completed between March 20 and April 10, 2020. The participants responded to a self-administered, smartphone-based questionnaire, which included the Patient Health Questionnaire-9, Simplified Coping Style Questionnaire, and Ego Resilience 89 Scale. Hierarchical linear regression and structural equation modeling were used in this study.
+
+
+Results
+The prevalence of depression among the participants was 9.6% (64/666) in this study. The regression analysis revealed that grade (the year in which the medical student was in training) (P=.013), how well students adapted to web-based classes (P<.001), their levels of resilience (P=.04), and their coping styles were independent predictors for depression (P<.001). Resilience and positive coping styles were negatively related to depression (resilience: P=.04; positive coping styles: P<.001), and negative coping styles were positively related to depression (P<.001). The structural equation modeling analysis showed that the effect of resilience on depression was partially mediated by coping styles (P=.007).
+
+
+Conclusions
+In this study, it was found that the prevalence of depression was slightly low and coping styles mediated the association between resilience and depression among medical students during the COVID-19 pandemic. These findings have significant implications for future studies. Future studies and interventions should aim to improve resilience and promote positive coping styles.

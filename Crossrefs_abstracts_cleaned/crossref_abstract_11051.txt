@@ -1,0 +1,19 @@
+
+Background
+The SARS-CoV-2 pandemic has brought substantial strain on hospitals worldwide; however, although the success of China’s COVID-19 strategy has been attributed to the achievements of the government, public health officials, and the attitudes of the public, the resilience shown by China’s hospitals appears to have been a critical factor in their successful response to the pandemic.
+
+
+Objective
+This paper aims to determine the key findings, recommendations, and lessons learned in terms of hospital resilience during the pandemic; analyze the quality and limitations of research in this field at present; and contribute to the evaluation of the Chinese response to the COVID-19 outbreak, building on a growing literature on the role of hospital resilience in crisis situations.
+
+
+Methods
+We conducted a scoping review of evidence on the resilience of hospitals in China during the COVID-19 crisis in the first half of 2020. Two online databases (the China National Knowledge Infrastructure and World Health Organization databases) were used to identify papers meeting the eligibility criteria. After extracting the data, we present an information synthesis using a resilience framework. Articles were included in the review if they were peer-reviewed studies published between December 2019 and July 2020 in English or Chinese and included empirical results pertaining to the resilience of Chinese hospitals in the COVID-19 pandemic.
+
+
+Results
+From the publications meeting the criteria (n=59), we found that substantial research was rapidly produced in the first half of 2020 and described numerous strategies used to improve hospital resilience, particularly in three key areas: human resources; management and communication; and security, hygiene, and planning. Our search revealed a focus on interventions related to training, health care worker well-being, eHealth/telemedicine, and workplace organization, while other areas such as hospital financing, information systems, and health care infrastructure were less well represented in the literature. We also noted that the literature was dominated by descriptive case studies, often lacking consideration of methodological limitations, and that there was a lack of both highly focused research on specific interventions and holistic research that attempted to unite the topics within a resilience framework.
+
+
+Conclusions
+We identified a number of lessons learned regarding how China’s hospitals have demonstrated resilience when confronted with the SARS-CoV-2 pandemic. Strategies involving interprovincial reinforcements, online platforms and technological interventions, and meticulous personal protective equipment use and disinfection, combined with the creation of new interdisciplinary teams and management strategies, reflect a proactive hospital response to the pandemic, with high levels of redundancy. Research on Chinese hospitals would benefit from a greater range of analyses to draw more nuanced and contextualized lessons from the responses to the crisis.

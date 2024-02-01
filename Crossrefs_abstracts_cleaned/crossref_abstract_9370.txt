@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this paper is to examine the extent to which self-reported resilience was associated with mental health outcomes four years after the Deepwater Horizon oil spill (DWHOS).
+
+
+Design/methodology/approach
+Participants included 179 men and women randomly selected from two Northeast Gulf Coast communities as part of a larger, prospective study of behavioral health post oil spill. The majority of the participants were Caucasian (70.8 percent), female (61.5 percent), had a high school education or lower (75.3 percent), and ranged in age from 18 to greater than 60 years old. Participants completed a measure of resilience (Connor-Davidson Resilience Scale, CD-RISC) 2.5 years post oil spill and measures of overall mood disturbance (Profile of Mood States), depression (Beck Depression Inventory), quality of life (World Health Organization Quality of Life-BREF Scale) 4.5 years post oil spill.
+
+
+Findings
+Based upon linear regression analyses, elevated self-reported resilience significantly predicted lower scores on mood disturbance (b=−0.63, p<0.01) and depressive symptoms (b=−0.14, p<0.05) and higher scores on psychological (b=0.08, p<0.01) and overall health quality of life (b=0.08, p<0.01). Factor analysis of the CD-RISC identified three factors (hardiness, adaptability, optimism). Each factor predicted some, but not all, of the outcomes with optimism being the least predictive of mental health.
+
+
+Originality/value
+Self-reported resilience two years after the DWHOS was a useful predictor of mental health outcome four years post-spill. Early assessment may facilitate the identification of individuals at risk of longer-term mental health problems for public health prevention or mental health intervention efforts.

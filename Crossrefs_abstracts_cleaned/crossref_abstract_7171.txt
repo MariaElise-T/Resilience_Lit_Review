@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+Cognitive dysfunction is common in people with MS (pwMS), but relatively little is known about those with no objective or subjective impairment. We sought to further examine a previously characterized cognitively resilient group of pwMS (MS-RES)—individuals without cognitive impairment, without subjective cognitive complaints, and without informant-reported cognitive difficulties—and considered neuroimaging, pain-related, and smoking correlates in this group.
+
+
+Method
+We derived two groups of pwMS: cognitively resilient (MS-RES; N = 15) and other MS (N = 85). MS groups showed equivalent education, gender, symptom and diagnosis duration, MS subtype, EDSS rating, and reported hours of sleep, and endorsed no more than mild depression. Both MS groups were compared to age- and gender-matched healthy controls (N = 31) on appropriate variables, and MS groups were compared on lesion volume, pain, and smoking variables.
+
+
+Results
+Despite showing intact subjective and objective cognition, the MS-RES group had lesion volume comparable to other MS participants. The MS-RES group also reported less of an impact of pain on overall functioning, recreational activities, and life enjoyment compared to other MS participants (p < .05), and were comparable to healthy controls. There was a trend toward MS-RES participants being less likely to be current smokers than others with MS (p = .09), and MS-RES and healthy controls showed comparable smoking status.
+
+
+Conclusions
+We found that cognitively resilient pwMS have unique clinical features that differentiate them from others with MS despite similar lesion volumes. A more complete understanding of cognitively resilient pwMS may inform interventions that promote MS symptom management and general resilience.

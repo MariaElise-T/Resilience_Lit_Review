@@ -1,0 +1,16 @@
+ABSTRACT
+
+BACKGROUND
+The Multiple Sclerosis Resiliency Scale (MSRS) was designed to assess factors connected to resilience when facing MS-related challenges. Although the MSRS has demonstrated good internal consistency and construct validity, its test-retest reliability has yet to be established. Identifying the minimal detectable change (MDC) of the scale will also improve its utility as an outcome measure for resilience-based interventions. This study aimed to determine the test-retest reliability and MDC of the MSRS.
+
+
+METHODS
+Participants were 62 persons with MS who completed the MSRS twice, with a mean ± SD of 16.60 ± 3.97 days (range, 14–30 days) between assessments. Test-retest reliability was evaluated using a 2-way, random-effects, single-measurement intraclass correlation coefficient (ICC), with agreement between time 1 and time 2 visualized with a Bland-Altman plot. The MDC was calculated using the standard error of measurement with a 95% CI.
+
+
+RESULTS
+At time 1, the mean ± SD MSRS score was 77.19 ± 11.97 (range, 45.83–97.00); at time 2, the mean ± SD score was 76.38 ± 12.75 (range, 46–98). The MSRS total score had good test-retest reliability (ICC = 0.88), with the subscale ICCs ranging from 0.77 (MS Peer Support) to 0.93 (Spirituality). The MDC for the total score was 11.95.
+
+
+CONCLUSIONS
+These findings suggest that the MSRS has good test-retest reliability and that persons with MS with a difference of 12 points or more between assessments have experienced a reliable change. The results support the utility of the MSRS as a potential outcome measure for MS-related resilience.

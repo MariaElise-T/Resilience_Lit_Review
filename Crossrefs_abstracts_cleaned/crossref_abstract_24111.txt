@@ -1,0 +1,15 @@
+
+Purpose
+The COVID-19 pandemic and associated risk-mitigation strategies have altered the social contexts in which adolescents in low- and middle-income countries live. Little is known, however, about the impacts of the pandemic on displaced populations, and how those impacts differ by gender and life stage. We investigate the extent to which the pandemic has compounded pre-existing social inequalities among adolescents in Jordan, and the role support structures play in promoting resilience.
+
+
+Methods
+Our analysis leverages longitudinal quantitative survey data and in-depth qualitative interviews, collected before and after the onset of COVID-19, with over 3,000 Syrian refugees, stateless Palestinians and vulnerable Jordanians, living in camps, host communities and informal tented settlements. We utilize mixed-methods analysis combining multivariate regression with deductive qualitative tools to evaluate pandemic impacts and associated policy responses on adolescent wellbeing and mental health, at three and nine months after the pandemic onset. We also explore the role of support systems at individual, household, community, and policy levels.
+
+
+Findings
+We find the pandemic has resulted in severe economic and service disruptions with far-reaching and heterogenous effects on adolescent wellbeing. Nine months into the pandemic, 19.3% of adolescents in the sample presented with symptoms of moderate-to severe depression, with small signs of improvement (3.2 percentage points [pp], p<0.001). Two thirds of adolescents reported household stress had increased during the pandemic, especially for Syrian adolescents in host communities (10.7pp higher than any other group, p<0.001). Social connectedness was particularly low for girls, who were 13.4 percentage points (p<0.001) more likely than boys to have had no interaction with friends in the past 7 days. Adolescent programming shows signs of being protective, particularly for girls, who were 8.8 percentage points (p<0.01) more likely to have a trusted friend than their peers who were not participating in programming.
+
+
+Conclusions
+Pre-existing social inequalities among refugee adolescents affected by forced displacement have been compounded during the COVID-19 pandemic, with related disruptions to services and social networks. To achieve Sustainable Development Goal targets to support healthy and empowered development in adolescence and early adulthood requires interventions that target the urgent needs of the most vulnerable adolescents while addressing population-level root causes and determinants of psychosocial wellbeing and resilience for all adolescent girls and boys.

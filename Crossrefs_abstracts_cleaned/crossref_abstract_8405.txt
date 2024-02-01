@@ -1,0 +1,19 @@
+
+Purpose
+This paper extends the authors’ previous research work investigating resilience for municipal infrastructure from an asset management perspective. Therefore, this paper aims to formulate a pavement resilience index while incorporating asset management and the associated resilience indicators from the authors’ previous research work.
+
+
+Design/methodology/approach
+This paper introduces a set of holistic-based key indicators that reflect municipal infrastructure resiliency. Thenceforth, the indicators were integrated using the weighted sum mean method to form the proposed resilience index. Resilience indicators weights were determined using principal components analysis (PCA) via IBM SPSS®. The developed framework for the PCA was built based on an optimization model output to generate the required weights for the desired resilience index. The output optimization data were adjusted using the standardization method before performing PCA.
+
+
+Findings
+This paper offers a mathematical approach to generating a resilience index for municipal infrastructure. The statistical tests conducted throughout the study showed a high significance level. Therefore, using PCA was proper for the resilience indicators data. The proposed framework is beneficial for asset management experts, where introducing the proposed index will provide ease of use to decision-makers regarding pavement network maintenance planning.
+
+
+Research limitations/implications
+The resilience indicators used need to be updated beyond what is mentioned in this paper to include asset redundancy and structural asset capacity. Using clustering as a validation tool is an excellent opportunity for other researchers to examine the resilience index for each pavement corridor individually pertaining to the resulting clusters.
+
+
+Originality/value
+This paper provides a unique example of integrating resilience and asset management concepts and serves as a vital step toward a comprehensive integration approach between the two concepts. The used PCA framework offers dynamic resilience indicators weights and, therefore, a dynamic resilience index. Resiliency is a dynamic feature for infrastructure systems. It differs during their life cycle with the change in maintenance and rehabilitation plans, systems retrofit and the occurring disruptive events throughout their life cycle. Therefore, the PCA technique was the preferred method used where it is data-based oriented and eliminates the subjectivity while driving indicators weights.

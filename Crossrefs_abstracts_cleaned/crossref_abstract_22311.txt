@@ -1,0 +1,12 @@
+Abstract
+Background
+The Connor-Davidson Resilience Scale (CD-RISC) is the most widely used scale which assesses psychological resilience. Although it is recommended to be applied as a unidimensional scale, its factor structure, reliability, as well as discriminant and predictive validity need to be assessed when used in a new context. Moreover, the original five-factor structure has not been replicated in previous investigations. This study aimed to explore psychometric properties of the scale in a Swedish context.
+
+Methods
+Construct validity of the five-factor model of CD-RISC was assessed using Exploratory and Confirmatory Factor Analyses. Its discriminant validity was assessed in relation to a measure of emotion regulation (Brief Version of the Difficulties in Emotion Regulation Scale) using a Confirmatory Factor Analysis. Predictive validity of CD-RISC was assessed in relation to measures of physical and mental health-related quality of life (The 12-Item Short Form Survey) using hierarchical multiple regression analyses. A population based sample cohort was employed (N = 2599).
+
+Results
+Exploratory and Confirmatory Factor Analyses suggested a 22-item unidimensional model of CD-RISC. Psychological resilience was found to be independent from the measure of emotion regulation. It was shown to predict both physical and mental health-related quality of life, being especially strongly associated with mental health aspects.
+
+Conclusions
+The study showed that the Swedish version of CD-RISC is an instrument with high discriminant and predictive validity, although the original factor structure does not apply in this context. CD-RISC can thus be used to identify individuals with a higher need of psychosocial support, especially relating to mental health needs.

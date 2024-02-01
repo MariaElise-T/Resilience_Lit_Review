@@ -1,0 +1,5 @@
+
+      
+        The recent explosive growth of smart phones and social media creates a unique opportunity to view events from various unique perspectives. Unfortunately, this relatively new form of communication lacks the structural integrity, accuracy, and reduced noise of other forms of communication. Nevertheless, social media increasingly plays a vita role in the observation of societal actions before, during, and after significant events. In October 2012, Hurricane Sandy making landfall on the northeastern coasts of the United States demonstrated this role. This work provides a preliminary view into how social media could be used to monitor and gauge community resilience to such natural disasters. We observe, evaluate, and visualize how Twitter data evolves over time before, during, and after a natural disaster such as Hurricane Sandy and what opportunities there may be to leverage social media for situational awareness and emergency response.
+      
+    

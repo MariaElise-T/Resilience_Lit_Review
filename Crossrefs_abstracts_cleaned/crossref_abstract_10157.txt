@@ -1,0 +1,18 @@
+
+Background:
+            Mild pulmonary hypertension (PH) is associated with increased mortality; however, the determinants of resilience in this population are not known. Most risk models overlook relationships between variables. We hypothesized that a patient-patient network will identify novel parameters that inform survival in mild PH.
+          
+
+Methods:
+            We analyzed clinical and outcome data (N=87 variables) retrospectively for patients with mean pulmonary artery pressure 19-24 mmHg in the Veterans Affairs Clinical Assessment, Reporting, and Tracking database. A patient-patient network was assembled using Pearson correlation coefficients (|r|>0.5) using patients’ clinical variables. NetworkX was used to identify distinct network modules, and a feature selection method ranked variable importance for patient module assignment.
+          
+
+Results:
+            The cohort (N=4,551; 96.6% male, 68 [63-74] yr) included patients with a history of heart failure (43%) and hypertension (88%). The patient-patient network had 43,509 edges and N=20 modules (Figure, A), which were associated with a variable clinical profile. At a median follow-up of 1181 [565-1944] d, the all-cause mortality rate range was: 15.9% (M1) - 37.9% (M14). Compared to M2-20, mortality was significantly lower for M1 (P<0.0001) (Figure, B). The most important variable driving patient assignment to M1 was pulmonary artery compliance (6.0 [4.7-7.1] mL/mmHg; cohort-normalized value=2.7).
+          
+
+Conclusions:
+            The mild PH patient-patient network identified numerous subphenotypes that are associated with variable clinical and outcome profiles. Using this unbiased approach, pulmonary artery compliance was associated unexpectedly with resilience.
+          
+
+

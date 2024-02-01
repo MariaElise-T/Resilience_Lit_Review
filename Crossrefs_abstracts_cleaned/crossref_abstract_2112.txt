@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+Resilience is a psychometric construct of a patient’s ability to recover from adversity and has been used to predict outcomes but its use in orthopedics has been limited. The purpose of this study was to examine the association between resilience and outcomes.
+
+
+Materials and Methods
+We performed a retrospective analysis of prospectively collected data of patient who underwent sports knee surgery at a single institution performed by 6 orthopedic surgeons from January 2017 to December 2017. We included active-duty patients with complete preoperative outcomes and a minimum of 6 month follow-up. All patients completed the Brief Resilience Scale (BRS), Veteran’s Rand-12 (VR-12), Patient-Reported Outcomes Measurement Information System 43 (PROMIS-43), International Knee Documentation Committee function score (IKDC), and Knee Injury and Osteoarthritis Outcome Score (KOOS). Patients were divided into low resilience (LR) and high resilience (HR) groups based on a score of less than 24 for low and greater than or equal to 24 according to BRS. Outcomes were then compared.
+
+
+Results
+We identified 50 active-duty patients who had complete preoperative and postoperative outcomes at a minimum of 6 months. Mean preoperative and postoperative BRS were significantly different (25.8 HR v 18.6 LR, p < 0.001). We found a difference in postop KOOS in pain, sports, and short form (pain 70.9 HR v 55.7 LR, p = 0.03; sports 50.3 HR v 32.2 LR, p = 0.03; short form (72.1 HR v 62.5 LR, p = 0.04). Similarly, there was a significant difference in postoperative IKDC score (58.0 HR v 44.0 LR, p = 0.03). Similarly we found significant differences in postoperative PROMIS-43 (anxiety 44.4 HR v 60.3 LR, p = 0.004; depression 41.6 HR v 58.1 LR, p = 0.004; fatigue 45.1 HR v 58.6 LR, p = 0.001; sleep 52.6 HR v 62.5 LR, p = 0.02; social participation 36.2 HR v 47.6 LR, p < 0.001). Postoperative VR-12 mental was also statistically different between the two groups (53.5 HR v 41.6 LR; p = 0.01). In addition, 2.3% of the HR group changed MOS as a result of their sports knee surgery compared to 22.2% of the LR group.
+
+
+Conclusions
+Active-military patients with high preoperative resilience appear to have significantly better early postoperative outcomes following sports knee surgery in terms of PROMIS-43, KOOS, and IKDC. There was also a lower rate of changing MOS secondary to sports knee surgery in patients with high resilience.

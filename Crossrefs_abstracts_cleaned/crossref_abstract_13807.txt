@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this paper is to analyze how companies develop mitigation capabilities in their supply chains in order to reduce the negative impacts of counterfeiting.
+
+
+Design/methodology/approach
+Five cases with two types of supply chain are analyzed: B2B (clothing, footwear and toys) and B2C (automotive). Data gathering was based on interviews, while secondary data were obtained directly from trade associations.
+
+
+Findings
+Companies presented different levels of proactivity for counterfeiting resilience. Companies with a lower level of appetite for risk are more proactive and have a broad number of mitigation capabilities. These companies develop intelligence that is required for combating counterfeiting and the capabilities needed for addressing its ex ante and ex post phases.
+
+
+Research limitations/implications
+The research examines a complex and controversial subject about which there is limited information. The case studies are limited to Brazilian companies and the local subsidiaries of foreign companies. Therefore, the specific context may influence the study findings and reduce their generalizability.
+
+
+Practical implications
+Mitigation capabilities enable companies to minimize the negative impact of counterfeiting and make companies more resilient to counterfeiting activities. The findings indicate that when managers allocate resources in earlier phases of counterfeiting, losses are lower.
+
+
+Originality/value
+This study shows the development process of mitigation capabilities in the ex ante and post-disruption phases of counterfeiting.

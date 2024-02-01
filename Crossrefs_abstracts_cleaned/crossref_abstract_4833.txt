@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+Health financing plays a vital role in the performance of the health system. Shocks can have a major impact on health financing but health financing can also protect aspects of the health system during shocks. Understanding the health financing function, how different types of shocks - including pandemics and the current cost-of-living crisis -- affect health financing, and how health financing can be resilient in the presence of shocks is of utmost importance
+
+
+Methods
+A framework for understanding health financing and how a shock can affect health financing was developed by the European Observatory on Health Systems and Policies. Health financing is broken down into revenue raising, pooling, purchasing and the governance of health financing, referred to as sub-functions of health financing. We use this framework to explore country examples in an effort to identify the ways in which health financing systems are resilient to different types of shocks.
+
+
+Findings
+There a range of examples demonstrating resilience to shocks across the sub-functions of health financing. First, there are counter-cyclical financing mechanisms where the revenues allocated to health are automatically adjusted to compensate for unemployment shocks (e.g. Lithuania). Second, there are purchasing practices that ensure resources are allocated appropriately within the health system when there are significant changes in utilization patterns, (e.g. Belgium during COVID-19). Third, automatic adjustment of prices occurs, paid by the health system to compensate for inflationary pressures. Fourth,good practices in the governance of health financing involve adjusted coverage policies to improve access to services when households were under severe financial strain (e.g. Ireland).
+
+
+Conclusions
+There are many different ways to ensure that health financing is resilient to shocks. Policymakers must consider the role of their health financing systems when developing preparedness plans.

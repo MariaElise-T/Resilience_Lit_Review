@@ -1,0 +1,27 @@
+
+Purpose
+The purpose of this paper is to follow the general question, how technical rebreather divers ensure their survival during performing of highly demanding dives – and what organisations could learn from these practices. As one form of complex adaptive system, technical divers perform different routines before and during the dive. These practices are formally trained and also informally mediated and developed. After investigating theoretical concepts like high reliability organising, Safety-I and -II as well as organisational resilience management, the authors scope on the existing risk and resilience practices in technical rebreather diving. Finally, the insights of the empirical research are used to make the transfer to the field of management studies – and ask relevant questions regarding their applied resilience intelligence.
+
+
+Design/methodology/approach
+The empirical research is analysed by applying Hollnagel’s Functional Resonance Analysis Method (FRAM) which leads to the reconstruction of an extended resilience management model for technical rebreather diving. The model development bases on a field study which comprised 300 hours of observations.
+
+
+Findings
+The findings are depicted in an FRAM model that exactly shows how technical divers perform high reliability operations and thus manages and increase the resilience of their socio-technical system.
+
+
+Research limitations/implications
+Research results show the depicted model and the potential learnings for organisations and organisational resilience. However, the research remains inductive and is qualitative. Deductive and quantitative research would enrich and complete the picture.
+
+
+Practical implications
+The research is informative and offers an interdisciplinary but comprehensive bridge between the specific high reliability organisations/resilience practice of technical divers and the potential learnings for organisations. Companies can take the identified categories and mechanisms to match them to their own resilience activities.
+
+
+Social implications
+Increasing organisational resilience means to increase societal resilience and thus sustainability. The research aims to support this interdisciplinary learning process.
+
+
+Originality/value
+The originality lies in the research object itself (technical diving practices), that never has been researched with an FRAM before. It is an interesting, comprehensive and interdisciplinary show case that is used to derive practical considerations for companies to strengthen their organisational resilience.

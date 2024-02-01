@@ -1,0 +1,9 @@
+Abstract
+Background
+Changes in microbial community composition as a function of human health and disease states have sparked remarkable interest in the human gut microbiome. However, establishing reproducible insights into the determinants of microbial succession in disease has been a formidable challenge.
+
+Results
+Here we use fecal microbiota transplantation (FMT) as an in natura experimental model to investigate the association between metabolic independence and resilience in stressed gut environments. Our genome-resolved metagenomics survey suggests that FMT serves as an environmental filter that favors populations with higher metabolic independence, the genomes of which encode complete metabolic modules to synthesize critical metabolites, including amino acids, nucleotides, and vitamins. Interestingly, we observe higher completion of the same biosynthetic pathways in microbes enriched in IBD patients.
+
+Conclusions
+These observations suggest a general mechanism that underlies changes in diversity in perturbed gut environments and reveal taxon-independent markers of “dysbiosis” that may explain why widespread yet typically low-abundance members of healthy gut microbiomes can dominate under inflammatory conditions without any causal association with disease.

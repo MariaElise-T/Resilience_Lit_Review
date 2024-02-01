@@ -1,0 +1,16 @@
+Abstract
+
+Introduction
+Resilient ageing is conceptualised as strive towards achieving satisfactory quality of life (QoL) at old age by embracing adaptive and coping mechanisms against adversities regardless of health conditions. Preventive Home Visit (PHV) including various types of home-care interventions were introduced to delay health deterioration and improved QoL. However, research related to resilience as indicator for QoL is scarce. Therefore, this systematic review aims to evaluate the effectiveness of PHV in improving resilience among community dwelling older adults and the association with health and other QoL related outcomes.
+
+
+Method
+Database search was conducted by using five databases (PubMed, PsycINFO, CINAHL, Web of Science and Scopus) up to 31 March 2022 involving community dwelling older adults who received PHV. Three authors reviewed the articles for inclusion and performed methodological quality assessment.
+
+
+Results
+Out of 1,580 records, 13 articles involving 7,254 participants met the inclusion criteria with age range between 79 to 85 years old. Quality assessment by using Joanna Briggs Institute (JBI) Critical Appraisal Tools indicated that all Randomised Controlled Trials (RCTs) and non-RCTs articles were having low risks of bias, suggesting high-quality studies were selected for this review. One remaining study was a cross-sectional study. More than two third of the studies focused on health or combination of health and QoL and only three studies yield positive impact of PHV. The rest were either yielded mixed results or no impact of PHV intervention. There was only one study measuring resilience with results showed no significant impact of PHV or home care intervention on resiliency of the older adults.
+
+
+Conclusion
+Research on the effectiveness of PHV has been introduced since for decades ago, however study focusing on resilience related outcomes is still lacking. Based on current evidence, it is essential to further evaluate the impact of multi-domain health and psychological intervention in PHV design considering the ability of older adults to face adversity in late life.

@@ -1,0 +1,23 @@
+
+Background
+The COVID-19 pandemic has been an unusually comprehensive crisis that has taken a toll on people in their roles both at work and at home, giving rise to a new normal.
+
+
+Purpose
+Relational coordination theory shows how communicating and relating for the purpose of task integration drives positive outcomes for workers, their clients, and their employers. The ecological theory of work–family spillover shows how relational dynamics from work spillover into family life, and vice versa. We build upon these two theories to understand how relationships at work impact work–life balance and worker well-being, especially in times of crisis.
+
+
+Methodology
+This study was based on surveys of clinicians affiliated with a large California health system during the COVID-19 pandemic. Mediation and multilevel logistic regression models were used to assess how relational coordination among colleagues impacts well-being (job satisfaction and lack of burnout) through its effects on work–life balance (schedule control and personal time).
+
+
+Results
+A 1-point increase in relational coordination tripled clinician odds of having schedule control (OR = 3.33, p < .001) and nearly doubled the odds of having adequate personal time (OR = 1.83, p < .001). A 1-point increase in relational coordination nearly quadrupled odds of being satisfied with their job (OR = 3.92, p < .001) and decreased odds of burnout by 64% (OR = 0.36, p < .001). The impact of relational coordination on worker well-being was mediated by greater schedule control and personal time.
+
+
+Conclusion
+Relational coordination among colleagues impacts worker well-being by enabling greater control over one’s schedule and more personal time, thus creating a positive spillover from work to home in times of crisis.
+
+
+Practice Implications
+In times of crisis, leaders should prioritize relational coordination among colleagues in order to support their resilience both at work and at home.

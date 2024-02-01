@@ -1,0 +1,24 @@
+
+Introduction:
+            Psychological resilience (resilience), defined as the self-reported ability to bounce back from stress by the Brief Resilience Scale (BRS), has been associated with CVD-related health behaviors. However, the evidence is limited in ethnically diverse older populations. This study investigates the association between self-reported resilience and CVD-related health behaviors (smoking status, sleep, recreational physical activity, and diet quality) in women aged 62+ years of age.
+          
+
+Hypothesis:
+            Higher levels self-reported resilience will be positively associated with CVD-related health behaviors after adjustment for age, race-ethnicity, and stressful life events (SLE).
+          
+
+Methods and Materials:
+            A cross-sectional secondary analysis was conducted on 77,395 women aged 62-85+ [African American (N=4475, 5.8%), White (N=69,448, 89.7%), Latina (N=1891, 2.4%), and Asian or Pacific Islander (N=1581, 2.0%)] who enrolled in the second Women’s Health Initiative Extension Study. Resilience was measured by a short version of the Brief Resilience Scale for assessing the Ability to Bounce Back and divided into 3 levels for descriptive analyses (i.e., low, normal, and high resilience). Multiple regression was used to evaluate the association between levels of resilience and each CVD-related health behavior. Smoking status and sleep were modeled as binary while recreational physical activity and diet quality (as measured by the HEI-2005) were modeled as continuous outcomes.
+          
+
+Results:
+            Of the 77,395 women, those with high resilience were younger and less likely to have had SLE. African American women were the most likely to self-report high resilience (48.6%; n=2174), followed by White (45.5%; n=31584), and then Asian or Pacific Islander (43.3%; n=684) and Latina women (43.3%; n=819). After controlling for age, race-ethnicity, and SLE, there was a negative association between self-reported resilience and current smoking status (OR=0.92; 95%; CI:0.87-0.97), and a positive association between 7-9 hours of sleep per night (OR=1.20; CI: 1.17-1.22). Linear regression analysis showed a positive association between self-reported resilience and both recreational physical activity (β=
+            +
+            0.45; CI: 0.42-0.49) and HEI-2005 (β=
+            +
+            0.60; CI: 0.51-0.69).
+          
+
+Conclusions:
+            Resilience is associated with better CVD-related health behaviors in older ethnically diverse women. These findings warrant further investigation into whether assessing and potentially intervening to improve resilience could help to increase the effectiveness of lifestyle interventions.
+          

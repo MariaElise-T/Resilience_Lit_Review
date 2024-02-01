@@ -1,0 +1,33 @@
+
+            The transcription factor FoxO3 regulates multiple genes involved in cell resilience. We have previously implicated variation in non-coding DNA of the FoxO3 gene (
+            FOXO3
+            ) with lower blood pressure, reduced inflammation, less hypertension, reduced coronary heart disease mortality, and longevity. The aim of the present study was to determine transcriptional, genetic and genomic mechanisms involving
+            FOXO3
+            . By DNA sequencing of chromosome 6q21 in lymphoblastoid cell lines of 95 men who had survived to ≥ 95 years of age we identified 110
+            FOXO3
+            single nucleotide polymorphisms (SNPs). Thirteen SNPs were at binding sites for 18 transcription factors. Those SNPs appeared to be in physical contact, via RNA polymerase II binding chromatin looping, with sites in the
+            FOXO3
+            promoter, and likely function together as a
+            cis
+            -regulatory unit. At the chromosome level,
+            FOXO3
+            was located at the center of a 7.3 Mb 46-gene chromatin domain flanked by gene deserts. We identified distant contact points between
+            FOXO3
+            and these 46 neighboring genes, through long-range physical contacts via CCCTC-binding factor zinc finger protein (CTCF) binding sites. The genes in this “archipelago” of neighbourhood genes mediate a similar repertoire of functions as FoxO3, including stress resistance, nutrient sensing, cell proliferation, autophagy, apoptosis and stem cell maintenance. The 7.3 Mb gene domain was highly conserved across species, indicating evolutionary importance. We believe that
+            FOXO3
+            serves as the hub for an “interactome” involved in healthy aging, including cardiovascular disease reduction, in those with favorable
+            FOXO3
+            genotypes. In support, we found that cellular stress (H
+            2
+            O
+            2
+            ) could stimulate
+            FOXO3
+            expression in 20 lymphoblastoid cell lines, being 3-fold stronger for those with a favorable
+            FOXO3
+            genotype. In FISH experiments, stress-induced activation of
+            FOXO3
+            caused it to move towards its neighboring genes as suggested by our genomic data. In conclusion, we have shown, for the first time, that
+            FOXO3
+            is at the central hub of a gene network on chromosome 6 involved in cell protection and healthy aging. The concept of “gene factories” may apply more broadly to genome and genetic mechanisms involved in cardiovascular disease etiology.
+          

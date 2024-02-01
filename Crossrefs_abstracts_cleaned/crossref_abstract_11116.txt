@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to describe a gaming approach to making key theoretical ideas accessible, understandable and useful for security practitioners confronting “terrorism” in the real world.
+
+
+Design/methodology/approach
+The tool is instrumental “red-team” matrix gaming: a structured way to first build and then wargame instrumental “terrorist” attack plans. The working assumption is that “terrorist” violence is designed with purpose, and that it reflects Fromkin’s understanding that terrorism is a form of jujitsu to manipulate more powerful opponents into politically and ideologically self-destructive behaviours. By designing and gaming attack plans with political objectives as the focus, practitioners quickly gain a deeper understanding of the processes of violent influence and the role of responders and decision makers. The paper is structured to, first, provide a theoretical explanation of contemporary conflict, focussing on the public support and how violence can be differently designed to political ends. On this foundation, the methods for learning are explained. A “playing-card” technique for setting students objectives in terms of psychological levers, vulnerabilities, political purposes and influence targets is described and options for participants generating scenarios outlined. Then the matrix-gaming approach, where play progresses according to the result of a dice roll applied to a probability based on the merit of participants’ competing arguments is explained with an example.
+
+
+Findings
+The described method of creating and wargaming terrorist attack plans offers a new and engaging method of exploring and understanding the processes of terrorism while preparing practitioners by potentially developing both their decision making and resilience.
+
+
+Practical implications
+The method described has potential value for teaching about terrorism by generally improving student engagement, preparing practitioners to respond to terrorism and wider application (of matrix gaming) to other topics.
+
+
+Originality/value
+This is a novel application of matrix gaming in a simplified format suited for classrooms.

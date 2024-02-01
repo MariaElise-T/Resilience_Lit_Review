@@ -1,0 +1,16 @@
+Abstract
+
+Background
+The demands of daily life often cause mothers high levels of distress and other negative emotions. Anger, including harsh verbal discipline, has been linked to child maltreatment, with long-term adverse effects on a child’s well-being. It is critically important to teach mothers stress management and emotion regulation in addition to parenting skills, but this is yet to be conducted in a formalized manner. Strengthening the multiple protective factors that constitute resilience helps reduce distress. The aim of this study is to evaluate the efficacy of a resilience-enhancement program for mothers.
+
+
+Methods
+We designed a two-arm, parallel, randomized trial with an active control. Mothers and their partners with children between three and six years old will be recruited. Following an online baseline survey, 140 mothers will be randomly allocated to either an intervention or control group. Self-report assessment will be conducted online post-intervention and at a two-month follow-up. The control group will participate in a serious of group discussions. The intervention group will participate in four bi-weekly 120-min sessions of a Cognitive Behavior Therapy-based program designed to enhance resilience, focusing on emotion regulation through cognitive reappraisal. Participants will be encouraged to apply and share the skills they acquire with their partner and children at home. Partners will also be assessed to explore their indirect influence from the mothers. Intention-to-treat analysis will be conducted and the two groups will be compared, applying covariate analysis. The primary outcome of the intervention is improved resilience. Secondary outcomes include improved anger control, self-esteem, cognition of children’s misbehavior, and reduced parental stress.
+
+
+Discussion
+To the best of our knowledge, this study will evaluate the first resilience-enhancement program focused on emotion regulation for mothers in Japan. It will contribute to the existing body of knowledge on building emotional resilience. If the program is found to be effective, it will provide an alternative means to enhance mothers’ resilience against stress and improve their ability to regulate emotion. In so doing, it will offer a way to prevent child maltreatment and protect the mental health of children and families.
+
+
+Trial registration
+UMIN000027232, May 3, 2017.

@@ -1,0 +1,15 @@
+Abstract
+Background
+Providing long-term home care to older adults with chronic diseases may endanger the physical, mental, social, and spiritual health of caregivers and lead to care strain.
+
+Objective
+This study aimed to assess the relationship of caregiver strain with resilience and hardiness in family caregivers of older adults with chronic disease.
+
+Methodology
+This cross-sectional correlational study was conducted in 2020–2021 in Tehran. Participants were 230 family caregivers randomly recruited from 8 urban health care centers. Data were collected using a personal characteristics questionnaire, the Modified Caregiver Strain Index, Connor-Davidson Resilience Scale, Family Hardiness Index, and the data were analyzed by using SPSS 22 version. Pearson’s correlation coefficient was applied for data analysis. P-values ≤0.05 were considered significant.
+
+Results
+A total of 230 caregivers participated in the study. The mean age of participants was (46.65 ± 13.63) years and most of them were female (73.9%). Mean scores of caregiver strain, resilience, and hardiness in family caregivers were 16.23 ± 4.5, 39.89 ± 10.9, and 31.21 ± 7.79, respectively. Pearson correlation showed a significant and inverse correlation between caregiver strain and resilience (r = -0.310, P = 0.002), and also a significant and inverse relationship between caregiver strain and hardiness (r = -0.276, P = 0.001).
+
+Conclusion
+In this study, family caregivers had moderate caregiver strain, low resilience, and high hardness. Caregiver strain in family caregivers of older adults with chronic disease is an important health issue associated with resilience and hardiness. To promote health, effective adaptation to long-term care, and reduce caregiver strain, designing effective interventions to increase resilience and hardiness in family caregivers seems necessary.

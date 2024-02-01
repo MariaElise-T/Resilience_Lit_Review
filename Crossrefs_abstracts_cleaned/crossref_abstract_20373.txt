@@ -1,0 +1,12 @@
+Abstract
+Background
+Workflow interruptions in pharmacies contribute to dispensing errors, a high-priority issue in patient safety, but have rarely been studied from a systemic perspective partly because of the limitations of the conventional reductionistic approach. This study aims to identify a mechanism for the occurrence of interruptions in a hospital pharmacy and find interventional points using a synthetic approach based on resilience engineering and systems thinking, and assess implemented measures for reducing them.
+
+Methods
+At a Japanese university hospital, we gathered information about performance adjustments of pharmacists in the inpatient medication dispensing unit for oral and topical medicines (IMDU-OT) and nurses in the inpatient wards (IPWs) in the medication dispensing and delivery process. Data about the workload and workforce of pharmacists were collected from hospital information systems. Telephone inquiries and counter services in the IMDU-OT, the primary sources of interruptions to pharmacists' work, were documented. The feedback structure between the IMDU-OT and the IPWs was analyzed using a causal loop diagram to identify interventional points. The numbers of telephone calls and counter services were measured cross-sectionally before (February 2017) and four months after implementing measures (July 2020).
+
+Results
+This study found that interruptions are a systemic problem emerging from the adaptive behavior of pharmacists and nurses to their work constraints, such as short staffing of pharmacists, which limited the frequency of medication deliveries to IPWs, and lack of information about the medication dispensing status for nurses. Measures for mitigating cross-system performance adjustments—a medication dispensing tracking system for nurses, request-based extra medication delivery, and pass boxes for earlier pick-up of medicines—were introduced. Following their implementation, the daily median number of telephone calls and counter services was significantly reduced (43 to 18 and 55 to 15, respectively), resulting in a 60% reduction in the total number of interruptions.
+
+Conclusion
+This study found interruptions in the hospital pharmacy as a systemic problem that can be reduced by mitigating difficulties being compensated for by clinicians' cross-system performance adjustments. Our findings suggest that a synthetic approach can be effective for solving complex problems and have implications for methodological guidance for Safety-II in practice.

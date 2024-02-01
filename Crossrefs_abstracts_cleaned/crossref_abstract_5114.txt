@@ -1,0 +1,14 @@
+The goal of this work is to design a minimum cost resilient overlay network,
+   where a data network is on top of a transport network. Two major challenges
+   are addressed. On one hand, a single failure in the transport network causes
+   multiple simultaneous failures; on the other, the multicommodity flow must
+   respect integrality. An integer programming formulation is presented to
+   design an overlay, meeting the previous constraints. We prove the problem
+   belongs to the class NP-Hard. Then, a decomposition approach is introduced,
+   where the problem is solved in two steps by means of relaxations of the
+   original formulation. Experiments carried out with real-life instances,
+   coming from the Uruguayan telecommunication operator, show that the approach
+   is competitive with respect to previous metaheuristics, to know, Tabu-Search
+   (TS) and Variable Neighborhood Search (VNS). A modest percentage of
+   cost-reduction is achieved in some instances, which means millionaire savings
+   in practice.

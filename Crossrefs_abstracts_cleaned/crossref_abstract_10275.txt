@@ -1,0 +1,20 @@
+Abstract
+
+Background
+The fear-avoidance model of chronic pain holds that individuals who catastrophize in response to injury are at risk for pain-related fear and avoidance behavior, and ultimately prolonged pain and disability.
+
+
+Purpose
+Based on the hypothesis that the predictive power of the fear-avoidance model would be enhanced by consideration of positive psychological constructs, the present study examined inclusion of pain resilience and self-efficacy in the model.
+
+
+Methods
+Men and women (N = 343) who experienced a recent episode of back pain were recruited in a longitudinal online survey study. Over a 3-month interval, participants repeated the Pain Resilience Scale, Pain Catastrophizing Scale, Tampa Scale of Kinesiophobia, Pain Self-Efficacy Questionnaire, the McGill Pain Questionnaire, and NIH-recommended measures of pain, depressive symptoms, and physical dysfunction. Structural equation modeling assessed the combined contribution of pain resilience and pain catastrophizing to 3-month outcomes through the simultaneous combination of kinesiophobia and self-efficacy.
+
+
+Results
+An expanded fear-avoidance model that incorporated pain resilience and self-efficacy provided a good fit to the data, Χ2 (df = 14, N = 343) = 42.09, p = .0001, RMSEA = 0.076 (90% CI: 0.05, 0.10), CFI = 0.97, SRMR = 0.03, with higher levels of pain resilience associated with improved 3-month outcomes on measures of pain intensity, physical dysfunction, and depression symptoms.
+
+
+Conclusions
+This study supports the notion that the predictive power of the fear-avoidance model of pain is enhanced when individual differences in both pain-related vulnerability (e.g., catastrophizing) and pain-related protective resources (e.g., resilience) are considered.

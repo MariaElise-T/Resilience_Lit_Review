@@ -1,0 +1,15 @@
+
+Purpose
+This paper examines the impact of urban form on disaster resiliency. The literature shows a complex relationship between urban form factors such as density and diversity and disaster recovery. The empirical analysis in this paper tests the impact of land use mix, population density, building type and diversity on the reconstruction progress in three, six and nine months after the 2010 flood in Brisbane and Ipswich as proxies of disaster resilience. Considerable debate exists on whether urban form factors are the causal incentive or are they mediating other non-urban form causal factors such as income level. In view of this, the effects of a series of established non-urban form factors such as income and tenure, already known as effective factors on disaster resilience, are controlled in the analysis.
+
+
+Design/methodology/approach
+The structure of this paper is based on a two-phase research approach. In the first phase, for identification of hypothetical relationships between urban form and disaster resiliency, information was gathered from different sources on the basis of theory and past research findings. Then in phase two, a database was developed to test these hypothetical relationships, employing statistical techniques (including multivariate regression and correlation analysis) in which disaster recovery was compared among 76 suburbs of Brisbane and Ipswich with differing levels of population density and land use mix.
+
+
+Findings
+The results indicate that population density is positively related to disaster resilience, even when controlling for contextual variables such as income level and home ownership. The association between population density and disaster reconstruction is non-linear. The progress of reconstruction to population density ratio increases from low, medium to high densities, while in very low and very high density areas the reconstruction progress does not show the same behavior, which suggests that medium-high density is the most resilient.
+
+
+Originality/value
+The originality of this paper is in extracting hypothetical relationships between urban form and resiliency and testing them with real world data. The results confirmed the contribution of density to recovery process in this case study. This illustrates the importance of attention to disaster resiliency measures from the early stages of design and planning in development of resilient urban communities.

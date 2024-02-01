@@ -1,0 +1,22 @@
+The human gut microbiome is a complex ecosystem, densely colonised by thousands of
+            microbial species. It varies among individuals and depends on host genotype and
+            environmental factors, such as diet and antibiotics. In this review, we focus on
+            stability and resilience as essential ecological characteristics of the gut microbiome
+            and its relevance for human health. Microbial diversity, metabolic flexibility,
+            functional redundancy, microbe–microbe and host–microbe interactions seem to be critical
+            for maintaining resilience. The equilibrium of the gut ecosystem can be disrupted by
+            perturbations, such as antibiotic therapy, causing significant decreases in functional
+            richness and microbial diversity as well as impacting metabolic health. As a
+            consequence, unbalanced states or even unhealthy stable states can develop, potentially
+            leading to or supporting diseases. Accordingly, strategies have been developed to
+            manipulate the gut microbiome in order to prevent or revert unhealthy states caused by
+            perturbations, including faecal microbiota transplantation, supplementation with
+            probiotics or non-digestible carbohydrates, and more extensive dietary modifications.
+            Nevertheless, an increasing number of studies has evidenced interindividual variability
+            in extent and direction of response to diet and perturbations, which has been attributed
+            to the unique characteristics of each individual’s microbiome. From a clinical,
+            translational perspective, the ability to improve resilience of the gut microbial
+            ecosystem prior to perturbations, or to restore its equilibrium afterwards, would offer
+            significant benefits. To be effective, this therapeutic approach will likely need a
+            personalised or subgroup-based understanding of individual genetics, diet, gut
+            microbiome and other environmental factors that might be involved.

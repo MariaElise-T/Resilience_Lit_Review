@@ -1,0 +1,12 @@
+Abstract
+Background
+The particular occupational stress of psychiatric nurses has a negative impact on their mental health. There is evidence that psychological resilience can promote mental health; however, the relationship between resilience in occupational stress and mental health of psychiatric nurses is unclear, and mental health was assessed from a psychopathological perspective, neglecting the role of positive psychology. Therefore, this study was based on a dual-factor model of mental health, describing mental health in terms of both positive well-being and psychiatric symptoms. We aimed to investigate the level of psychiatric nurses' mental health and whether resilience plays a mediating or moderating role between occupational stress and mental health in psychiatry nurses.
+
+Methods
+A cross sectional survey of 450 psychiatric nurses in five hospitals in Jiangsu Province was conducted using a convenience sampling method, of which 413 were valid questionnaires with an effective rate of 91.8%. The evaluation included the Chinese Nurses’ Stress Scale, the Connor-Davidson Resilience Scale, the Warwick-Edinburgh Mental Well-being Scale, and the General Health Questionnaire. Descriptive and Spearman correlation analyses were performed using SPSS25.0 while mediating and moderating effects were performed using SmartPLS3.0.
+
+Results
+Based on a dual-factor model of mental health, this study found that psychiatric nurses had a low general state of mental health, with 54.5% positive mental health, 7% vulnerable, 21.8% symptomatic but content, and 16.7% completely troubled. In addition, we found that resilience plays a mediating role in stress and mental health [β = -0.230, 95% CI of (-0.310, -0.150)] and does not play a moderating role [β = -0.018, 95%CI (-0.091, 0.055)].
+
+Conclusions
+Psychiatric nurses are in a poor state of mental health, and psychological resilience partly mediates occupational stress and mental health. This study suggests that attention should be paid to both positive and negative aspects of psychiatric nurses' mental health, and strategies should be developed to reduce occupational stress and develop psychological resilience.

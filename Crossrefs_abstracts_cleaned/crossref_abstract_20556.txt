@@ -1,0 +1,29 @@
+ABSTRACT
+
+Background:
+Gaps in research persist related to practitioners' resilience, although much has been written about the need for strategies to strengthen personal resilience.
+
+
+Purpose:
+The study's purpose was to examine practice-level (quality of physician relationship, physician presence, and autonomy) and individual factors and how they affect resilience.
+
+
+Methodology:
+An online survey invited advanced practice registered nurses (APRNs) and physician assistants (PAs) from four states to participate in a cross-sectional study. Hierarchical ordinary least squares regression was used to test the impact of main effect variables in the context of identified control variables.
+
+
+Sample:
+A sample of 1,138 APRNs and PAs completed the survey questions.
+
+
+Results:
+Findings from the covariate model (model 1) and the main effect model (model 2) show that both models were significant at the p < .01 level, with the adjusted R
+2 differing from 0.02 to 0.13, respectively. Regression results show a significant positive association between quality of the physician relationship and APRN/PA resilience (b = 0.09, p < .01). A negative association between the lack of autonomy and higher levels of resilience (b = −0.14, p < .01) was also demonstrated.
+
+
+Conclusions:
+Advanced practice registered nurse/PA resilience is affected by both practice-level and personal factors, suggesting that workplace interventions could increase resilience.
+
+
+Implications for practice:
+Work environments allowing APRNs and PAs to function autonomously and with professional support from physician colleagues are favorable contributors to their resilience. Future studies need to investigate the meaning of physician presence/availability and organizational interventions that extend beyond individual resilience.

@@ -1,0 +1,12 @@
+Abstract
+Background
+The unprecedented COVID-19 pandemic placed immense stress on healthcare professionals worldwide. This strain often resulted in imbalances in their physical and mental well-being, necessitating effective coping mechanisms. In light of this context, this study investigates the correlations between the fear of COVID-19, self-coping strategies, and positive emotions, with particular reference to the Iranian health care industry.
+
+Methods
+Data were collected from 1050 healthcare professionals in Iran and the data were analysed sing structural equation modelling.
+
+Results
+The study revealed that pandemic fear negatively impacts self-coping strategies and positive emotions during crisis scenarios. Conversely, self-coping strategies have a positive correlation with positive emotions. The research also underscored the role of resilience in reinforcing the favorable link between self-coping strategies and positive emotions.
+
+Conclusions
+This study is one of the first to explore the significance of resilience and self-coping strategies among Iranian healthcare professionals during the pandemic. Its findings offer valuable insights for researchers and practitioners, paving the way for further contributions in this field. Future research endeavors may consider investigating the effects of various psychological interventions, including breathing techniques, self-talk, physical exercises, yoga, optimizing sleep, and dietary measures on the resilience and self-coping practices of healthcare professionals.

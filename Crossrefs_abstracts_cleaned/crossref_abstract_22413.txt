@@ -1,0 +1,12 @@
+Abstract
+Background
+The COVID-19 pandemic has presented many multi-faceted challenges to the maintenance of service quality and safety, highlighting the need for resilient and responsive healthcare systems more than ever before. This review examined empirical investigations of Resilient Health Care (RHC) in response to the COVID-19 pandemic with the aim to: identify key areas of research; synthesise findings on capacities that develop RHC across system levels (micro, meso, macro); and identify reported adverse consequences of the effort of maintaining system performance on system agents (healthcare workers, patients).
+
+Methods
+Three academic databases were searched (Medline, EMBASE, Scopus) from 1st January 2020 to 30th August 2022 using keywords pertaining to: systems resilience and related concepts; healthcare and healthcare settings; and COVID-19. Capacities that developed and enhanced systems resilience were synthesised using a hybrid inductive-deductive thematic analysis.
+
+Results
+Fifty publications were included in this review. Consistent with previous research, studies from high-income countries and the use of qualitative methods within the context of hospitals, dominated the included studies. However, promising developments have been made, with an emergence of studies conducted at the macro-system level, including the development of quantitative tools and indicator-based modelling approaches, and the increased involvement of low- and middle-income countries in research (LMIC). Concordant with previous research, eight key resilience capacities were identified that can support, develop or enhance resilient performance, namely: structure, alignment, coordination, learning, involvement, risk awareness, leadership, and communication. The need for healthcare workers to constantly learn and make adaptations, however, had potentially adverse physical and emotional consequences for healthcare workers, in addition to adverse effects on routine patient care.
+
+Conclusions
+This review identified an upsurge in new empirical studies on health system resilience associated with COVID-19. The pandemic provided a unique opportunity to examine RHC in practice, and uncovered emerging new evidence on RHC theory and system factors that contribute to resilient performance at micro, meso and macro levels. These findings will enable leaders and other stakeholders to strengthen health system resilience when responding to future challenges and unexpected events.

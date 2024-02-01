@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience is an ability of an individual to respond positively to environmental challenges. This ability could help elderly people to better cope with their age-related changes and diseases. The aim of this study was to examine the psychometric properties of Persian version of abridged Connor- Davidson scale of resilience among Iranian elderly people with chronic diseases.
+
+Methods
+Standard translation/back-translation procedure was applied to prepare the Persian version of abridged Connor-Davidson scale of resilience (CD-RISC 10-P) and its face and content validity were examined by an expert panel. The internal consistency and reliability of the drafted CD-RISC 10-P were investigated using the Cronbach’s alpha and intra-class correlation coefficients. A sample of 400 Muslim and Zoroastrian Persian older adults residing in the city of Yazd, Iran was recruited to assess factor structure of CD-RISC 10-P using the confirmatory factor analysis.
+
+Results
+The calculated values of the Cronbach’s alpha (0.89) and ICC (0.90) coefficients were in the within of acceptable range. The confirmatory factor analysis outputs also confirmed the unidimensionality of the CD-RISC 10-P (RMSEA = 0.073, SRMR = 0.030).
+
+Conclusions
+The study findings showed that the CD-RISC 10-P is a valid and reliable scale to measure resilience with age-related challenges of chronic diseases among Persian-speaking elderly people. Cross-cultural adaptability of the CD-RISC 10-P is recommended to be assessed in different subgroups of the Iranian elderly people and possibly in other Persian-speaking populations of different countries.

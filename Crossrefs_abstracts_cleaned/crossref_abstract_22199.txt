@@ -1,0 +1,10 @@
+Abstract
+
+Individuals often vary markedly in their ability to cope with stressors, but the drivers of this variation remain poorly understood. Many studies have tested relationships among individual variation in glucocorticoid levels and the response to challenges—often finding inconsistent patterns; however, few have addressed whether variation in the capacity to terminate the stress response through negative feedback is associated with stress resilience.
+While conceptual models predict that interactions among different components of hypothalamic–pituitary–adrenal (HPA) axis regulation may be important predictors of the phenotypic and fitness effects of stress, we are aware of no previous experimental tests of this hypothesis.
+We investigate whether individual variation in HPA axis regulation is related to resilience to experimental challenges in free‐living tree swallows (Tachycineta bicolor). We mimicked salient natural challenges by temporarily reducing flight efficiency or increasing perceived predation risk during incubation, and determined whether HPA axis responsiveness prior to treatments predicted resilience.
+Females that exhibited both a robust HPA axis activation and strong negative feedback were less likely to abandon nests during incubation.
+Our results suggest that exhibiting a strong HPA axis activation coupled with effective negative feedback may predict stress resilience. Therefore, the ability to turn on and then off the HPA axis efficiently may be important for fitness.
+Our results also suggest that the interactions between different components of the HPA axis may provide greater insight into differences in stress coping capacity.
+
+A plain language summary is available for this article.

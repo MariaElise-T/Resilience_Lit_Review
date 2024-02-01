@@ -1,0 +1,16 @@
+Abstract
+
+Background
+The coronavirus disease (COVID-19) pandemic exacerbated depression and anxiety worldwide. Resilience is important to maintain mental health during uncertain times, but limited study has systematically reviewed its association with depression or anxiety with an emphasis on the general population.
+
+
+Methods
+We searched PubMed and Embase for quantitative or mixed-methods studies on the general adult population published between 1 January 2020 and 31 April 2022 (PROSPERO ID: CRD 42022340935). National Institute of the Health quality assessment tools was used to assess the risk of bias. We qualitatively synthesized findings by outcome and study design.
+
+
+Results
+A total of 2945 studies were screened and 35 studies were included in the narrative analysis (5 on depression, 9 on anxiety, and 21 on both). Overall, 21 studies identified statistically significant inverse associations between resilience and depression, while 24 studies found statistically significant inverse associations between resilience and anxiety. Eight studies reported no statistically significant relationships between resilience with depression or anxiety.
+
+
+Conclusions
+Resilience was found to be inversely associated with depression and anxiety during the COVID-19 pandemic. The findings highlight the importance of resilience-enhancing intervention in migrating the global mental health burden from outbreaks of infectious diseases.

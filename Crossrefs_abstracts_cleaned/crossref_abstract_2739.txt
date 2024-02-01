@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+The COVID-19 pandemic placed unprecedented stress on older adults. Resiliency could mitigate deleterious effects of pandemic stressors. We described trends in resilience among US adults aged 50-80 years approximately one and half years after the onset of the pandemic, compared with before the pandemic, and evaluated associations between relationships and resilience.
+
+
+Research Design and Methods
+Data were from the National Poll on Healthy Aging (N=2,100) in August 2021. Respondents rated their resiliency as compared with before the pandemic (more, about the same, or less) and different types of relationships (spouse/partner, friends, neighbors) as sources of joy and/or stress during the pandemic (a lot, some, very little, and not at all). Multinomial logistic regressions (complete-case analysis) estimated the relationships between each joyful and stressful relationships and resiliency.
+
+
+Results
+Most participants reported feeling as resilient as before the pandemic (70.6%) with 14.5% feeling less resilient. More women than men felt less resilient than before the pandemic (16.7% vs. 12.8%, p=0.006). Feeling a lot of stress from one’s spouse or neighbors was associated with increased likelihood of feeling less resilient than before the pandemic (OR=3.7; 95% CI: 1.8, 7.7 and OR=4.5; 95% CI: 1.5, 13.9, respectively) which was stronger among women (OR=15.1; 95% CI: 4.8, 45.6) than men (OR=1.03; 95% CI: 0.4, 2.7).
+
+
+Discussion and Implications
+Social relationships may have been more important for women than for men in supporting resiliency during the pandemic. Understanding patterns of resiliency can help to inform policymaking and support the well-being of older adults.

@@ -1,0 +1,20 @@
+
+Background:
+            Psychological resilience (resilience), defined as the self-reported ability to bounce back from stress, has been associated with diet quality. Despite the importance of resilience to successful aging, few studies have examined the relationship between resilience and diet quality across different age groups.
+          
+
+Objective:
+            To examine the relationship between diet quality and resilience while adjusting for perceived stress, sociodemographic information, and other diet-related health factors within the youngest, middle-aged, and oldest age groups in the Well for Life (WELL) study.
+          
+
+Design:
+            Cross-sectional analysis of survey data from the WELL study. A total of 4,309 adults predominantly drawn from the San Francisco Bay Area, completed the WELL survey, which included lifestyle, stress, and resilience domains. The WELL Diet Score, calculated from 12 diet-related items, ranged from 0-120. A higher score indicates better diet quality. Perceived stress was assessed by an adapted version of A Global Measure of Perceived Stress. Resilience was assessed by an adapted version of the Brief Resilience Scale for assessing the Ability to Bounce Back and the Connor-Davidson Resilience Scale. Perceived stress and resilience both ranged from 0-10. Higher scores indicate more perceived stress and resilience. All of the above measures were modeled as continuous. Linear regression analysis was used to evaluate the association between the WELL Diet Score and resilience within the following age tertiles: youngest [18-29], middle-aged [30-49], and oldest [50-64+].
+          
+
+Results:
+            Across all age groups, WELL participants were predominately white females, college-educated, maintained healthy lifestyle practices, and had moderately high levels of perceived stress and resilience. Mean WELL Diet Scores were highest in the oldest group [79.4 out of 120 ± sd:81.6], followed by the middle-aged [72.2 out of 120 ± sd:18.1], and the youngest [63.6 out of 120 ± sd:18.0]. In the fully adjusted model, WELL Diet Scores demonstrated a positive and significant association with resilience within the youngest age group only [β=0.14 ± sd:0.34, p=0.02; (middle-aged) β=0.02 ± sd:0.34, p=0.63; (oldest) β=-0.001 ± sd:0.34, p=0.98]. In the model adjusted for perceived stress and sociodemographics only, diet quality demonstrated a positive and significant association with resilience within all age groups [(youngest) β=0.15 ± sd:0.32, p=0.001; (middle-aged) β=0.12 ± sd:0.35, p=0.001; (oldest) β=0.9 ± sd:0.34, p=0.01].
+          
+
+Conclusions:
+            Diet quality may be positively associated with resilience in young adults. Our findings might warrant further investigation into whether assessing and potentially intervening to improve resilience could help to increase the effectiveness of dietary interventions targeting younger populations.
+          

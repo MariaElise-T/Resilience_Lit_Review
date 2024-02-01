@@ -1,0 +1,15 @@
+Abstract
+Context
+Mediterranean managed dry-edge pine forests maintain biodiversity and supply key ecosystem services but are threatened by climate change and are highly vulnerable to desertification. Forest management through its effect on stand structure can play a key role on forest stability in response to increasing aridity, but the role of forest structure on drought resilience remains little explored.
+
+Objectives
+To investigate the role of tree growth and forest structure on forest resilience under increasing aridity and two contrasting policy-management regimes. We compared three management scenarios; (i) “business as usual”-based on the current harvesting regime and increasing aridity—and two scenarios that differ in the target forest function; (ii) a “conservation scenario”, oriented to preserve forest stock under increasing aridity; and (iii), a “productivity scenario” oriented to maintain forest yield under increasingly arid conditions.
+
+Methods
+The study site is part of a large-homogeneous pine-covered landscape covering sandy flatlands in Central Spain. The site is a dry-edge forest characterized by a lower productivity and tree density relative to most Iberian Pinus pinaster forests. We parameterized and tested an analytical size-structured forest dynamics model with last century tree growth and forest structure historical management records.
+
+Results
+Under current management (Scenario-i), increasing aridity resulted in a reduction of stock, productivity, and maximum mean tree size. Resilience boundaries differed among Scenario-ii and -Scenario-iii, revealing a strong control of the management regime on resilience via forest structure. We identified a trade-off between tree harvest size and harvesting rate, along which there were various possible resilient forest structures and management regimes. Resilience boundaries for a yield-oriented management (Scenario-iii) were much more restrictive than for a stock-oriented management (Scenario-ii), requiring a drastic decrease in both tree harvest size and thinning rates. In contrast, stock preservation was feasible under moderate thinning rates and a moderate reduction in tree harvest size.
+
+Conclusions
+Forest structure is a key component of forest resilience to drought. Adequate forest management can play a key role in reducing forest vulnerability while ensuring a long-term sustainable resource supply. Analytical tractable models of forest dynamics can help to identify key mechanisms underlying drought resilience and to design management options that preclude these social-ecological systems from crossing a tipping point over a degraded alternate state.

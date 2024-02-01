@@ -1,0 +1,24 @@
+Abstract
+
+Background
+The objective of this study was to characterize frailty and resilience in people evaluated for Post-Acute COVID-19 Syndrome (PACS), in relation to quality of life (QoL) and Intrinsic Capacity (IC).
+
+
+Methods
+This cross-sectional, observational, study included consecutive people previously hospitalized for severe COVID-19 pneumonia attending Modena (Italy) PACS Clinic from July 2020 to April 2021. Four frailty-resilience phenotypes were built: “fit/resilient”, “fit/non-resilient”, “frail/resilient” and “frail/non-resilient”. Frailty and resilience were defined according to frailty phenotype and Connor Davidson resilience scale (CD-RISC-25) respectively. Study outcomes were: QoL assessed by means of Symptoms Short form health survey (SF-36) and health-related quality of life (EQ-5D-5L) and IC by means of a dedicated questionnaire. Their predictors including frailty-resilience phenotypes were explored in logistic regressions.
+
+
+Results
+232 patients were evaluated, median age was 58.0 years. PACS was diagnosed in 173 (74.6%) patients. Scarce resilience was documented in 114 (49.1%) and frailty in 72 (31.0%) individuals. Table 1 shows demographic, anthropometric and clinical characteristics, comorbidities and patient-reported outcomes according to four frailty-resilience phenotypes. With regards to study outcomes, Figure 1 depicts in radar graphs, mean scores of each domain of SF-36 (1A), EQ-5D5L (1B) and IC (1C). Figures shows polygon areas for each frailty/resilience phenotypes. Progressive increase of mean scores of each domain are plotted in the vertices of polygons, from the lowest (near the center) in frail and non-resilient, to highest (towards periphery) in fit and resilient. Multivariate logistic analyses were used to identify predictors of the total scores of SF-36 (Figure 2A), EQ-5D5L (Figure 2B) and IC (Figure 2C).
+
+
+Conclusion
+Resilience is complementary to frailty in the identification of clinical phenotypes with different impact on wellness and QoL. Frailty and resilience should be evaluated in hospitalized COVID-19 patients to identify vulnerable individuals to prioritize urgent health interventions in people with PACS.
+
+
+Funding
+This study is supported by a Gilead Sciences Inc. unrestricted grant.
+
+
+Disclosures
+All Authors: No reported disclosures.

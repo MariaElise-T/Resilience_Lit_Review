@@ -1,0 +1,24 @@
+Abstract
+
+Objectives
+The plethora of self-administered questionnaires to assess positive psychosocial factors complicates questionnaire selection. This study aimed to identify and reach consensus on the most suitable self-administered questionnaires to assess resilience, optimism, pain acceptance and social support in people with pain.
+
+
+Design
+A three-round modified Delphi study.
+
+
+Participants
+Forty international experts.
+
+
+Methods
+In Round 1, the experts suggested questionnaires deemed appropriate to assess resilience, optimism, pain acceptance and/or social support. In Round 2, experts indicated whether they considered the suggested questionnaires to be suitable (Yes/No/Don’t know) to assess these psychosocial factors, taking into consideration content, feasibility, personal experience and the measurement properties which we provided for each questionnaire. Questionnaires that were considered suitable by the majority of experts (≥60%) were retained for Round 3. In Round 3, the suitability of each questionnaire was rated on a 0–10 Likert scale. Consensus was reached if ≥75% of experts rated the questionnaire ≥7.
+
+
+Results
+From the 67 questionnaires suggested in Round 1, one questionnaire could be recommended per domain. For resilience: Pain Resilience Scale; for optimism: Revised Version of the Life Orientation Test; for pain acceptance: 8-item and Revised Versions of the Chronic Pain Acceptance Questionnaire; for social support: Emotional Support Item Bank of the PROMIS tool. Consensus for these questionnaires was also reached in a sensitivity analysis which excluded the ratings of experts involved in the development, translation and/or validation of relevant questionnaires.
+
+
+Conclusion
+We advocate the use of these recommended questionnaires so data can be compared and pooled more easily.

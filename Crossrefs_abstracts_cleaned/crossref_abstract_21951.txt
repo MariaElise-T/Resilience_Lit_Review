@@ -1,0 +1,12 @@
+Abstract
+Background
+Correctional officers tend to have high levels of work-family conflict (WFC). WFC has been found associated with various forms of psychological distress and to affect the overall well-being of correctional officers. Burnout and resilience may affect the relationship between WFC and psychological distress, however, this association still remains unclear. This study aimed to examine the mediating effect of burnout on the relationship between WFC and anxiety/depression and the moderating role of resilience, within the context of correctional officers.
+
+Methods
+A cross-sectional online survey was conducted in China from October 2021 to January 2022. WFC, burnout, resilience, anxiety, and depression were evaluated using the Work-Family Conflict Scale (WFCS), Maslach Burnout Inventory-General Survey (MBI-GS), 10-item Connor-Davidson Resilience Scale (CD-RISC-10), and the Depression Anxiety Stress Scale (DASS). Mediation and moderation models were then tested using the PROCESS macro in SPSS, with burnout being a mediator and resilience playing a moderating role in the relationship between WFC and anxiety/depression.
+
+Results
+A total of 472 correctional officers were included. Burnout was found to mediate the relationship between WFC and anxiety (b = 0.14, 95%CI [0.10, 0.19]) and the relationship between WFC and depression (b = 0.23, 95%CI [0.18, 0.28]). Additionally, resilience played a moderating role in the direct effect of WFC on anxiety (b = − 0.02, p < 0.01) and the first half of the indirect effect of WFC on anxiety (b = − 0.007, p < 0.05). Furthermore, resilience was also found to moderate the first half of the indirect effect of WFC on depression (b = − 0.02, p < 0.01), but not the direct effect of WFC on depression (b = − 0.005, p > 0.05).
+
+Conclusion
+The findings of the present study may improve our understanding by elucidating the fundamental mechanisms of the connection between WFC and psychological distress among correctional officers. The results have significant implications for policymakers and individuals, as they suggest that diverse interventions may help promote the mental well-being of correctional officers.

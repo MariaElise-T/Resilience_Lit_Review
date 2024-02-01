@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+There are substantial individual differences (resilience and vulnerability) in neurobehavioral performance from psychosocial stress and sleep loss. However, the time course of heart rate variability (HRV) across baseline, total sleep deprivation (TSD), the combination of TSD + psychological stress, and recovery has not been investigated; in addition, it remains unknown whether HRV and blood pressure (BP) differ in resilient vs. vulnerable individuals and predict individual differences in cognitive performance.
+
+
+Methods
+Thirty-one healthy adults (ages 27–53; mean±SD, 35.4±7.1y; 14 females) participated in a five-day experiment consisting of two 8h time-in-bed (TIB) baseline nights, 39h TSD, and two 8h-10h TIB recovery nights. A modified Trier Social Stress Test (TSST) induced psychological stress on the TSD day. Systolic and diastolic BP and HRV (derived from echocardiographic R-R interval) were obtained at six time points (pre-study, baseline, during TSD, during TSD after the TSST, after recovery, and post-study). Cognitively resilient (n=15) and vulnerable (n=16) groups were defined by a median split on 10-minute Psychomotor Vigilance Test (PVT) TSD performance [total lapses (&gt;500ms response time) and errors]. Repeated measures ANOVA and post-hoc comparisons corrected for multiple testing, examined BP and HRV across time points between groups.
+
+
+Results
+HRV showed a significant time*group interaction: while resilient individuals had significantly lower HRV at pre-study compared to vulnerable individuals, their HRV increased above that of vulnerable individuals with TSD and with TSD + psychological stress. By contrast, systolic and diastolic BP did not show significant time*group interactions and did not predict cognitive vulnerability during TSD.
+
+
+Conclusion
+HRV differed between resilient and vulnerable individuals across TSD, psychological stress and recovery sleep and predicted individual differences in cognitive performance, whereby lower HRV during full-rested conditions predicted resilience to TSD and TSD + psychological stress. HRV, but not BP, is a reliable biomarker of sleep deprivation, psychological stress, and neurobehavioral vulnerability.
+
+
+Support
+NASA NNX14AN49G.

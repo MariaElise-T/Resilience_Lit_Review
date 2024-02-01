@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Physicians experience high rates of burnout, which may negatively impact patient care. Palliative care is an emotionally demanding specialty with high burnout rates reported in previous studies from other countries. We aimed to estimate the prevalence of burnout and degree of resilience among Canadian palliative care physicians and examine their associations with demographic and workplace factors in a national survey.
+
+
+Methods
+Physician members of the Canadian Society of Palliative Care Physicians and Société Québécoise des Médecins de Soins Palliatifs were invited to participate in an electronic survey about their demographic and practice arrangements and complete the Maslach Burnout Inventory for Medical Professionals (MBI-HSS (MP)), and Connor-Davidson Resilience Scale (CD-RISC). The association of categorical demographic and practice variables was examined in relation to burnout status, as defined by MBI-HSS (MP) score. In addition to bivariable analyses, a multivariable logistic regression analysis, reporting odds ratios (OR), was conducted. Mean CD-RISC score differences were examined in multivariable linear regression analysis.
+
+
+Results
+One hundred sixty five members (29%) completed the survey. On the MBI-HSS (MP), 36.4% of respondents reported high emotional exhaustion (EE), 15.1% reported high depersonalization (DP), and 7.9% reported low personal accomplishment (PA). Overall, 38.2% of respondents reported a high degree of burnout, based on having high EE or high DP. Median CD-RISC resilience score was 74, which falls in the 25th percentile of normative population. Age over 60 (OR = 0.05; CI, 0.01–0.38), compared to age ≤ 40, was independently associated with lower burnout. Mean CD-RISC resilience scores were lower in association with the presence of high burnout than when burnout was low (67.5 ± 11.8 vs 77.4 ± 11.2, respectively, p < 0.0001). Increased mean CD-RISC score differences (higher resilience) of 7.77 (95% CI, 1.97–13.57), 5.54 (CI, 0.81–10.28), and 8.26 (CI, 1.96–14.57) occurred in association with age > 60 as compared to ≤40, a predominantly palliative care focussed practice, and > 60 h worked per week as compared to ≤40 h worked, respectively.
+
+
+Conclusions
+One in three Canadian palliative care physicians demonstrate a high degree of burnout. Burnout prevention may benefit from increasing resilience skills on an individual level while also implementing systematic workplace interventions across organizational levels.

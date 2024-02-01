@@ -1,0 +1,6 @@
+
+
+
+This paper introduces an approach to defining goals in the development of cyber-resilient systems, following the guidelines established in the standards of the National Institute of Standards and Technology (NIST) in the United States. This work aims to provide a roadmap for researchers and practitioners of cyber resilience in creating information systems capable of withstanding and adapting to adverse conditions, malfunctions, and attacks while ensuring the guaranteed execution of all primary cyber-system functions.
+
+

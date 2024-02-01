@@ -1,0 +1,15 @@
+Abstract
+Background
+So far, previous research suggests positive effects of mental demands at the workplace. However, it may depend on how stressfull these demands are perceived on an individual level.
+
+Objective
+The aim was to build on previous research by investigating how mental demands are related to stress, overload, and work discontent and whether this relationship is mediated by individuals resources, such as resilience.
+
+Method
+A sub-sample of the LIFE Adult Cohort (n = 480) was asked to answer questions on sociodemographic characteristics, objective stress (using the Trier Inventory of Chronic Stress (TICS)), and perceptions of stress with regard to verbal and executive mental demands at work.
+
+Results
+According to generalized linear regression models, higher verbal as well as executive mental demands were associated with higher levels of chronic stress, work overload and discontent. Higher levels of resilience were associated with lower levels of these outcomes. Analyses regarding interaction effects revealed that the interaction between resilience and perceived stress of verbal mental demands was significant only in terms of work overload.
+
+Conclusion
+Higher perceived stressfulness of mental demands was associated with higher chronic stress, work overload and work discontent. Therefore, mental demands should be targeted by occupational interventions that aim to improve job conditions and employees‘ overall well-being. Besides resilience, other potential influencers or personal resources should be focused on in future studies to develop interventions.

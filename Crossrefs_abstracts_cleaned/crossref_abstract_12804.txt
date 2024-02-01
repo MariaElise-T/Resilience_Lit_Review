@@ -1,0 +1,7 @@
+Abstract
+
+Vegetation memory describes the effect of antecedent environmental and ecological conditions on the present ecosystem state and has been proposed as an important proxy for vegetation resilience. In particular, strong vegetation memory has been identified in dryland regions, but the factors underlying the spatial patterns of vegetation memory remain unknown.
+We aim to map the components and drivers of vegetation memory in dryland regions using state‐of‐the‐art climate reanalysis data and refined approaches to identify vegetation‐memory characteristics across dryland regions worldwide.
+Using a framework which distinguishes between intrinsic and extrinsic ecological memory, we show that (i) intrinsic memory is a much stronger component than extrinsic memory in the majority of dryland regions and (ii) climate reanalysis datasets change the detection of extrinsic vegetation memory in some global dryland regions.
+Synthesis. Our study offers a global picture of the vegetation response to two climate variables using satellite data, information which is potentially relevant for mapping components and properties of vegetation responses worldwide. However, the large differences in the spatial patterns in intrinsic vegetation memory in our study compared to previous analyses show the overall sensitivity of this component to the initial choice of extrinsic predictor variables. As a result, we caution against using the oversimplified link between intrinsic vegetation‐memory and vegetation recovery rates at large spatial scales.
+

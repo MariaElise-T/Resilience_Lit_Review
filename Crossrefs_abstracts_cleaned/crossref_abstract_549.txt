@@ -1,0 +1,2 @@
+AbstractAs wind generation becomes more prevalent, it is critical that these resources remain secure and, perhaps more significantly, resilient in the face of cyberattacks. Additionally, the remote locations of offshore wind assets increase the cost associated with responding
+ to cyber incidents. Existing risk assessment techniques, such as consequence prioritization and MITRE ATT&CK, can be used by the wind industry to identify potential impacts from cyberattacks. This perspective can then inform cybersecurity investment strategies for greatest impact.

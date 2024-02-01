@@ -1,0 +1,12 @@
+Abstract
+
+Background and Aims
+This ongoing PhD project seeks to develop a person-centred, evidence-based, theoretically informed prototype intervention to support psychosocial and emotional well-being and resilience in people with IBD’s family members (FMs). PhD project focuses on the intervention development and feasibility testing. The development phase has already been undertaken using a co-design approach informed by Design Thinking. A systematic review and qualitative research have been conducted and published, and co-design workshops have been held with people with IBD (n=4), FMs (n=9), and IBD nurses (n=2), revealing a preference for online-based intervention. Therefore, the aim of this study is to translate the paper-based intervention prototype into electronic format. The online prototype will be a) tested for acceptability and b) effect signal. The feasibility of the study design will be evaluated.
+
+
+Methods
+A sequential mixed methods approach, based on the UK Medical Research Council (MRC) Evaluation Framework. The intervention feasibility study will test the acceptability of content and delivery of the intervention and ascertain active feedback. The feasibility of the study design will be evaluated the recruitment, data collection, retention, and analysis strategies. A two-arm feasibility RCT with nested qualitative evaluation will be used to evaluate the newly developed intervention among 60 FMs. Participants will be recruited via Crohn’s & Colitis UK and Bowel Research UK charities. The 60 participants will be randomly allocated into intervention and control groups using 2:1 randomisation. The qualitative component will use purposive sampling from the intervention arm to elicit feedback on the content and format with up to 20 participants.
+
+
+Anticipated Impact
+Results from this intervention development and feasibility study will help revise the intervention, incorporate changes to the study protocol (if necessary), and develop a large-scale RCT for efficacy trailing of a complex intervention to benefit service users.

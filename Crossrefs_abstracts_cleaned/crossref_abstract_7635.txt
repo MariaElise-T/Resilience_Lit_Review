@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this paper is to investigate the knowledge existing in the literature on supply chain resilience for identifying the supply chain practices adopted for securing resilience in given uncertain event.
+
+
+Design/methodology/approach
+A systematic literature review is conducted to identify 84 conceptual and empirical studies. The research findings are synthesized in categories of uncertain events, supply chain practices and outcomes.
+
+
+Findings
+A set of propositions linking the uncertain events, mechanisms and supply chain resilience improvement is developed. It was found that the sufficient conditions for resilience under unexpected disasters are substantially different from those required for resilience against disruptions caused by internal practices or complexity.
+
+
+Originality/value
+Practitioners can benefit from the knowledge of interventions and mechanisms to improve their supply chain resilience in the face of different unpredictable situations. The contribution of this paper is twofold: first, it develops an actionable theory of supply chain resilience by developing testable propositions in the context of supply chains exposed to uncertainties resulting from unexpected disruptions, complexity of supply chains and adoption of certain internal practice; second, the paper highlights the key shortcomings of existing literature and provides opportunities for further research and improvement.

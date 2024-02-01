@@ -1,0 +1,18 @@
+
+
+
+
+BACKGROUND:
+Material hardship has been associated with adverse health care use patterns for children with special health care needs (CSHCN). In this study, we assessed if resilience factors were associated with lower emergency department (ED) visits and unmet health care needs and if they buffered associations between material hardship and health care use for CSHCN and children without special health care needs.
+
+
+METHODS:
+A cross-sectional study using the 2016 National Survey of Children’s Health, restricted to low-income participants (&lt;200% federal poverty level). Separately, for CSHCN and children without special health care needs, weighted logistic regression was used to measure associations between material hardship, 2 resilience factors (family resilience and neighborhood cohesion), and 2 measures of use. Moderation was assessed using interaction terms. Mediation was assessed using structural equation models.
+
+
+RESULTS:
+The sample consisted of 11 543 children (weighted: n = 28 465 581); 26% were CSHCN. Material hardship was associated with higher odds of ED visits and unmet health care needs for all children. Resilience factors were associated with lower odds of unmet health care needs for CSHCN (family resilience adjusted odds ratio: 0.58; 95% confidence interval: 0.36–0.94; neighborhood cohesion adjusted odds ratio: 0.53; 95% confidence interval: 0.32–0.88). For CSHCN, lower material hardship mediated associations between resilience factors and unmet health care needs. Neighborhood cohesion moderated the association between material hardship and ED visits (interaction term: P = .02).
+
+
+CONCLUSIONS:
+Among low-income CSHCN, resilience factors may buffer the effects of material hardship on health care use. Future research should evaluate how resilience factors can be incorporated into programs to support CSHCN.

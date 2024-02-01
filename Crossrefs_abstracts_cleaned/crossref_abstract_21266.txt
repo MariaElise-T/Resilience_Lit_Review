@@ -1,0 +1,11 @@
+Abstract. Scientific evidence is critical to underpin the decisions associated with shoreline management, to build climate-resilient communities and infrastructure. We explore the role of waves, storm surges and sea level rise for the Caribbean region with a focus on coastal impacts in the eastern Caribbean islands. We simulate past extreme events and a worst-case
+scenario, modelling the storm surges and waves, suggesting a storm surge
+might reach 1.5 m, depending on the underwater topography. Coastal wave
+heights of up to 12 m offshore and up to 5 m near the coast of St Vincent are
+simulated with a regional wave model. We deliver probabilistic sea level
+projections for 2100, with a low-probability–high-impact estimate of
+possible sea level rise up to 2.2 m, exceeding the 1.8 m global estimate for the same scenario. We introduce a combined vulnerability index, which allows for a quantitative
+assessment of relative risk across the region, showing that sea level rise
+is the most important risk factor everywhere but wave impacts are important on windward coasts, increasing to the north, towards the main hurricane track. Our work provides quantitative evidence for policy-makers, scientists and local communities to actively prepare for and protect
+against climate change.
+                    

@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Healthy sleep is important and can have a positive effect on resilience. The aim of the present study was to compare the differences in resilience between two group nurses in rotating shift and daytime fixed work schedules and to investigate stress perception, coping factors, social and psychological health, and sleep factors that may affect resilience.
+
+
+Methods
+A total of 400 female nurses having rotating shift and daytime fixed work schedules at two hospital were surveyed from June 12, 2017 to June 12, 2018. Perceived stress scale(PSS), stress coping short form(Brief COPE), psycho-social wellbeing Index short form(PWI-SF) or general health questionnaire-18(GHQ-18), center for epidemiologic studies depression scale(CES-D), STAI-X-1 in state-trait anxiety inventory(STAI), Pittsburgh sleep quality index(PSQI), Epworth sleepiness scale(ESS), insomnia severity index(ISI), Conner Davidson resilience scale(CD-RISC) applied. Independent t-test, paired t-test, Pearson correlation analysis, and multiple regression analysis were applied to the results of the final 373 questionnaires of 400 nurses in two general hospitals.
+
+
+Results
+As a result of comparing the variable statistics between the two groups of rotating shift and daytime fixed work nurses, there were statistically significant differences in all variables except perceived stress, sleep quality, and daytime sleepiness. Factors that had a significant correlation with resilience were stress coping strategies, depression, and insomnia severity(p&lt;0.001). In multiple regression analysis, the larger positive reframing1(β=0.206, p&lt;0.001), the less depression (β= -3.45, p&lt;0.001), and the higher psychosocial health level(β=0.193, p &lt;0.001). As acceptance coping2 increases(β=0.129, p&lt;0.05), as daytime sleepiness decreases(β=-1.17, p&lt;0.05), and as active coping2 increases(β=0.118, p&lt;0.05), as the positive reframing2 increases(β=0.110, p&lt;0.05), the resilience increased.
+
+
+Conclusion
+In this study, it was found that resilience was higher in daytime fixed workers than in shift workers. In addition, specific stress coping strategies and sleep, depression, and anxiety factors were found to be associated with resilience.
+
+
+Support
+Key words: Shift work · Female nurse · Resilience · Sleep · Stress · Depression

@@ -1,0 +1,12 @@
+Abstract
+Background
+Team resilience can help nurse to respond positively to adversity at work and maintain normal team function in complex and unstable environments. However, much less research attention has been paid to team resilience than to individual resilience, and nurses lack reliable and valid tools to measure team resilience. This study aimed to develop and evaluate the psychometric properties of a scale that measures the nursing team resilience in the context of a public health emergency.
+
+Methods
+The study was conducted in three stages that item development, scale development, and scale evaluation. This scale was based on that of Morgan and Sharma et al. proposed four-factor team resilience model, and the draft scale was generated based on the literature review, existing scales, experts’ validations, and cognitive interviews. During July 2022 to August 2022, the construct validity and the internal consistency reliability of the NTRS were evaluated through an online survey of 421 nurses.
+
+Results
+The 8-item NTRS scale has good reliability and validity and is suitable for measuring the nurse team resilience. The EFA found a common factor solution and explained 72.33% of the common varianc and the CFA score showed construct validity. Reliability of the internal consistency of the scale with a good Cronbach alpha of 0.94.
+
+Conclusion
+This scale can assess team resilience in nurses that nursing education and management resources can be allocated to improve policies and training programs to provide effective positive support to nurses in challenging workplace situations and to enable greater health systems resilience in the future.

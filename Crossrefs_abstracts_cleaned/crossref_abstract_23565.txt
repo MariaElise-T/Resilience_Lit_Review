@@ -1,0 +1,19 @@
+Significance
+
+            Stress can increase susceptibility to developing psychiatric disorders, including depression. Understanding the neurobiological mechanisms underlying stress resilience and susceptibility is key to identifying novel targets for the development of more effective treatments for stress-related psychiatric disorders. Here we show that specific isoforms of GABA
+            B
+            receptor subunits differentially regulate stress resilience. Specifically, GABA
+            B(1a)
+−/−
+            mice are more susceptible whereas GABA
+            B(1b)
+−/−
+            mice are more resilient to stress-induced anhedonia and psychosocial stress-induced social withdrawal, two features of depression. Furthermore, GABA
+            B(1b)
+−/−
+            mice were resilient to stress-induced decreases in the survival of newly born cells in the adult hippocampus, and hippocampal GABA
+            B(1b)
+            expression was increased in a genetic mouse model of depression. Taken together, GABA
+            B
+            receptor subunit isoforms may represent novel therapeutic targets for stress-related disorders.
+          

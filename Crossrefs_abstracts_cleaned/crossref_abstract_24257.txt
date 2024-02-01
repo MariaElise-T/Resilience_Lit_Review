@@ -1,0 +1,12 @@
+Abstract
+Background
+Left-behind adolescents (LBAs) are adolescents aged 11–18 years who are separated from their parents and left behind in local cities by one or both parents for a period of more than 6 months. LBAs in rural areas are likely to engage in aggressive behavior, which can affect interpersonal relationships, reduce academic performance, and even lead to anxiety and depression. To our knowledge, no studies have examined the mediating effect of resilience and self-esteem on the relationship between negative life events and aggression among Chinese rural LBAs. Therefore, this study aimed to explore the relationship between negative life events and aggression among Chinese rural LBAs and how self-esteem and resilience mediate the association.
+
+Methods
+Using a stratified random sampling method, 1344 LBAs in Hunan Province of China were investigated. Information was collected by a self-designed sociodemographic questionnaire, Adolescent Self-Rating Life Events Checklist, Resilience Scale Chinese Adolescent, Rosenberg Self-Esteem Scale and Aggression Scales to assess the psychology of LBAs. Data analysis was conducted using descriptive statistics, Pearson correlation, and regression analysis to estimate direct and indirect effects using bootstrap analysis.
+
+Results
+Negative life events were significantly related to self-esteem (r = − 0.338), resilience (r = − 0.359), and aggression (r = 0.441). Aggression was directly affected by self-esteem (β = − 0.44) and resilience (β = − 0.34). Negative life events were not only directly related to aggression (β = 0.34, 95% CI: 0.275 ~ 0.398) but also showed an indirect effect on aggression through self-esteem and resilience. The direct effect, total effect and indirect effect of negative life events on aggression through self-esteem and resilience were 0.3364, 0.4344 and 0.0980, respectively. The mediating effect of self-esteem and resilience accounted for 22.56% of the relationship between negative life events and aggression.
+
+Conclusions
+We found that self-esteem and resilience mediated most negative life events on aggression. It is imperative for educators and families to improve LBAs’ self-esteem and resilience to reduce the occurrence of aggression. Future intervention studies should be designed to strengthen self-esteem and resilience.

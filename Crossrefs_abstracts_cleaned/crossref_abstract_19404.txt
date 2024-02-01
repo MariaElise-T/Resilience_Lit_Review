@@ -1,0 +1,36 @@
+Abstract
+
+Study question
+Does the structural maintenance of sperm chromatin have an implication in assisted reproduction outcomes?
+
+
+Summary answer
+Sperm deprotamination is related to fertilizing capacity. Also, the time needed for the reduction of protamine disulphide bridges is a parameter underlying early embryo development.
+
+
+What is known already
+How male factor affects embryo development has been a controversial topic for decades, with opposite results. A meta-analysis recently showed that whereas sperm genotoxic damage has an impact on IVF success, its repercussion on ICSI remains unclear. Revealing the factors that may predict embryo development is much warranted to understand the sperm contribution in the ICSI era. Sperm DNA is preferentially protamine-condensed and necessarily needs to be switched to histone-condensed chromatin upon fertilization. This study aims to determine the degree of protamination and the disulphide bond integrity to provide new insights into the influence of chromatin resilience on embryo development.
+
+
+Study design, size, duration
+The study setting included a public university and a private sperm bank. The design was a blinded retrospective study, including samples from 51 sperm donors that were used for a total of 55 cycles conducted with donated oocytes in the fertility clinic. Sperm quality parameters, including those focused on chromatin structure, were evaluated after 0 min and 240 min post-thawing and compared to embryo outcomes.
+
+
+Participants/materials, setting, methods
+Sperm samples from donors selected by the germplasm bank were collected and used to fertilize oocytes in double-donation cycles (oocyte donation) with standard intracytoplasmic sperm injection. Cryopreserved samples were used to assess sperm viability (SYBR14/PI), incidence of thiol reduction (Dibromobimane, DBB) and chromatin deprotamination (Chromomycin A3, CMA3) through flow cytometry, at 0 min and 240 min after thawing. Positive controls after incubation with Triton-X100, DTT and DTT+NaCl were used to establish the flow cytometry thresholds.
+
+
+Main results and the role of chance
+In fresh semen samples, sperm concentration was 34.12±18.13 sperm/mL and progressive motility was 37.49±13.22% (mean±standard deviation). At 0 min and 240 min post-thawing, sperm viability was 24.80±12.12% and 18.65±10.37%, respectively, and the death rate was -1.54±1.24%/hour. Percentages of sperm with reduced thiols were 17.37±11.26% and 11.53±9.16% after 0 min and 240 min post-thawing, the reduction rate being -1.46±2.31%. Percentages of sperm with chromatin deprotamination were 21.12±9.03% and 35.34±14.10% after 0 min and 240 min post-thawing, and the deprotamination rate was 14.22±11.90%/hour. ICSI was conducted with an average of 11.86±7.89 oocytes per sperm sample, of which 8.78±5.95 were fertilized; the mean fertilization rate was 75.77±17.61%. For each sperm sample, 5.98±4.93 blastocysts at day 5 were obtained, leading to an average blastocyst rate of 65.17±22.22%. Interestingly, the deprotamination status at 0 min post-thaw was correlated to fertilization rates (Rs= -0.388; P = 0.005) and the decreasing rate of sperm with reduced thiols was correlated to blastocyst rate (Rs= -0.351; P = 0.012). Reduced thiols and deprotamination were also correlated with each other (Rs= -0.320; P = 0.022).
+
+
+Limitations, reasons for caution
+The main limitation of the present study was the sample size. More donors are thus needed in order for the promising results found in this study to be confirmed.
+
+
+Wider implications of the findings
+The research conducted herein has evidenced that the resilience of the sperm chromatin structure is related to embryo development outcomes from ICSI cycles conducted with oocyte donors.
+
+
+Trial registration number
+N/A

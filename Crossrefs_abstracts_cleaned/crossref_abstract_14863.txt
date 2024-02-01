@@ -1,0 +1,23 @@
+
+            Authentication mechanisms deployed on access control systems undertake the responsibility of judging user identity to prevent unauthorized individuals from illegally approaching. In this article, we propose
+            
+LIPAuth
+
+            leveraging hand-dependent
+            L
+            ight
+            I
+            ntensity
+            P
+            attern to
+            Auth
+            enticate users. To be specific, lights released by a screen, are blocked and reflected by one hand above it; in this propagation process, hands exhibit user-specific ability in driving light absorption and attenuation due to owning unique structures, thereby outputting discriminative intensity patterns representing user identity. To implement
+            LIPAuth
+            , we first study the impact of screen contents on light intensity patterns, also explore the possibility of embedding hand structure biometrics into these patterns. We then design a customized dynamic stimulus-response mechanism for
+            LIPAuth
+            and make it resilient to the risks of potential registration profile leakage. Subsequently, we construct a joint pipeline consisting of signal processing and a learning-based generative adversarial network to overcome interference from variable user behaviors. More importantly,
+            LIPAuth
+            just utilizes common sensors to capture light signals, hence achieving low cost. We finally conduct extensive experiments in three scenarios to evaluate the authentication performance of
+            LIPAuth
+            prototype.
+          

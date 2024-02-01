@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience is often referred to when assessing the ability of health systems to maintain their functions during unexpected events. Primary healthcare forms the basis for the health system and thus its resilient responses are vital for the outcomes of the whole system. Understanding how primary healthcare organisations are able to build resilience before, during, and after unexpected or sudden shocks, is key to public health preparedness. This study aims to identify how leaders responsible for local health systems interpreted changes in their operational environment during the first year of COVID-19, and to elucidate how these views reflect aspects of resilience in healthcare.
+
+Methods
+The data consist of 14 semi-structured individual interviews with leaders of local health systems in Finland representing primary healthcare. The participants were recruited from four regions. An abductive thematic analysis was used to identify entities from the viewpoints of the purpose, resources, and processes of resilience in the healthcare organisation.
+
+Results
+Results were summarised as six themes, which suggest that embracing uncertainty is viewed by the interviewees a basis for primary healthcare functioning. Leading towards adaptability was regarded a distinct leadership task enabling the organisation to modify its functions according to demands of the changing operational environment. Workforce, knowledge and sensemaking, as well as collaboration represented what the leaders viewed as the means for achieving adaptability. The ability to adapt functioned to comprehensively meet the population’s service needs built on a holistic approach.
+
+Conclusions
+The results showed how the leaders who participated in this study adapted their work during changes brought on by the pandemic, and what they viewed as critical for maintaining organisational resilience. The leaders considered embracing uncertainty as a principal feature of their work rather than viewing uncertainty as aberrant and something to avoid. These notions, along with what the leaders considered as critical means for building resilience and adaptability should be addressed and elaborated in future research. Research on resilience and leadership should be conducted more in the complex context of primary healthcare, where cumulative stresses are encountered and processed continuously.

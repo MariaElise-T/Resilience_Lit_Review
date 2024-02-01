@@ -1,0 +1,19 @@
+
+Background
+Health-related quality of life (HRQoL) is an important indicator of patient's satisfaction about their disease course. Many factors are influential to life quality, such as dignity and resilience. Dignity is mostly explored in populations with cancer, but the understanding of dignity and its relationship with resilience and HRQoL is limited.
+
+
+Objective
+The aim of this study was to explore the relationships between dignity, resilience, and HRQoL among patients with cardiac disease.
+
+
+Methods
+A purposive sample of patients with cardiac disease with a cross-sectional design was used for this study. Four structured questionnaires were used for data collection. Dignity was measured by the Patient Dignity Inventory-Mandarin version; resilience was measured by the Chinese version of the Resilience Scale; HRQoL was measured by EuroQol 5 Dimensions. Partial least squares structural equation modeling was applied to test the hypothesized structural model. Reporting was consistent with the Strengthening the Reporting of Observational Studies in Epidemiology checklist.
+
+
+Results
+The mean age of all 101 participants was 72.2 years, 88.1% had coronary artery disease, and the prevalence of heart failure was 43.0%. In patients with cardiac disease, their sense of dignity was significantly associated with HRQoL, and resilience was associated with both dignity and quality of life. Notably, resilience had a mediating effect between dignity and HRQoL; dignity and resilience explained 73.0% of the variance of HRQoL.
+
+
+Conclusions
+Dignity is a new concern in cardiac disease research, which is influential to patients' perception of disease and their HRQoL. Patients with cardiac disease with higher resilience tend to have a better HRQoL.

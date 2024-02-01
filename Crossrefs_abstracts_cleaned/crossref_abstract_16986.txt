@@ -1,0 +1,19 @@
+
+Background
+The COVID-19 pandemic has prompted an interest in whole-person health and emotional well-being. Informatics solutions through user-friendly tools such as mobile health apps offer immense value. Prior research developed a consumer-facing app MyStrengths + MyHealth using Simplified Omaha System Terms (SOST) to assess whole-person health. The MyStrengths + MyHealth app assesses strengths, challenges, and needs (SCN) for 42 concepts across four domains (My Living, My Mind and Networks, My Body, My Self-care; eg, Income, Emotions, Pain, and Nutrition, respectively). Given that emotional well-being was a predominant concern during the COVID-19 pandemic, we sought to understand whole-person health for participants with/without Emotions challenges.
+
+
+Objective
+This study aims to use visualization techniques and data from attendees at a Midwest state fair to examine SCN overall and by groups with/without Emotions challenges, and to explore the resilience of participants.
+
+
+Methods
+This cross-sectional and descriptive correlational study surveyed adult attendees at a 2021 Midwest state fair. Data were visualized using Excel and analyzed using descriptive and inferential statistics using SPSS.
+
+
+Results
+The study participants (N=182) were primarily female (n=123, 67.6%), aged ≥45 years (n=112, 61.5%), White (n=154, 84.6%), and non-Hispanic (n=177, 97.3%). Compared to those without Emotions challenges, those with Emotions challenges were aged 18-44 (P<.001) years, more often female (P=.02), and not married (P=.01). Overall, participants had more strengths (mean 28.6, SD 10.5) than challenges (mean 12, SD 7.5) and needs (mean 4.2, SD 7.5). The most frequent needs were in Emotions, Nutrition, Income, Sleeping, and Exercising. Compared to those without Emotions challenges, those with Emotions challenges had fewer strengths (P<.001), more challenges (P<.001), and more needs (P<.001), along with fewer strengths for Emotions (P<.001) and for the cluster of health-related behaviors domain concepts, Sleeping (P=.002), Nutrition (P<.001), and Exercising (P<.001). Resilience was operationalized as correlations among strengths for SOST concepts and visualized for participants with/without an Emotions challenge. Those without Emotions challenges had more positive strengths correlations across multiple concepts/domains.
+
+
+Conclusions
+This survey study explored a large community-generated data set to understand whole-person health and showed between-group differences in SCN and resilience for participants with/without Emotions challenges. It contributes to the literature regarding an app-aided and data-driven approach to whole-person health and resilience. This research demonstrates the power of health informatics and provides researchers with a data-driven methodology for additional studies to build evidence on whole-person health and resilience.

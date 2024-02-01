@@ -1,0 +1,12 @@
+Abstract
+
+Aims
+Previous studies have indicated a positive association between mutuality and caregiver contributions to heart failure self-care (CC-HFSC). However, little is known about the underlying mechanisms in the relationship. This study aimed to determine whether resilience and self-efficacy play multiple mediating roles in the association between mutuality and CC-HFSC.
+
+
+Methods and results
+In this cross-sectional, correlational study, a self-reported survey was conducted in 259 patient–caregiver dyads recruited from two hospitals in China using a convenience sampling method. Better mutuality (r = 0.27, P &lt; 0.01), resilience (r = 0.23, P &lt; 0.01), and self-efficacy (r = 0.34, P &lt; 0.01) were correlated with greater CC-HFSC maintenance. Better mutuality (r = 0.29, P &lt; 0.01), resilience (r = 0.20, P &lt; 0.01), and self-efficacy (r = 0.35, P &lt; 0.01) were correlated with greater CC-HFSC management. In multiple mediation models, self-efficacy independently [effect = 0.061, 95% confidence interval (CI) (0.024–0.119)] and resilience and self-efficacy serially [effect = 0.017, 95% CI (0.007–0.036)] mediated the association between mutuality and CC-HFSC maintenance. Meanwhile, self-efficacy independently [effect = 0.058, 95% CI (0.020–0.113)] and resilience and self-efficacy serially [effect = 0.018, 95% CI (0.007–0.038)] mediated the association between mutuality and CC-HFSC management.
+
+
+Conclusions
+Resilience and self-efficacy were multiple mediators in the association between mutuality and CC-HFSC. Interventions targeting the facilitation of mutuality, and then increasing resilience and self-efficacy may be beneficial for improving CC-HFSC.

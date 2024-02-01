@@ -1,0 +1,33 @@
+Abstract
+
+Study question
+Does sperm from different species with different protamine 1/protamine 2 ratios have different resilience to sperm decondensation?
+
+
+Summary answer
+Sperm cells from species whose DNA is condensed with both protamine 1 and protamine 2 require less time in deprotamination steps.
+
+
+What is known already
+Sperm cells present a highly particular DNA condensation that is acquired during sperm differentiation, where most part of histones are replaced by protamines. Protamines are key elements for DNA condensation and, while protamine 1 is more conserved among species, protamine 2 has evolved differentially, existing only a few species that retain the mature protein in their sperm DNA. Changes in protamine expression rates have been described to be associated to head sperm size and shape. In addition, reduced amounts of protamine 2 are related to male infertility in species in which this protein is present.
+
+
+Study design, size, duration
+Cryopreserved sperm samples were treated with lysis solutions to induce DNA decondensation and formation of sperm haloes. In these treatments, the effect of different incubation times with proteinase K added to the lysis solution upon DNA decondensation was tested by analyzing core diameter, halo diameter and the Halo/core ratio in at least 50 sperm per sample.
+
+
+Participants/materials, setting, methods
+Species included in the study were Human, Equine, Donkey, Porcine and Bovine. Sperm samples from five different individuals for each species were included in the study. DNA decondensation included three lysis steps: first, a SDS + DTT incubation for 30 minutes; second, a DTT + NaCl treatment for 30 minutes; and third, a DTT + NaCl + Proteinase K treatment with a variable time of 0, 30 or 180 minutes.
+
+
+Main results and the role of chance
+The halo/core diameter, used as a representation of the degree of DNA decondensation, for 0 minutes, 30 minutes and 180 minutes of proteinase K incubation were: 4.68±0.51, 4.32±0.51 and 4.77±0.64, respectively for human sperm; 4.15±0.41, 4.57±0.53 and 4.68±0.63, respectively for Equine sperm; 4.40±0.64, 4.00±0.37 and 4.17±0.19, respectively for donkey sperm; 1.77±0.2, 3.05±0.14 and 4.13±0.39, respectively for porcine sperm; and 2.40±0.40, 3.36±0.22 and 4.19±0.38, respectively for bovine sperm. Differences of halo/core ratio in different times were only observed in porcine and bovine sperm, where increasing degrees of DNA decondensation were found (p &lt; 0.05). Therefore, these results show that while longer incubations in lysis solutions with proteinase K lead to higher DNA decondensation in porcine and bovine, they do not induce higher decondensation in human, equine and donkey. This evidence, coupled to the fact that porcine and bovine sperm present null or very low protamine 2 content, suggests that its presence might confer higher DNA decondensation susceptibility.
+
+
+Limitations, reasons for caution
+Only sperm cells with normal sperm haloes were analyzed in the present study. As multiple studies show, haloes exhibited by sperm cells with DNA damage display higher diameter, that is why they were strictly excluded in this study with the aim to elucidate the average DNA decondensation.
+Wider implications of the findings: Sperm DNA might have different degrees of DNA condensation, which can be associated to a higher difficulty of DNA decondensation, thus having implications in the sensitivity tests that assess sperm DNA integrity.
+
+
+Trial registration number
+Not applicable.

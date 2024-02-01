@@ -1,0 +1,5 @@
+
+            This report summarizes the focus of the 5
+            th
+            ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities (ARIC 2022 - https://urbands.github.io/ARIC2022/) that was held in-person in Seattle, Washington on November 1, 2022. The attendance for the workshop was 20. The ARIC workshop started in 2017 with an aim to promote the interdisciplinary discussions among researchers, practitioners and developers to identify techniques and methods that would enable building next generation cities and infrastructures. This workshop has been continuing its mission to bring together researchers and practitioners to address the state-of-the-art techniques/methods, limitations and challenges of making cities that are both smart and resilient to extreme events.
+          

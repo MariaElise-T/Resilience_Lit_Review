@@ -1,0 +1,15 @@
+
+Background
+Stress during pregnancy is associated with perturbances in maternal psychology and physiology, and results in adverse pregnancy and birth outcomes. However, little attention has been given to understand maternal stress and its potential negative consequences in many low- and middle-income countries. We aimed to investigate whether pregnancy is associated with greater stress and lower psychological resilience among women living in Jimma, Southwest Ethiopia.
+
+
+Method
+An institution-based comparative cross-sectional study design was implemented in Jimma University Medical Center and Jimma health centers from 15 September to 30 November 2021. Women attending antenatal care and family planning services were invited to participate in the study. Participants were interviewed using the Perceived Stress Scale (PSS-10), Brief Resilience Scale (BRS), distress questionnaire-5, and the Household Food Insecurity Access Scale (HFIAS). Linear regression analysis was used to test associations between pregnancy (exposure) and outcomes of interest (stress and resilience scores), while adjusting for potential confounders. Stress and resilience were mutually adjusted for one another in the final model.
+
+
+Results
+A total of 166 pregnant and 154 non-pregnant women participated, with mean age of 27.0 SD 5.0 and 29.5 SD 5.3 years respectively. Pregnancy was associated with increased stress score by 4.1 points (β = 4.1; 95% CI: 3.0, 5.2), and with reduced resilience by 3.3 points (β = -3.3; 95% CI: -4.5, -2.2) in a fully adjusted model. In mutually-adjusted models, pregnancy was independently associated with greater stress (β = 2.9, 95% CI 1.8, 3.9) and lower resilience (β = -1.3, 95% CI: -2.5, -0.2) compared to non-pregnant women.
+
+
+Conclusion
+In this low income setting, pregnancy is associated with greater vulnerability in the mental health of women, characterized by greater perceived stress and diminished resilience. Context-relevant interventions to improve resilience and reduce stress could help improve the health and wellbeing of mothers, with potential benefits for their offspring.

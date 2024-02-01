@@ -1,0 +1,19 @@
+
+Purpose
+Over the years, the significance of retrofitting has gained much attention with the unveiling of its different applications, such as energy retrofit and deep retrofit, to enhance the climate-resilience of buildings. However, no single study comprehensively assesses the climate-resilience of retrofitting. The purpose of this study is to address this gap via a systematic literature review.
+
+
+Design/methodology/approach
+Quality journal studies were selected using the PRISMA method and analysed manually and using scientometrics. Three dimensions of climate-resilience, such as robustness, withstanding and recovery, were used to evaluate the contribution of retrofit measures for achieving climate-resilient houses across four climate zones: tropical, arid, temperate and cold.
+
+
+Findings
+Most passive measures can enhance the robustness of residential buildings but cannot verify for withstanding against immediate shocks and timely recovery. However, some passive measures, such as night-time ventilation, show excellent performance over all four climate zones. Active measures such as heating, ventilation and air conditioning and mechanical ventilation with heat recovery, can ensure climate-resilience in all three dimensions in the short-term but contribute to greenhouse gas emissions, further exacerbating the long-term climate. Integrating renewable energy sources can defeat this issue. Thus, all three retrofit strategies should appropriately be adopted together to achieve climate-resilient houses.
+
+
+Research limitations/implications
+Since the research is limited to secondary data, retrofit measures recommended in this research should be further investigated before application.
+
+
+Originality/value
+This review contributes to the knowledge domain of retrofitting by assessing the contribution of different retrofit measures to climate-resilience.

@@ -1,0 +1,23 @@
+
+Purpose
+ – The purpose of this paper is to consider how to couple and quantify resilience and sustainability, where sustainability refers to not only environmental impact, but also economic and social impacts. The way a particular function of a building is provisioned may have significant repercussions beyond just resilience. The goal is to develop a decision support tool for facilities managers. 
+
+
+Design/methodology/approach
+ – A risk framework is used to quantify both resilience and sustainability in monetary terms. The risk framework allows to couple resilience and sustainability, so that the provisioning of a particular building can be investigated with consideration of functional, environmental, economic and, possibly, social dimensions. 
+
+
+Findings
+ – The method of coupling and quantifying resilience and sustainability (CQRS) is illustrated with a simple example that highlights how very different conclusions can be drawn when considering only resilience or resilience and sustainability. 
+
+
+Research limitations/implications
+ – The paper is based on a hypothetical example. The example also illustrates the difficulty in deriving the costs and probabilities associated with particular indicators. 
+
+
+Practical implications
+ – The method is generic, allowing the method to be customized for different user communities. Further research is needed to translate this theoretical framework to a practical tool for practitioners and to evaluate the CQRS method in practice. 
+
+
+Originality/value
+ – The intention of this research is to fill the gap between the need for increasing sustainability and resilience of the built environment and the current practices in property maintenance and operation.

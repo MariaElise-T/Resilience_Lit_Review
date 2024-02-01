@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Individuals with a psychotic disorder are at an increased risk of becoming the victim of a crime. A body-oriented resilience therapy with elements of kickboxing (‘BEATVIC’) aimed at preventing victimization by addressing putatively underlying factors was developed. One of these factors is social cognition, particularly facial affect processing. The current study investigated neural effects of BEATVIC using two face processing tasks.
+
+
+Methods
+Participants were randomized to either BEATVIC or a ‘Befriending’ control group consisting of social group meetings. Twenty-seven patients (BEATVIC n=14; Befriending n=13) completed an Emotional Faces task and the Wall of Faces task during fMRI, pre and post intervention. General linear model (GLM) analyses and Independent component analyses (ICA) were performed to define networks and investigate group*time effects.
+
+
+Results
+Voxelwise GLM analyses yielded no differences between groups over time. On a network level (ICA) we found overall increased activation of the salience network to angry and fearful faces in BEATVIC compared to Befriending. A trend towards significance (p=0.05) for increased activation of the (medial) visual network to (a group of predominantly) angry faces, and decreased deactivation (p=0.08) in the sensorimotor network in response to fearful faces in BEATVIC was observed.
+
+
+Discussion
+Increased activation of the salience network may suggest an increased alertness for potentially dangerous faces. Trend findings of the visual network and the sensorimotor network which are formally statistically insignificant may be regarded as tentative and strongly warrant further investigation to allow for more definite conclusions. Increased activation of the visual network might suggest more elaborate processing of visual information. Decreased deactivation in the sensorimotor network might indicate a reduced tendency for “freezing” and enhanced action readiness in response to indirect threat.

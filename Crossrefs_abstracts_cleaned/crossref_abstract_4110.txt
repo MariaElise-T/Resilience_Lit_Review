@@ -1,0 +1,10 @@
+AbstractWe study the problem of designing a resilient data structure maintaining a tree under the Faulty-RAM model [Finocchi and Italiano, STOC’04] in which up to $$\delta $$
+δ
+ memory words can be corrupted by an adversary. Our data structure stores a rooted dynamic tree that can be updated via the addition of new leaves, requires linear size, and supports resilient (weighted) level ancestor queries, lowest common ancestor queries, and bottleneck vertex queries in $$O(\delta )$$
+
+O
+(
+δ
+)
+
+ worst-case time per operation.

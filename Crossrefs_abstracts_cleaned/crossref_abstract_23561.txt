@@ -1,0 +1,23 @@
+
+Background
+Physical activity alleviates chronic stress. The latest research suggests a relationship between resilience and physical fitness. Beneficial adaptations of the hypothalamic-pituitary-adrenal axis, sympathetic nervous system, endocannabinoid system, and tryptophan pathway, which are induced by an active lifestyle, are considered to be conducive to resilience. However, detailed knowledge on the molecular link between the effects of acute and chronic physical exercise and improved resilience to stress in humans is missing. Moreover, the relationship between innate and acquired aerobic capacity and resilience is poorly understood.
+
+
+Objective
+The aim of this study is to implement a human exercise intervention trial addressing the following main hypotheses: a high innate aerobic capacity is associated with high resilience to stress, and web-based physical exercise training improves aerobic capacity of physically inactive adults, which is accompanied by improved resilience. In this setting, we will analyze the relationship between resilience parameters and innate and acquired aerobic capacity as well as circulating signaling molecules.
+
+
+Methods
+A total of 70 healthy, physically inactive (<150 minutes/week of physical activity) adults (aged 18-45 years) will be randomly assigned to an intervention or control group. Participants in the intervention group will receive weekly training using progressive endurance and interval running adapted individually to their remotely supervised home training performance via web-based coach support. A standardized incremental treadmill exercise test will be performed before and after the intervention period of 8 weeks to determine the innate and acquired aerobic capacity (peak oxygen uptake). Before and after the intervention, psychological tests and questionnaires that characterize parameters implicated in resilience will be applied. Blood and saliva will be sampled for the analysis of cortisol, lactate, endocannabinoids, catecholamines, kynurenic acid, and further circulating signal transducers. Statistical analysis will provide comprehensive knowledge on the relationship between aerobic capacity and resilience, as well as the capacity of peripheral factors to mediate the promoting effects of exercise on resilience.
+
+
+Results
+The study was registered in October 2019, and enrollment began in September 2019. Of the 161 participants who were initially screened via a telephone survey, 43 (26.7%) fulfilled the inclusion criteria and were included in the study. Among the 55% (17/31) of participants in the intervention group and 45% (14/31) of participants in the control group who completed the study, no serious adverse incidents were reported. Of 43 participants, 4 (9%) withdrew during the program (for individual reasons) and 8 (19%) have not yet participated in the program; moreover, further study recruitment was paused for an indeterminate amount of time because of the COVID-19 pandemic.
+
+
+Conclusions
+Our study aims to further define the physiological characteristics of human resilience, and it may offer novel approaches for the prevention and therapy of mental disorders via an exercise prescription.
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/29712

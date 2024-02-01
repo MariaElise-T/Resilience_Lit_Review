@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+People with schizophrenia and bipolar disorder are at increased risk of having comorbid somatic illness. This is partly due to lack of physical activity, which may originate from childhood. Sleep disturbances are associated with schizophrenia and bipolar disorder. We aimed to assess physical activity and sleep in children at familial high risk of schizophrenia or bipolar disorder and population-based controls
+
+
+Methods
+This study is part of The Danish High Risk and Resilience Study—VIA 11. Children aged 11 born to parents with schizophrenia (FHR-SZ) (N = 133), bipolar disorder (FHR-BP) (N = 84), or controls (C) (N = 150) were assessed by accelerometry for an average of 6.9 days.
+
+
+Results
+High-intensity physical activity was significantly lower in children at FHR-SZ and FHR-BP compared to controls, (mean hours per day for FHR-SZ: 0.29, SD 0.19, for FHR-BP: 0.27, SD 0.24, and for controls 0.38, SD 0.22, P = &lt;.001). Sleep did not differ between the groups.
+
+
+Conclusion
+Children at FHR-SZ or FHR-BP had less physical activity compared to controls. Our study highlights a research area that reveals a hitherto unexplored disadvantage of being born to parents with schizophrenia or bipolar disorder. Further research is needed to enhance better understanding of causal pathways and consequences of reduced physical activity in children with FHR-SZ and FHR-BP.

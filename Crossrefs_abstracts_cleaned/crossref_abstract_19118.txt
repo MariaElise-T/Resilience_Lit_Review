@@ -1,0 +1,22 @@
+ObjectivesDespite the toll of inflammatory bowel disease (IBD) on adjustment, many patients are resilient to the challenges associated with living with IBD, and successfully cope with their illness and thrive. Yet there is little research on why some individuals with IBD enter a trajectory of growth, while others may struggle to adapt. The aim of this study was to investigate the adjustment‐related factors that distinguished thriving, resilience, and loss in people with IBD across personal growth, life satisfaction, and relationship quality domains.DesignProspective cohort design with two data collection points, 6 months apart.MethodsFrom a sample of 420 people with active IBD who completed an online survey, 152 participants completed the follow‐up survey and were included in the analyses. Participants completed measures of thriving, and cognitive, affective, social, and disease‐related variables known to predict adjustment.ResultsTime 1 ANCOVAs and pairwise comparisons controlling for demographics distinguished loss from resilience and thriving on the four outcomes – coping efficacy, illness acceptance, depressive symptoms, and perceived social support – for all three domains. Time 2 ANCOVAs and pairwise comparisons controlling for baseline outcomes revealed that the Time thriving categories predicted differences in Time 2 adjustment, mainly for the life satisfaction domain, with those experiencing loss reporting poorer adjustment than those experiencing resilience and thriving.ConclusionsFindings highlight the distinctions among profiles of thriving, resilience, and loss in adjustment to IBD, and suggest that strategies that enhance coping and address depressive symptoms may optimize thriving in the context of IBD.
+Statement of contribution
+
+What is already known on this subject?
+
+
+
+Inflammatory bowel disease (IBD) is associated with depression, poor coping, and stressful symptoms.
+Previous research has focused mainly on poor adjustment to IBD rather than on positive growth.
+There is little research on why some patients with IBD thrive or are resilient, while others struggle to adapt.
+
+
+
+What does this study add?
+
+
+
+This study is the first to longitudinally examine the profiles of thriving, resilience, and loss in individuals with IBD.
+The thriving profiles differed in coping efficacy, illness acceptance, depressive symptoms, and social support outcomes at Time 1, and predicted adjustment at T2 mainly for the life satisfaction domain.
+Strategies that enhance coping and social support may optimize thriving in the context of IBD.
+
+

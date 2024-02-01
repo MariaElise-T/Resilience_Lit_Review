@@ -1,0 +1,27 @@
+
+Background
+No evidence-based support has been offered to young people (YP) who have experienced technology-assisted sexual abuse (TASA). Interventions aimed at improving mentalization (the ability to understand the mental states of oneself and others) are increasingly being applied to treat YP with various clinical issues. Digital technology use among YP is now common. A digital intervention aimed at improving mentalization in YP who have experienced TASA may reduce the risk of revictimization and future harm and make YP more resilient and able to manage distress that might result from TASA experiences.
+
+
+Objective
+In this paper, we describe a protocol for determining the feasibility of the i-Minds trial and the acceptability, safety, and usability of the digital intervention (the i-Minds app) and explore how to best integrate i-Minds into existing routine care pathways.
+
+
+Methods
+This is a mixed methods nonrandomized study aimed to determine the feasibility, acceptability, safety, and usability of the intervention. Participants aged between 12 and 18 years who report distress associated with TASA exposure will be recruited from the United Kingdom from the National Health Service (NHS) Trust Child and Adolescent Mental Health Services, sexual assault referral centers, and a web-based e-therapy provider. All participants will receive the i-Minds app for 6 weeks. Coproduced with YP and a range of stakeholders, the i-Minds app focuses on 4 main topics: mentalization, TASA and its impact, emotional and mental health, and trauma. A daily prompt will encourage YP to use the app, which is designed to be used in a stand-alone manner alongside routine care. We will follow participants up after the intervention and conduct interviews with stakeholders to explore the acceptability of the app and trial procedures and identify areas for improvement. Informed by the normalization process theory, we will examine barriers and enablers relevant to the future integration of the intervention into existing care pathways, including traditional clinic-based NHS and NHS e-therapy providers.
+
+
+Results
+This study was approved by the Research Ethics Board of Scotland. We expect data to be collected from up to 60 YP. We expect to conduct approximately 20 qualitative interviews with participants and 20 health care professionals who referred YP to the study. The results of this study have been submitted for publication.
+
+
+Conclusions
+This study will provide preliminary evidence on the feasibility of recruiting YP to a trial of this nature and on the acceptability, safety, and usability of the i-Minds app, including how to best integrate it into existing routine care. The findings will inform the decision to proceed with a powered efficacy trial.
+
+
+Trial Registration
+International Standard Randomised Controlled Trial Number Registry (ISRCTN) ISRCTN43130832; https://www.isrctn.com/ISRCTN43130832
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/40539

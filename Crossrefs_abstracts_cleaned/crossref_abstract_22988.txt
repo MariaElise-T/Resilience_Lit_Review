@@ -1,0 +1,10 @@
+Summary
+
+Coasts and estuaries contain among the most productive and ecologically important habitats in the world and face intense pressure from current and projected human activities, including coastal development. Seagrasses are a key habitat feature in many estuaries perceived to be in widespread decline owing to human actions.
+We use spatio‐temporal models and a 41‐year time series from 100s of km of shoreline which includes over 160 000 observations from Puget Sound, Washington, USA, to examine multiscale trends and drivers of eelgrass (Zostera spp.) change in an urbanizing estuary.
+At whole estuary scale (100s of km), we find a stable and resilient eelgrass population despite a more than doubling of human population density and multiple major climactic stressors (e.g. ENSO events) over the period. However, the aggregate trend is not reflected at the site scale (10s of km), where some sites persistently increase while others decline.
+Site trends were spatially asynchronous; adjacent sites sometimes exhibited opposite trends over the same period. Substantial change in eelgrass occurred at the subsite (0·1 km) scale, including both complete local loss and dramatic increase of eelgrass.
+Metrics of local human development including shoreline armouring, upland development (imperviousness) and human density provide no explanatory power for eelgrass population change at any spatial scale.
+Our results suggest that the appropriate scale for understanding eelgrass change is smaller than typically assumed (approximately 1‐ to 3‐km scale) and contrasts strongly with previous work.
+Synthesis. Despite ongoing conservation concern over seagrasses world‐wide, eelgrass in Puget Sound has been highly resilient to both anthropogenic and environmental change over four decades. Our work provides general methods that can be applied to understand spatial and temporal scales of change and can be used to assess hypothesized drivers of change.
+

@@ -1,0 +1,12 @@
+Abstract
+Background
+The pandemic has put at risk the social and emotional development of children on account of the paucity of arenas for social interaction. This study from Kerala, India was conducted to assess the resilience factors, behavioural concerns, psychological distress symptoms among the children aged 3 to 5 years. We also tried to look into the lost opportunities that could have aided the social and emotional development of children like peer interaction, child care hours.
+
+Methods
+The cross-sectional study was conducted among the children aged 3 to 5 years. A total of 535 children attending the immunisation clinics were enrolled by consecutive sampling. Devereux Early Childhood Assessment P2 (DECA P2) questionnaire was used to assess the levels of resilient factors and behavioural concerns in the study population.
+
+Results
+We observed a high proportion of children in the area of need category of protective factors under DECA P2. The proportion of children falling under area of concern was 64.5%, 49%, 68.4% for attachment/relationship, self-regulation, and initiative respectively. 24.9% study subjects have a behavioural concern score that puts them in the area of need category. The logistic regression model we created identified ‘Male Gender,’ ‘Mothers could spend only less time for child care’ and ‘electronic devices used as pacifier’ as significant predictors for belonging to Area of need Behavioural Concerns T score category.
+
+Conclusion
+A large proportion of children aged between 3 to 5 years with reported behavioural concerns and lack of protective factors for socioemotional development. This can be attributed partly to the ongoing pandemic and its associated restrictions. The increased child care hours invested by parents or grandparents could have sized down the full impact that the pandemic would have had on the socio emotional development of the child. Increased time spent using electronic devices coupled with dwindled opportunities for interaction with peers have been notable challenges.

@@ -1,0 +1,26 @@
+Objectives The purpose of this study is to identify the structural relationships among early childhood teather's
+changed participation in job training, job environment dissatisfaction, the working environment caused by
+COVID-19, and resilience.
+Methods To achieve this objective, SPSS 25.0 was utilized to analyze data from 192 early childhood teachers.
+Pearson's correlation was used to identify the relationship between the research variables, and the measurement
+model analysis examined the fitness index through confirmatory factor analysis. Structural equations were utilized
+to investigate the structural relationship between the research variables. Direct and total effects were analyzed
+as the mediating effect from the 95% confidence interval to two-tailed significance and bootstrap.
+Results The main research findings are as follows: First, resilience, self-regulation ability, positivity, and interpersonal
+skills in the sub-domains did not show statistically significant results with the experience of participating
+in work education for early childhood teachers. However, statistically significant results were obtained for job environment
+dissatisfaction, working environment caused by COVID-19 and subfields, relationship with superiors,
+job performance, and personal and organizational relationships. Second, the fit between the measurement model
+and the structural model was found to be satisfactory. According to the structural relationship between the research
+variables, the early childhood teacher's experience of participating in changed job training did not directly
+affect resilience, but ‘the experience of participating in changed job training + job environment dissatisfaction of
+early childhood teachers → resilience of early childhood teachers’ and ‘changed work education participation experience
+→ job environment dissatisfaction → working environment caused by COVID-19 → resilience’, ‘changed
+work education participation experience + working environment caused by COVID-19 + resilience’ were found to
+be completely mediated by the path. In this process, the working environment caused by COVID-19 can be interpreted
+as a double mediation.
+Conclusions The results of this study once again confirm that resilience is an essential factor affecting early childhood
+teachers, and the mediating effect of the working environment caused by COVID-19 that affects resilience
+is necessary. The study results have implications for developing effective interventions to improve the working
+conditions of early childhood educators and enhance their resilience in the working environment caused by
+COVID-19.

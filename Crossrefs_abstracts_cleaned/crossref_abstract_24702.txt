@@ -1,0 +1,15 @@
+Abstract
+Background
+The minimum clinical important differences (MCIDs) of resilience instruments in patients with cancer have not been comprehensively described.
+This study was designed to evaluate MCIDs of 10-item and 25-item resilience scales specific to cancer (RS-SC-10 and RS-SC-25).
+
+
+Methods
+From June 2015 to December 2018, RS-SCs were longitudinally measured in 765 patients with different cancer diagnoses at baseline (T0) and 3 months later (T1). The EORTC QLQ-C30, Connor-Davidson Resilience Scale, Hospital Anxiety and Depression Scale, and Allostatic Load Index were measured concurrently as anchors. Anchor-based methods (linear regression, within-group), distribution-based methods(within-group), and receiver operating characteristic curves (ROCs, within-subject) were performed to evaluate the MCIDs.
+
+
+Results
+623 of 765 (84.1%) patients had paired RS-SCs scores. Moderate correlations were identified between the change in RS-SCs and change in anchors (r = 0.38–0.44, all p < 0.001). Linear regression estimated + 8.9 and − 6.7 as the MCIDs of RS-SC-25, and + 3.4 and − 2.5 for RS-SC-10. Distribution-based methods estimated + 9.9 and − 9.9 as the MCIDs of RS-SC-25, and + 4.0 and − 4.0 for RS-SC-10. ROC estimated + 5.5 and − 4.5 as the MCIDs of RS-SC-25, and + 2.0 and − 1.5 for RS-SC-10.
+
+Conclusions
+The most reliable MCID is around 5 points for RS-SC-25 and 2 points for RS-SC-10. RS-SCs are more responsive to the worsening status of resilience in patients with cancer and these estimates could be useful in future resilience-based intervention trials.

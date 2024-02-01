@@ -1,0 +1,12 @@
+Abstract
+Background
+Spinal muscular atrophy (SMA) is a form of motor neuron disease affecting primarily children characterised by the loss of lower motor neurons (MNs). Breakdown of the neuromuscular junctions (NMJs) is an early pathological event in SMA. However, not all motor neurons are equally vulnerable, with some populations being lost early in the disease while others remain intact at the disease end-stage. A thorough understanding of the basis of this selective vulnerability will give critical insight into the factors which prohibit pathology in certain motor neuron populations and consequently help identify novel neuroprotective strategies.
+
+Methods
+To retrieve a comprehensive understanding of motor neuron susceptibility in SMA, we mapped NMJ pathology in 20 muscles from the Smn2B/- SMA mouse model and cross-compared these data with published data from three other commonly used mouse models. To gain insight into the molecular mechanisms regulating selective resilience and vulnerability, we analysed published RNA sequencing data acquired from differentially vulnerable motor neurons from two different SMA mouse models.
+
+Results
+In the Smn2B/- mouse model of SMA, we identified substantial NMJ loss in the muscles from the core, neck, proximal hind limbs and proximal forelimbs, with a marked reduction in denervation in the distal limbs and head. Motor neuron cell body loss was greater at T5 and T11 compared with L5. We subsequently show that although widespread denervation is observed in each SMA mouse model (with the notable exception of the Taiwanese model), all models have a distinct pattern of selective vulnerability. A comparison of previously published data sets reveals novel transcripts upregulated with a disease in selectively resistant motor neurons, including genes involved in axonal transport, RNA processing and mitochondrial bioenergetics.
+
+Conclusions
+Our work demonstrates that the Smn2B/- mouse model shows a pattern of selective vulnerability which bears resemblance to the regional pathology observed in SMA patients. We found drastic differences in patterns of selective vulnerability across the four SMA mouse models, which is critical to consider during experimental design. We also identified transcript groups that potentially contribute to the protection of certain motor neurons in SMA mouse models.

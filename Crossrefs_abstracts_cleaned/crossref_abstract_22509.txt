@@ -1,0 +1,12 @@
+Abstract
+Background
+Armed conflicts impact on the health and well-being of everyone, but its effect on adolescent mental health is a significant, yet under-explored area in global health. Mental health disorders which develop during adolescence often lead to behavioural problems, risky decision-making, under-age substance use and can adversely impact on educational attainment. This study aimed to estimate the prevalence of common mental disorders, substance use and their correlates with social support and resilience among adolescents (age 12–19 years) in Vavuniya; a post-conflict region of Sri Lanka.
+
+Methods
+A population-based cross-sectional study was conducted, with a modified cluster sampling method used for participant selection. Eight culturally adapted instruments were used for data collection. A total of 585 adolescents participated in the study. Analyses were performed using SPSS Version 23 statistical software package. All statistical tests were two-sided (p < 0.05) and p-values less than 0.05 were considered significant. Chi-square tests were used to explore associations between variables of interest. Spearman rank order correlation was used to examine correlations among depression, hopelessness, quality of life, social support, and resilience.
+
+Results
+The mean age of participants was 15.02 (± 2.13) years. Ninety-one (15.6%) participants reported being exposed to one or more war-related events, and 85 (93.4%) participants in this group reported being internally displaced due to war. Fifty-two (8.9%) had dropped out of school and the prevalence of depression (3.9%) and substance use (7%) were low. Correlational analyses revealed that depression and hopelessness were significantly negatively correlated with social support, resilience, and quality of life (p < 0.01). Linear regression analysis suggested that 40% of the variance in resilience of the participants can be explained by perceived social support.
+
+Conclusion
+The low prevalence of hopelessness and depression highlights the resilience of this group in the face of adversity. Furthermore, significant negative correlations between hopelessness and depression with perceived social support and resilience suggest that social support and resilience could be protective factors against mental health issues in these adolescents. However, the prevalence of school dropouts calls for a focus on academic attainment to promote better educational outcomes in the adolescents of this conflict-affected region.

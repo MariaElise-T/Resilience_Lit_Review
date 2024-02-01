@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this paper is to explore the egocentric network-based strategies used by upstream firms to ensure their own resilience when the disruptions originate with downstream partners.
+
+
+Design/methodology/approach
+The paper adopts a case study approach as this is well-suited to the investigation of a complex phenomenon from multiple perspectives.
+
+
+Findings
+The study finds that the egocentric networks of upstream firms participating in the supply network of a retailer could ensure their own resilience even after the sudden demise of the downstream entity.
+
+
+Originality/value
+The study addresses the lack of adequate empirical research examining resilience from the perspectives of multiple entities in a supply network. It is also one of the few papers to address resilience from the perspective of upstream players in the context of a disruption originating with downstream partners. The findings suggest that the lack of visibility in relation to the financial health of more powerful downstream partners could be problematic from a supplier’s perspective. It identifies well-developed egocentric networks as being essential for minimizing consequences of limited downstream visibility and the impact on social capital.

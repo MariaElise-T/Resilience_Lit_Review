@@ -1,0 +1,11 @@
+
+            Plants depend on the signalling of the phytohormone auxin for their development and for responding to environmental perturbations. The associated biomolecular signalling network involves a negative feedback on Aux/IAA proteins which mediate the influence of auxin (the
+            signal
+            ) on the auxin response factor (ARF) transcription factors (the
+            drivers
+            of the response). To probe the role of this feedback, we consider alternative
+            in silico
+            signalling networks implementing different operating principles. By a comparative analysis, we find that the presence of a negative feedback allows the system to have a far larger sensitivity in its dynamical response to auxin and that this sensitivity does
+            not
+            prevent the system from being highly resilient. Given this insight, we build a new biomolecular signalling model for quantitatively describing such Aux/IAA and ARF responses.
+          

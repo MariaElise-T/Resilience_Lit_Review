@@ -1,0 +1,12 @@
+Abstract
+Objective
+A questionnaire was administered to 936 college students to investigate the mediating effect of psychological resilience in the association between mindfulness and college student depression, as well as the moderating role of gender.
+
+Methods
+For this study, data was collected between 20 April and 1 May 2023 at three universities in Jiangxi Province using a random sampling method. 963 Chinese university students were surveyed using the Adolescent Mindfulness Scale, the Psychological Resilience Scale, and the Depression Self-Rating Scale.SPSS24.0 software was used for correlation analysis and linear regression analysis, and PROCESS v3.4 model 7 was used to analyze this mediated model with moderating effects.
+
+Results
+In the mediated effects model, the direct effect of mindfulness on college depression levels was significant (95% CI -0.43, -0.31); the indirect effect of mindfulness on college depression through psychological resilience was also significant (95% CI -0.34, -0.23); the interaction effect of mindfulness and gender was also found to be significant (95% CI 0.03, 0.16) in the mediated model with moderation.
+
+Conclusion
+Mindfulness not only affect depression directly, but also indirectly through the mediating effect of psychological resilience. At the same time, the prediction of psychological resilience by mindfulness was also moderated by gender, with girls' psychological resilience being more affected by the level of mindfulness compared to boys.

@@ -1,0 +1,19 @@
+
+Purpose
+The COVID-19 pandemic intensifies the high turnover rate in the restaurant industry. Applying the conservation of resources (COR) theory, this study aims to examine the factors influencing US restaurant frontline employees’ organizational and occupational turnover intention with an emphasis on the three-way interactions between job stress, fear of COVID-19 (FC) and resilience.
+
+
+Design/methodology/approach
+A sample of 243 US restaurant frontline employees participated in this study. PROCESS macro was used for hypothesis testing.
+
+
+Findings
+Organizational turnover intention fully mediated the relationship between job stress and restaurant employees’ occupational turnover intention. FC intensified the positive relationship between job stress and organizational turnover intentions. Job stress, FC and resilience interacted to affect restaurant frontline employees’ organizational turnover intention such that when resilience is high, FC strengthened the positive relationship between job stress and organizational turnover intention, and the indirect effect of job stress on occupational turnover intention via organizational turnover intention.
+
+
+Practical implications
+Restaurants should take measures to reduce frontline employees’ fear and continue implementing practices to alleviate job stress during a crisis to reduce employees’ turnover intentions. Training on building employee resilience could also be provided by restaurant operators.
+
+
+Originality/value
+This study added to the limited knowledge of factors that are associated with restaurant employees’ organizational and occupational turnover intentions in the context of a global crisis and expanded the current knowledge of how fear and resilience may impact restaurant employees’ behavioral intentions.

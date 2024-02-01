@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this study is to propose a framework comprising supply chain (SC) resilience strategies to handle low-frequency high impact disruptive events. This study also evaluates the impact of SC resilience strategies’ implementation on the triple bottom line of SC sustainability.
+
+
+Design/methodology/approach
+A hybrid three-phased method is proposed to meet the research objectives of this study. In the first phase, this study uses the Delphi technique to select SC resilience strategies and SC sustainability dimensions. In the second phase, the best–worst method is used to assess the relative weights of resilience strategies. Finally, in the third stage, summative Likert scoring is used to understand the impact of SC resilience strategies on the SC sustainability triple bottom line.
+
+
+Findings
+The outcomes reveal that firms give due importance to inter-organizational relationships and supplier nearness for supply continuity. In the sustainability context, the obtained scores proved that resilience strategies have the maximum impact on economic sustainability, followed by environmental sustainability.
+
+
+Research limitations/implications
+To the best of the authors’ knowledge, this is the first study that examines aspects of SC resilience strategies and quantifies their impact on the triple bottom line of SC sustainability. This study is specific to the automobile sector; sectoral diversity may expose similarities and dissimilarities in the approach.
+
+
+Practical implications
+The outcome establishes that supplier–manufacturer relationships need to be strengthened further to tackle any future uncertainties. Besides, supplier location decisions may also be revisited. The strategies proposed will aid SC managers to make informed decisions to prepare for uncertain events.
+
+
+Originality/value
+In the face of uncertain events, often SCs trade-off sustainability in pursuit of resilience. It manifests that resilience is a prerequisite for SC sustainability. While planning SCs, organizations often choose either sustainability or resilience. Thus, this study acknowledges the need to develop effective SC resilience strategies that are in harmony with the sustainability agenda.

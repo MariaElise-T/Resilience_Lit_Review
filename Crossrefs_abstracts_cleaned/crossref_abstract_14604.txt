@@ -1,0 +1,2 @@
+Abstract
+This article deals with digitalization as a contribution to city center resilience, using Leipzig as an example. Focus group interviews illustrate that digital applications can attract to visit the city center and thus contribute to city center resilience. To reinforce these findings, the authors develop a prototype of a digital map covering Leipzig’s city center that is tested by means of 70 go-along interviews. The interviews show that linking digital functions and location-specific information thereby can be effective regarding city center resilience.

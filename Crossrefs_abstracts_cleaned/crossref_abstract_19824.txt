@@ -1,0 +1,19 @@
+
+Background
+First responders report elevated rates of mental disorders, including posttraumatic stress disorder (PTSD), yet many are reluctant to seek care. Preventative resilience training programs attempt to proactively address this issue, and there is evidence showing promise for programs targeting cognitive processes. However, these programs rarely address the physical health conditions associated with PTSD. There is emerging evidence of mind-body exercise training improving PTSD symptoms as well as its associated physical health symptoms. However, the feasibility and acceptability of delivering a web-based mind-body resilience training among first responders are not yet known.
+
+
+Objective
+This study aimed to evaluate the feasibility, usability, and acceptability of a web-based mind-body tactical resilience training program designed for first responders. In addition, we explored the preliminary effectiveness of the training program on mental health outcomes, adaptive cognitive strategies, and work productivity.
+
+
+Methods
+A total of 42 first responders based in the United States enrolled in the web-based training program. Participants were administered web-based surveys before enrolling in the 6-week web-based program and at the end of the program. The primary outcomes of feasibility were measured using the number of training hours, program adherence rates, and self-reported data on frequency of practice. Acceptability and usability were measured using self-reported data. Secondary outcomes were symptoms of PTSD, psychological distress, emotion regulation, stress mindset, psychological preparedness, and work performance.
+
+
+Results
+Overall, the training program was feasible based on the median number of training hours spent on the web-based program (7.57 hours out of an expected total of 6 to 9 hours), and 55% (23/42) of the enrolled participants completed more than half of the program. Although acceptability, usability, and frequency of practice were rated as high, this was based on only 29% (12/42) of the respondents who provided follow-up data. Secondary outcomes showed a significant improvement in the adaptive cognitive strategy of the stress mindset, with a mean difference of –5.42 (SD 4.81; 95% CI −8.475 to −2.358; t11=−3.898; P=.002). All other secondary outcomes were not significant. However, the secondary outcomes were exploratory only, and this study was neither designed nor powered to adequately assess efficacy.
+
+
+Conclusions
+These findings suggest that a mind-body tactical resilience training program delivered in a web-based format is feasible and acceptable among first responders; however, further refinements may be required to improve adherence rates. Further research using a larger, more rigorous trial design is warranted to examine the effectiveness of this type of training as a possible prevention or treatment strategy for this population.

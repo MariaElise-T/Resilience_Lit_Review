@@ -1,0 +1,16 @@
+<abstract><sec>
+<title>Introduction</title>
+<p>The pandemic has led to notable psychological challenges among healthcare professionals, including nurses.</p>
+</sec><sec>
+<title>Objective</title>
+<p>Our aims of this study were to assess insomnia and nightmare distress levels in nurses and investigate their association with mental resilience.</p>
+</sec><sec>
+<title>Methods</title>
+<p>Nurses participated in an online survey, which included the Nightmare Distress Questionnaire (NDQ), Brief Resilience Scale (BRS) and Athens Insomnia Scale (AIS). Demographic information, such as age, professional experience and gender, was also collected.</p>
+</sec><sec>
+<title>Results</title>
+<p>The study included 355 female and 78 male nurses. Findings revealed that 61.4% had abnormal AIS scores, 7% had abnormal NDQ scores and 25.4% had low BRS scores. Female nurses had higher AIS and NDQ scores but lower BRS scores compared to males. BRS demonstrated negative correlations with both AIS and NDQ. Multiple regression analysis indicated that NDQ accounted for 24% of the AIS variance, with an additional 6.5% explained by the BRS. BRS acted as a mediator, attenuating the impact of nightmares on insomnia, with gender moderating this relationship.</p>
+</sec><sec>
+<title>Conclusions</title>
+<p>Nursing staff experienced heightened sleep disturbances during the pandemic, with nightmares and insomnia being prevalent. Nightmares significantly contributed to insomnia, but mental resilience played a vital role in mitigating this effect. Strategies are warranted to address the pandemic's psychological impact on nursing professionals.</p>
+</sec></abstract>

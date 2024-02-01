@@ -1,0 +1,19 @@
+
+            The widespread use of antibiotics has placed bacterial pathogens under intense pressure to evolve new survival mechanisms. Genomic analysis of 51,229
+            Mycobacterium tuberculosis
+            (
+            Mtb
+            )
+            
+            clinical isolates has identified an essential transcriptional regulator,
+            Rv1830
+            , herein called
+            resR
+            for resilience regulator, as a frequent target of positive (adaptive) selection.
+            resR
+            mutants do not show canonical drug resistance or drug tolerance but instead shorten the post-antibiotic effect, meaning that they enable
+            Mtb
+            to resume growth after drug exposure substantially faster than wild-type strains. We refer to this phenotype as antibiotic resilience. ResR acts in a regulatory cascade with other transcription factors controlling cell growth and division, which are also under positive selection in clinical isolates of
+            Mtb
+            . Mutations of these genes are associated with treatment failure and the acquisition of canonical drug resistance.
+          

@@ -1,0 +1,9 @@
+Abstract
+Background
+Resilience reflects individuals’ ability to bounce back quickly in the face of stressful situations. Resilience is positively correlated with psychological well-being (PWB) and negatively related to poor mental health. However, there is limited longitudinal research to confirm the causal relationships between resilience and PWB. This study aimed to examine the relationships among stress, resilience, and PWB among youths in the Philippines across two samples. A descriptive comparative study was conducted and two repeated cross-sectional samples were recruited. Eligible participants were undergraduate students from a university in the Philippines regardless of sociological backgrounds. Data were collected via anonymous online questionnaires; and analyzed by using descriptive statistics and structural equation modelling (SEM).
+
+Results
+A total of 630 were recruited (Sample 1 = 221 and Sample 2 = 409). Most of whom were female, Filipino, Christian and students from Nursing School. Results from SEM indicated that the hypothesized two-group models had an adequate fit with sample data. Furthermore, perceived control and resilience were significant predictors of the autonomy & growth factor of PWB. Perceived stress and resilience significantly predicted the negative triad factor of PWB. These findings were comparable across the two samples providing strong evidence to support causal relationships among the study variables.
+
+Conclusion
+There is a need to offer stress management interventions and resilience-based programs to enhance PWB. Additional research should be conducted to test the efficacy of the interventions.

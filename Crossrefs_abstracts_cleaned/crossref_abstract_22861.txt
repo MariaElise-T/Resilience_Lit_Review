@@ -1,0 +1,9 @@
+Abstract
+Background
+The alteration in weather patterns expected due to climate change will affect farm animal performance, probably resulting in lower quantity and quality of available products. A potential mitigation strategy would be to breed selected animals for enhanced resilience to climate change. In this context, resilience would reflect stable animal performance in spite of weather variation. The objectives of this study were to (i) derive and characterise novel animal resilience phenotypes, (ii) investigate their genetic profiles and (iii) assess the impact of integrating them in breeding strategies for genetic improvement in meat sheep.
+
+Results
+Random regression models were used to jointly analyse live body weight measured in different time points throughout the growth phases of 4469 Scottish Blackface sheep and weather variables during the same period to derive novel resilience phenotypes. The genetic analysis of these phenotypes revealed significant genetic variance and heritability, and an antagonistic genetic correlation with some animal performance traits. Simulated breeding strategies demonstrated that a relative emphasis of 10% on resilience compared to other traits would enhance performance stability against weather volatility without compromising animal growth.
+
+Conclusions
+Novel resilience traits exhibited sufficient genetic variation to be amenable to genetic improvement with selective breeding and are recommended to be included in future breeding goals.

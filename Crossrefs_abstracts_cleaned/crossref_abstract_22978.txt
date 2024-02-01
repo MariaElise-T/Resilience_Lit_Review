@@ -1,0 +1,12 @@
+Abstract
+Background
+We examined how sociodemographic factors, childhood trauma, personality dimensions, and self-rated health were associated with outcome resilience and how different stressors influenced depressive symptoms.
+
+Methods
+An outcome resilience score for 213 adults was derived by means of a residualization approach. Associations between outcome resilience and sociodemographic and personality factors were evaluated using linear regression. In addition, associations between log-transformed depressive symptoms and the stressors were analyzed using multiple linear regression. A Pearson correlation coefficient between self-rated health and outcome resilience was also computed.
+
+Results
+Higher neuroticism was negatively and higher conscientiousness was positively associated with outcome resilience. Better self-rated health was associated with higher outcome resilience. Somatic disease events and onset of chronic mental disorders were associated with more depressive symptoms.
+
+Conclusions
+Outcome resilience was significantly related to neuroticism, conscientiousness, and self-rated health. Strong associations between depressive symptoms and the stressors somatic disease event, and chronic mental disorder were observed.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Adverse childhood experiences (ACEs) can affect health and well-being across the life course. Resilience is an individual characteristic that is known to help negate the effect of adversities and potentially transform toxic stress into tolerable stress. Having access to a trusted adult during childhood is critical to helping children build resiliency. Here, we aim to understand the relationship between always having access to trusted adult support and childhood resilience resources, and examine which sources of personal adult support and the number of sources of adult support, best foster childhood resilience.
+
+Methods
+A Welsh national cross-sectional retrospective survey (n = 2497), using a stratified random probability sample. Data were collected via face-to-face interviews at participants’ places of residence by trained interviewers. Analyses use chi-square and binary logistic regression methods. Outcome measures were childhood resilience resources, access to an always-available trusted adult, and sources of personal adult support.
+
+Results
+Prevalence of access to an always-available trusted adult decreased with increasing number of ACEs from 86.6% of individuals with no ACEs, to 44.4% of those with four or more ACEs (≥ 4). In addition, for those experiencing ≥ 4 ACEs, individuals with no access to a trusted adult were substantially less likely than those with access, to report childhood resilience resources. For example, for individuals with ≥ 4 ACEs, those with access to an always-available trusted adult were 5.6 times more likely to have had supportive friends and 5.7 times more likely to have been given opportunities to develop skills to succeed in life, compared to those with no access to a trusted adult. When looking at sources of personal adult support, resilience levels increased dramatically for those individuals who had either one parent only or two parents as sources of support, in comparison to those without parental support.
+
+Conclusions
+Analyses here suggest strong relationships between elements of childhood resilience, constant access to trusted adults and different sources of personal adult support. While the eradication of ACEs remains unlikely, actions to strengthen childhood access to trusted adults may partially ease immediate harms and protect future generations.

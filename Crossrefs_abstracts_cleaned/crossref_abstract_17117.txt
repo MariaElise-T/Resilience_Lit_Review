@@ -1,0 +1,15 @@
+
+Objectives:
+The objective of this systematic review was to provide a comprehensive overview of the measurement properties of patient-reported outcome measures (PROMs) used to assess resilience in individuals with musculoskeletal and rheumatic conditions.
+
+
+Methods:
+Four electronic databases (MEDLINE, CINAHL, PsycINFO, and Web of Science) were searched. Studies assessing any measurement property in the target populations were included. Two reviewers independently screened all studies and assessed the risk of bias using the COSMIN checklist. Thereafter, each measurement property of each PROM was classified as sufficient, insufficient, or inconsistent based on the COSMIN criteria for good measurement properties.
+
+
+Results:
+Four families of PROMs [Brief Resilient Coping Scale (BRCS); Resilience Scale (RS-18); Connor–Davidson Resilience Scale (CD-RISC-10 and CD-RISC-2); and Pain Resilience Scale (PRS-14 and PRS-12)] were identified from the 9 included studies. Even if no PROM showed sufficient evidence for all measurement properties, the PRS and CD-RISC had the most properties evaluated and showed the best measurement properties, although responsiveness still needs to be assessed for both PROMs. Both PROMs showed good levels of reliability (intraclass coefficient correlation 0.61 to 0.8) and good internal consistency (Cronbach’s alpha ≥0.70). Minimal detectable change values were 24.5% for PRS and between 4.7% and 29.8% for CD-RISC.
+
+
+Discussion:
+Although BRCS, RS-18, CD-RISC, and PRS have been used to evaluate resilience in individuals with musculoskeletal and rheumatic conditions, the current evidence only supports the use of PRS and CD-RISC in this population. Further methodological studies are therefore needed and should prioritize the assessment of reliability and responsiveness.

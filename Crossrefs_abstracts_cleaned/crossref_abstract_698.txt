@@ -1,0 +1,12 @@
+Abstract
+Background
+Health care facilities are responsible for preventing and controlling diseases and must be resilient enough to deal with crises. The Iranian health care facilities have faced challenges in managing COVID-19 pandemic. The purpose of this study was to identify the challenges faced by the Iranian health care facilities during the Covid-19 epidemic and to provide solutions.
+
+Methods
+This qualitative study was conducted with a phenomenological approach and using semi-structured interviews with 59 healthcare policy makers, managers, and employees, and medical university faculty members. The participants were selected through purposive and snowball sampling. Thematic analysis was used to analyze the data.
+
+Results
+Overall, 43 challenges to the resilience of health care facilities during the Covid-19 pandemic were identified and grouped into 8 themes (i.e., leadership and management, planning, organizational culture, organizational learning, employee management, customer management, resource management, and process management. The most important resilience challenges were: fragmented management system; poor leadership; incompatible health network structure; lack of a national holistic plan; poor case detection; insufficient resources; inefficient information system; negative attitude of managers and employee; organizational inertia; failure to build on lessons learned from crises; low workforce preparedness; lack of community-based management; and improper monitoring and evaluation. Managers should use community-based, evidence-based, and integrated management to build health system resilience against COVID-19, have sufficient knowledge and experience to organize operations, use appropriate and effective coordination models, develop a creative and participatory culture, reengineer processes, and provide necessary resources.
+
+Conclusion
+The Iranian health care facilities face challenges that prevent them from becoming resilient, responsive, and efficient in managing COVID-19. Policy makers and managers should increase the resilience of health care facilities to shocks and crises by using the suggested measures.

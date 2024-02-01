@@ -1,0 +1,16 @@
+ABSTRACT:
+
+Objectives:
+The purpose of the present study was to (1) examine the differences in adverse childhood experiences (ACEs) among children with autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), and comorbid ASD/ADHD and healthy neurodevelopmental controls; (2) explore the levels of family resilience across diagnostic categories; (3) identify the differences in family resilience by the number of ACEs; and (4) explore the interaction between ACEs and the diagnostic category on family resilience.
+
+
+Method:
+Participants were 2083 children between the ages of 6 and 17 years (M = 12.23, SD = 3.36) from the 2016 National Survey of Children's Health. The majority of the sample were male (68.7%) and white (78.6%).
+
+
+Results:
+Overall, youth diagnosed with solely ADHD had the highest number of ACEs (Madj = 1.94). In addition, individuals who endorsed exposure to 1 ACE reported higher levels of family resilience in comparison to those who reported 0 ACEs or 2 or more ACEs. Family resilience did not differ between youth who experienced 2 or more ACEs and youth who experienced 0 ACEs. Youth diagnosed with comorbid ASD/ADHD had the lowest levels of family resilience. Interestingly, family resilience did not differ between ADHD and neurotypical youth.
+
+
+Conclusion:
+Youth diagnosed with ADHD seem to be at the highest risk for ACEs. Those with comorbid ASD/ADHD report the lowest levels of family resilience when controlling for exposure to ACEs. Families of youth with ASD had lower levels of family resilience than those of neurotypical youth when controlling for exposure to ACEs, whereas families of youth with solely ADHD displayed similar levels of family resilience in comparison to neurotypical youth and their families. Results have implications for prevention and intervention with ASD and/or ADHD youth and their families.

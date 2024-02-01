@@ -1,0 +1,19 @@
+
+Background
+During the COVID-19 pandemic, government-mandated social distancing prevented the spread of the disease but potentially exacerbated social isolation and loneliness for older people, especially those already vulnerable to isolation. Older adults may have been able to draw from their personal resources such as psychological resilience (PR) and technology use (TU) to combat such effects. Educational attainment (EA) or early-life EA may potentially shape later-life personal resources and their impact on the effects of the pandemic lockdown on outcomes such as loneliness. The developmental adaptation model allows for the supposition that social isolation, TU, and PR may be affected by early EA in older adults.
+
+
+Objective
+This study examined the indirect impact of EA on pandemic-linked loneliness in a sample of older adults. The developmental adaptation model was used as the conceptual framework to view EA as a distal influence on loneliness, social isolation, PR, and TU. We hypothesized that EA would predict TU and PR and have a moderating impact on social isolation and loneliness. We also hypothesized that PR and TU would mediate the effect of EA on loneliness.
+
+
+Methods
+This was a cross-sectional observational study, in which data were gathered from 92 older adults aged ≥65 years in the United Kingdom from March 2020 to June 2021, when the country was under various pandemic-linked social mobility restrictions. The data captured demographic information including age, gender, ethnicity, and the highest degree of education achieved. The University of California Los Angeles Loneliness Scale, Connor–Davidson Resilience Scale, Lubben Social Network Index, and Technology Experience Questionnaire were used as standardized measures. Pearson correlation, moderation, and mediation regression analyses were conducted to investigate the hypotheses.
+
+
+Results
+We found a higher prevalence of loneliness in older adults than in prepandemic norms. EA was correlated with greater TU and PR and moderated the impact of social isolation on loneliness. PR mediated and TU partially mediated the relationship between EA and loneliness.
+
+
+Conclusions
+Early-life EA was confirmed as a distal resource for older adults and played an indirect role in affecting loneliness levels during the pandemic. It has an impact on present-day personal resources, such as PR and TU, which affect loneliness and also moderate the impact of social isolation on loneliness. Policymakers should be aware that older adults with low levels of EA may be more vulnerable to the harmful impacts of loneliness when isolated by choice.

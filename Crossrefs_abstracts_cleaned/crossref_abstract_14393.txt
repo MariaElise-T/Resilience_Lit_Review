@@ -1,0 +1,24 @@
+Abstract
+Potential impacts from climate change and other disturbances expedite
+                        the need to address vulnerabilities of urban forests. Low species diversity
+                        is a contributor to high urban forest vulnerability, and this study examined
+                        40 public and private tree inventories in the metropolitan area of
+                        Milwaukee, Wisconsin, USA. Applying an established vulnerability framework,
+                        this study helps to identify the current and future resilience of the urban
+                        forest in the face of climate change and other urban forest threats. A
+                        Milwaukee metropolitan area tree inventory was compiled and includes 439,974
+                        trees. This inventory then was assessed under 2 climate change models
+                        through the end of the century (2070 to 2099). It also was assessed for
+                        species diversity under multiple diameter classes, and the Shannon Diversity
+                        Index was used to determine correlations between tree size and diversity.
+                        The resulting data analysis revealed a poorly diversified urban tree canopy
+                        in the Milwaukee metropolitan area. However, when looking at tree size and
+                        diversity, diversity increased as tree diameters decreased. Additional
+                        analysis revealed that under a low climate change scenario (RCP 4.5), only
+                        9.5% of the overall inventory was within the moderate, moderate-high, or
+                        high vulnerability categories through the end of the century. Under a high
+                        climate change scenario (RCP 8.5), 55.52% of the inventory fell within those
+                        same vulnerability categories. Diameter class did not have a significant
+                        impact on vulnerability under either climate change scenario. This data can
+                        help inform urban forestry practitioners during species selection for
+                        planting trees in their communities.

@@ -1,0 +1,9 @@
+Abstract
+Background
+Resilience has been shown to be associated with better psychological outcomes and ability to cope with negative and traumatic events in the healthcare setting. Therefore, in this study, we aimed to evaluate resilience and its association with disease activity and health-related quality of life (HRQOL) in children with Systemic Lupus Erythematosus (SLE) and Juvenile Idiopathic Arthritis (JIA).
+
+Findings
+Patients with diagnoses of SLE or JIA were recruited. We collected: demographic data, medical history and physical examination, physician and patient global health assessments, Patient Reported Outcome Measurement Information System questionnaires, Connor Davidson Resilience Scale 10 (CD-RISC 10), Systemic Lupus Erythematosus Disease Activity Index, and clinical Juvenile Arthritis Disease Activity Score 10. Descriptive statistics were calculated, and PROMIS raw scores were converted to T-scores. Spearman’s correlations were performed, with statistical significance set to p < 0.05. 47 study subjects were recruited. The average CD-RISC 10 score in SLE was 24.4, and in JIA was 25.2. In children with SLE, CD-RISC 10 was correlated with disease activity and inversely correlated with anxiety. In children with JIA, resilience was inversely associated with fatigue, and positively correlated with mobility and peer relationships.
+
+Conclusions
+In children with SLE and JIA, resilience is lower than in the general population. Further, our results suggest that interventions to increase resilience may improve the HRQOL of children with rheumatic disease. Ongoing study of the importance of resilience in this population, as well as interventions to increase resilience, will be an important area of future research in children with SLE and JIA.

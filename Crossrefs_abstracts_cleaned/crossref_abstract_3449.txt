@@ -1,0 +1,27 @@
+
+Background
+Caregivers of patients with severe acute brain injuries (SABI) that lead to coma and require intensive care unit (ICU) treatment often experience chronic emotional distress. To address this need, we developed the Coma Family (COMA-F) program, a mindfulness-based resiliency intervention for these caregivers.
+
+
+Objective
+We will conduct an open pilot trial of COMA-F (National Institutes of Health Stage IA). Here we describe our study protocol and proposed intervention content.
+
+
+Methods
+We will enroll 15 caregivers of patients with SABIs during their loved one’s hospital course from 3 enrollment centers. A clinical psychologist will deliver the COMA-F intervention (6 sessions) over Zoom (Zoom Video Communications, Inc) or in person. We will iterate COMA-F after each caregiver completes the intervention and an exit interview. English-speaking adults who have emotional distress confirmed by the clinical team and are the primary caregivers of a patient with SABI are eligible. The adult patient must have been admitted to the neuro-ICU for SABI and (1) have had a Glasgow Coma Scale score below 9 while not intubated or an inability to follow meaningful commands while intubated at any point during their hospitalization for >24 hours due to SABI; (2) will be undergoing either tracheostomy or percutaneous endoscopic or surgical gastrostomy tube placement or have already received one or both; and (3) have a prognosis of survival >3 months. We will identify eligible caregivers through screening patients’ medical records and through direct referrals from clinicians in the neuro-ICU. During the intervention we will teach caregivers mind-body and resilience skills, including deep breathing, mindfulness, meditation, dialectical thinking, acceptance, cognitive restructuring, effective communication, behavioral activation, and meaning-making. Caregivers will complete self-report assessments (measures of emotional distress and resilience) before and after the intervention. Primary outcomes are feasibility (recruitment, quantitative measures, adherence, and therapist fidelity) and acceptability (treatment satisfaction, credibility, and expectancy). We will conduct brief qualitative exit interviews to gather feedback on refining the program and study procedures. We will examine frequencies and proportions to determine feasibility and acceptability and will analyze qualitative exit interview data using thematic analysis. We will also conduct 2-tailed t tests to explore signals of improvement in emotional distress and treatment targets. We will then conduct an explanatory-sequential mixed methods analysis to integrate quantitative and qualitative data to refine the COMA-F manual and study procedures.
+
+
+Results
+This study has been approved by the institutional review board at 1 of the 3 enrollment centers (2023P000536), with approvals at the other 2 centers pending. We anticipate that the study will be completed by late 2024.
+
+
+Conclusions
+We will use our findings to refine the COMA-F intervention and prepare for a feasibility randomized controlled trial.
+
+
+Trial Registration
+ClinicalTrials.gov NCT05761925; https://clinicaltrials.gov/study/NCT05761925
+
+
+International Registered Report Identifier (IRRID)
+PRR1-10.2196/50860

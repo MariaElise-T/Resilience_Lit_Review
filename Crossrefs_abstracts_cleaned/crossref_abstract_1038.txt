@@ -1,0 +1,15 @@
+
+Purpose
+This paper aims to explore the empirical literature on organizational resilience. The goal consists of identifying and understanding the indicators used to evaluate organizational resilience and instigating the development of indicators to assess resilience in other areas, such as project management and critical infrastructure.
+
+
+Design/methodology/approach
+A review of recent empirical studies is conducted to collect information on the indicators used to assess organizational resilience.
+
+
+Findings
+A range of interrelated indicators aiming to measure organizational resilience in two dimensions is shown in this literature review: awareness and adaptive capacity. Awareness is the ability of an organization to assess its environment and interpret the changes in its surroundings, both now and in the future, to be proactive and better manage possible disruptive events. On the other hand, adaptive capacity is the organization’s capacity to transform its structure, processes, culture, etc. for recovering once faced with a disruptive event. Awareness forms the main base of the organization’s adaptive capacity.
+
+
+Originality/value
+Organizational resilience contributes to the safe development of the built environment. This concept helps organizations to cope with disruptions. However, little research has been conducted on the indicators to assess organizational resilience, in different fields. Moreover, these indicators’ credibility is based on empirical studies.

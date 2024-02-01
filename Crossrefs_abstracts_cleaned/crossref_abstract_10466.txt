@@ -1,0 +1,15 @@
+Abstract
+Background
+Prior studies indicate that older members of LGBTQ+ communities have specific health provision and health information needs related to coping with COVID-19, its long-term effects, and the social and economic impact of the pandemic. This study addresses the issue of a lack of timely, complete, and high-quality data about this population’s healthcare and healthcare information needs and behaviors. Recognizing also that this is a diverse population made up of multiple communities and identities with different concerns and experiences, this research seeks to develop and refine a method that can provide additional nuanced data and insights that can support improved and more closely targeted health interventions and online information provision.
+
+Methods
+We use computational discourse analysis, which is based on NLP algorithms, to build and analyze a digital corpus of online search results containing rich, wide-ranging content such as quotes and anecdotes from older members of LGBTQ+ communities as well as practitioners, advice, and recommendations from policymakers and healthcare experts, and research outcomes. In our analysis, we develop and apply an innovative disparities and resilience (D&R) framework to identify external and internal perspectives and understand better disparities and resilience as they pertain to this population.
+
+Results
+Results of this initial study support previous research that LGBTQ+ elders experience aggravated health and related social-economic disparities in comparison to the general population of older people. We also find that LGBTQ+ elders leverage individual toughness and community closeness, and quickly adapt mentally and technologically, despite inadequate social infrastructure for sharing health information and elders’ often low social economic status. The methods used therefore are able to surface distinctive resilience in the face of distinctive disparities.
+
+Conclusions
+Our study provides evidence that methodological innovation in gathering and analyzing digital data relating to overlooked, disparately affected, and socially and economically marginalized intersectional communities such as LGBTQ+ elders can result in increased external and self-knowledge of these populations. Specifically, it demonstrates the potential of computational discourse analysis to surface hidden and emerging issues and trends relating to a multi-faceted population that has important concerns about public exposure in highly timely and automated ways. It also points to the potential benefits of triangulating data gathered through this approach with data gathered through more traditional mechanisms such as surveys and interviews.
+
+Trial registration
+Not Applicable.

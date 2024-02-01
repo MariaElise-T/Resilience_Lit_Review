@@ -1,0 +1,15 @@
+Abstract
+Background
+Child laborers are often defined as work that deprives children of their childhood, their potential and their dignity, and that is harmful to physical and mental development. Child laborers are one of the most vulnerable groups in domestic violence. Domestic violence severely affects the physical and mental health, and consequently affects substance dependence and resilience to suicide of these children. Accordingly, it is essential to examine domestic violence, substance dependence, and suicidal ideation in working children.
+
+Objectives
+the present study aimed to investigate the relationship between exposure to domestic violence and substance dependence and suicide resilience on the other among child laborers in Iran.
+
+Methods
+This study employed cross-sectional research. 600 child laborers were selected via convenience and snow ball sampling from one rehabilitation and welfare center and three charity organization societies in the west of Iran, from January to August 2022. They completed questionnaires. Data were analyzed by SPSS software version 22 and with using descriptive statistics (frequency, percentage, mean and standard deviation) and ANOVA, independent t-test and the multiple linear regression model with a backward strategy.
+
+Results
+Findings showed that exposure to domestic violence has a strong and direct correlation with substance dependence (r = 0.94, p < 0.001) and strong and indirect correlation with suicide resilience (r =- 0.91, p < 0.001). Also substance dependence has a strong and direct correlation with suicide resilience (r = -0.87, p < 0.001) in child laborers. Variables of substance dependence, suicide resilience, gender, guardian’s disease status, living status and age can predict 76.51% of the variance in domestic violence in these children.
+
+Conclusion
+Child laborers experience a lot of domestic violence, which severely affects their suicide resilience and substance dependence in them. Therefore, there is an urgent need for systematic support programs with content (teaching self-care behaviors, stress management, avoiding tense and violent environments) in order to support of these children and reduce domestic violence against them and subsequently reduce substance improve abuse resilience to suicide in these children.

@@ -1,0 +1,16 @@
+
+            Past research suggests that small groups are self-organizing systems, and that social resilience may be measured as the meta-flexibility of group dynamics: the ability to shift back and forth from flexiblity to rigidity in response to conflict. This study extends these prior results, examining the impact of experimentally induced internal conflict and group-level conflict resolution on group dynamics—
+            whether one bad apple can spoil the bunch
+            . Six experimental groups with four members each participated in a series of four 25 min discussions. The first two discussions served as a baseline condition. Internal conflict was induced to one or more group members prior to discussion three, with the prediction that higher levels of conflict induction would lead to significant drops in group flexibility—creating a press on the group's resilience, whereas conflict resolution in discussion four was expected to allow for a rebound in group flexibility. Consistent with prior research, the turn-taking dynamics of each the 24 groups were distributed as inverse power laws (
+            R
+2
+            = 0.86–0.99) providing evidence for self-organization. Furthermore, there were significant study-wise negative correlation between levels of personality conflict and two measures of flexibility: information entropy (
+            r
+            = −0.47,
+            p
+            = 0.019) and fractal dimension (
+            r
+            = −0.42,
+            p
+            = 0.037). Altogether, these results suggest that: (i) small groups are self-organizing systems with structure and flexibility providing social resilience and (ii) individual conflict is able to spread to higher level social dynamics, creating pressure on social resilience. Practical implications for assessment of, and intervention with, psychosocial resilience are discussed.
+          

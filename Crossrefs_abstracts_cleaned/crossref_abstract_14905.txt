@@ -1,0 +1,16 @@
+
+Background:
+            Personal and psychological factors, such as depression, have a considerable influence on nonadherence to medications and self-care in those with heart failure. More evidence, however, is needed about positive personal factors that motivate adherence to medications and self-care in those with heart failure. Objective: The purpose of this study was to investigate whether there was a consistent and predictable relationship between the personal resources of resilience, hope, health literacy, social support, and self-care activation and adherence to medications and HF self-care and whether race impacts adherence.
+          
+
+Methods:
+            This study used a prospective, cross-sectional design. Correlation and multiple regression analyses were used to estimate associations between study variables. A nationwide, diverse sample was recruited for this study.
+          
+
+Results:
+            Of the 174 participants, 51% were female, 48% were persons of color (POC) and the mean age was 62 years. Medication adherence and health literacy were significantly lower among POC compared to Whites. POC were more likely to be under 65 years, single, and have a lower income. Following adjustment for differences in age and depressive symptoms, a predictive relationship remained between resilience (B = -0.049, p < 0.001), health literacy (B = -0.258, p = 0.003) and medication adherence. A high level of perceived social support (B = 5.359, p < 0.001) was a predictor of better HF self-care.
+          
+
+Conclusion:
+            Persons with heart failure may have better medication adherence and overall self-care if sufficiently resilient, health literate, and supported regardless of their degree of hope or activation. Race and age may be important factors to consider. More research is needed to understand the relationship between resilience and medication adherence.
+          

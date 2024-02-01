@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Aging is characterized by loss of resilience, the ability to resist or recover from stressors. Network analysis has shown promise in investigating dynamic relationships underlying resilience. We aimed to use network analysis to measure resilience in a longitudinal cohort of older adults and quantify whole-system vulnerabilities associated with frailty.
+
+
+Methods
+We used data from the Rugao Longitudinal Ageing Study, including 71 biomarkers from participants classified as robust, prefrail, or frail. We quantified biomarker correlations and topological parameters. Additionally, we proposed propagation models to simulate damage and recovery dynamics, investigating network resilience under various conditions.
+
+
+Results
+We classified 1 754 individuals into robust (n = 369), prefrail (n = 1 103), and frail (n = 282) groups with 71 biomarkers. Several biomarkers were linked to frailty, including those related to blood pressure, electrocardiogram (ECG), kidney function, platelets, and white blood cells. Each frailty stage was associated with increased network correlations. The frail network showed increased average degree and connectance, decreased average path length and diameter, and reduced modularity compared to robust and prefrail networks. Hub biomarkers, particularly β2-microglobulin and platelet count, played a significant role, potentially propagating dysfunction across physiological systems. Simulations revealed that damage to critical hubs led to longer recovery times in the frail network than robust and prefrail networks.
+
+
+Conclusions
+Network analysis could serve as a valuable tool for quantifying resilience and identifying vulnerabilities in older adults with frailty. Our findings contribute to understanding frailty-related physiological disturbances and offer potential for personalized healthcare interventions targeting resilience in older populations.

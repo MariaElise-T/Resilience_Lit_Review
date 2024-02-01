@@ -1,0 +1,9 @@
+
+            A hydrogeological investigation is presented that focused on the development of a drought-resilient groundwater supply for a town (Carlow) in the Irish Midlands. The combination of thick overlying glacial deposits and Carboniferous limestones of low primary permeability posed a challenge to identifying a groundwater source. The source exploration strategy comprised surface geophysics and follow-on pilot well drilling to identify zones of high (secondary) permeability in bedrock. The study identified a previously unrecorded large (
+            c
+            . 3.5 km long) and deep infilled karst feature that possibly extends 2 km further to a nearby area of known Neogene-aged karst infill. Separately, the investigation revealed new areas of dolomitized limestone, suitable for water supply development, where two production wells were constructed. A programme of pumping tests showed that dolomitized limestone areas exhibited low-nitrate groundwater quality, relatively high transmissivity and sustained recharge boundaries (leakage from a nearby riverbed). Analysis of data from the operational stage provided further insights into recharge behaviour, and showed that groundwater levels are resilient during droughts at current abstraction rates. The analysis concluded that the wellfield could sustain higher abstraction volumes, even through extended periods of low effective rainfall.
+          
+
+Thematic collection:
+            This article is part of the Climate change and resilience in Engineering Geology and Hydrogeology collection available at:
+            https://www.lyellcollection.org/topic/collections/climate-change-and-resilience-in-engineering-geology-and-hydrogeology

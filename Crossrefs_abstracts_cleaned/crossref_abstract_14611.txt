@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Depression is common in patients following an Acute Coronary Syndrome (ACS) substantially increases the risk of future events and mortality. Post-ACS depression typically resembles one of four longitudinal trajectories: chronic; absent; recovered, or delayed depression. Early identification of a patient's post-ACS depression trajectory will improve risk stratification, treatment implementation and risk management.
+
+
+Purpose
+To explore whether stable psychosocial traits, such as resilience, predict the trajectory of depression one month and 6 months following an ACS admission.
+
+
+Method
+Consecutive adult ACS patients (STEMI/NSTEMI) admitted to a large general hospital completed the Cardiac Depression Scale (CDS) and the Sense of Coherence scale during their admission, then one and six months following discharge.
+
+
+Results
+132 ACS in-patients (males = 111; mean age = 63.13±13.47) satisfied enrolment criteria. Unconditional linear latent growth modelling identified a 3-class model for the trajectory of depression post-ACS (increasing depression; consistent non-depressed; decreasing non-depressed). For the increasing depression class, resilience at baseline was significant and negative compared to the consistent class, b=−0.06, Wald chi square (1) = 4.42, p=0.036 and the decreasing class, b=−0.09, Wald chi square (1) = 7.20, p=0.007.
+
+
+Conclusions
+Patients who reported lower levels of resilience during an ACS admission were significantly more likely to experience initially high levels of depressive symptoms (CDS ≥85) that exceeded the clinically relevant cut-off (CDS ≥95) at 6 months post-discharge. This study suggests that screening for resilience and depression will improve risk stratification for persistent and delayed depression post-ACS.

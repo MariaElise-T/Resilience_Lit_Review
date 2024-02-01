@@ -1,0 +1,20 @@
+Abstract
+
+Objective
+To assess whether an individual’s degree of psychological resilience can be determined from physiological metrics passively collected from a wearable device.
+
+
+Materials and Methods
+Data were analyzed in this secondary analysis of the Warrior Watch Study dataset, a prospective cohort of healthcare workers enrolled across 7 hospitals in New York City. Subjects wore an Apple Watch for the duration of their participation. Surveys were collected measuring resilience, optimism, and emotional support at baseline.
+
+
+Results
+We evaluated data from 329 subjects (mean age 37.4 years, 37.1% male). Across all testing sets, gradient-boosting machines (GBM) and extreme gradient-boosting models performed best for high- versus low-resilience prediction, stratified on a median Connor-Davidson Resilience Scale-2 score of 6 (interquartile range = 5–7), with an AUC of 0.60. When predicting resilience as a continuous variable, multivariate linear models had a correlation of 0.24 (P = .029) and RMSE of 1.37 in the testing data. A positive psychological construct, comprised of resilience, optimism, and emotional support was also evaluated. The oblique random forest method performed best in estimating high- versus low-composite scores stratified on a median of 32.5, with an AUC of 0.65, a sensitivity of 0.60, and a specificity of 0.70.
+
+
+Discussion
+In a post hoc analysis, machine learning models applied to physiological metrics collected from wearable devices had some predictive ability in identifying resilience states and a positive psychological construct.
+
+
+Conclusions
+These findings support the further assessment of psychological characteristics from passively collected wearable data in dedicated studies.

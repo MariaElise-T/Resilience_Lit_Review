@@ -1,0 +1,16 @@
+Abstract
+
+Background
+During the ongoing COVID-19 pandemic, older adults are more likely to experience limitations in activities for daily living and social isolation and thus at greater risk for decline in mental and cognitive health. The current study examined how older adults' resilience and optimism affected mental and emotional well-being in the midst of pandemic crisis.
+
+
+Methods
+The study used data sampled from two waves of the Eurofound COVID-19 survey collected from 27 European countries in April, during the first lockdown, and July 2020 when restrictions and measures were mildly lifted-up. The first round sample included 11,211 older adults (Mean age = 69.71 ± 5.15, 70% females, 86% retired) and second round sample included 4,424 (Mean age = 69.93 ± 4.47, 61% females). Analysis focused on resilience, optimism, WHO Well-being Index, psychological distress, and subjective well-being (self-rated health, life satisfaction, happiness). Covariates included socio-demographic information and financial and health care situations since pandemic crisis.
+
+
+Results
+Mental health, subjective well-being, and psychological distress in older adults tended to change over time, while resilience and optimism were relatively stable. Regression analysis indicated that older adults who scored higher for resilience and optimism reported greater life satisfaction and happiness, better health perception, higher levels of mental health, and lower psychological distress when controlled for socio-demographic variables and adversities related to pandemic outbreak.
+
+
+Conclusions
+Resilience and optimism might have a potential to help older adults cope with exposure to stressful life events and later life adversity, but inconclusive. Future studies should more precisely examine the role of resilience and optimism in promoting mental health in older adults, its formation and protective mechanism, to better incorporate these factors into life-long education and interventions for older adults.

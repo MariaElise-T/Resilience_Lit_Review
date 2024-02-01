@@ -1,0 +1,7 @@
+Summary
+
+The prevalence of local adaptation and phenotypic plasticity among populations is critical to accurately predicting when and where climate change impacts will occur. Currently, comparisons of thermal performance between populations are untested for most marine species or overlooked by models predicting the thermal sensitivity of species to extirpation.
+Here we compared the ecological response and recovery of seagrass populations (Posidonia oceanica) to thermal stress throughout a year‐long translocation experiment across a 2800‐km gradient in ocean climate. Transplants in central and warm‐edge locations experienced temperatures > 29°C, representing thermal anomalies > 5°C above long‐term maxima for cool‐edge populations, 1.5°C for central and < 1°C for warm‐edge populations.
+Cool‐edge, central and warm‐edge populations differed in thermal performance when grown under common conditions, but patterns contrasted with expectations based on thermal geography. Cool‐edge populations did not differ from warm‐edge populations under common conditions and performed significantly better than central populations in growth and survival.
+Our findings reveal that thermal performance does not necessarily reflect the thermal geography of a species. We demonstrate that warm‐edge populations can be less sensitive to thermal stress than cooler, central populations suggesting that Mediterranean seagrasses have greater resilience to warming than current paradigms suggest.
+

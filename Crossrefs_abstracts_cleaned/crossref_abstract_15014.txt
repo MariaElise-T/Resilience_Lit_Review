@@ -1,0 +1,8 @@
+AimTo measure resilience and identify associated demographic and clinical factors in individuals with spina bifida.MethodAn anonymous survey was distributed via Facebook advertising to individuals with congenital urological conditions. Respondents 18 years or older with spina bifida were included in this study. Resilience was measured with the 10‐item Connor‐Davidson Resilience Scale. Mean resilience levels in the study population and a US general population sample were compared with Student’s t‐test. Multiple linear regression assessed demographic and clinical factors associated with resilience.ResultsThe mean resilience score for participants (n=195; 49 males, 146 females; mean age 40y 2mo [SD 12y 7mo] range 18–74y) was 27.2 (SD 7.5), which differed from a mean of 31.8 (SD 5.4) for a US general population sample (p<0.01). Multiple linear regression demonstrated significant positive associations between resilience and older age (p=0.04), prior urological surgeries (p=0.03), higher household education (p<0.01), and higher physical function (p<0.01).InterpretationResilience in individuals with spina bifida is moderately poor, relative to the general population, and is associated with certain demographic and clinical factors. As a modifiable construct with positive effects on quality of life, psychological well‐being, and health‐related behaviors, resilience is a promising target for intervention in individuals with spina bifida.
+What this paper adds
+
+Resilience in individuals with spina bifida is moderately poor.
+Resilience is lower in individuals with spina bifida than the general population.
+Resilience is associated with age, household education, physical function, and urological surgery.
+
+

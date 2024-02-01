@@ -1,0 +1,32 @@
+Abstract
+
+Context
+Although health-related quality of life (HRQoL) is a fundamental outcome in oncological clinical trials, its evaluation in the neuroendocrine neoplasm (NEN) research field is still limited.
+
+
+Objectives
+This study assessed the role of clinical severity (ie, presence or absence of metastasis and lines of therapies) and heterogeneity (ie, primary site, types of therapy, biology, and surgery) of NEN in relation to HRQoL, as well as resilience as a moderator between clinical severity and HRQoL.
+
+
+Design
+Cross-sectional multicentric study.
+
+
+Setting
+Italian university hospitals.
+
+
+Patients
+A total of 99 Italian patients (53 men and 46 women) with NEN and ranged in age from 22–79 years old.
+
+
+Main Outcome Measure
+Severity and heterogeneity of NENs, HRQoL, and resilience.
+
+
+Results
+The presence of metastasis and a greater number of therapies affected the global health and some physical symptoms. Resilience was associated with global health, functional status, and some physical symptoms, and it moderated the impact of metastases on constipation and of the multiple therapies on diarrhea and financial problems. Patients with NEN in districts other than the gastroenteropancreatic system and those in follow-up perceived fewer physical symptoms than their counterparts. Patients with a sporadic NEN perceived their functional status, global health, and disease-related worries as better than those with a hereditary NEN. Patients who underwent surgery were lower in constipation than their counterparts.
+
+
+Conclusion
+These findings highlight the need to assess the relationships between the clinical severity and heterogeneity of NEN with HRQoL and the role of resilience in improving patients’ HRQoL.

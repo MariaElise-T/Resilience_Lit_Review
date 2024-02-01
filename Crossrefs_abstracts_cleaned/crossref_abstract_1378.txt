@@ -1,0 +1,20 @@
+
+Introduction:
+            Astrocytes provide bioenergetic support to neurons, mediate neurovascular coupling, buffer extracellular ions, and limit excitotoxicity. They undergo many rapid changes following ischemic brain injury, which may shape the extent of damage. The role of astrocytic mitochondria in astroglial functioning and response to brain injury remain underexplored. We investigated age dependent changes to astrocytic mitochondria following focal ischemic stroke
+            in vivo
+            using a clot-based mouse model of middle cerebral artery (MCA) occlusion.
+          
+
+Methods:
+            Male and female wildtype C57BL/6N neonatal mice underwent retro-orbital injections of AAV2/5 viral vectors containing mitochondrial targeted enhanced green fluorescent protein under the control of the astrocyte-specific glial fibrillary acidic protein promoter. Mice were allowed to age to 21-35 days (juvenile group) or 10-20 weeks (adult group). Proximal right MCA occlusion was provoked via photothrombosis using Rose Bengal dye and a targeted 532 nm laser beam. Control mice underwent sham procedures. Mice were perfused at 1, 3 or 24 hours post-stroke onset. Brains were processed and sectioned for mitochondrial analysis (
+            n
+            = 3 animals/30 cells per time point per age group). Quantitative analyses were performed using a novel mitochondrial morphology scoring system.
+          
+
+Results:
+            Penumbral astrocytic mitochondria are markedly reduced in density, demonstrate decreased network complexity and adopt punctate spherical morphology compared to contralateral non-stroke hemisphere and sham animals. These changes are present within 1 hour of stroke onset. Preliminary data indicate at least 50% change in adult mice. These changes are attenuated in juvenile mice, with increased recovery seen at 24 hours post-stroke ictus.
+          
+
+Conclusions:
+            Astrocytic mitochondria within the penumbra undergo rapid loss and morphologic changes suggestive of dysfunction following proximal MCA occlusion. These changes are less severe in young mice indicating age-dependent resiliency of astrocytic mitochondria to ischemic injury. Further investigation into the mechanisms underlying astrocytic mitochondrial resiliency in the developing brain may reveal new strategies to limit stroke injury and improve outcomes.
+          

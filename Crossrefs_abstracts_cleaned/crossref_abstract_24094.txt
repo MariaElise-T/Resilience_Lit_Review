@@ -1,0 +1,19 @@
+
+Objective:
+MSM in India are at a high risk for HIV infection given psychosocial challenges, sexual orientation stress, and stigma. We examined the cost-effectiveness of a novel resilience-based psychosocial intervention for MSM in India.
+
+
+Design:
+We parameterized a validated microsimulation model (CEPAC) with India-specific data and results from a randomized trial and examined two strategies for MSM: status quo HIV care (SQ), and a trial-based psychosocial intervention (INT) focused on building resilience to stress, improving mental health, and reducing condomless anal sex (CAS).
+
+
+Methods:
+We projected lifetime clinical and economic outcomes for MSM without HIV initially. Intervention effectiveness, defined as reduction in self-reported CAS, was estimated at 38%; cost was $49.37/participant. We used a willingness-to-pay threshold of US$2100 (2019 Indian per capita GDP) per year of life saved (YLS) to define cost-effectiveness. We also assessed the 5-year budget impact of offering this intervention to 20% of Indian MSM.
+
+
+Results:
+Model projections showed the intervention would avert 2940 HIV infections among MSM over 10 years. Over a lifetime horizon, the intervention was cost-effective (ICER = $900/YLS). Results were most sensitive to intervention effectiveness and cost; the intervention remained cost-effective under plausible ranges of these parameters. Offering this intervention in the public sector would require an additional US$28 M over 5 years compared with SQ.
+
+
+Conclusion:
+A resilience-based psychosocial intervention integrated with HIV risk reduction counseling among MSM in India would reduce HIV infections and be cost-effective. Programs using this approach should be expanded as a part of comprehensive HIV prevention in India.

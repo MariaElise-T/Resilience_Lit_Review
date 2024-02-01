@@ -1,0 +1,15 @@
+
+Objectives
+This study sought to evaluate advanced psychometric properties of the 15-item Economic Strain and Resilience in Cancer (ENRICh) measure of financial toxicity for cancer patients.
+
+
+Methods
+We surveyed 515 cancer patients in the greater Houston metropolitan area using ENRICh from March 2019 to March 2020. We conducted a series of factor analyses alongside parametric and non-parametric item response theory (IRT) assessments using Mokken analysis and the graded response model (GRM). We utilized parameters derived from the GRM to run a simulated computerized adaptive test (CAT) assessment.
+
+
+Results
+Among participants, mean age was 58.49 years and 278 (54%) were female. The initial round factor analysis results suggested a one-factor scale structure. Negligible levels of differential item functioning (DIF) were evident between eight items. Three items were removed due to local interdependence (Q3>+0.4). The original 11-point numerical rating scale did not function well, and a new 3-point scoring system was implemented. The final 12-item ENRICh had acceptable fit to the GRM (p<0.001; TLI = 0.94; CFI = 0.95; RMSEA = 0.09; RMSR = 0.06) as well as good scalability and dimensionality. We observed high correlation between CAT version scores and the 12-item measure (r = 0.98). During CAT, items 2 (money you owe) and 4 (stress level about finances) were most frequently administered, followed by items 1 (money in savings) and 5 (ability to pay bills). Scores from these four items alone were strongly correlated with that of the 12-item ENRICh (r = 0.96).
+
+
+Conclusion
+These CAT and 4-item versions provide options for quick screening in clinical practice and low-burden assessment in research.

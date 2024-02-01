@@ -1,0 +1,13 @@
+Abstract
+Background
+Schizophrenia is the most severe mental chronic disabling disease that the majority of the patients need constant care in a variety of aspects. Regarding the role of family caregivers in taking care of these patients, caregivers need to be resilient, in addition to other psychological traits, to adapt to the circumstance. This study aimed to investigate the effect of the emotion regulation training on the resilience of caregivers of patients with schizophrenia in southeastern Iran.
+
+Methods
+The study was a parallel randomized controlled trial. Seventy caregivers of patients with schizophrenia were selected by convenience sampling method and randomly assigned to an emotion regulation training group and a control group. The intervention group received eight 90-min training sessions (one session weekly) about emotion regulation. The participants completed the Conner–Davidson resilience scale before and one month after the intervention.
+
+Results
+The mean scores of the resilience increased in the control and intervention groups at the end of the study. A significant difference was found between the two groups (p < 0.001). At the beginning of the study, the mean score of the resilience was 59.94 in the control group and 51.97 in the intervention group. However, the mean score of the resilience in the control group was 61.28 after the intervention, which was not significant, but it was 69.08 in the intervention group, which was significant. A significant difference was observed between two groups in the mean scores (p = 0.01).
+
+Conclusions
+According to the results of this study, cognitive and metacognitive skills of emotion regulation can be suggested as one of the methods for increasing the psychological well-being of schizophrenia patients’ caregivers. The increase of mental well-being and resilience of caregivers can help them better manage a patient with schizophrenia.
+Trial registration IRCT registration number: IRCT2017061733997N2, Registration date: 2017-08-16, 1396/05/25, Registration timing: prospective, https://en.irct.ir/trial/26116

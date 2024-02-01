@@ -1,0 +1,16 @@
+Abstract
+
+Study Objectives
+Sleep loss produces large individual differences in neurobehavioral responses, with marked vulnerability or resilience among individuals. Such differences are stable with repeated exposures to acute total sleep deprivation (TSD) or chronic sleep restriction (SR) within short (weeks) and long (years) intervals. Whether trait-like responses are observed to commonly experienced types of sleep loss and across various demographically defined groups remains unknown.
+
+
+Methods
+Eighty-three adults completed two baseline nights (10 h–12 h time-in-bed, TIB) followed by five 4 h TIB SR nights or 36 h TSD. Participants then received four 12-h TIB recovery nights followed by five SR nights or 36 h TSD, in counterbalanced order to the first sleep loss sequence. Neurobehavioral tests were completed every 2 h during wakefulness.
+
+
+Results
+Participants who displayed neurobehavioral vulnerability to TSD displayed vulnerability to SR, evidenced by substantial to near perfect intraclass correlation coefficients (ICCs; 78%–91% across measures). Sex, race, age, body mass index (BMI), season, and sleep loss order did not impact ICCs significantly. Individuals exhibited significant consistency of responses within, but not between, performance and self-reported domains.
+
+
+Conclusions
+Using the largest, most diverse sample to date, we demonstrate for the first time the remarkable stability of phenotypic neurobehavioral responses to commonly experienced sleep loss types, across demographic variables and different performance and self-reported measures. Since sex, race, age, BMI, and season did not affect ICCs, these variables are not useful for determining stability of responses to sleep loss, underscoring the criticality of biological predictors. Our findings inform mathematical models and are relevant for the general population and military and health professions.

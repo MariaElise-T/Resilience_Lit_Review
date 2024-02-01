@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to investigate the inter-relationship among dominant supply chain capabilities of collaboration, flexibility, velocity and visibility and how the same influence supply chain resilience (SCRES) and supply chain performance. Further, the aim is to explore the relationship between integrated logistics capabilities and supply chain capabilities.
+
+
+Design/methodology/approach
+The proposed hypotheses were tested with survey data collected from 339 supply chain professionals. The collected data were then analyzed with confirmatory factor analysis, and the proposed relationships were tested with structural equation modeling.
+
+
+Findings
+Integrated logistics capabilities were found to positively influence supply chain collaboration and supply chain visibility. There is a positive influence of each of collaboration, flexibility, visibility and velocity on SCRES. Further, each of these supply chain capabilities positively influences each other to a greater extent. Further, SCRES was found to have a positive influence on supply chain performance.
+
+
+Research limitations/implications
+Like many other cross sectional studies, this study also suffers from data collected from single respondent per firm.
+
+
+Originality/value
+The study is significant and holds immense importance for managers and supply chain practitioners because it has suggested them to focus on core supply chain capabilities, for example, collaboration, flexibility, visibility and visibility for developing SCRES. Along with this, it undersigned the growing importance and empirical influence of integrated logistics capabilities in developing these supply chain capabilities and also the positive influence of resilience on supply chain performance.

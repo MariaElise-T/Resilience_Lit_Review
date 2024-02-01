@@ -1,0 +1,19 @@
+
+Introduction:
+African-American women living with HIV report substantial HIV-related stigma and depression. Resilience resources are strength-based resources that may moderate the effects of HIV-related stigma on poor psychosocial outcomes such as depression.
+
+
+Objective:
+To evaluate whether religiosity, social support, and ethnic identity moderate the effects of HIV-related stigma on depression among African-American women living with HIV.
+
+
+Methods:
+We used baseline data (May 2013–October 2015) from a randomized controlled trial testing the efficacy of an HIV-related stigma-reduction intervention among African-American women living with HIV in Chicago, IL, and Birmingham, AL, who were older than 18 years and currently receiving HIV services. To assess whether religiosity (7-item Religious Beliefs and Behaviors survey), social support (select subscales from the Medical Outcomes Study Social Support Survey), and ethnic identity (Commitment subscale from the Multigroup Ethnic Identity Measure) modified the relationship between HIV-related stigma (Stigma Scale for Chronic Illness) and depression (8-item Patient Health Questionnaire), we conducted 3 separate moderation analyses using linear regression with interactions between HIV-related stigma and each moderator of interest, adjusted for study site, age, time since diagnosis, and education.
+
+
+Results:
+Among 226 African-American women living with HIV, greater levels of HIV-related stigma were associated with greater depression in all 3 models (P < 0.05). Only religiosity modified this association (P = 0.04), with a weaker association among women reporting higher levels of religiosity.
+
+
+Conclusions:
+The protective effects of religiosity may be leveraged in interventions for African-American women living with HIV struggling with HIV-related stigma.

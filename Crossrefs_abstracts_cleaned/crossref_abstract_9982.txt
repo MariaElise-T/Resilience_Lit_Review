@@ -1,0 +1,15 @@
+
+Purpose
+Critical infrastructures (CIs) are essential components of the built environment. They ensure the interconnectivity and good operability of any major urban environment. CIs are exposed to several disruptions such as natural events, hazards or threats that may disturb their normal functionality. These disruptions may impact societies not only from a socio-economic perspective but also environmentally. Therefore, ensuring the resilience of CIs is crucial to modern cities. This paper aims to explore the main standards and criteria used to assess the resilience of CIs.
+
+
+Design/methodology/approach
+A three-stage systematic review process was adopted to retrieve relevant papers. A total of 44 papers were carefully selected, and the content analysis technique was used to thoroughly analyse the papers.
+
+
+Findings
+Results show that researchers’ interest to investigate the assessment criteria of CIs resilience increased after 2004. Further, a total of 28 resilience criteria of CIs were identified, of which the most reported ones are organisational resilience; performance loss, disruption and recovery process; resilience metrics and index; safety, security and risk analysis; societies/communities’ resilience and/or social-equity responsibility; dynamic networks connectivity; resilience through design and structural integrity; and economic resilience.
+
+
+Originality/value
+The findings of this research will serve as a solid foundation for the development of hypothesis for future empirical studies into the development of assessment criteria index for CI resilience. Further, the outcomes will contribute to the ongoing international discussions and debate on the appropriate ways to develop CI resilience.

@@ -1,0 +1,24 @@
+Abstract
+
+Introduction
+Endometriosis is a painful, chronic inflammatory condition characterized by the presence of tissue similar to the lining of the uterus growing outside of the uterus, with the most common location being the ovaries (Audebert et al., 2018; O’Hara et al., 2021). Endometriosis can significantly disrupt sexual function and is associated with negative outcomes in mental health, relationship satisfaction, and quality of life (Friggi Sebe Petrelluzi et al., 2012; Smorgick et al., 2013). Although up to 10% of women are affected by endometriosis (As-Sanie et al., 2019), there is little research on the experience of sexual distress in people with endometriosis, especially in women who identify as sexual minorities. Most work in the area of pain has identified the risks that make one more susceptible to developing pain and pain-related distress, while little work has focused on potentially protective factors that might mitigate these risks and promote resilience (Darnell, 2021). By enlisting women who identify as a sexual minority (e.g., non-heterosexual), and thus taking a broader view of women’s healthy sexual activity, we may gain insight into ways in which any woman (with ovaries) may mitigate their sexual distress related to endometriosis.
+
+
+Objective
+The current study examined vulnerability and resilience factors contributing to sexual distress within an inclusive sample of women with ovarian endometriosis. It was hypothesized that women with ovarian endometriosis who reported lower levels of sexual self-consciousness and higher levels of sexual flexibility would experience lower levels of sexual distress, and women who identify as a sexual minority would report higher levels of sexual flexibility and lower levels of sexual distress resulting from ovarian endometriosis.
+
+
+Methods
+The current study was online in nature and recruited individuals with a self-reported clinician-identified diagnosis, or a self-reported suspected diagnosis, of ovarian endometriosis. All eligible participants completed measures assessing pain characteristics, sexual distress, and various resiliency and vulnerability constructs. Associations among these variables were examined via correlational analyses (Pearson’s r), differences between groups were examined via independent samples t-tests, and several moderated mediation models were run to determine what factor(s) predicted adaptive outcomes related to less sexual distress.
+
+
+Results
+Participants were 265 women who identified as a sexual majority (75.1%) or sexual minority (24.9%) with a confirmed (99.2%) or suspected (.8%) diagnosis of ovarian endometriosis. Results of the correlational analyses indicated: (1) sexual flexibility was negatively associated with sexual distress, r(226) = -.23, p &lt;.001; (2) sexual flexibility was negatively associated with sexual self-consciousness, r(226) = -.19, p &lt;.005; and (3) sexual self-consciousness was positively associated with sexual distress, r(227) = .45, p &lt;.001. Results from independent samples t-tests and moderated mediation models were nonsignificant.
+
+
+Conclusions
+As the first investigation of the role of cognitive-affective factors in influencing sexual distress in an inclusive ovarian endometriosis population, the results of this study will contribute significantly to clinical practice in terms of providing novel targets for psychotherapeutic treatment options. Through investigating resilience processes, we may be able to ascertain whether adaptive factors (such as pain self-efficacy) account for functional health, independent of vulnerability factors (such as sexual self-consciousness).
+
+
+Disclosure
+No

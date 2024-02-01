@@ -1,0 +1,12 @@
+Abstract
+Background
+Cancer is highly prevalent worldwide. Family resilience is a positive variable that helps families burdened by advanced cancer to cope effectively. This study aimed to describe the family resilience of advanced cancer patients and caregivers in dyads and identify its influencing factors at the individual and dyadic levels.
+
+Methods
+This multisite cross-sectional study was conducted in oncology units in five tertiary hospitals in China. A total of 270 advanced cancer patient-caregiver dyads were recruited between June 2020 and March 2021. Patients’ and caregivers’ family resilience was measured by the Family Resilience Assessment Scale. Data on potential influencing factors, including demographic and disease-related characteristics as well as family sense of coherence, psychological resilience, perceived social support, symptom burden, and caregiver burden, were collected. Multilevel modeling analysis was adopted to control for the interdependence of the dyads.
+
+Results
+A total of 241 dyads were included in the data analysis. The mean ages of patients and caregivers were 53.96 (SD 15.37) and 45.18 (SD 13.79) years, respectively. Most caregivers were spouses and adult children (45.6% and 39.0%, respectively). Patients reported a higher mean family resilience score than caregivers (152.56 vs. 149.87, respectively). Undergoing fewer than two types of treatment and a lower symptom burden of patients predicted higher patient (B = -9.702, -0.134, respectively) and caregiver (B = -5.462, -0.096, respectively) family resilience. Patients also reported higher family resilience under the following conditions: 1) were on a medical insurance plan other than the new rural cooperative medical system (B = 6.089), 2) had a better family sense of coherence (B = 0.415), 3) whose caregivers were unmarried (B = 8.618), perceived lower social support (B = -0.145) and higher psychological resilience (B = 0.313). Caregivers who were ≤ 44 years old (B = -3.221), had similar previous caregiving experience (B = 7.706), and had a stronger family sense of coherence (B = 0.391) reported higher family resilience.
+
+Conclusions
+Our findings highlight the importance of adopting a dyadic approach when caring for advanced cancer patients and their caregivers. Dyadic longitudinal research is suggested to discover more modifiable factors of family resilience and tailored interventions are needed to obtain optimal dyadic outcomes.

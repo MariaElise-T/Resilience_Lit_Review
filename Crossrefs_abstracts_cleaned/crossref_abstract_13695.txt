@@ -1,0 +1,12 @@
+Abstract
+Background
+Being on the frontline of the battle against COVID-19, nurses and nursing students have been under considerable psychological stress and pressure. The present study is done to explore death anxiety, moral courage, and resilience in nursing students caring for COVID-19 patients in the south of Iran.
+
+Methods
+The present study is cross-sectional research conducted between September and December 2021. A total of 420 senior nursing students (nursing interns) who were undergoing their clinical training courses were invited to participate in the study by convenience sampling method from three hospitals affiliated with the University of Medical Sciences of Southern Iran. Data were collected using a demographics survey, Nurses’ Moral Courage Questionnaire, Connor-Davidson Resilience Scale, and Templer’s Death Anxiety Scale. 
+
+Results
+The nursing students participating in this study had a death anxiety mean score of 12.78 ± 1.17. The results showed that there was a significant and indirect correlation between death anxiety on the one hand and moral courage (r = -0.91, p < 0.001) and resilience (r = -0.89, p < 0.001) on the other in nursing students caring for patients with COVID-19. Also, it was found that there was a significant and direct correlation between the students’ resilience and moral courage scores (r = 0.91, p < 0.001).
+
+Conclusion
+The nursing students caring for COVID-19 patients had experienced high levels of death anxiety in the past few months. Considering the persistence of the COVID-19 crisis in Iran and other countries, there is an urgent need for measures to preserve and improve the physical, mental, and spiritual health of nursing students, enhance their moral courage and resilience and reduce their death anxiety.

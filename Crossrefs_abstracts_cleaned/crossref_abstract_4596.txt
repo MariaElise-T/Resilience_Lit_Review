@@ -1,0 +1,15 @@
+
+Purpose
+Even though multi-rotor aircrafts are becoming more and more prevalent in the fields of aerial photography, agricultural spraying, disaster searching and rescuing, how to achieve higher reliability and robustness of an aircraft still poses a big challenge. It is not a rare case that a multi-rotor aircraft is severely damaged or crushed when an actuator or sensor is malfunctioned. This paper aims at the resilience of an aircraft when a rotor is malfunctioned.
+
+
+Design/methodology/approach
+The reliability of a multi-rotor aircraft can be measured in terms of stability, robustness, resilience and fault tolerance. All of these four aspects are taken into consideration to improve overall reliability of aircrafts. When a rotor malfunction occurs, the control algorithm is cable of adjusting the operation conditions of the rest of rotors to achieve system stability.
+
+
+Findings
+In this paper, the authors first present a research topic on the development of a resilient multi-robot aircraft. A multi-rotor aircraft usually possesses more actuated motions than the required degrees of freedom.
+
+
+Originality/value
+The authors proposed to equip the multi-rotor aircraft with malfunction detecting sensors, and they developed the self-repairing algorithm to re-stabilize the aircraft when a malfunction of a rotor occurs. The design concept and methods were implemented on an eight-rotor aircraft, and the performance of the proposed instrumentation and self-repairing algorithm have been verified and validated.

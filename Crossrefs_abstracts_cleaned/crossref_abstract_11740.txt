@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to develop a methodology for predicting the resilience of individual firms to economic crisis, using historical government data to optimize one of the most important and costly interventions that governments undertake, the huge economic stimulus programs that governments implement for mitigating the consequences of economic crises, by making them more focused on the less resilient and more vulnerable firms to the crisis, which have the highest need for government assistance and support.
+
+
+Design/methodology/approach
+The authors are leveraging existing firm-level data for economic crisis periods from government agencies having competencies/responsibilities in the domain of economy, such as Ministries of Finance and Statistical Authorities, to construct prediction models of the resilience of individual firms to the economic crisis based on firms’ characteristics (such as human resources, technology, strategies, processes and structure), using artificial intelligence (AI) techniques from the area of machine learning (ML).
+
+
+Findings
+The methodology has been applied using data from the Greek Ministry of Finance and Statistical Authority about 363 firms for the Greek economic crisis period 2009–2014 and has provided a satisfactory prediction of a measure of the resilience of individual firms to an economic crisis.
+
+
+Research limitations/implications
+The authors’ study opens up new research directions concerning the exploitation of AI/ML in government for a critical government activity/intervention of high importance that mobilizes/spends huge financial resources. The main limitation is that the abovementioned first application of the proposed methodology has been based on a rather small data set from a single national context (Greece), so it is necessary to proceed to further application of this methodology using larger data sets and different national contexts.
+
+
+Practical implications
+The proposed methodology enables government agencies responsible for the implementation of such economic stimulus programs to proceed to radical transformations of them by predicting the resilience to economic crisis of the firms applying for government assistance and then directing/focusing the scarce available financial resources to/on the ones predicted to be more vulnerable, increasing substantially the effectiveness of these programs and the economic/social value they generate.
+
+
+Originality/value
+To the best of the authors’ knowledge, this study is the first application of AI/ML in government that leverages existing data for economic crisis periods to optimize and increase the effectiveness of the largest and most important and costly economic intervention that governments repeatedly have to make: the economic stimulus programs for mitigating the consequences of economic crises.

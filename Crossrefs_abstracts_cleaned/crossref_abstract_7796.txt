@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+The purpose of this study was to evaluate psychological correlates of self-rated resilience, as assessed with the 10-item version of the Connor-Davidson Resilience Scale (CD–RISC–10), in older adults. In particular, we were interested in the degree to which self-rated resilience might be a protective factor against cognitive decline.
+
+
+Method
+In total, 100 adults aged 60–90 years who had been referred because of subjective cognitive concerns completed self-report measures of resilience, symptoms of anxiety and depression, and satisfaction with life. They also completed a test of learning and memory. Ratings about daily functioning at home and in the community were obtained from both participants and proxy informants.
+
+
+Results
+Resilience ratings correlated strongly negatively with concurrent self-rated symptoms of anxiety and depression, and strongly positively with self-rated life satisfaction. However, only informant ratings of daily functioning correlated with actual participant performance on a test of learning and memory, with lower ratings being associated with worse test performance.
+
+
+Conclusions
+Self-rated resilience, as measured by the CD–RISC–10, is primarily related to subjective well-being and does not inform sufficiently about relative risk for cognitive dysfunction in older adults.

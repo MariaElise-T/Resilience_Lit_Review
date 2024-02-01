@@ -1,0 +1,12 @@
+Abstract
+
+Background
+Resilience seemed to lie at the core of the recent promotion of positive mental health and wellbeing. This concept has been well studied in western countries and less in developing countries, particularly Nigeria. The aim of the study is therefore, to demonstrate the internal consistency and concurrent validity of the Resilience Scale (RS) and its 14-item short version (RS-14) in a Nigerian sample.
+
+
+Results
+The RS, RS-14, the Hospital Anxiety Depression Scale (HADS) and two screening questions on experience of recent and upcoming distress were administered to 70 clinical students who consented to participate after a major professional examination. Internal consistency and convergent validity were assessed. The participants mean age was 22.50 years (SD = 0.60). The mean score of RS and RS-14 were 130.23 (SD = 17.08) and 74.17 (SD = 10.14) respectively. Cronbach's alpha coefficient for the RS was 0.87 and that of the RS-14 was 0.81. The mean RS score by gender was 132.04 (SD = 19.08) and 126.52 (SD = 11.50) for males and females respectively and the difference was significant (t = 2.50; p = 0.012). The correlation of RS with RS-14 (r = 0.97; p = 0.000), the HADS depression (r = -0.28; p = 0.017) and anxiety (r = -0.26; p = 0.028) subscales, were significant. The corresponding t-test values for the means of RS and RS-14 scores for both cases and non-cases as determined by HADS, were significant at p < 0.05 and p < 0.01 for the depression and anxiety subscales respectively. The difference between RS means of those who experienced distress (38/125.69) to those that did not (32/134.05) from the recent clinical examination was also significant (t = 2.01; p = 0.045).
+
+
+Conclusions
+The study confirms that the RS and RS-14 may be potentially useful instruments to measure resilience in Nigerians.

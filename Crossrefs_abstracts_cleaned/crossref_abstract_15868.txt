@@ -1,0 +1,22 @@
+
+Introduction:
+            While living with a chronic disease can be challenging, some studies have shown that psychological resilience is associated with better outcomes. In this study, we aimed to determine the impact of resilience on well-being among adults living with chronic disease.
+          
+
+Hypothesis:
+            We hypothesized that resilient participants would have higher quality of life, life satisfaction, happiness, and less psychological distress than those with low resilience.
+          
+
+Methods:
+            Patients who received treatment for a chronic disease within Baylor Scott & White Health (Dallas, TX) and self-identified an informal caregiver, i.e., a nonpaid friend/family member who provides regular care, were eligible for this study. A phone survey was administered from February-May 2017 by the Center for Community Research and Development at Baylor University. We built linear and ordinal logistic regression models to assess the effect of psychological resilience on well-being while adjusting for sociodemographic and health covariates.
+          
+
+Results:
+            Forty-one participants completed the study. The average age was 66.5 ± 9.5 years and the most common disease was heart failure (16; 39%). Overall, participants had high resilience (median: 4 [quartile 1=3.3, quartile 3=4.7], scale: 1-5), low psychological distress (4 [2, 7], scale: 0-24), good quality of life (8 [5, 9], scale: 0-10), and high life satisfaction (5 ± 1.6, scale: 1-7). In addition, 33 (81%) respondents were pretty/very happy. The effect of resilience was significant in the expected direction in unadjusted analyses. After accounting for potential confounders, the resilience effect lost significance in the model for life satisfaction (b=0.37, p=0.195), trended toward significance for quality of life (b=0.63, p=0.117), and remained highly significant for psychological distress and happiness (b=-1.91, p=0.003, odds ratio=4.71, p=0.004, respectively).
+          
+
+Conclusion:
+            In conclusion, psychological resilience may be a resource to preserve well-being for those living with chronic disease.
+          
+
+

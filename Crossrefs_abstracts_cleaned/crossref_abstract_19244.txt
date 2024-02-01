@@ -1,0 +1,19 @@
+
+Background
+Virtual care has historically faced barriers to widespread adoption. However, the COVID-19 pandemic has necessitated the rapid adoption and expansion of virtual care technologies. Although the intense and prolonged nature of the COVID-19 pandemic has renewed people’s interest in health systems resilience, which includes how services adapt or transform in response to shocks, evidence regarding the role of virtual care technologies in health systems resilience is scarce.
+
+
+Objective
+At Toronto General Hospital in Ontario, Canada, the rapid virtualization of cardiac care began on March 9, 2020, as a response to the pandemic. The objective of this study was to understand people’s experiences with and the barriers and facilitators of the rapid virtualization and expansion of cardiac care resulting from the pandemic.
+
+
+Methods
+A single-case study was conducted with 3 embedded units of analysis. Patients, clinicians, and staff were recruited purposively from an existing mobile, phone-based telemonitoring program at a heart function clinic in Toronto, Canada. Individual, semistructured phone interviews were conducted by two researchers and transcribed verbatim. An inductive thematic analysis at the semantic level was used to analyze transcripts and develop themes.
+
+
+Results
+A total of 29 participants were interviewed, including patients (n=16), clinicians (n=9), and staff (n=4). The following five themes were identified: (1) patient safety as a catalyst for virtual care adoption; (2) piecemeal virtual care solutions; (3) confronting new roles and workloads; (4) missing pieces in virtual care; and (5) the inequity paradox. The motivation to protect patient safety and a piecemeal approach to virtual care adoption facilitated the absorptive and adaptive resilience of cardiac care during the COVID-19 pandemic. However, ad hoc changes to clinic roles and workflows, challenges in building relationships through remote methods, and widened inequities were barriers that threatened virtual care sustainment.
+
+
+Conclusions
+We contend that sustaining virtual care hinges upon transformative actions (rather than adaptive actions) that strengthen health systems so that they can face the dynamic and emergent challenges associated with COVID-19 and other shocks. Based on the barriers and facilitators we identified, we present the lessons we learned and recommend transformations for sustaining virtual care during and beyond the COVID-19 pandemic.

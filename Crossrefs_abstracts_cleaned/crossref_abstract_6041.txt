@@ -1,0 +1,15 @@
+
+Purpose
+Following the trait activation theory, this study aims to shed light on the influence of tourists’ personality traits on their value co-destruction (VCD) behavior in “revenge tourism”, considering the moderating effect of perceived risk as the environment factor.
+
+
+Design/methodology/approach
+A pilot study (n = 204) was first conducted to check the reliability of the measurement scale and remove inappropriate items. Thereafter, a convenience sampling method was used for data collection in the main survey among people (n = 330) who have at least one traveling experience after COVID-19 tourism restrictions have been terminated. Confirmatory factor analysis and structural equation modeling (SEM) were performed for data analysis to testify the theoretical framework proposed.
+
+
+Findings
+Results of SEM analysis show that both resilience and altruism of tourists reduced their VCD behavior. What’s more, perceived risk has been found to moderate the relationship between altruism and VCD behavior. As perceived risk increased, the negative impact of altruism on VCD behavior would be weaken.
+
+
+Originality/value
+VCD have been recently emphasized as a key block to the development of tourism industry. This study examines VCD behavior following the trait activation theory. Results of the study can provide new insights on how to mitigate VCD, which would contribute to the preparation for future tourism crisis management, such as the next pandemic.

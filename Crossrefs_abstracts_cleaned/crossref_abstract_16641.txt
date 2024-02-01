@@ -1,0 +1,15 @@
+Summary
+
+
+Floods and droughts are predicted to increase in intensity, duration and frequency in many future climate scenarios, yet long‐term data that track before‐and‐after responses of natural communities remain scarce. We explored the impacts of a series of extreme events, including a particularly catastrophic flood, over 13 years in the Glenfinish River in Ireland.
+
+
+Overall, seasonal cycles of absolute and relative abundance were the strongest temporal signal in the data, and the community as a whole was relatively persistent. At interannual scales, a core of c. 15 taxa were present throughout most of the time series, which spanned >10 generations for most taxa, whereas extreme events had negligible or weak effects, with two notable exceptions. The catastrophic 1986 summer flood triggered a 10‐fold decline in abundance: although most populations returned to their pre‐disturbance state in <3 years, some took up to a decade to recover. In 1988–1989, two contrasting extreme low‐rainfall and storm events occurred within a year and were associated with far more marked compositional and functional shifts than were seen in the 1986 flood, although abundance was not so strongly affected.
+
+
+Contrasting extreme events that occur close to one another in time and/or at atypical times of year (e.g. floods in summer, when base flow is low) can have particularly strong effects, whereas at other times even the most extreme events may leave little longer‐term footprint. Therefore, both the temporal context and the magnitude of events determine the biota's response.
+
+
+Effects of the events also varied across taxa and organisational levels: the more r‐selected taxa (e.g. Chironomidae) were relatively unaffected compared with the larger, more K‐selected taxa. Community‐level responses were mostly driven by shifts in relative abundances, rather than species loss or turnover, and the functional diversity of species traits was more resilient still. The apparent stability in relative abundances of functional groups in the face of significant variation at the species level is suggestive of high functional redundancy, but without exhaustive further analyses using null‐model approaches, this remains unproved. In turn, relatively high levels of redundancy and the reshuffling of species with similar traits could confer resilience in the face of all but the most extreme events.
+
+

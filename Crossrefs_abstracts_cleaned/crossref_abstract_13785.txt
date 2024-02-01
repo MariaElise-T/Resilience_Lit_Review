@@ -1,0 +1,19 @@
+
+Purpose
+Drawing on survey data from South Korean police officers, the purpose of this paper is to explore the mediation effects of coping self-efficacy and social support in the relationship between the impact of traumatic events and resilience. Additionally, the moderation effects were assessed to examine how this relationship varies by the state of police officers’ mental health.
+
+
+Design/methodology/approach
+Both multiple mediation and multiple group models within the structural equation modeling framework were adopted to assess the proposed mediating and moderating effects.
+
+
+Findings
+Traumatic events affect resilience not just directly but also indirectly through mediating factors such as coping self-efficacy and social support. These patterns are more pronounced in the high-risk mental health group than in the normal group.
+
+
+Practical implications
+If exposure to traumatic events were an unavoidable aspect of police work, helping officers build resilience as a general capacity to overcome stressful situations would be an effective strategy to prevent many negative consequences associated with the traumatic events. This study examined specific causal mechanisms linking the impact of traumatic events to resilience to better understand the process of developing resilience among police officers.
+
+
+Originality/value
+Instead of further examining the relationship between impact of traumatic events and other physical and mental outcomes, this study attempted to expand the current literature by identifying important mediating and moderating mechanisms that reduce the negative influences of traumatic events on resilience.

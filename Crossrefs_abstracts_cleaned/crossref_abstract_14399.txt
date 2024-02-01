@@ -1,0 +1,15 @@
+Abstract
+Background
+Stress resistance resources, such as social support and resilience, have been found to be important in promoting psychological well-being during the COVID-19 pandemic. However, most prior research studies have conceptualized stress resistance resource variables as having a mediating or moderating role. Cooper (2018) proposed a model of the relationship between stress and health which posits that coping resources are always present and not only invoked in the face of adversity. Thus, we hypothesize that coping resources are causally antecedent to stressors and influence well-being indirectly via the stressor. We focused specifically on school teachers due to them being at the frontlines of service provision during the pandemic. Teaching was already identified as a highly stressful profession prior to COVID-19 and disease containment measures placed additional strain on teachers who had to adapt to emergency remote teaching.
+
+Aim
+The current study tests this hypothesis by examining the indirect effects of resilience on indices of psychological health via role stress.
+
+Methods
+Participants (N = 355) were teachers who completed the Connor-Davidson Resilience Scale-10, the Role Stress Scale, the Satisfaction with Life Scale, the State-Trait Anxiety Inventory-Trait Scale, and the Center for Epidemiological Studies Depression Scale. An electronic version of the questionnaires was distributed to teachers via Facebook and to officials from the Department of Education, who assisted with distribution of the electronic link to the survey. Participants were mostly women (76.6%) and mean number of years in the teaching profession was 15.7.
+
+Results
+Structural equation modelling results demonstrated significant direct effects of resilience on life satisfaction, anxiety, and depression, which indicates that resilience is beneficial for psychological health even in the absence of stress. Resilience also had a significant indirect effect on indices of psychological well-being via role ambiguity but not role conflict.
+
+Conclusion
+These findings have theoretical implications for the understanding of the role of resilience in promoting psychological health among educators. Practical implications include an empirical contribution to education policy and information that can inform interventions aimed to promote resilience among educators.

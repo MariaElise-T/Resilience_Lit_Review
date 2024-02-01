@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Stable, trait-like inter-individual resilience to sleep loss has been demonstrated for psychomotor vigilance, mood, subjective sleepiness, and some reasoning tasks, some of which have been associated with specific genetic or neurobiological markers. Resilience to executive control deficits induced by sleep deprivation (SD) has not been explored in terms of neurobiological markers. We, therefore, collected magnetic resonance imaging (MRI) scans of healthy individuals when well rested and correlated gray matter volume with resistance to inhibitory declines during 29 hours of SD.
+
+
+Methods
+Forty-five healthy individuals (22 female) ranging in age from 20 to 43 underwent structural MRI. Within 2-4 days after scanning, participants returned to the lab to undergo one night of SD, during which they completed a standard go/no-go task involving inhibitory processing every 4 hours. Scores were calculated as throughput (correct responses per working minute). The difference between performance in the evening (22:45) versus the performance the next morning (06:45) was calculated as an index of “inhibitory resilience.” Gray matter volume was regressed against the inhibitory resilience measure. Based on prior research, regions were constrained to the ventrolateral prefrontal cortex and ventromedial prefrontal cortex.
+
+
+Results
+Greater resilience against declines in inhibitory capacity during SD was predicted by 1) larger gray matter volume within the ventrolateral prefrontal cortex and 2) reduced volume within the ventromedial prefrontal cortex (p&lt;.05, FWE cluster corrected). These two clusters contributed significant unique explanatory variance to the model (R2=.45, p&lt;.0001).
+
+
+Conclusion
+The ability to sustain performance during an inhibitory go/no-go task during SD was predicted by greater gray matter volume within the ventrolateral prefrontal cortex, a region that has been previously associated with inhibitory capacity, and reduced volume within an area of the ventromedial prefrontal cortex, which is often related to the default mode network. Findings suggest that specific brain networks may confer task-specific resistance to SD.
+
+
+Support
+Defense Advanced Research Projects Agency, DARPA Young Faculty Award: DARPA-12-12-11-YFA-FP-029

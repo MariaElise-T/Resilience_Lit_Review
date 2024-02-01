@@ -1,0 +1,22 @@
+
+Abstract:
+Psycho-biological resilience is considered one of the most important factors in the epigenetics
+of aging. Cell senescence exhibits a series of possible biochemical derangements concerning
+mitochondria, proteasome, genome and membranes. Research has shown that resilience can be
+acquired through hormesis, a set of conservative and adaptive processes based on biphasic doseresponse
+to specific mild stressors, such as fasting, intake of polyphenols, exercising, physical and
+chemical stress and mental engagement. These stimuli were shown to elicit beneficial cellular metabolic
+pathways, such as sirtuin activation, mechanistic target of rapamycin and insulin growth factor-
+1 downregulation, nuclear related factor 2 upregulation and autophagy. The complex of these
+resilience-building processes plays a documented role in longevity. Mitochondria are regarded as
+one of the core actors of aging processes and represent the main target of hormetic approaches
+[mitohormesis]; furthermore, the influence of the mind on mitochondria, and thus on the balance of
+health and disease has been recently established, leading to the so-called mitochondria psychobiology.
+Hence, psychologic and physical stress that reflects on these organelles may be regarded as a
+relevant factor in cell senescence, and thus the proposed “mitoresilience“ denomination may be
+pertinent within the biomedical science of aging. Finally, the quantification of individual resilience
+is becoming increasingly important in aging science, and the investigation of the autonomic nervous
+system through heart rate variability (HRV) proved to be a valid method to quantify this parameter.
+In conclusion, an integrated approach targeting hormetic pathways to improve psychophysical
+resilience (namely mitoresilience), supported by the monitoring of HRV, may represent a
+valuable option in longevity medicine.

@@ -1,0 +1,20 @@
+Abstract
+
+Background
+
+There is evidence of a high prevalence of depression and anxiety in university students. Therefore, college time is a key period where prevention of mental disorders through interventions that promote resilience and mental health can be relevant. Currently, there are interventions available, but these are insufficient for those who need them. Online interventions are tools that can facilitate global accessibility and are easy for young people to use. CORE (Cultivating Our Resilience) is a self-administered online program, based on Ryff’s psychological well-being model, to promote resilience and coping skills in university students at risk of developing symptoms of depression or anxiety. The objective is to evaluate the effectiveness of this intervention protocol in comparison with an active control condition targeting healthy lifestyle, and a waiting list control condition. The study will be conducted in four populations of Spanish-speaking university students (Spain, Argentina, Colombia, and Mexico).
+
+
+Methods
+
+The study design is a randomized controlled trial (RCT). At least 324 university students will be randomly assigned to three conditions: 1) CORE, a 6-week training program to improve resilience; 2) HLP, a 6-week training to promote a healthy lifestyle; and 3) WL, waiting list control condition. The primary outcome measure will be the Connor-Davidson resilience scale. Additionally, measures of anxiety, depression, quality of life and socio-demographic variables (age, sex, incomes, marital status, among others) will be collected. Participants will be evaluated at pre-treatment, after each module, 6 weeks after allocation, and at 3-month follow-up. Intention-to-treat and per-protocol analyses will be performed.
+
+
+Discussion
+
+The results of this study will contribute to research on Internet-administered interventions and the implementation of a protocol that includes a series of components designed to improve resilience and coping skills, increase psychological well-being, and prevent depression and anxiety disorders in Spanish-speaking university students. In addition, avenues will be opened up for new research on the effectiveness of these interventions focused on the prevention and promotion of mental health in Spanish-speaking countries.
+
+
+Trial registration
+
+Registered at ClinicalTrials.gov NCT03903978 on April 2, 2019.

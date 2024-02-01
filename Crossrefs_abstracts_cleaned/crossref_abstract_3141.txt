@@ -1,0 +1,19 @@
+
+Purpose
+This paper aims to present the concepts of two different ways of generating a dynamic structure of the urban system to further allow in understanding specific urban behavior facing against flood and further evaluate the potential effect of specific resilience strategies aiming to decrease the exposure and vulnerability of the system.
+
+
+Design/methodology/approach
+Two system dynamics model structures are presented in form of Casual Loop Diagrams.
+
+
+Findings
+The main differences among the tow approaches are the time horizon and the approach that regulates the assessment of the resilience through a dynamic composite indicator: the first model refers to baseline at initial simulation time; the second model is focused on the ratio service supply to demand.
+
+
+Research limitations/implications
+Within the approach, the purpose is to properly and efficiently evaluate the effect of different Flood Risk Management strategies, i.e. prevention, defence, mitigation, preparation and recovery for consistent and resilient flood governance plans with different type of resilience scenarios.
+
+
+Originality/value
+The need for such tool is underlined by a lack on the assessment of urban resilience to flood as whole, considering the physical and social dimensions and the complex interaction among their main components. There are several assessment tools based on an indicator approach that have been proposed to meet this need. Nevertheless, indicator-based approach has the limitation to exclude the complexity of the system and its systemic interaction in terms of feedbacks’ effects among the identified components or variables selected for the system description. This peculiarity can be provided by System Dynamics modeling.

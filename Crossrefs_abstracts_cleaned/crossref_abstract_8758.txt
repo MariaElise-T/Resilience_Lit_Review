@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Poverty has adverse effects on child health. While children in poverty face greater health challenges, some still achieve positive health outcomes. This is in part due to their resilience when facing adversity. Identifying the factors that foster child resilience can aid in developing strategies to promote child resilience and reduce the harmful effects of child poverty. This study aims to identify the biological and social factors of resilience among children in poverty from birth to age 12.
+
+
+Methods
+Data for the analysis came from the Taiwan Birth Cohort Study, a nationally representative sample of 17,354 children who completed six waves of interview surveys between 2005 and 2017. Our sample included 4,570 children who experienced poverty from birth to age 12. The primary outcome variable was child resilience, defined as impoverished children who maintained good health outcomes over the 12-year survey period. Multiple logistic regression was used to examine the factors of child resilience.
+
+
+Results
+Of the 4,570 children, 36.1% always had good health despite experiencing poverty before the age of 12. An easy temperament (OR = 2.5, 95% CI: 1.9-3.0), female (OR = 1.1, 95% CI: 1.0-1.3), a birth weight greater than 2,500 grams (OR = 1.6, 95% CI: 1.2-2.1), having a foreign-born mother (OR = 1.5, 95% CI: 1.2-1.7), receiving breast milk after birth (OR = 1.3, 95% CI: 1.1-1.5), and good parent-child interaction at 3 years of age (OR = 1.4, 95% CI: 1.2-1.7) were associated with child resilience. Early parent-child interactions can moderate the effect of children's birth weight on later resilience.
+
+
+Conclusions
+Our findings indicated the factors associated with child resilience in the context of poverty, suggesting that supporting breastfeeding and nurturing parent-child relationships are effective public health actions to foster child resilience. Future research is needed to unravel the underlying mechanisms of biological factors associated with child resilience.
+
+
+Key messages
+Breastfeeding after birth and high-quality parent-child interaction can lead to positive adaptations to child poverty. Children with difficult temperaments, boys and those born at low birthweight are more vulnerable to poverty and should be targeted for building resilience against poverty.

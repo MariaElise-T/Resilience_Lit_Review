@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Parasitic infections challenge vertebrate health worldwide, and off-target effects of antiparasitic treatments may be an additional obstacle to recovery. However, there have been few investigations of the effects of antiparasitics on the gut microbiome in the absence of parasites.
+
+
+Methods
+We investigated whether two common antiparasitics—albendazole (ALB) and metronidazole (MTZ)—significantly alter the gut microbiome of parasite-free mice. We treated mice with ALB or MTZ daily for 7 days and sampled the fecal microbiota immediately before and after treatment and again after a two-week recovery period.
+
+
+Results
+ALB did not immediately change the gut microbiota, while MTZ decreased microbial richness by 8.5% and significantly changed community structure during treatment. The structural changes caused by MTZ included depletion of the beneficial family Lachnospiraceae, and predictive metagenomic analysis revealed that these losses likely depressed microbiome metabolic function. Separately, we compared the fecal microbiotas of treatment groups after recovery, and there were minor differences in community structure between the ALB, MTZ, and sham-treated control groups.
+
+
+Conclusions
+These results suggest that a healthy microbiome is resilient after MTZ-induced depletions of beneficial gut microbes, and ALB may cause slight, latent shifts in the microbiota but does not deplete healthy gut microbiota diversity.

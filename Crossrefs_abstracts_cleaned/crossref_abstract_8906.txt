@@ -1,0 +1,27 @@
+
+Background
+Globally, nurses are facing increased pressure to provide high-quality complex patient care within environments with scarce resources in terms of staffing, infrastructure, or financial reward. The strain and demand on the psychological health and well-being of nurses during COVID-19 has been substantial, with many experiencing burnout; as such, interventions to enhance resilience within the workplace are required. A face-to-face resilience enhancement training program for nurses that was effective in improving resilience levels was translated into a 4-week online training program, Resilience Enhancement Online Training for Nurses (REsOluTioN), to enable greater accessibility for nurses.
+
+
+Objective
+This study aims to compare levels of resilience, psychological health, and well-being in nurses before and after the online resilience training compared to a wait list control group. It will also explore participants’ engagement with the trial and their acceptability of the online training.
+
+
+Methods
+This is a two-arm, parallel, randomized controlled trial with a 6-week follow-up period. Up to 100 registered nonagency nurses working at a National Health Service hospital trust in South England will be recruited. Four cohorts will run, and participants will be randomized into a wait list control group or to REsOluTioN. Pre- and postonline surveys will collect study outcome measure data. In the REsOluTioN arm, data will be collected on the perceived usefulness of the online training via an online survey. Institutional and health research authority approvals have been obtained.
+
+
+Results
+REsOluTioN will aim to empower nurses to maintain and enhance their resilience while working under challenging clinical conditions. The online training will be interactive with input from mentors, health care leaders, and peers to promote engagement and enhanced communication, and will create a forum where nurses can express their views and concerns, without hierarchical infrastructures inhibiting them. This can increase self-knowledge and learning around workplace resilience coping strategies and provide a safe space to validate feelings through mentorship and peer support. Findings will be reported in accordance with the CONSORT (Consolidated Standards of Reporting Trials) guidelines. The trial is now finished and was conducted between August 2021 and May 2022.
+
+
+Conclusions
+The REsOluTioN trial will enable preliminary data to be gathered to indicate the online training’s effectiveness in enhancing nurses’ resilience in the workplace, with the potential for larger scale follow-up studies to identify its value to nurses working across a range of health care settings.
+
+
+Trial Registration
+ClinicalTrials.gov NCT05074563; https://clinicaltrials.gov/ct2/show/NCT05074563
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/37015

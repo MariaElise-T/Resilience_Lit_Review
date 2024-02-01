@@ -1,0 +1,15 @@
+
+Purpose
+Resilient higher education institutions can endure, develop and compete in the face of ambiguous, challenging and pandemic situations. In a world of digital transformation, organizational resilience is crucial. Prior research has paid less attention to achieving organizational resilience. This study aims to use the digital capability theory to address this research gap and determine adaptive culture’s direct and indirect influence on organizational resilience. The impact of adaptive culture on organizational resilience is being investigated via the underlying mechanism of digital transformation.
+
+
+Design/methodology/approach
+The data was gathered using a cross-sectional, self-administered questionnaire with convenience sampling techniques from higher educational institutions in South Asia’s context. The direct and indirect effects were analyzed using SEM from 294 teaching faculty members.
+
+
+Findings
+The findings show a significant positive association between the study’s constructs. The association between adaptive culture and organizational resilience was partially mediated by digital transformation. The findings provide important insights for policymakers, academics and higher education institutions in developing adaptable cultures to achieve organizational resilience, primarily through digital transformation.
+
+
+Originality/value
+Few research studies have investigated a direct relationship among the constructs of the study to the best of the authors’ knowledge. It is the first study to investigate the role of digital transformation as the underlying mechanism between adaptive culture and organizational resilience. Theoretical contributions, practical implications and future research directions have all been presented.

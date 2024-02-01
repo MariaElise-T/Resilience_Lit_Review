@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Trait-like individual differences in neurobehavioral responses to sleep restriction (SR) and total sleep deprivation (TSD) are robust and phenotypic. We investigated whether the concordance between multiple approaches for defining differential vulnerability depends on the methods and metrics utilized for categorization, including comparisons between objective and self-rated metrics. Trait-like individual differences in neurobehavioral responses to sleep restriction (SR) and total sleep deprivation (TSD) are robust and phenotypic. We investigated whether the concordance between multiple approaches for defining differential vulnerability depends on the methods and metrics utilized for categorization, including comparisons between objective and self-rated metrics.
+
+
+Methods
+Forty-one adults (33.9±8.9y; 18 females) participated in a 13-day experiment (two baseline nights [10h-12h time-in-bed, TIB], 5 SR nights [4h TIB], 4 recovery nights [12h TIB], and 36h TSD). The 10-minute Psychomotor Vigilance Test (PVT), Digit Symbol Substitution Test (DSST), Digit Span Task (DS), Karolinska Sleepiness Scale (KSS), Profile of Mood States Fatigue (POMS-F) and Vigor (POMS-V) were administered every 2h during wakefulness. Three approaches (Raw Score [average SR score], Change from Baseline [average SR minus average baseline score], and Variance [intraindividual SR score variance]), and six thresholds (±1 standard deviation, and the best and worst performing 12.5%, 20%, 25%, 33%, and 50%) categorized Resilient and Vulnerable groups. Kendall’s tau-b correlations assessed the group categorization’s concordance between pairings of PVT lapses (reaction time [RT]&gt;500ms), PVT mean response speed (1/RT), DSST number correct, DS total number correct, KSS score, POMS-F score, and POMS-V score (tau-b=0.0: zero; 0.1: weak; 0.4: moderate; 0.70: strong; 1.0: perfect).
+
+
+Results
+Generally, tau-b correlations comparing Resilient and Vulnerable categorizations between two objective metrics (i.e., PVT, DSST, DS) revealed weak to moderate significant relationships (tau-b=0.29-0.53, p&lt;0.001-0.049) between at least two of the approaches at most thresholds. However, comparisons between one objective (i.e., PVT, DSST, DS) and one self-rated metric (i.e., KSS, POMS) revealed a general lack of significant relationships (tau-b=-0.25-0.28, p=0.052-1.00), regardless of approach or threshold.
+
+
+Conclusion
+Comparisons between two objective metrics revealed significantly concordant Resilient and Vulnerable categorizations, whereas categorizations were generally not significantly correlated between one objective and one subjective metric, regardless of the method utilized. Our findings support and extend previous assertions that SR differentially impacts objective and subjective neurobehavioral domains and have important implications when assessing resilience and vulnerability to sleep loss in both laboratory and applied settings.
+
+
+Support (If Any)
+ONR Award No. N00014-11-1-0361; NIH UL1TR000003; NASA NNX14AN49G and 80NSSC20K0243; NIH R01DK117488

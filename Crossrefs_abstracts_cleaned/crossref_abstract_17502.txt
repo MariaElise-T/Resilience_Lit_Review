@@ -1,0 +1,19 @@
+
+Purpose
+In recent years, the COVID-19 pandemic has become one of the most impactful disruptions which has imposed high levels of uncertainty on supply chains around the world. Supply chain integration (SCI) is highly recommended as an underlying mechanism that can facilitate the development of resilience and robustness as two dynamic capabilities. They can in turn positively influence firm performance and success during the disruptive conditions of COVID-19 era. The study aims to examine whether SCI as an enabler of resilience and robustness can improve firm performance during COVID-19 pandemic.
+
+
+Design/methodology/approach
+A theoretical model is developed to elaborate the relationship between SCI dimensions, resilience and robustness and firm’s operational and financial performance during the COVID-19 pandemic. A survey method is then used to empirically examine the model using a sample of 94 companies in the food industry in the province of Tehran, Iran, during the COVID-19 pandemic. This study makes several contributions. It provides a novel theoretical model on the relationship between SCI, resilience and robustness and firm performance and tests this model in a less-studied yet critical context (i.e. Iranian food industry) and during a disruptive era (i.e. COVID-19 pandemic).
+
+
+Findings
+The results support the positive effect of three SCI dimensions of internal, product and process integration on operational and financial performance during corona virus pandemic. Furthermore, internal and process integration have positive effects on resilience. Internal, product and process integration have positive effects on robustness. In addition, resilience mediates the effects of internal and product integration on both operational and financial performance, whereas robustness mediates the effect of internal and product integration on financial performance.
+
+
+Research limitations/implications
+This study was conducted in the Province of Tehran. To test and generalize the results, it is recommended to conduct this study in other places and countries.
+
+
+Originality/value
+These results highlight the importance of SCI dimensions as vital enablers of resilience and robustness and their consequent impact on firm’s performance during the COVID-19 pandemic.

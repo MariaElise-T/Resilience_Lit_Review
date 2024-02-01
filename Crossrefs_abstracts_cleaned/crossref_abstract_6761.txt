@@ -1,0 +1,19 @@
+
+Background:
+The COVID-19 pandemic and the ensuing economic recession hurt people's mental health.
+
+
+Aim:
+To study the stress, resilience, and coping between COVID-19 patients and non-COVID people.
+
+
+Materials and Methods:
+A sample of 188 individuals including COVID-positive and negative were selected by snowball sampling method from the Pune area. All the subjects belong to the age group between 20 and 25 years. The variables are studied by using three tools. The tools used were the Student Stress Inventory, Resilience Scale, and Coping Response Inventory. The data obtained was analyzed using a statistical t-test for comparison and one one-way ANOVA test for gender differences on SPSS software.
+
+
+Results:
+The results showed that there is a significant difference found in stress (t = −3.269) at 0.01 level but no difference found in resilience (t = −0.525), approach coping (t = −1.084), and avoidance coping (t = −1.473) between COVID and non-COVID subjects.
+
+
+Conclusion:
+Patients with COVID had higher stress levels than those without the disease. In terms of resilience, approach, and avoidant coping, there were no significant differences between COVID and non-COVID subjects.

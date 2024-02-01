@@ -1,0 +1,4 @@
+AbstractThe ability of a seaport to maximize its security and resilience depends on the availability of the right information at the right time for the right stakeholder. The multiplicity of stakeholders in a seaport, including terminal operators, federal agencies, state
+ agencies, and local law enforcement authorities, often results in fragmented information flows that do not allow for a systemic response to natural disasters, malicious attacks, or accidents. This challenge can be mitigated by shifting more towards a cognitive seaport that adapts its behavior
+ based on past experience and is able to sense, understand, and respond to changes in its environment. In this paper, we propose the Cognitive Process Architecture Framework, which allows seaport stakeholders to sense changes/events, perceive operational scenarios, choose response alternatives
+ based on tradeoffs, and monitor the implementation of the responses.

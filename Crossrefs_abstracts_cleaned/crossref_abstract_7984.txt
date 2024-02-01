@@ -1,0 +1,11 @@
+
+Purpose of review
+Resilience is an adaptation process presented by an individual despite facing adversities. Epigenetic changes, such as histone acetylation/methylation and DNA methylation, have been demonstrated to mediate stress response. In this review, we summarize recent findings on epigenetic mechanisms contributing to stress resilience.
+
+
+Recent findings
+: Epigenetic modifications of genes involved in synaptic plasticity, endocrine, immune, and vascular systems are linked to resilience. For instance, increased DNA methylation of the nonneuronal growth factor Gdnf in specific brain regions promotes stress resilience. Additionally, high DNA methylation at the glucocorticoid receptor gene was associated with resilience in both rodents and humans. At the immune level, chronic stress induces increased DNA methylation at IL6 gene, a mediator of stress vulnerability. Moreover, epigenetic adaptations of the blood--brain barrier have been recently associated with stress resilience, which could lead to innovative therapeutic approaches to treat depression.
+
+
+Summary
+Identification of both central and peripheral epigenetic changes promoting stress resilience represent promising novel targets in the development of preventive and personalized medicine. Nevertheless, more research is needed to establish sex specific differences and to identify novel epigenetic mechanisms, such as serotonylation and dopaminylation, that hold great promises for the field of psychiatry.

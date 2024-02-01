@@ -1,0 +1,15 @@
+
+Purpose
+This study aims to focus on the impact of COVID-19 on the Spanish wine sector and the financial resilience of Spanish wineries in the period 2019–2020.
+
+
+Design/methodology/approach
+The data set contains 355 limited companies of the Spanish wine sector which were active in the period 2019–2020. The explanatory variables used are size and age of the company, exports, subsidies and gender distribution in the workforce. The financial statements of the companies are treated as compositional data, using log-ratios for asset structure, leverage, margin, turnover and debt maturity. The first-difference estimator is used for the panel-data model relating the differences in the log-ratios between 2020 and 2019 to the explanatory variables.
+
+
+Findings
+In average terms, margin and turnover have significantly worsened between 2019 and 2020, while debt maturity has increased. A larger firm size, a greater age, a higher share of women in the workforce and subsidies have made wineries more resilient between 2019 and 2020.
+
+
+Originality/value
+To the best of the authors’ knowledge, this is the first financial statement analysis of the impact of COVID-19 in the winery sector.

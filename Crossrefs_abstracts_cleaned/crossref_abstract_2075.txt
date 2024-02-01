@@ -1,0 +1,24 @@
+Abstract
+
+Introduction
+Mindfulness is a promising intervention for female sexual dysfunction (FSD); however, of the mindfulness interventions studied, few treat the woman and her partner.
+
+
+Aim
+We developed a brief online mindfulness, resilience, and psychoeducation intervention, Stress Management and Resiliency Training for Sexuality (Sex SMART), for women with sexual health concerns and their partners.
+
+
+Methods
+Women with female sexual interest/arousal disorder and their partners were recruited between February 24, 2015, and October 6, 2016, and randomized to treatment or control groups (received educational pamphlets). The treatment intervention comprised of an online SMART and sexual health psychoeducation module.
+
+
+Main Outcome Measures
+The Female Sexual Function Index (FSFI), Female Sexual Distress Scale-Revised (FSDS-R), Sexual Desire Inventory-2 (SDI-2), Revised Dyadic Adjustment Scale (RDAS), International Index of Erectile Function (IIEF), and other subjective measures were used to assess sexual function and sexual distress at baseline and 12 weeks.
+
+
+Results
+The study included 60 women and their partners (30 couples in each group). In both groups, sexual function by total FSFI scores and sexual distress scores significantly improved at 12 weeks compared with baseline, with no significant between-group differences (FSFI effect estimate for Sex SMART vs control = +1.4 (90% CI [–0.6 to +3.4]; P=.13). Both participants and partners randomized to the intervention reported significantly improved attitude and feelings, comfort as a sexual person, and subjective sexual functioning at 12 weeks. The findings provide preliminary evidence for efficacy of an online intervention for couples with sexual health problems.
+
+
+Conclusions
+A brief online mindfulness, resilience, and psychoeducation–based intervention showed no significant improvement in many outcomes (FSFI, FSDS-R, SDI-2, RDAS) of sexual health versus controls. Although this is the first online randomized controlled trial to evaluate a mindfulness-based therapy intervention, it was limited by its lack of population diversity and high attrition rate. Significant improvements in subjective sexual health and partner sexual function by the International Index of Erectile Function were reported only in the intervention group.

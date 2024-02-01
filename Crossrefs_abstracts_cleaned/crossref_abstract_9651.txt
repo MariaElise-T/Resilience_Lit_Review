@@ -1,0 +1,12 @@
+Abstract
+Background
+The resilience construct is considered a personal trait composed of multiple aspects. Connor–Davidson Resilience Scale is a standard tool composed of five factors and 25 items. This study aimed to determine the psychometric properties of this scale.
+
+Methods
+In this cross-sectional study, after the scale translation, the factorial structural validity was assessed via the confirmatory factor analysis with 70 180 samples. Internal consistency, composite reliability, convergent validity were assessed by calculating Cronbach’s alpha, composite reliability, maximum reliability, and Average Variance Extracted. The discriminant validity was assessed using Heterotrait-monotrait ratio of correlations matrix and also, measure invariance was evaluated.
+
+Results
+The original five-factor model had good model fit indices but due to low factor loading of item 2 and 20, the model was modified. The Cronbach’s alpha and composite reliability for four factors were above 0.7 (except for factor 5). The convergent validity for all five factors were achieved. Between factors 1 with 2 and 4, 2 with 3 and 4 discriminant validity was not established (correlations > 0.9) and the results suggested that there might be a second-order latent construct behind these factors. Therefore, a second-order assessment was performed. The results of the second-order latent construct assessment showed a good goodness-of fit and strong measurement invariance for both men and women.
+
+Conclusion
+The 23-item version of Connor-Davidson Resilience Scale is a reliable and valid scale to measure resilience as a complex construct in the Iran context.

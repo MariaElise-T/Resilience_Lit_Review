@@ -1,0 +1,12 @@
+Abstract
+Background
+Previous studies suggested that childhood maltreatment is associated with poor health outcomes. While not everyone who experiences abuse as a child goes on to experience poor mental health, some traumatized people are grown to be more resilient than others. Few studies have examined the association between childhood maltreatment and adult resilience. This study aimed to determine different relationships between specific types and features of childhood maltreatment with adult resilience among Chinese with Major Depressive Disorder (MDD) and healthy controls (HCs).
+
+Methods
+A total of 101 patients with MDD and 116 participants in the healthy control (HC) group from Zhumadian Psychiatric Hospital and its nearby communities were included in this analysis. Childhood maltreatment was assessed retrospectively using Childhood Trauma Questionnaire (CTQ). Adults’ resilience was assessed by the Connor-Davidson Resilience Scale (CD-RISC). Generalized linear models were applied between childhood maltreatment (specific types and features) and resilience adjusting for covariates.
+
+Results
+The total score of CD-RISC and factor scores of strength, optimism, and tenacity in the HC group were higher than those in the MDD group. CTQ total score had a negative association with optimism score among participants in MDD (β=-0.087, P < 0.001) and HC (β=-0.074, P = 0.023) groups. Higher emotional neglect (EN) score (β=-0.169, P = 0.001) and physical neglect (PN) score (β=-0.153, P = 0.043) were related to a worse optimism score in MDD group. Emotional abuse (EA) score was associated with a worse tenacity score (β=-0.674, P = 0.031) in MDD group. For participants in HC group, higher EN and PN scores were related to worse resilience scores (tenacity, strength, and optimism).
+
+Conclusions
+Patients with MDD showed lower optimism than HCs. Childhood maltreatment, especially childhood negect, independently contributed to optimism, with more severe childhood maltreatment predictive of worse performance of optimism. EA in childhood was also linked to worse tenacity in adult patients with MDD.

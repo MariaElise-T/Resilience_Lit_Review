@@ -1,0 +1,12 @@
+Abstract
+Background
+The term resilience is used to refer to multiple related phenomena, including: (i) characteristics that promote adaptation to stressful circumstances, (ii) withstanding stress, and (iii) bouncing back quickly. There is little evidence to understand how these components of resilience are related to one another. Skills-based adaptive characteristics that can respond to training (as opposed to personality traits) have been proposed to include living authentically, finding work that aligns with purpose and values, maintaining perspective in the face of adversity, managing stress, interacting cooperatively, staying healthy, and building supportive networks. While these characteristics can be measured at a single time-point, observing responses to stress (withstanding and bouncing back) require multiple, longitudinal observations. This study’s aim is to determine the relationship between these three aspects of resilience in hospital workers during the prolonged, severe stress of the COVID-19 pandemic.
+
+Methods
+We conducted a longitudinal survey of a cohort of 538 hospital workers at seven time-points between the fall of 2020 and the spring of 2022. The survey included a baseline measurement of skills-based adaptive characteristics and repeated measures of adverse outcomes (burnout, psychological distress, and posttraumatic symptoms). Mixed effects linear regression assessed the relationship between baseline adaptive characteristics and the subsequent course of adverse outcomes.
+
+Results
+The results showed significant main effects of adaptive characteristics and of time on each adverse outcome (all p < .001). The size of the effect of adaptive characteristics on outcomes was clinically significant. There was no significant relationship between adaptive characteristics and the rate of change of adverse outcomes over time (i.e., no contribution of these characteristics to bouncing back).
+
+Conclusions
+We conclude that training aimed at improving adaptive skills may help individuals to withstand prolonged, extreme occupational stress. However, the speed of recovery from the effects of stress depends on other factors, which may be organizational or environmental.

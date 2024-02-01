@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+To characterize social cognition, language, and social behavior as potentially shared vulnerability markers in children at familial high-risk of schizophrenia (FHR-SZ) and bipolar disorder (FHR-BP).
+
+
+Methods
+The Danish High-Risk and Resilience Study VIA7 is a multisite population-based cohort of 522 7-year-old children extracted from the Danish registries. The population-based controls were matched to the FHR-SZ children on age, sex, and municipality. The FHR-BP group followed same inclusion criteria. Data were collected blinded to familial high-risk status. Outcomes were social cognition, language, and social behavior.
+
+
+Results
+The analysis included 202 FHR-SZ children (girls: 46%), 120 FHR-BP children (girls: 46.7%), and 200 controls (girls: 46.5%). FHR-SZ children displayed significant deficits in language (receptive: d = −0.27, P = .006; pragmatic: d = −0.51, P < .001), social responsiveness (d = −0.54, P < .001), and adaptive social functioning (d = −0.47, P < .001) compared to controls after Bonferroni correction. Compared to FHR-BP children, FHR-SZ children performed significantly poorer on adaptive social functioning (d = −0.29, P = .007) after Bonferroni correction. FHR-BP and FHR-SZ children showed no significant social cognitive impairments compared to controls after Bonferroni correction.
+
+
+Conclusion
+Language, social responsiveness, and adaptive social functioning deficits seem associated with FHR-SZ but not FHR-BP in this developmental phase. The pattern of results suggests adaptive social functioning impairments may not be shared between FHR-BP and FHR-SZ in this developmental phase and thus not reflective of the shared risk factors for schizophrenia and bipolar disorder.

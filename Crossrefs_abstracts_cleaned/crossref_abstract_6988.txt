@@ -1,0 +1,12 @@
+Abstract
+Introduction
+Primary care-based interventions that promote nurturing caregiving relationships and early relational health may help mitigate toxic stress and promote resilience in children. This pilot study aims to: (1) describe a novel group-based, psychoeducational primary care intervention for children experiencing adverse childhood experiences (ACEs) (“The Resiliency Clinic”), (2) assess program feasibility and acceptability, and (3) explore effects on child/caregiver behavioral health.
+
+Methods
+Intervention design centered on promoting supportive caregiving, caregiver/child self-regulation and co-regulation and teaching evidence-based stress management tools. Program feasibility and acceptability were assessed through attendance data and caregiver focus groups. Behavioral health measures were obtained at baseline and 8-month follow-up.
+
+Results
+Of 101 eligible families, 38 (37.6%) enrolled and attended a median of 3.00 (mean = 2.95, sd = 1.75) out of 6 sessions. Caregivers reported high satisfaction and benefits including stress management tools and connection with staff and other parents. There were modest, statistically non-significant improvements in caregiver stress (d = 0.23) and child executive functioning (d = 0.27).
+
+Discussion
+In conclusion, a group intervention teaching supportive caregiving and stress mitigation is feasible and acceptable for many families in an urban federally qualified health center (FQHC) with a signal for modest improvements in behavioral health. Future program iterations will seek to address participation barriers and expand the intervention’s capacity to promote early relational health.

@@ -1,0 +1,15 @@
+Summary
+
+
+Managers are increasingly looking to apply concepts of resilience to better anticipate and understand conservation and restoration in a changing environment.
+
+
+In this study, we explore how information on demography (recruitment, growth and survival) and competitive effects in different environments and with different starting species abundances can be used to better understand resilience. We use observational and experimental data to better understand dynamics between native Stipa pulchra and exotic Avena barbata and fatua, grasses characteristic of native and invaded grasslands in California, at three different levels of nitrogen (N) representative of a range of pollution via atmospheric deposition. A modelling framework that incorporates this information on demography and competition allows us to forecast dynamics over time.
+
+
+Our results showed that resilience of native grasslands depends on N inputs, where natural recovery should be possible at low N levels whereas native persistence would be difficult at high N levels. Hysteresis was evident at moderate N levels, where the starting conditions mattered.
+
+
+Synthesis and applications. The resilience of both invaded and native grasslands is influenced by nitrogen inputs. Our modelling approach gives direction about how best to allocate limited management resources as baselines shift: where natural recovery is possible, where best to allocate active restoration efforts, and where native remnants may be most vulnerable.
+
+

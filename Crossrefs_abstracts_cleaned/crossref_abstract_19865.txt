@@ -1,0 +1,19 @@
+
+Background
+Military members (MMs) and public safety personnel (PSP) are vulnerable to occupational stress injuries because of their job demands. When MMs and PSP transition out of these professions, they may continue to experience mental health challenges. The development and implementation of resilience-building mobile health (mHealth) apps as an emergent mental health intervention platform has allowed for targeted, cost-effective, and easily accessible treatment when in-person therapy may be limited or unavailable. However, current mHealth app development is not regulated, and often lacks both clear evidence-based research and the input of health care professionals.
+
+
+Objective
+This study aims to evaluate the evidence-based quality, efficacy, and effectiveness of resilience-building mobile apps targeted toward the MMs, PSP, and veteran populations via a scoping literature review of the current evidence base regarding resilience apps for these populations and an evaluation of free resilience apps designed for use among these populations.
+
+
+Methods
+The studies were selected using a comprehensive search of MEDLINE, CINAHL Plus, PsycINFO, SocINDEX, Academic Search Complete, Embase, and Google and were guided by PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews). A narrative synthesis of the resulting papers was performed. The Alberta Rating Index for Apps was used to conduct a review of each of the identified apps. The inclusion criteria consisted of apps that were free to download in either the Google Play Store or the Apple App Store; updated within the last 3 years; available in English and in Canada; and intended for use by MMs, veterans, and PSP.
+
+
+Results
+In total, 22 apps met the inclusion criteria for evaluation. The resilience strategies offered by most apps included psychoeducation, mindfulness, cognitive behavioral therapy, and acceptance and commitment therapy. Overall, 50% (11/22) of apps had been tested in randomized controlled trials, 7 (32%) apps had been evaluated using other research methods, and 5 (23%) apps had not been studied. Using the Alberta Rating Index for Apps, the app scores ranged from 37 to 56 out of 72, with higher rated apps demonstrating increased usability and security features.
+
+
+Conclusions
+The mHealth apps reviewed are well-suited to providing resilience strategies for MMs, PSP, and veterans. They offer easy accessibility to evidence-based tools while working to encourage the use of emotional and professional support with safety in mind. Although not intended to function as a substitute for professional services, research has demonstrated that mHealth apps have the potential to foster a significant reduction in symptom severity for posttraumatic stress disorder, depression, anxiety, and other mental health conditions. In clinical practice, apps can be used to supplement treatment and provide clients with population-specific confidential tools to increase engagement in the treatment process.

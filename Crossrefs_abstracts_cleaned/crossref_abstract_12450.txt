@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Individuals show robust resilience and vulnerability in neurobehavioral performance to sleep loss and stress. For the first time, we investigated the time course of two cardiovascular measurements, stroke volume (SV) and cardiac index (CI), both derived from echocardiography, across baseline, total sleep deprivation (TSD), the combination of TSD+psychological stress, and recovery. We also determined whether these variables differ in resilient vs. vulnerable individuals and whether they predict differential vulnerability in cognitive performance.
+
+
+Methods
+Thirty-one healthy adults (ages 27–53; mean±SD, 35.4±7.1y; 14 females) participated in a five-day experiment consisting of two 8h time-in-bed (TIB) baseline nights, 39h TSD, and two 8h-10h TIB recovery nights. A modified Trier Social Stress Test (TSST) was conducted on the TSD day to induce psychological stress. Echocardiographic measures of SV and CI were obtained at six time points (pre-study, baseline, during TSD, during TSD after the TSST, after recovery, and post-study). A median split of TSD performance [total lapses (&gt;500 ms response time) and errors] on the 10-minute Psychomotor Vigilance Test (PVT), defined cognitively resilient (n=15) and vulnerable (n=16) groups. Repeated measures ANOVA and post-hoc comparisons corrected for multiple testing, examined SV and CI across time points between groups.
+
+
+Results
+There was a significant time*group interaction for SV: cognitively resilient individuals had greater SV during the five-day experiment. In addition, in both resilient and vulnerable individuals, SV increased with TSD and with TSD+psychological stress compared with baseline. Like SV, there was a significant time*group interaction for CI: resilient individuals had greater CI at all points of the experiment.
+
+
+Conclusion
+SV and CI differed between resilient and vulnerable individuals across TSD, psychological stress and recovery sleep. Greater SV and greater CI at baseline predicted resilience to TSD and TSD+psychological stress. CI and SV are novel physiological biomarkers of sleep loss, stress, and individual differences in cognitive performance.
+
+
+Support
+NASA NNX14AN49G.

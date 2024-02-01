@@ -1,0 +1,16 @@
+Abstract
+
+Aims
+We aimed to recruit a representative cohort of women and men with multi-morbid chronic heart disease as part of a trial testing an innovative, nurse-co-ordinated, multi-faceted intervention to lower rehospitalization and death by addressing areas of vulnerability to external challenges to their health.
+
+
+Methods and results
+The prospective, randomized open, blinded end-point RESILIENCE Trial recruited 203 hospital inpatients (mean age 75.7 ± 10.2 years) of whom 51% were women and 94% had combined coronary artery disease, heart failure, and/or atrial fibrillation. Levels of concurrent multi-morbidity were high (mean Charlson Index of Comorbidity Score 6.5 ± 2.7), and 8.9% had at least mild frailty according to the Rockwood Clinical Frailty Scale. Including the index admission, 19–20% of women and men had a pre-existing pattern of seasonally linked hospitalization (seasonality). Detailed phenotyping revealed that 48% of women and 40% of men had ≥3 physiological factors, and 15% of women and 16% of men had ≥3 behavioural factors likely to increase their vulnerability to external provocations to their health. Overall, 61–62% of women and men had ≥4 combined factors indicative of such vulnerability. Additional factors such as reliance on the public health system (63 vs. 49%), lower education (30 vs. 14%), and living alone (48 vs. 29%) were more prevalent in women.
+
+
+Conclusion
+We successfully recruited women and men with multi-morbid chronic heart disease and bio-behavioural indicators of vulnerability to external provocations to their health. Once completed, the RESILIENCE TRIAL will provide important insights on the impact of addressing such vulnerability (promoting resilience) on subsequent health outcomes.
+
+
+Registration
+ClinicalTrials.org: NCT04614428.

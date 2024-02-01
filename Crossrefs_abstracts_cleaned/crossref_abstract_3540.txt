@@ -1,0 +1,12 @@
+Abstract
+Background
+The urban water system is the worst hit in global climate change. Water resilience is the system’s ability to retaliate and recover from various water-related disruptions. The present study aims to delineate the water resilience zones in Chennai city, Tamil Nadu, India, by effectively integrating the geographic information system, remote sensing, and analytical hierarchy process (AHP).
+
+Methods
+The methodology incorporated 15 vital factors. A multi-criteria decision analysis technique was adopted to assign a weight to each parameter using the AHP. A pairwise decision matrix was constructed, parameter’s relative importance and the consistency ratio were established. Integration of all maps by weighted overlay analysis technique depicted water resilience intensities of five different classes.
+
+Results
+Very low, low and moderate water resilience areas accounted for more than three-fourth of the study area. Area Under Curve score (80.12%) depicted the accuracy of the developed model. Sensitivity analysis determined the significance of the parameters in the delineation. The logical structural approach can be employed in other parts of India or elsewhere with modifications.
+
+Conclusion
+This study is novel in its approach by holistically analyzing water resilience by integrating disruptions related to flood, drought and the city's water infrastructure system's adequacy and efficiency. Researchers and planners can effectively use the study results to ensure resilience as a new perspective on effective water resource management and climate change mitigation. It becomes a decision aid mechanism identifying where the system is vulnerable to potential water-related risks for employing resilience measures.

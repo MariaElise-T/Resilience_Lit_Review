@@ -1,0 +1,23 @@
+
+Background
+Loss of a spouse is a frequent occurrence in later life. While most older adults successfully process this loss and will return to a normal life, about 10% of the individuals are unable to cope, and progress to prolonged grief (PG). PG, in turn, can result in mental and physical problems including poor sleep, cardiovascular problems, depression, and suicidal tendencies.
+
+
+Objective
+LEAVES (optimizing the mentaL health and resiliencE of older Adults that haVe lost thEir spouSe via blended, online therapy) is an online bereavement program that will support the prevention and treatment of PG, so that elderly mourners can continue to lead an active, meaningful, and dignified life. LEAVES will cater to secondary end users (eg, family, informal caregivers) by reducing stress.
+
+
+Methods
+LEAVES will help older adults to process the loss of a spouse in an online environment, which consists of (1) an existing online grief self-help program LIVIA, (2) the Before You Leave program that allows for storing personal memories, (3) a virtual agent platform, and (4) an accessible front-end design. LEAVES can detect persons at risk for complications, reveal negative trends in their emotional life, and act to counter such trends. The service relies on online support whenever possible but is blended with telephone or face-to-face counseling when necessary.
+
+
+Results
+The project will take place between February 2020 and January 2023 and includes a real-life evaluation in which 315 end users will use the service across 3 countries (the Netherlands, Portugal, and Switzerland). The evaluation of LEAVES will focus on clinical effect, its business case, and technology acceptance. The results will pave the way for smooth integration into existing care paths and reimbursement schemes.
+
+
+Conclusions
+The LEAVES service aims to soften the mourning process, prevents depression or social isolation, strengthens widow(er)s resilience and well-being, and quickens one’s return to societal participation.
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/19344

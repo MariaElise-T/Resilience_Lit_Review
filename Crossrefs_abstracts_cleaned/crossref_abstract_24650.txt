@@ -1,0 +1,19 @@
+
+Background
+Cross-sectional relationships between psychosocial resilience factors (RFs) and resilience, operationalized as the outcome of low mental health reactivity to stressor exposure (low “stressor reactivity” [SR]), were reported during the first wave of the COVID-19 pandemic in 2020.
+
+
+Objective
+Extending these findings, we here examined prospective relationships and weekly dynamics between the same RFs and SR in a longitudinal sample during the aftermath of the first wave in several European countries.
+
+
+Methods
+Over 5 weeks of app-based assessments, participants reported weekly stressor exposure, mental health problems, RFs, and demographic data in 1 of 6 different languages. As (partly) preregistered, hypotheses were tested cross-sectionally at baseline (N=558), and longitudinally (n=200), using mixed effects models and mediation analyses.
+
+
+Results
+RFs at baseline, including positive appraisal style (PAS), optimism (OPT), general self-efficacy (GSE), perceived good stress recovery (REC), and perceived social support (PSS), were negatively associated with SR scores, not only cross-sectionally (baseline SR scores; all P<.001) but also prospectively (average SR scores across subsequent weeks; positive appraisal (PA), P=.008; OPT, P<.001; GSE, P=.01; REC, P<.001; and PSS, P=.002). In both associations, PAS mediated the effects of PSS on SR (cross-sectionally: 95% CI –0.064 to –0.013; prospectively: 95% CI –0.074 to –0.0008). In the analyses of weekly RF-SR dynamics, the RFs PA of stressors generally and specifically related to the COVID-19 pandemic, and GSE were negatively associated with SR in a contemporaneous fashion (PA, P<.001; PAC,P=.03; and GSE, P<.001), but not in a lagged fashion (PA, P=.36; PAC, P=.52; and GSE, P=.06).
+
+
+Conclusions
+We identified psychological RFs that prospectively predict resilience and cofluctuate with weekly SR within individuals. These prospective results endorse that the previously reported RF-SR associations do not exclusively reflect mood congruency or other temporal bias effects. We further confirm the important role of PA in resilience.

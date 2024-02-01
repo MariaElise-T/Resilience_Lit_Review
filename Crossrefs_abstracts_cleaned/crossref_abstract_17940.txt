@@ -1,0 +1,24 @@
+Abstract
+
+Background
+The interaction between high physical performance under extreme conditions and simultaneous control of the cognitive executive functioning has been a subject of research in literature for the past few decades. Stroop test and Heart-rate variability (HRV), have been verified clinical tools for the assessment of cerebral and autonomic/ cardiovascular stress responses respectively.
+
+
+Purpose
+The investigation of HRV adaptive response to stress and cognitive stress resilience under extremely strenuous conditions.
+
+
+Methods
+34 consecutive subjects were enrolled. Of them, 18 were candidates under intense preparation for their enlistment in the Hellenic Navy SEALs (HNS) and 16 were healthy controls (HC). All subjects underwent stroop tasks, along with mental state and personality examination. HRV variables in time and frequency domains recordings were acquired, during each aforementioned cognitive testing procedure.
+
+
+Results
+HNS's performance on both cognitive and emotion stroop tasks were equivalent to controls. During the size comparison of the number stroop and emotion stroop, HC had statistically significantly higher power content at different HRV frequency bands compared to HNS participants (p=0.036 and p=0.06 respectively). Finally, in a between group comparison of the psychometric tools, HNS had significantly higher somatization (p&lt;0.01), anxiety (p=0.037) and neuroticism (p=0.047) than HC. Correlation was conducted for each group separately, between the psychometric tools and the measurements of HRV for both number and emotion stroop. Moderate negative correlations were found between SDNN (Standard deviation of normal-to-normal RR-intervals) during the size comparison of number stroop and three out of nine categories of psychometric questionnaire; somatization (r(23)=−0.452, p&lt;0.05), anxiety (r(23)=−0.457, p&lt;0.05) and hostility (r(23)=−0.445, p&lt;0.05)
+
+
+Conclusion
+The above findings suggest that HNS display flexibility in their autonomic regulation during cognitive and emotional tasks. This characteristic is closely related to problem solving or adaptability skills. Additionally, HRV can be a promising clinical index regarding the assessment of psychophysiological resilience especially in the neurovisceral integration (NVI) model.
+
+
+Funding Acknowledgement
+Type of funding sources: Public grant(s) – National budget only. Main funding source(s): Region of Attica

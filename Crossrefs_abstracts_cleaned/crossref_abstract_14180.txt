@@ -1,0 +1,12 @@
+Abstract
+Background
+Although many psychological factors have been associated with health-related quality of life (HRQoL), the mediator role of resilience between psychological predictors (i.e., coping styles and perceived social support) and HRQoL has rarely been explored in breast cancer survivors (BCSs).
+
+Methods
+A total of 231 BCSs participated in this cross-sectional survey. Pearson correlation was performed to analyze the relationships among coping styles (confrontation, avoidance, and resignation), perceived social support, resilience, and HRQoL. A multivariate linear regression analysis was applied to identify the psychological predictors of HRQoL and resilience, respectively. A structural equation modeling (SEM) was employed to examine the mediating role of resilience between coping styles, perceived social support, and HRQoL.
+
+Results
+Perceived social support and resilience were positively associated with confrontation. Resilience was positively associated with perceived social support. HRQoL had positive correlations with confrontation/avoidance, perceived social support, and resilience. Resilience and resignation/avoidance were significant independent predictors of HRQoL, while resignation/confrontation and perceived social support were significant independent predictors of resilience. Confrontation/resignation, perceived social support, and resilience had significant direct effects on HRQoL; confrontation/resignation and perceived social support had significant direct effects on resilience; resilience had significant mediator roles between confrontation/resignation, perceived social support, and HRQoL.
+
+Conclusions
+Resilience was a significant mediator between coping styles, perceived social support, and HRQoL. A resilience-oriented intervention is recommended to alleviate the detrimental influences of low resilience on HRQoL, providing a new strategy for improving the health status of BCSs.

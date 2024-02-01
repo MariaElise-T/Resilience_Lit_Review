@@ -1,0 +1,19 @@
+
+Purpose
+How to improve the resilience of service firms in the crisis, such as the COVID-19 epidemic, to maintain a sustainable competitive advantage becomes a growing concern worldwide. Digital platform capability (DPC) provides a series of opportunities and advantages for service firms to shape resilience in the crisis. This study aims to clarify the effect and mechanism of DPC on service firms’ resilience, and provides a new mediator (strategic learning [SL]), as well as two boundary conditions (legal inefficiency [LIE] and legal incompleteness [LIC]).
+
+
+Design/methodology/approach
+Questionnaires were used to obtain firm data, and executives answered these key questions. Data from 293 service firms during the COVID-19 period were used for hypothesis testing.
+
+
+Findings
+DPC was positively related to the adaptive capacity (AC) and planning capacity (PC) of service firms. SL mediated the positive effect of DPC on the AC and PC of service firms. The positive effect between DPC and SL was weakened when LIE and LIC were high.
+
+
+Practical implications
+This study suggests that it is a very desirable measure to improve DPC to gain organizational resilience (OR) in the crisis. In addition, a SL process in the crisis is crucial, because service firms need to absorb key strategic information from digital platforms to cope with uncertainty. The services firms need to realize that the benefits of DPC will be weakened in the dysfunctional institutional environment of LIE and LIC.
+
+
+Originality/value
+To the best of the authors’ knowledge, this study is the first to link the DPC with the resilience of service firms, and provides a new explanation mechanism and some boundary conditions for this important relationship. Furthermore, this study takes a step forward, because these efforts respond to the widespread call of the literature on digitalization and OR, and provide new insights for understanding digital resilience.

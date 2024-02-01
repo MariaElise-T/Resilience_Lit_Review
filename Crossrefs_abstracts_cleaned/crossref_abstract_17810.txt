@@ -1,0 +1,25 @@
+Abstract
+The importance of urban tree diversity for improving resilience is
+                        increasingly understood by decision makers. Urban foresters want to prevent
+                        the overrepresentation of species on their streets and in their city, which
+                        could result in a significant loss of canopy cover in the event of a
+                        large-scale disturbance such as a drought or an exotic pest or disease.
+                        Although numerous software and tools exist to visualize tree inventories and
+                        plan tree maintenance work, only a few offer support for increasing tree
+                        diversity. After reviewing the existing tools available for urban forest
+                        managers, we present SylvCiT, a novel decision-support and open-source
+                        software available on a web platform designed to consolidate information
+                        related to the urban forest in one place and facilitate decision-making at
+                        different scales. While the first interfaces provide the user with a
+                        spatially explicit portrait of the urban forest (species richness,
+                        functional diversity, structural diversity, i.e., diameter classes) and
+                        associated ecosystem benefits (e.g., stored carbon, ornamental value), the
+                        software is designed to produce a list of functional groups and appropriate
+                        species to plant considering tree species already present. Based on an
+                        artificial intelligence algorithm, SylvCiT identifies the types of trees
+                        (species and functional groups) that are absent or underrepresented at
+                        different scales to make recommendations that increase species and
+                        functional diversity to improve resilience to global change. SylvCiT will
+                        continue to be developed to evaluate other ecosystem benefits and integrate
+                        criteria such as site characteristics into the recommendation
+                        algorithm.

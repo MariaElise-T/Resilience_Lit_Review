@@ -1,0 +1,19 @@
+
+Background:
+COVID-19 spread to pandemic levels in a matter of weeks. COVID-19 is a pandemic that affected people worldwide and resulted in negative psychological consequences. It is essential to understand the factors that assisted people in adapting to this pandemic.
+
+
+Objective:
+The study aimed to assess resilience and its predictors during the COVID-19 pandemic among the Jordanian population.
+
+
+Methods:
+A cross-sectional design with purposive snowball sampling was used. The sample included 913 participants. Data were collected using online questionnaires, including the Connor-Davidson Resilience Scale, Fear of COVID-19 Scale, and Arabic Scale of Optimism and Pessimism. Multiple linear regression was used to analyze the data.
+
+
+Results:
+The mean total score of fear, optimism, pessimism, and resilience was 17.54 (SD= 5.9), 51 (SD= 13.51), 24.84 (SD= 12.31), and 24.73 (SD=6.2), respectively. Up to 75% of the sample scored 29 or less on the resilience scale. Employment status, fear of COVID-19, optimism, and pessimism were significant predictors of resilience.
+
+
+Conclusion:
+Jordanian population showed lower resilience levels. Individuals who were employed, optimistic, and not pessimistic had a lower level of fear of COVID-19 and a higher level of resilience. The findings from the study emphasize the effect of the COVID-19 pandemic on essential aspects of the psychological health of populations.

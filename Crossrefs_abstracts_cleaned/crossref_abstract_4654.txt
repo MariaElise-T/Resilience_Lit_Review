@@ -1,0 +1,19 @@
+Abstract
+This article seeks to clarify the terminology and methods of planning to
+                        avert hospital internal disaster. It differentiates “crisis” from “disaster”
+                        in the in-hospital setting. Preparedness, as contrasted with mitigation, is
+                        meant to reduce the likelihood that a crisis will turn into a disaster.
+                        Though there are some recurring features of crises, allowing for
+                        preparedness through the identification of a few high-likelihood
+                        contingencies, crises are subject to numerous, overwhelming uncertainties.
+                        These include hazard uncertainty, incident uncertainty, sequential
+                        uncertainty, informational uncertainty, consequential uncertainty, cascade
+                        uncertainty, organizational uncertainty, and background uncertainty. In view
+                        of the uncertainties, the primary aim of planners should not be to try to
+                        create plans for ever more contingencies, since contingencies are far too
+                        numerous and perhapsapproach infinity, but rather to create capabilities
+                        (through proper preparedness) for resilience during crisis. Resilience can
+                        be cultivated through improvements in information acquisition and
+                        dissemination, communication systems, resource management, mobility
+                        management, design for resilience, incident command, and staff
+                        versatility.

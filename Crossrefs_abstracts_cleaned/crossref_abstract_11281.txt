@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this paper is to analyze the supply chain's resilience in crowd networks from both static and dynamic perspectives.
+
+
+Design/methodology/approach
+This paper first defines the supply chain’s resilience, then proposes a graphical and game-theoretic framework to evaluate the resilience.
+
+
+Findings
+In this framework, an equilibrium with high resilience will be achieved after the iterated prisoner's dilemma in the supply chain. The two-stage update mechanism contributes to higher profits, higher stability and stronger risk resistance capability. The reputation-based tit-for-tat strategy in the second stage helps to realize society cooperation.
+
+
+Originality/value
+This work pays more attention to the dynamic evolution of interactions between organizations in the supply chain. It provides an important theoretical basis for future work such as how to effectively control and guide the evolution of events in the intelligence network and how to stand sudden changes and avoid collapse.

@@ -1,0 +1,15 @@
+
+Objectives:
+Emerging evidence suggests a high burden of psychosocial comorbidities in patients with EoE, although factors associated with this burden have not been explored. We aimed to increase understanding of the psychosocial burden of EoE and assess factors that are associated with disease burden.
+
+
+Methods:
+We conducted a cross-sectional study of EoE patients (n=87) recruited from a single center, multidisciplinary pediatric EGID clinic (2019-2021). Participants (ages 8-18) completed validated assessments during routine clinic visit to assess EoE symptoms (PEESSv2.0), quality of life (PedsQL-EoE), anxiety state and trait (STAI-C), somatization (CSSI-24), sleep disordered breathing (PSQ) and, in a subset (n=35), resilience (CD-RISC). Clinical and demographic data were collected.
+
+
+Results:
+Participants were a mean (SD) age of 12.8 (3.1) years and 26% (n=23) were female sex. Shorter disease duration (6-12 months) was associated with higher symptom burden (p=0.03), somatization (p<0.01), and anxiety (STAI-C Trait p<0.01) scores. Participants with neurodevelopmental comorbidities had higher anxiety trait, somatization, sleep disordered breathing, and lower quality of life (p<0.01 for all). Symptom burden was significantly associated with increased somatic symptoms (adjustedβ [aβ]: 0.34; 95% CI: 0.23, 0.45) and decreased quality of life (aβ: -0.42; 95% CI: -0.59, -0.25) but not state anxiety, trait anxiety, or disordered sleep breathing.
+
+
+Conclusions:
+Pediatric patients with a recent diagnosis of EoE can experience higher EoE symptoms, somatization, and anxiety as compared to those with a longer-standing diagnosis. Patients earlier in their diagnosis and with neurodevelopmental disorders may experience increased somatization and anxiety that may warrant additional support services.

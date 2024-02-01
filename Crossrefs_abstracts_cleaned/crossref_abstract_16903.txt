@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Many individuals remain free from dementia despite substantial plaque and tangle deposits, the hallmarks of Alzheimer’s disease (AD). Understanding of this cognitive resilience is poor. Evidence suggests that circadian disturbances predict increased risk of incident AD, and that circadian regulation deteriorates as clinical AD progresses. We hypothesize that circadian robustness protects against dementia, and the effect is stronger in individuals with AD pathology than those without.
+
+
+Methods
+We studied 575 deceased participants (age at death: 91.1□6.2; female: 414) in the Rush Memory and Aging Project who underwent brain autopsy at death, had clinical diagnostic opinion of dementia and motor activity assessments with actigraphy of ~10 days before death. Using actigraphy proximate to death, we calculated four circadian metrics: amplitude, acrophase, interdaily stability, and intradaily variability. Logistic regressions, stratified by postmortem pathologic AD diagnosis, were used to examine associations of circadian metrics with odds of dementia, and separately cognitive impairment (CI, including both dementia and mild cognitive impairment [MCI]), adjusting for age at death, sex, education, and time-lag between actigraphy and death.
+
+
+Results
+Based on postmortem assessment, 378 participants met the NIA-Reagan criteria for high/intermediate likelihood AD (AD group), including 197 clinically diagnosed with dementia, 86 MCI, and 85 cognitively intact. Non-AD group consisted of the remaining 197 participants, including 36 with clinical dementia, 47 MCI, and 114 cognitively intact. In the AD group, greater amplitude, greater interdaily stability, and lower intradaily variability were associated with lower odds of CI and dementia, i.e., odds ratios [OR] for CI corresponding to 1-SD changes were 0.54 (95% CI: 0.40-0.71), 0.70 (0.54-0.91), and 0.63 (0.47-0.84), and were 0.46 (0.35-0.60), 0.55 (0.43-0.70), and 0.61 (0.48-0.78) for dementia. In the non-AD group, only amplitude was associated with the odds of CI or dementia, i.e., the ORs corresponding to 1-SD increase was 0.61 (0.42-0.88) and 0.50 (0.31-0.82), respectively.
+
+
+Conclusion
+Better preserved circadian function, as characterized by more pronounced, more stable and less fragmented rest-activity rhythms, links to lower risk of CI or dementia in older people, especially those with pathological AD.
+
+
+Support (if any)
+NIH RF1AG064312, RF1AG059867, R01AG017917, R01AG56352; and the BrightFocus Foundation A2020886S.

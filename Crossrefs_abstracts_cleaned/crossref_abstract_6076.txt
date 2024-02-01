@@ -1,0 +1,8 @@
+Abstract
+
+The concept of resilience is polysemic (i.e. has multiple definitions) in ecology. Despite various attempts at clarification, its meaning is still hotly debated.
+We propose a broad definition of resilience as ‘the capacity of an ecological system to maintain its identity in the face of disturbance’ and posit that the polysemy of the concept is partly due to the multiple meanings of the term ‘identity’.
+We distinguish four definitions of identity and use the landscape metaphor to represent each of them.
+We draw on four historical uses of the resilience concept in ecology, showing that each of them refers to the conservation of a certain type of identity and therefore corresponds to a particular level of persistence. This work leads to the formulation of four definitions that enlighten the polysemy of the concept in ecology.
+Synthesis. We assert that the various facets of the identity concept shed light on the polysemy of the resilience concept. Drawing on four historical uses of the concept, we propose four definitions of resilience, each one referring to the maintenance of a different type of identity and thus to a different level of persistence of ecological systems.
+

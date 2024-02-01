@@ -1,0 +1,12 @@
+Abstract
+Background
+Eating disorders (EDs) are associated with a range of stressful life events, but few have investigated protective factors that may affect these associations. The current study used mixture modelling to describe typologies in life stress exposure and availability of protective resources in individuals with and without eating disorders (EDs).
+
+Methods
+A case – control sample (n = 916) completed measures of stressful life events, resilience protective factors, emotion regulation, and symptoms of EDs, depression and anxiety. We conducted latent class analyses to identify subgroups of stress exposure and profile analyses of emotional regulation and resilience. The resulting two latent variables were combined to explore effects on ED status and symptomatology, depression, and anxiety as distal outcome variables.
+
+Results
+We identified four classes of stressful life events (generally low, some abuse/bullying, sexual/emotional assaults, and high adversity). For protective resources, we identified six profiles that ranged from low to higher levels of protection with variations in social/family resources. The latent protection variable contributed more strongly to the distal outcomes than the latent stress variable, but did not moderate the latent stress and distal outcome variable relationships. Profiles characterized by lower protective resources included higher proportions of individuals with a lifetime ED, and were associated with higher scores on all symptom measures.
+
+Conclusions
+Intra- and interpersonal protective resources were strongly associated with lifetime EDs and current mental health symptom burden after accounting for stressful event exposure, suggesting protective factors may be useful to target in the clinical treatment of patients with ED.

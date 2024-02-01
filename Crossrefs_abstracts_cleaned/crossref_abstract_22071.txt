@@ -1,0 +1,12 @@
+Abstract
+Background
+Central to Safety-II is promoting resilience of healthcare practices. In the “Room for Resilience” research project we focus on the role of horizontal and vertical accountability in healthcare teams and aim to discover how the relation between the two impacts team reflections and discussions. In this article, we report on an explorative study at the start of the project which aimed to assess the structures and dynamics of horizontal and vertical accountability.
+
+Methods
+A qualitative study in six teams in three hospitals in the Netherlands. For the project, each team selected a specific clinical process to work on (e.g. pain assessment). We interviewed healthcare professionals, managers, and quality advisors about these processes, how they are discussed in practice and how teams need to account for them. Additionally, we observed the processes and how teams discuss them in practice. In total, we conducted 35 interviews and 67.5 h of observation. Transcripts and field notes were analyzed using thematic analysis.
+
+Results
+Professionals at times varied in what they considered the right approach in the clinical process, with differing views on the importance of certain actions. When processes were discussed, this mostly was done during clinical work, and it often concerned reflections about the care for a specific patient instead of reflecting on the team’s general approach of the clinical process. Organized reflections on the processes were sparse. How processes were conducted in practice deviated from guidelines, mainly due to staff shortages, a perceived lack of value of a guideline, equipment issues, and collaboration issues. For most processes, accountability to hierarchical layers consisted of quality indicator scores. Professionals were tasked with registering indicator data but did not find this meaningful for their work.
+
+Conclusions
+The observed different perspectives within teams on what good quality care is show the importance of having team reflections about these processes. How vertical accountability was organized at times impacted the conditions for teams to discuss resilient performance. Following these findings, we recommend that reflection on resilient practice and the role of accountability processes is organized on all levels in (and outside) the organization.

@@ -1,0 +1,2 @@
+Abstract
+A rigid body on resilient supports has six natural frequencies, some or all of which are in coupled modes if there is nonsymmetry. The analysis in this paper considers the coupling introduced by the product of inertia when the principal axes of inertia of the rigid body and the principal elastic axes of the resilent supports are not parallel. A typical case is considered in detail, and a procedure suitable for engineering use is presented for evaluating the effect of product of inertia coupling.

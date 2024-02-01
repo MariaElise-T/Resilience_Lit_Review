@@ -1,0 +1,17 @@
+Abstract
+
+Introduction
+COVID-19 had a tremendous impact on many aspects of our lives and has caused an increase in stress and mental health issues in many people. We have recently found that there was an increase in nightmares during the pandemic in young adults. Since emotions have been associated with both resilience and nightmares, the objective of this study was to investigate the role of resilience and emotional changes in the increase in nightmares observed during the pandemic, in a group of young adults.
+
+
+Methods
+Resilience, emotions and nightmares were assessed using the Connor-Davidson Resilience Scale-10, the Differential Emotions Scale-IV and an adapted version of the Pittsburgh Sleep Quality Index. Measures were administered to 209 young adults (18–25 years old, 76.1% females). Hierarchical multiple regression models were computed to examine the unique contribution of changes in positive and negative emotions during the pandemic to the increase in nightmares during the pandemic. Analyses were controlled for nightmares and emotions prior to COVID-19, and for gender. The sample was separated in two groups: resilient and less resilient young adults.
+
+
+Results
+Results show that in less resilient young adults, nightmares prior to COVID-19 (β=.79, p&lt;.001) and increase in negative emotions (β=.21, p=.033) significantly predicted nightmares during the pandemic and explained 67.0% of their variance. In resilient young adults, nightmares prior to COVID-19 (β=.56, p&lt;.001) and gender (β=-.15, p=.04) significantly predicted nightmares during the pandemic and explained 52.0% of the variance.
+
+
+Conclusion
+Our results show that increase in negative emotions during the pandemic is associated with an increase in nightmares in less resilient young adults, but not in resilient young adults. Furthermore, our results show that in resilient young adults, being a woman is associated with an increase in nightmares during the pandemic. These results suggest that resilience may be a protective factor in managing the impact of negative emotions on nightmares, but only in men.
+Support (if any):

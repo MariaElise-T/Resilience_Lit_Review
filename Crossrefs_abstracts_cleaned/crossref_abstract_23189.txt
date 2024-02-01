@@ -1,0 +1,19 @@
+
+Purpose
+This paper aims to determine pathways leading to enterprise profitability during the COVID-19 pandemic in the Philippines.
+
+
+Design/methodology/approach
+The study (N = 272) was participated by 228 micro, small and medium enterprises (MSMEs) and 44 large enterprises. Configurational analysis using the fuzzy-set qualitative comparative analysis was used in modelling combinations of firm characteristics and organizational resilience attributes that could lead to enterprise profitability.
+
+
+Findings
+Using the Benchmark Resilience Tool of Resilient Organisations, the study showed that three main attributes of organizational resilience (leadership and culture, networks and relationships, and readiness to change) played significant roles in enterprise profitability. Other conditions of varying influence on profitability included costs, sales, number of employees and the number of years in operations of an enterprise. For MSMEs, profitability can be achieved if all resilience attributes are present, while for large enterprises, the absence of some resilience attributes can be compensated by other attributes such as low decline in sales, low employee reduction, and more years in operation.
+
+
+Research limitations/implications
+While the COVID-19 pandemic’s impacts have been far-reaching, the MSMEs and large enterprises are more likely to be profitable if they have used the three organizational resilience attributes. Moreover, these attributes do not only improve firm profitability and the overall enterprise performance during the present pandemic but also prepare them for future shocks.
+
+
+Originality/value
+To the best of the authors’ knowledge, modelling antecedents of enterprise profitability using configurational analysis is the first in the Philippines.

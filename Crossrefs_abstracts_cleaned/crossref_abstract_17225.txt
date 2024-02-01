@@ -1,0 +1,12 @@
+Abstract
+Background
+Successful aging is often linked to individual’s ability to demonstrate resilience: the maintenance or quick recovery of functional ability, well-being, and quality of life despite losses or adversity. A crucial element of resilience is behavioral adaptability, which refers to the adaptive changes in behavior in accordance with internal or external demands. Age-related degradation of executive functions can, however, lead to volition problems that compromise flexible adjustment of behavior. In contrast, the reliance on habitual control has been shown to remain relatively intact in later life and may therefore provide an expedient route to goal attainment among older adults. In the current study, we examine whether a metacognitive self-help intervention (MCSI), aimed at facilitating goal striving through the gradual automatization of efficient routines, could effectively support behavioral adaptability in favor of resilience among older adults with and without (sub-clinical) mental health problems.
+
+Methods
+This metacognitive strategy draws on principles from health and social psychology, as well as clinical psychology, and incorporates elements of established behavioral change and activation techniques from both fields. Additionally, the intervention will be tailored to personal needs and challenges, recognizing the significant diversity that exist among aging individuals.
+
+Discussion
+Despite some challenges that may limit the generalizability of the results, our MCSI program offers a promising means to empower older adults with tools and strategies to take control of their goals and challenges. This can promote autonomy and independent functioning, and thereby contribute to adaptability and resilience in later life.
+
+Trial registration
+Pre-registered, partly retrospectively. This study was pre-registered before the major part of the data was collected, created, and realized. Only a small part of the data of some participants (comprising the baseline and other pre-intervention measures), and the full dataset of the first few participants, was collected prior to registration, but it was not accessed yet. See: https://osf.io/5b9xz

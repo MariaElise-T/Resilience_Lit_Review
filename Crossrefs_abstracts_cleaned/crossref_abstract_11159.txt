@@ -1,0 +1,19 @@
+
+Background
+Engaging in self-care behaviors improves outcomes in patients with heart failure. Identifying psychological factors that affect self-care behaviors and the role of resilience may inform interventions that improve outcomes.
+
+
+Objectives
+The study objective was to determine the relationships among depression, anxiety, resilience, and self-care, including whether resilience mediates or moderates the effects of depression and anxiety on self-care.
+
+
+Methods
+Pearson correlation coefficients were computed to estimate the relationships of depression, anxiety, and resilience with self-care behaviors. Mediating and moderating effects of resilience on the relationships of depression and anxiety with self-care were evaluated using multiple linear regression.
+
+
+Results
+Depression and anxiety were associated with lower self-care. Higher resilience was associated with lower depression and anxiety, but resilience did not mediate or moderate the relationship of depression and anxiety with self-care.
+
+
+Conclusions
+Interventions that foster resilience may improve outcomes by reducing anxiety and depression in patients with heart failure.

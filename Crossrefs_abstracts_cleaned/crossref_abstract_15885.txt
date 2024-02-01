@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this study is to examine how construction project managers’ conflict management styles (CMSs) affect project team resilience from the perspective of social identity theory.
+
+
+Design/methodology/approach
+This study adopted a cross-sectional survey design and collected paired data from 110 construction project managers and 474 employees in China. Based on the data collected, the authors tested the proposed hypotheses using hierarchical regression analysis.
+
+
+Findings
+The results show that a project manager’s cooperative CMS positively affects team resilience, and a project manager’s competitive and avoidant CMS negatively affects team resilience. Team followership plays a mediating role in this relationship. The team power distance moderates the effects of a project manager’s cooperative and avoidant CMSs on team followership.
+
+
+Originality/value
+This paper enriches the existing literature on conflict management in construction projects and have potential guiding significance and application value for team resilience management practices.

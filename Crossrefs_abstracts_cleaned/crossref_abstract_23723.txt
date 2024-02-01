@@ -1,0 +1,12 @@
+Abstract
+Background
+End-stage kidney disease is highly prevalent worldwide. Currently, one of the most effective treatment modalities is dialysis therapy, which leads to serious side effects. Furthermore, psychiatric illnesses are prevalent among dialysis patients. Recently, researchers asserted that psychological resilience and family support could be helpful to maintain or improve patients’ mental well-being. Therefore, the purpose of this study was to examine the mediating effects of resilience on the relationship between family functioning and mental well-being in these patients.
+
+Methods
+To investigate the aim of this study, a cross-sectional design was employed. A total of 110 hemodialysis patients, who were receiving outpatient treatment from dialysis units at the University of Fukuoka and St. Maria Health Care Center in Japan, participated. Only the patients who met the criteria and who were willing to participate in this 30-min study were given The General Health Questionnaire-12, Conner-Davidson Resilience Scale, and Family Assessment Device. Structural Equation Modeling (SEM) was performed to test the hypothesis that resilience would mediate the relationship between each subscale of family functioning, namely, cohesion, adaptability, communication, and mental well-being. Then Sobel’s test was employed to examine the indirect effect.
+
+Results
+The results of the SEM showed that the model had an acceptable fit (RMSEA = .077; CFI = .93; and IFI = .94). According to the results, resilience fully mediated the relationship between family functioning, specifically family adaptability and communication, and mental health well-being of the dialysis patients. However, family cohesion was not associated with resilience.
+
+Conclusions
+The present study revealed that higher family adaptability and communication resulted in greater resilience, thus associated with better mental health. Given that poor mental health among dialysis patients is significantly associated with a decreased likelihood to adhere to treatment plans, it may lead to a significant risk to therapeutic compliance. As such, patients may experience detrimental consequences, such as death. This study showed that in order to maintain healthy mental well-being, developing resilience is a vital factor for hemodialysis patients.

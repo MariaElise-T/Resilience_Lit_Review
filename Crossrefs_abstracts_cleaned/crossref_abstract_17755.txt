@@ -1,0 +1,11 @@
+Objective: The COVID-19 pandemic disproportionately impacts parents, people with health risks like diabetes, and those with fewer financial resources. Minorities face particularly negative outcomes of the pandemic, and racial tensions after George Floyd’s murder may have worsened effects. We examined group differences by race/ethnicity and socio-economic status (SES) in depressive symptoms and protective factors in parents of children with T1D in summer 2020.
+Methods: Participants were n=100 parents (98% mothers) of youth with T1D (60% female, M age=6.7±1.6 yrs, M T1D duration = 2.9±.5 yrs), who completed a behavioral RCT ≥6 months prior. In July/July 2020, parents self-reported on awareness of how to obtain housing/financial/food resources (Protective Factor Survey Concrete Support [PFS-CS] subscale) and depressive symptoms (Center for Epidemiological Studies -Depression [CES-D]). Race/ethnicity (66% non-Hispanic white, 12% non-Hispanic Black, 11% Hispanic, 11% other) and health insurance (33% public, 67% private) were reported at RCT enrollment. We ran ANOVAs and Pearson correlations to compare CES-D and PFS-CS by demographic groups.
+Results: PFS-CS scores differed significantly by race/ethnicity and insurance status, both p&lt;.01. Hispanic (M=1.6±0.5) and non-Hispanic Black (M=1.6±0.6) parents had higher CS than non-Hispanic white parents (M = 1.3±0.3). Those with public insurance (M = 1.6±0.5) had higher CS than those with private insurance (M = 1.3±0.3). Higher CS correlated with lower CES-D, r = -.26, p = .05. CES-D did not differ across groups.
+Conclusion: Racially/ethnically diverse and lower SES parents of children with T1D reported more knowledge about how to access useful resources. This may have buffered against elevated mood symptoms during co-occurring major societal and public health stressors in 2020. Highlighting sources of support and resilience may be a useful strategy in strength-based interventions for parents of children with T1D.
+
+Disclosure
+J. N. Jones: None. S. A. Carreon: None. K. Rooney: None. C. H. Wang: None. C. Tully: None. M. Monaghan: None. R. Streisand: None. M. E. Hilliard: None.
+
+
+Funding
+National Institute of Diabetes and Digestive and Kidney Diseases (1R01DK102561)

@@ -1,0 +1,13 @@
+Abstract
+Introduction
+There is growing evidence that mental disorders behave like complex dynamic systems. Complex dynamic systems theory states that a slower recovery from small perturbations indicates a loss of resilience of a system. This study is the first to test whether the speed of recovery of affect states from small daily life perturbations predicts changes in psychopathological symptoms over 1 year in a group of adolescents at increased risk for mental disorders.
+
+Methods
+We used data from 157 adolescents from the TWINSSCAN study. Course of psychopathology was operationalized as the 1-year change in the Symptom Checklist-90 sum score. Two groups were defined: one with stable and one with increasing symptom levels. Time-series data on momentary daily affect and daily unpleasant events were collected 10 times a day for 6 days at baseline.
+We modeled the time-lagged effect of daily unpleasant events on negative and positive affect after each unpleasant event experienced, to examine at which time point the impact of the events is no longer detectable.
+
+Results
+There was a significant difference between groups in the effect of unpleasant events on negative affect 90 min after the events were reported. Stratified by group, in the Increase group, the effect of unpleasant events on both negative (B = 0.05, p < 0.01) and positive affect (B = − 0. 08, p < 0.01) was still detectable 90 min after the events, whereas in the Stable group this was not the case.
+
+Conclusion
+Findings cautiously suggest that adolescents who develop more symptoms in the following year may display a slower affect recovery from daily perturbations at baseline. This supports the notion that mental health may behave according to the laws of a complex dynamic system. Future research needs to examine whether these dynamic indicators of system resilience may prove valuable for personalized risk assessment in this field.

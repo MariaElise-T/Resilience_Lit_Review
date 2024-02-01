@@ -1,0 +1,6 @@
+Abstract
+Objective
+A pilot study using a pre-post interventional design, was carried out to evaluate the effectiveness of a resilience-based training workshop on the self-efficacy and resilience of schoolteachers in a peri-urban area of Karachi, Pakistan. Four in person workshops were held at the school’s location during January to June 2022.
+
+Results
+A total of 14 teachers participated in the workshop. The effectiveness of interventions was evaluated by assessing self-efficacy and resilience in pre- and post-teaching modules. The Wilcoxon Signed Rank Test determined a significant difference between the pre- to post-module scores of Self Efficacy (p = 0.016) and resilience (p = 0.006). The pre-median scores with IQR of Self-Efficacy were 28 (10), and Resilience scores 76 (12); and post-scores for Self-Efficacy and Resilience scores increased to 35 (5.5) and 88 (14) respectively. This indicated significant improvement in general self-efficacy and resilience skills after four weeks of training. This pilot study showed that building knowledge regarding mental health struggles in students and oneself, learning ways to cope with stress and manage student behavior, and forming a peer support system are crucial in building self-efficacy and resilience in teachers.

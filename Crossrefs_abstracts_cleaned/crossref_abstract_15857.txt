@@ -1,0 +1,52 @@
+ABSTRACT
+
+            Critical to microbial versatility is the capacity to express the cohort of genes that increase fitness in different environments.
+            Legionella pneumophila
+            occupies extensive ecological space that includes diverse protists, pond water, engineered water systems, and mammalian lung macrophages. One mechanism that equips this opportunistic pathogen to adapt to fluctuating conditions is a switch between replicative and transmissive cell types that is controlled by the broadly conserved regulatory protein CsrA. A striking feature of the legionellae surveyed is that each of 14 strains encodes 4 to 7
+            csrA
+            -like genes, candidate regulators of distinct fitness traits. Here we focus on the one
+            csrA
+            paralog (
+            lpg1593
+            ) that, like the canonical
+            csrA
+            , is conserved in all 14 strains surveyed. Phenotypic analysis revealed that long-term survival in tap water is promoted by the
+            lpg1593
+            locus, which we name
+            csrR
+            (for “
+            Csr
+            A-similar protein for
+            r
+            esilience”). As predicted by its GGA motif,
+            csrR
+            mRNA was bound directly by the canonical CsrA protein, as judged by electromobility shift and RNA-footprinting assays. Furthermore, CsrA repressed translation of
+            csrR
+            mRNA
+            in vivo
+            , as determined by analysis of
+            csrR-gfp
+            reporters,
+            csrR
+            mRNA stability in the presence and absence of
+            csrA
+            expression, and mutation of the CsrA binding site identified on the
+            csrR
+            mRNA. Thus, CsrA not only governs the transition from replication to transmission but also represses translation of its paralog
+            csrR
+            when nutrients are available. We propose that, during prolonged starvation, relief of CsrA repression permits CsrR protein to coordinate
+            L. pneumophila
+            's switch to a cell type that is resilient in water supplies.
+          
+
+IMPORTANCE
+            Persistence of
+            L. pneumophila
+            in water systems is a public health risk, and yet there is little understanding of the genetic determinants that equip this opportunistic pathogen to adapt to and survive in natural or engineered water systems. A potent regulator of this pathogen's intracellular life cycle is CsrA, a protein widely distributed among bacterial species that is understood quite well. Our finding that every sequenced
+            L. pneumophila
+            strain carries several
+            csrA
+            paralogs—including two common to all isolates—indicates that the legionellae exploit CsrA regulatory switches for multiple purposes. Our discovery that one paralog, CsrR, is a target of CsrA that enhances survival in water is an important step toward understanding colonization of the engineered environment by pathogenic
+            L. pneumophila
+            .
+          

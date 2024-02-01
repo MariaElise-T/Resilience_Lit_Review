@@ -1,0 +1,23 @@
+
+Background:
+The well-being of patients undergoing chemotherapy treatment for colorectal cancer (CRC) is affected by psychological effects associated with cancer treatment. However, little is known about the impact of these psychological factors in Brazilian patients with CRC.
+
+
+Objective:
+The aim of this study was to determine whether perceived stress, social support, and resilience are associated with quality of life in urban Brazilian patients receiving chemotherapy treatment for CRC.
+
+
+Methods:
+This was a cross-sectional study conducted with 144 Brazilian CRC patients in an ambulatory oncology clinic. The participants completed 5 questionnaires: Demographics, Perceived Stress Scale 14, Social Support Satisfaction Scale, Resilience Scale, and European Organization for Research and Treatment of Cancer Quality of Life Questionnaires (C30 and CR29). Confirmatory factor analysis modeling and Cronbach’s α were used to examine construct validity and internal consistency. We used the MPlus 3.0 to construct and validate the structural model.
+
+
+Results:
+There was a moderate and positive effect of resilience on the physical, social, and emotional aspects of quality of life. Social support had a strong and positive direct effect on quality of life (ie, social, physical, social, and emotional). Social support had a negative effect on stress perception. Resilience was also negatively related to stress perception.
+
+
+Conclusions:
+Family support and professional social support are important factors for Brazilian CRC patients. Resilience is an important ally for patients. It is important for nurses to consider this when developing educational and psychological interventional strategies to reduce stress and ultimately improve quality of life in this population.
+
+
+Implication for Practice:
+Psychological factors that improve quality of life should be evaluated in patients undergoing treatment for cancer.

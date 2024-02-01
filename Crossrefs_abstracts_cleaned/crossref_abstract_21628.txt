@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Inflammatory bowel disease (IBD), namely ulcerative colitis and Crohn’s disease, is a chronic relapsing immune-mediated condition that may cause an impairment of social functions due to stigmatisation. Resilience instead is associated with an improvement in coping with adversities and thus may counteract the detrimental effects of stigmatisation. We here sought to determine the fluctuation of stigmatisation and resilience in a cohort of patients with IBD at 1-year follow-up.
+
+
+Methods
+This is a prospective, monocentric study conducted in a tertiary referral centre. All patients with IBD were assessed at enrolment and at one-year follow-up. Several clinical and demographic variables were collected. Stigmatisation was assessed through a validated Italian version of the Perceived Stigma Scale for IBD (PSS-IBD), while resilience was assessed through the 25-item Connor Davidson Resilience Scale (CD-RISC25). Also, self-efficacy scale (SEF), and self-esteem scale (SES) were assessed.
+
+
+Results
+In this study, 105 patients were enrolled (46 Crohn’s disease, 59 ulcerative colitis; mean age 47 years ±11, M:F ratio 1:1.2). None of the 4 scales showed a significant variation at one year compared to baseline (median CD-RISC25 64 at baseline vs 61 at follow-up; SEF 31 vs 30; SES 32.5 vs 32; PSS-IBD 0.45 vs 0.45). A statistically significant and inverse correlation was found between CD-RISC25 and PSS-IBD (rho -0.222, p=0.01), SEF and PSS-IBD (rho -0.219, p= 0.01), SES and PSS-IBD (-0.316, p=0.003). CD-RISC25 was found to be positively associated with inactive IBD (p=0.05).
+
+
+Conclusion
+Patients with IBD may perceive stigmatisation due to their disease, and this variable is stable on a long term. Interventions aimed at improving resilience, self-esteem, and self-efficacy may potentially counteract stigmatisation.

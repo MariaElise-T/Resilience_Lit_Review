@@ -1,0 +1,7 @@
+Summary
+
+Increased interest in managing resilience has led to efforts to develop standardized tools for assessments and quantitative measures. Resilience, however, as a property of complex adaptive systems, does not lend itself easily to measurement. Whereas assessment approaches tend to focus on deepening understanding of system dynamics, resilience measurement aims to capture and quantify resilience in a rigorous and repeatable way.
+We discuss the strengths, limitations and trade‐offs involved in both assessing and measuring resilience, as well as the relationship between the two. We use a range of disciplinary perspectives to draw lessons on distilling complex concepts into useful metrics.
+Measuring and monitoring a narrow set of indicators or reducing resilience to a single unit of measurement may block the deeper understanding of system dynamics needed to apply resilience thinking and inform management actions.
+Synthesis and applications. Resilience assessment and measurement can be complementary. In both cases it is important that: (i) the approach aligns with how resilience is being defined, (ii) the application suits the specific context and (iii) understanding of system dynamics is increased. Ongoing efforts to measure resilience would benefit from the integration of key principles that have been identified for building resilience.
+

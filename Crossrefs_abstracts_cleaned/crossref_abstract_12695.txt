@@ -1,0 +1,12 @@
+Abstract
+Background
+Prolonging the end-of-life process means that the duration of health care work increases and the management of death is delegated to health care providers by patients’ families. Thus, it is important to explore measures to enhance the quality of end-of-life care by identifying the predictors thereof. End-of-life care should be people-centred, relieving serious health-related suffering, be it physical, psychological, social, or spiritual. Nurses who provide end-of-life care usually spend the most time with dying patients, administering care to help patients who wish to die with dignity; therefore, end-of-life nursing care is highly significant.
+
+Methods
+This study was conducted on nurses of 500-bed or larger university hospitals in city D and province C in South Korea from 20 August to 10 September 2020 using a structured questionnaire. A total of 213 nurses with a minimum clinical career of one year and at least one EOLC experience participated. The final analysis sample consisted of 206 nurses. Descriptive analysis, Pearson’s correlation coefficients, ANOVA, t-test, and multiple-regression analysis were used to analyse the data.
+
+Results
+This study found that end-of-life care performance was significantly positively correlated with end-of-life care stress [r = .253, p < .001], sense of calling [r = .424, p < .001], and resilience [r = .397, p < .001]. End-of-life care stress [β = .185, p = .003], sense of calling [β = .259, p < .001], resilience [β = .252, p < .001], and working in a hospice ward [β = .140, p = .041] or intensive care unit [β = .218, p = .008], as opposed to the emergency department, were identified as predictors of end-of-life care performance. These factors explained 28.3% of the variance in the end-of-life care performance in this study.
+
+Conclusions
+Boosting the sense of calling and resilience among nurses providing palliative care can improve overall end-of-life care performances. Subsequent studies should develop and evaluate interventions and programs that could improve these factors to ensure a positive change in health care and enhance the quality of end-of-life care in hospitals.

@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this study is to identify and prioritize capabilities and practices to ensure a resilient supply chain during an unexpected disruption. In addition, this study ranks maturity factors that influence the main capabilities identified.
+
+
+Design/methodology/approach
+This paper is conducted in three stages. First, capabilities and practices are extracted through a literature review. Second, capabilities and practices are ranked using the analytical hierarchical process method. Third, a gray technique for order preference by similarity to ideal solution method is used to rank maturity factors influencing capabilities.
+
+
+Findings
+The findings indicate that responsiveness, readiness, flexibility and adaptability are the most important capabilities for supply chain resilience. Also, commitment and communication are the highest maturity factors influencing resilience capabilities.
+
+
+Research limitations/implications
+The findings provide a hierarchical vision of capabilities and practices for industries to increase resilience. Limitations of the paper are related to capabilities, practices and number of experts consulted.
+
+
+Practical implications
+This paper highlights the importance of high-maturity practices in resilience capability adoption. The findings of this study will encourage decisions-makers to increase maturity practices to build resilience against disruption.
+
+
+Originality/value
+The paper reveals that developing powerful capabilities, good practices and a high level of maturity improve supply chain resilience.

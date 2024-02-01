@@ -1,0 +1,40 @@
+Abstract
+
+STUDY QUESTION
+Are there any gender differences and dyadic interactions in the associations between infertility-related stress and resilience and posttraumatic growth in infertile couples?
+
+
+SUMMARY ANSWER
+Husbands’ posttraumatic growth was only impacted by their own infertility-related stress and resilience, whereas wives’ posttraumatic growth was influenced by their own resilience and their spouses’ resilience.
+
+
+WHAT IS KNOWN ALREADY
+Posttraumatic growth may play a significant role in protecting the infertile couples’ psychological well-being and contribute to positive pregnancy outcomes. The reciprocal influence on each other within the infertile couple in terms of relationships between infertility-related stress and resilience and posttraumatic growth has been largely overlooked.
+
+
+STUDY DESIGN, SIZE, DURATION
+This cross-sectional study included 170 couples who were recruited from the First Affiliated Hospital of Soochow University between September 2019 and January 2020.
+
+
+PARTICIPANTS/MATERIALS, SETTING, METHODS
+The Fertility Problem Inventory, Connor–Davidson Resilience Scale-10, and Post-traumatic Growth Inventory were used to measure infertility-related stress, resilience, and posttraumatic growth. The Actor-Partner Interdependence Model was used to analyze the effects of infertility-related stress and resilience on the couple’s own posttraumatic growth (actor effect) as well as on their partner’s posttraumatic growth (partner effect).
+
+
+MAIN RESULTS AND THE ROLE OF CHANCE
+Husbands had higher levels of resilience than wives, while no significant gender differences were found in the levels of infertility-related stress and posttraumatic growth. Posttraumatic growth correlated with each other among infertile couples. Husbands’ infertility-related stress had actor effects on their own posttraumatic growth, while wives’ infertility-related stress had no effect on their own or their spouses’ posttraumatic growth. Husbands’ resilience had actor and partner effects on their own and their wives’ posttraumatic growth, while wives’ resilience only had an actor effect on their own posttraumatic growth.
+
+
+LIMITATIONS, REASONS FOR CAUTION
+First, our sample was limited to infertile Chinese couples seeking clinical treatment. Second, sociodemographic and psychological measures were self-reported. Third, as the current study is a cross-sectional study, the dynamic process of posttraumatic growth is unknown.
+
+
+WIDER IMPLICATIONS OF THE FINDINGS
+Infertile couples should be considered as a whole in studies on infertility. Couple-based psychological interventions are critical and more effective in improving mental health among individuals with infertility. Elevating the level of resilience may contribute to improving posttraumatic growth for both husbands and wives. Moreover, enhancing the ability to cope with infertility-related stress might be useful for husbands and indirectly contribute to wives’ posttraumatic growth.
+
+
+STUDY FUNDING/COMPETING INTEREST(S)
+This research was supported by the National Natural Science Foundation of China (Grant No. 31900783) and the College Natural Science Research Project of Jiangsu Province (Grant No.19KJD320004). The authors declare no conflict of interest.
+
+
+TRIAL REGISTRATION NUMBER
+N/A.

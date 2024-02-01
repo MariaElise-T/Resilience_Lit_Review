@@ -1,0 +1,13 @@
+Abstract
+Background
+Gynecological surgery has many impacts on women’s physical and mental health, and efforts to improve recovery from surgery are constantly under evaluation. Resilience is an ability to overcome stressors and adversities, such as traumas and surgeries. This study aimed to explore patients’ resilience and psychological symptoms in relation to recovery, health-related quality of life (HRQoL), and pain one year after gynecological surgery.
+
+Methods
+In a prospective cohort study, we enrolled consecutive elective gynecologic surgery patients who completed questionnaires before and at one year after surgery: the Resilience Scale-25, the 15D instrument of HRQoL (15D), the Life Satisfaction Scale-4, and the Hospital Anxiety and Depression Scale. Their mean 15D scores were compared to those of an age-matched sample of women from the general Finnish population (n = 2743).
+
+Results
+We enrolled 271 women who underwent gynecological surgery due to benign (n = 190) and malignant (n = 81) diagnoses. Resilience was equally high in women with benign and malignant diagnoses at both time points. Higher resilience associated with less pain, analgesic use, and better pain relief from the use of pain medication at 12 months after surgery. Pain intensity was similar in the two groups, but patients with benign diseases had less pain at 12 months than before surgery. Before surgery, patients’ HRQoL was worse than that of the general population, but at 12 months the mean HRQoL of patients with benign diseases had improved to the same level as that in the general population but had decreased further in patients with malignant diseases. Anxiety was higher and life satisfaction was lower in patients with malignant diseases before surgery. At 12 months, anxiety had decreased in both groups, and life satisfaction had increased in patients with malignant diseases. Depression was similarly low in both groups and time points.
+
+Conclusions
+Resilience correlated with less pain one year after surgery. After surgery, HRQoL improved in patients with benign diseases but deteriorated in patients with malignant diseases. Patients with low resilience should be identified during preoperative evaluation, and health care professionals should give these patients psychological support to enhance their resilience.
+Trial Registration ClinicalTrials.gov; registered October 29, 2019; identifier: NCT04142203; retrospectively registered.

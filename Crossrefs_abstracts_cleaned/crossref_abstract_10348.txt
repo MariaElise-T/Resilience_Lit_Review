@@ -1,0 +1,20 @@
+ABSTRACT
+
+Background
+Because nurses often work in medical environments characterized by high workloads and high levels of stress and pressure, they are particularly vulnerable to workplace burnout and their well-being may suffer. Related studies on burnout, resilience, and well-being have focused primarily on teachers, social workers, and students, with few studies addressing the situation faced by nursing staff. It is important to understand the factors affecting the well-being of nursing staff.
+
+
+Purpose
+This study explores the status quo and correlations among nursing-staff demographic characteristics, workplace burnout, well-being-related resilience, and the predictive factors of well-being in nurses.
+
+
+Methods
+A cross-sectional, descriptive, correlational research design and purposive sampling were used in this study. Nursing staff who had worked for more than 6 months at a medical center in central Taiwan were recruited as participants, with data from 289 participants collected. A structured questionnaire was used to collect data on demographic characteristics, workplace burnout, resilience, and well-being.
+
+
+Results
+The average scores for workplace burnout, resilience, and well-being were 40.40/(0- to 100-point scale), 26.79/(10- to 50-point scale), and 43.25/(24- to 96-point scale), respectively. The result of the regression analysis explained about 51.6% of the variance in well-being. Furthermore, resilience (28.4%), self-perceived health (14.3%), workplace burnout (4.5%), exercise frequency (1.8%), job title (1.2%), interpersonal pressure relief resilience (0.9%), and marital status (0.5%) were other important predictive factors of well-being in the participants.
+
+
+Conclusions/Implications for Practice
+Medical institutions should provide appropriate resilience-enhancing countermeasures to reduce workplace burnout as well as pay greater attention to the exercise frequency, self-perceived health, job title, and marital status of their nurses to help them achieve physical, mental, and overall well-being.

@@ -1,0 +1,24 @@
+
+Introduction:
+            Chronic coronary disease (CCD) is a leading cause of death worldwide. Whole blood (WB) transcriptomic (RNA-seq) and methylation ‘omics’ data can discern molecular underpinnings of CCD and create molecular subtypes to aid risk prediction.
+          
+
+Methods:
+            Of 1,064 participants with moderate-severe ischemia (Age: 67.1±6.2, 19.4% Female, 17% non-White) from the ISCHEMIA (International Study of Comparative Health Effectiveness with Medical and Invasive Approaches) biorepository, 646 participants had available WB RNA-seq and 737 had WB methylation data (
+            Fig 1A
+            ). Unsupervised clustering and differential analyses identified omics-derived molecular subtypes. We identified co-regulated gene modules of each subtype, performed subtype-level enrichment of clinical variables, and performed Kaplan-Meier analyses for time to cardiovascular (CV) death or myocardial infarction (MI).
+          
+
+Results:
+            Multi-omic analysis revealed 4 RNA-seq-derived subtypes (RS) and 3 methylation-derived subtypes (MS). RNA-seq Subtype 1 (RS1) was enriched for molecular drivers indicative of an adaptive immune response, had clinical enrichment of female sex, statin use, and greater ischemia, and had decreased risk of CV death or MI (
+            Fig 1B
+            ). RNA-seq Subtype 2 (RS2) was enriched for innate immune response pathway, and patients who were older and White, and was associated with increased risk of CV death or MI. Similarly, methylation subtypes also yielded a high-risk subtype (MS3) and a low-risk subtype (MS2) (
+            Fig 1C
+            ). Integration of transcriptomic and methylomic subtypes led to further distinction of resilient and vulnerable subgroups.
+          
+
+Conclusions:
+            WB RNA-seq and methylation data identified molecularly-defined subtypes that informed the underlying disease pathology of CCD patients in ISCHEMIA. These subgroups were differentially enriched for clinical characteristics and event outcomes, demonstrating the potential use for blood-based omics tests to aid in the prognosis of CCD.
+          
+
+

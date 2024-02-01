@@ -1,0 +1,12 @@
+Abstract
+Background
+Test anxiety has been widely found in medical students. Emotion regulation and psychological resilience have been identified as key factors contributing to anxiety. However, studies on relationships were limited. This study investigated the links between psychological resilience, emotion regulation, and test anxiety in addition to exploring the differences about socio-demographic factors.
+
+Methods
+A sample of 1266 medical students was selected through cross-sectional survey from a medical university in China during 2019. Data were obtained by network technique using designed questionnaire, which assesses the level of test anxiety, emotion regulation and psychological resilience, respectively.
+
+Results
+Medical students experienced test anxiety at different levels, 33.7% of these were seriously. It revealed significant effects of the gender and academic performance on test anxiety. Results of logistic regression indicated that test anxiety was significantly associated with emotion regulation and psychological resilience (p < 0.01). Psychological resilience played a mediating role on the relationship between emotion regulation and test anxiety.
+
+Conclusions
+These findings highlight the importance of psychological resilience and emotion regulation in understanding how psychological resilience relates to test anxiety in medical students. Resilience-training intervention may be developed to support students encountering anxiety during the exam.

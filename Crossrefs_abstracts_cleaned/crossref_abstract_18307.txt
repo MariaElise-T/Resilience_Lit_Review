@@ -1,0 +1,47 @@
+Abstract
+The discovery that axisymmetric dust rings are ubiquitous in protoplanetary disks has provoked a flurry of research on the role of pressure bumps in planet formation. High-resolution simulations by our group have shown that even a modest bump can collect enough dust to trigger planetesimal formation by the streaming instability. In this work, we probe the limits of planetesimal formation when the external source of pressure bump reinforcement is extremely weak. We conduct simulations of radially elongated shearing boxes to capture the entire bump, which is generated and maintained over some timescale 
+
+
+
+
+
+
+t
+
+
+reinf
+
+
+
+
+ by a Newtonian relaxation scheme. We find that planetesimal formation is extremely resilient for centimeter-sized grains. We reduced the strength of reinforcement by up to a factor of 100 and the location and initial masses of planetesimals were essentially unaffected. However, we do find that strong reinforcement causes much faster pebble drift compared to the standard pebble drift rates. The resulting larger pebble flux enhances the planetesimal growth rate by pebble accretion. We hypothesize that, to sustain the bump, our code has to extract angular momentum (the strength of this negative torque depends on 
+
+
+
+
+
+
+t
+
+
+reinf
+
+
+
+
+), and some of this torque is transferred to the particles, causing them to drift faster for a stronger torque (i.e., smaller 
+
+
+
+
+
+
+t
+
+
+reinf
+
+
+
+
+). Since any physical process that sustains a pressure bump must do so by torquing the gas, we conjecture that the effect on pebble drift is a real phenomenon, motivating further work with physically realistic sources to generate the bump.

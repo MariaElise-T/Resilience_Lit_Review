@@ -1,0 +1,15 @@
+
+BACKGROUND:
+The psychological state of medical students gaining concern on the part of medical institutions in several countries. Numerous studies are being conducted to study stress, burnout, and depression in medical students in India and globally. However, little is known about medical student resilience, particularly in India. The objectives of this study were to study the resilience, self-perceptions of stress coping skills, and burnout among medical students in clinical training in a tertiary care health center, to study factors associated with resilience among medical students in clinical training in a tertiary care health center and to study the relationship between resilience and self-perceptions of stress coping skills and symptoms of burnout.
+
+
+MATERIALS AND METHODS:
+This cross-sectional study was conducted in a tertiary healthcare hospital in district Guntur, Andhra Pradesh from November 2020 to December 2020, among 186 adult male and female medical students, aged more than 20 years, enrolled in the regular degree course and part of patient care or at least last three months. Participants were randomly selected and a structured questionnaire with Connor Davidson Resilience Scale 10 was used for interviewing. Descriptive and inferential statistics were conducted to measure associations between outcome and explanatory variables. We used multiple linear regression to examine the association between dependent and independent variables. A P value less than. 05 was considered significant.
+
+
+RESULTS:
+In the present study, 109 (58.0%) were females. The mean age of the study participants was 25.4 years (standard deviation 2.78). The mean score resilience score of the study participants using Connor Davidson Resilience Scale 10 was 25.1 (standard deviation 7.97). Of the total 44 (23.7%) of the study, participants reported the presence of burnout. A significant positive correlation was between resilience and self-perceptions of stress-coping skills with a Pearson Correlation coefficient of 0.393. Among the study participants, the mean resilience score was higher among those not having any symptoms of burnout. In the hierarchical stepwise multiple linear regression analysis, male gender (P value = .014), financial independence (P value = .044), and absence of burnout symptoms (P value = .004) were significantly associated with higher resilience scores. Psychiatric medicine usage was significantly associated with a lower resilience score with P < .05.
+
+
+CONCLUSION:
+Our study samples had higher resilience and lower burnout prevalence compared to the West. The stressful clinical event experienced by medical students demands training and innovative strategies to foster communication and teamwork skills among medical teams.

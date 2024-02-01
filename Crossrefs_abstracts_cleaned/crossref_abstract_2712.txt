@@ -1,0 +1,15 @@
+
+Purpose
+Resilient hospitals have the vital role in reducing mortality, severity of injuries by providing required emergency services during accidents and disasters. This study aims to identify and prioritize key indicators on hospital resilience.
+
+
+Design/methodology/approach
+This cross-sectional study was conducted in 2019. The draft of the indicators obtained from the systematic review of the previous study was finalized, with three expert panel sessions and 14 experts in resilience fields. The outputs of these sessions were divided into three domains including constructive resilience, infrastructural resilience and administrative resilience, 17 sub-domains and 71 indicators. Then fuzzy analytic network process method was used to weight and prioritize the final indicators of hospital disaster resilience.
+
+
+Findings
+Administrative resilience, logistic and financial management and strategic outsourcing agreement allocated the highest weight as domain, sub-domains and indicators, respectively. The weight of each sub-domain and indicator was also determined.
+
+
+Originality/value
+Investigating the weight of domains, sub-domains and indicators shows the importance of managerial and operational issues in hospital resilience. By using the indicators and relative weights, a tool for measuring hospital disaster resilience can be created in further studies. The output of these assessments is effective in promoting safety and increasing awareness of hospital managers and health policymakers.

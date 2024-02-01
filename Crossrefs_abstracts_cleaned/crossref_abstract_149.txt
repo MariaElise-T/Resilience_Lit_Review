@@ -1,0 +1,15 @@
+
+Purpose
+Environmental treat poses a challenge to the entire built environment. This paper aims to focus on the building asset as the key element of any urban pattern, and, therefore, a crucial condition towards success or failure in achieving resilience. Through the environmental performance assessment of the adaptive reuse project in London, this paper identifies the design principles of resilience, focusing specifically on the measures for protecting vulnerable parts of the building from damage, as well as protecting exposed parts of the building from material degradation.
+
+
+Design/methodology/approach
+Based on the overview of both scholarly articles and practitioners’ guides, the authors first offer a systematic overview of the main qualities and attributes of the resilient design. Further, to operationalise the resilient design principles, the authors use the well-established Building Research Establishment’s Environmental Assessment Method (BREEAM) on the case of adaptive reuse of the Z Hotel Holborn in London. Specifically, the authors examine if the case building applies the measures to decrease its internal vulnerability and reduce negative effects of external hazards.
+
+
+Findings
+The study confirms that external shocks are controlled by protecting exposed building parts from degradation and that preventing damage to vulnerable parts of the building increases resilience.
+
+
+Originality/value
+Through the analysis of both reactive and proactive perspectives of resilience, this paper elucidates the concept of resilience in the context of architectural design. Furthermore, this paper identifies the attributes of resilient architectural design and presents the measures which directly influence the durability and resilience of the building asset.

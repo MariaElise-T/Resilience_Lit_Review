@@ -1,0 +1,15 @@
+
+Background:
+Treatment gap for common mental health problems, especially of the depressive disorders is consequential in developing countries like India. Positive mental health domains like resilience and self-compassion have been long hailed as protective factors against depression and viable for use in therapeutic aspects. The objectives were to find an association between resilience, self-compassion, and depression.
+
+
+Methods:
+The study was conducted using a cross-sectional design among 75 respondents who were seeking treatment for major depressive disorders from a tertiary care center during the second wave of COVID-19. Three scales were administered online, namely Beck’s Depression Inventory-II (BDI-II), Connor Davidson Resilience Scale (CD RISC-25), and Self-Compassion Scale-Short Form (SCS-SF). Spearman’s rank correlation test, Chi-square with Fisher’s exact test, and Kruskal Wallis H test were used to study the relationships and differences in average scores with respect to the severity of depression.
+
+
+Results:
+Most of the respondents had moderate depressive features along with moderately high levels of resilience (CD RISC 25) and self-compassion (SCS-SF) scores. Resilience and self-compassion were found to have no significant relationship with respect to the severity of depression. There was a weakly positive correlation between resilience and self-compassion among those with moderate and severe depression.
+
+
+Conclusion:
+Since the individuals with depression had higher scores on resilience and self-compassion, the levels of depression remained at moderate levels of severity despite the devastating impact of the second wave of COVID-19 in the Indian sub-continent. Results are to be interpreted with respect to psychosocial contexts arising during the COVID-19 pandemic. Mental health programs can incorporate the variables of resilience and self-compassion in intervention among individuals with depression which have likely been beneficial in their process of recovery.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Amidst ongoing calls for increased health systems resilience, gaps remain in our understanding of how health systems can reach further into communities to ensure resilient service delivery. Indeed, public health emergencies caused by infectious hazards reveal both the value and vulnerability of the workforce delivering health services in communities. This study explores ways in which a non-governmental organization (NGO) in the Philippines protected their frontline workforce during the first year of the COVID-19 pandemic.
+
+Methods
+Guided by a qualitative descriptive approach, 34 in-depth interviews were conducted with community-based health actors employed by the NGO between June 2020 and February 2021. Data analysis was guided by an iterative deductive and inductive approach.
+
+Results
+We identified four key activities that enabled the NGO and their staff to provide health and social services in communities in a safe and consistent manner as part of the organization’s pandemic response. These include (1) ensuring adequate personal protective equipment (PPE) and hygiene supplies; (2) providing contextualized and role-specific infection prevention and control (IPC) training; (3) ensuring access to testing for all staff; and (4) providing support during quarantine or isolation.
+
+Conclusion
+Learning from the implementation of these activities offers a way forward toward health emergency preparedness and response that is crucially needed for NGOs to safely leverage their workforce during pandemics. Further, we describe how community-based health actors employed by NGOs can contribute to broader health systems resilience in the context of health emergency preparedness and response.

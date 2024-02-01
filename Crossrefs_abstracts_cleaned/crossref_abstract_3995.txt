@@ -1,0 +1,15 @@
+Background: Resilience engineering (RE) is a new approach to upgrade safety management  systems. Due to its novelty in the field of safety, RE seems to be promising in providing good
+indicators to assess priorities in organizational strengths/weaknesses while planning to promote
+safety within organizations. Several methods have been recently developed to evaluate RE
+performance. The current study is an attempt to quantify and determine the priorities of RE
+dimensions in a steel industry using analysis network process (ANP).
+Methods: In this cross-sectional study, 489 male workers of a steel industry participated. For
+this purpose, the RE questionnaire was distributed among workers and, then, super decisions
+software (version 3.2) was used to analyze the data.
+Results: The results indicated that there was a sufficient level of RE in the organization where
+top management commitment with normalized weight 0.1781 and awareness-opacity with
+normalized weight 0.1483 were ranked as the first and last priorities of the organization,
+respectively.
+Conclusion: The results of this study showed that the top management system, with the adoption
+of safety policies, has been able to improve the performance of RE in the organization. Managers
+should consider appropriate measures to improve the RE situation.

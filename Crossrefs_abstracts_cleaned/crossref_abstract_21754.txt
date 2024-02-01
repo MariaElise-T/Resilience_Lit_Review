@@ -1,0 +1,12 @@
+Abstract
+Background
+Longitudinal work on the impact of COVID-19 on population mental health and resilience beyond the first year of the pandemic is lacking. We aimed to understand how mental health and resilience evolved during the pandemic (2020) and two years later (2022) in a multi-ethnic Singaporean population. In addition, we assessed what characteristics were associated with mental health and resilience scores.
+
+Methods
+We surveyed and analysed two balanced panel samples up to four times between 30th April 2020 and 11th July 2022. One panel assessed psychological distress (Kessler-10) and well-being (short Warwick Edinburgh Mental Well-being scale) n = 313, and one panel assessed resilience (10-item Connor-Davidson Resilience Scale©) n = 583. A linear panel regression model with random effects assessed the temporal patterns for psychological distress, well-being, and resilience.
+
+Results
+Mean psychological distress scores (Kessler-10) were relatively stable over time and were not statistically significantly worse than baseline at any follow-up. Well-being scores improved over time and were significantly better than baseline by the third survey (22nd Jul-18th Aug 2020) (0.54 p = 0.007, Cohen’s d 0.12). Scores had worsened by the last survey (27th June-11th July 2022) but were not significantly different from baseline 0.20 p = 0.30. Resilience scores declined over time. Scores at both follow-ups (14th Aug- 4th Sep 2020 and 27th June-11th July 2022) were statistically significantly lower than baseline: -1.69 p < 0.001 (Cohen’s d 0.25) and -0.96 p = 0.006 (Cohen’s d 0.14), respectively.
+
+Conclusions
+Our study joins a body of work measuring the longitudinal effects of COVID-19 on population mental health and resilience. While, the magnitude of the effect related to resilience decline is small, our findings indicate that particular attention should be given to ongoing population surveillance, with the aim of maintaining good health and well-being.

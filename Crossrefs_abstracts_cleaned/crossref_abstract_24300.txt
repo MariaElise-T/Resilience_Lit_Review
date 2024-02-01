@@ -1,0 +1,36 @@
+Abstract
+Background
+There is growing interest in using genetic selection to obtain more resilient farm animals (i.e. that are minimally affected by disturbances or rapidly recover from them). The aims of this study were to: (i) estimate the genetic parameters of resilience indicator traits based on egg production data, (ii) assess whether these traits are genetically correlated in purebreds and crossbreds, and (iii) assess the genetic correlations of these traits with egg production (EP) as total number of eggs between 25 and 83 weeks. Purebred hens (33,825 from a White Leghorn (WA) line and 34,397 from a Rhode Island (BD) line were housed in individual cages, while crossbred hens were housed in collective cages of 6 to 8 paternal half-sibs (12,852 WA and 3898 BD crossbred groups, where the name of the group refers to the line used as the sire). Deviations of a hen’s weekly egg production from the average of the corresponding batch were calculated. Resilience indicator traits investigated were the natural logarithm of the variance (LNVAR), the skewness (SKEW), and the lag-one autocorrelation (AUTO-R) of these deviations.
+
+Results
+In both purebred lines, EP was estimated to be lowly heritable (WA: 0.11 and BD: 0.12). Resilience indicators were also estimated to be lowly heritable in both lines (LNVAR: 0.10 and 0.12, SKEW: 0.04 and 0.02, AUTO-R: 0.06 and 0.08 in WA and BD, respectively). In both crossbred groups, EP, AUTO-R, and SKEW were estimated to be less heritable than in purebreds (EP: $$h^{2}$$
+
+h
+2
+
+ ≤ 0.07; and resilience indicator traits: $$h^{2}$$
+
+h
+2
+
+ ≤ 0.03), while LNVAR had an $$h^{2}$$
+
+h
+2
+
+ estimate that was similar to or higher in crossbreds ($$h^{2}$$
+
+h
+2
+
+ ranged from 0.13 to 0.21) than in purebreds. In both purebreds and crossbreds, resilience indicator traits were estimated to have favorable genetic correlations with EP and between each other. For all traits and in both lines, estimates of genetic correlations between purebreds and crossbreds ($$r_{pc}$$
+
+r
+
+pc
+
+
+) differed from 1 and ranged from 0.16 to 0.63.
+
+Conclusions
+These results show that selection for resilience based on EP data can be considered in breeding programs for layers. Genetic improvement of resilience in crossbreds can be achieved by using information on purebreds, but would be greatly enhanced by the integration of information on crossbreds in breeding programs.

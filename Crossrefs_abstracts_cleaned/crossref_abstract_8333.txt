@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Avoidable Mortality is an indicator of the effectiveness of Health Services. We know that Gross Domestic Product (GDP) and other macroeconomic indicators are related to health indicators. The aim was to study the impact of economic indicators on Avoidable Mortality, in Italy, with attention to the periods following the economic crisis and COVID-19 epidemic.
+
+
+Methods
+GDP, Gini Coefficient (GC) and other economic and epidemiologic data were collected from the beginning of the Century up to the present from the Italian National Institute of Statistics database (ISTAT) and the Italian National Institute of Health (ISS). Mortality data (597 causes coded by ICD-9) was divided in Preventable, Amenable and Avoidable categories. Spearman's rank Correlation Coefficient was carried out with STATA software. The analysis was performed, also using JOINPOINT software, on the entire Italian territory and then specifically on the 20 Regions.
+
+
+Results
+GDP trend showed two decreasing phases occurred between 2008-2009 and 2012-2013. A negative correlation (p.&lt;0.05) has been demonstrated in 7 Regions between GDP values and Avoidable Mortality, 5 Regions for Preventable and Amenable Mortality. GC showed a fluctuating but growing trend without any correlation with all categories of Avoidable Mortality. In 2020, after the start of the COVID-19 pandemic (in February 2020 in Italy), GDP and Employment Rate (ER) declined rapidly, but not always homogeneously.
+
+
+Conclusions
+The upward trend of the GC reflects an increase in inequality in the period following the economic crisis. GDP trend reflects the phases of the economic crisis impacting on epidemiological indicators with a latency of about 4 years. The negative correlation between GDP and Avoidable Mortality can not be observed in all Regions. This may be explained by heterogeneous administrative policies and different levels of resilience among Regions: another description of the “european microcosm” represented by Italy.
+
+
+Key messages
+The impact of the economic crisis on Avoidable Mortality has about 4 years of latency. COVID-19 pandemic has a faster impact on GDP and ER. Italian Regions show different levels of resilience.

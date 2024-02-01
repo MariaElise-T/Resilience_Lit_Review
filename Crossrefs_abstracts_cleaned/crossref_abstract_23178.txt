@@ -1,0 +1,20 @@
+
+Introduction:
+            Psychological distress has been linked to obesity through its impact on health behaviors, including sleep, while resilience has shown a protective effect on health. However, limited evidence is available on the role of sleep and resilience on the association between psychological distress and obesity, especially among women.
+          
+
+Hypothesis:
+            We hypothesized that sleep would be a significant mediator of the positive association between psychological distress and obesity markers, while higher resilience would attenuate this association in a community-sample of racially/ethnically diverse women.
+          
+
+Methods:
+            This was a cross-sectional analysis of baseline data collected from 237 women from the AHA Go Red for Women cohort (69% [163 of 237] racial/ethnic minority, 34.1±13.5y). Psychological and sleep variables were assessed using validated self-reported questionnaires, including psychosocial questionnaires (Perceived Stress Scale, Global Perceived Stress Scale, Life Events Checklist, Patient Health Questionnaire, Brief Resilience Scale) and sleep questionnaires (Pittsburgh Sleep Quality Index, Insomnia Severity Index). Sleep outcomes included sleep duration, sleep quality, and insomnia severity. Anthropometric measures of obesity were collected by a trained study staff member and included BMI and waist circumference. Linear regression models, causal mediation, and moderation analyses were performed, adjusting for age and insurance status.
+          
+
+Results:
+            There was a trend for a positive association between perceived stress and waist circumference (β=0.22±0.12, p=0.069). All measures of psychological distress were associated with poorer sleep outcomes (all p<0.05). Having shorter sleep, poor quality sleep, and higher insomnia severity was associated with higher BMI (β=-1.12±0.30, β=0.23±0.11, β=0.17±0.07, respectively; all p<0.05) and waist circumference (β=-1.08±0.27, β=0.29±0.10, β=0.19±0.06, respectively; all p<0.05). Sleep duration (Natural Indirect Effect [NIE]=0.11±0.04, p=0.012), sleep quality (NIE=0.10±0.05, p=0.037), and insomnia severity (NIE=0.13±0.05, p=0.020) mediated the association between perceived stress and waist circumference. Resilience attenuated the association between perceived stress and waist circumference (interaction effects: -0.78±0.34, p=0.021), such that those with higher resilience had a lesser influence of perceived stress on waist circumference.
+          
+
+Conclusions:
+            These findings suggest that promoting better sleep health and resilience among women reporting psychological distress may help reduce the risk of obesity and should be considered within interventions for the promotion of cardiometabolic health. However, the temporality and causality of the relationships between psychological factors, sleep, and obesity should be further investigated in longitudinal and clinical studies.
+          

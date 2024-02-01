@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+Resilience has been found to be a factor in concussion recovery, and the Brief Resilience Scale (BRS) has been validated as a measure of resilience in adults. Investigation of the BRS in adolescents with concussion and its relationship with current measures of anxiety, depression, and emotional symptoms may prove beneficial in further understanding emotional response to concussions in adolescents.
+
+
+Method
+Participants aged 12–17 who sustained a concussion (n = 1168) were evaluated within 30 days of injury at a North Texas Concussion Registry (ConTex) clinic. Participants completed the Brief Resilience Scale (BRS), the General Anxiety Disorder 7 scale (GAD-7), the Patient Health Questionnaire depression scale (PHQ-8), and the emotional cluster (feeling irritable, sad, nervous, and more emotional) of the Sport Concussion Assessment Tool 5th Edition Symptom Evaluation (SCAT5) at initial visit. Pearson’s correlation coefficient (r) was used to determine the relationship between scores on these four measures.
+
+
+Results
+Pearson correlations between BRS scores and scores from the other measures were modest but statistically significant: GAD-7 (r = −0.392, p &lt; 0.001), PHQ-8 (r = −0.321, p &lt; 0.001), and the emotional cluster of the SCAT5 (r = −0.301, p &lt; 0.001).
+
+
+Conclusions
+Comparison of BRS score with GAD-7, PHQ-8, and the emotional cluster of the SCAT5 indicates that resilience may exhibit a modest inverse correlation with screening measures of anxiety, depression, and emotional symptoms, and thus a discrete factor for use in evaluating initial emotional response to concussion in adolescents.

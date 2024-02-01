@@ -1,0 +1,19 @@
+
+Purpose
+Lean distributed manufacturing (LDM) is being considered as an enabler of achieving sustainability and resilience in manufacturing and supply chain operations. The purpose of this paper is to enhance the understanding of how LDM characteristics affect the resilience of manufacturing companies by drawing upon the experience of food manufacturing companies operating in the UK.
+
+
+Design/methodology/approach
+The paper develops a conceptual model to analyse the impact of LDM on the operational resilience of food manufacturing companies. A triangulation research methodology (secondary data analysis, field observations and structured interviews) is used in this study. In a first step, LDM enablers and resilience elements are identified from literature. In a second step, empirical evidence is collected from six food sub-sectors aimed at identifying LDM enablers being practised in companies.
+
+
+Findings
+The analysis reveals that LDM enablers can improve the resilience capabilities of manufacturing companies at different stages of resilience action cycle, whereas the application status of different LDM enablers varies in food manufacturing companies. The findings include the development of a conceptual model (based on literature) and a relationship matrix between LDM enablers and resilience elements.
+
+
+Practical implications
+The developed relationship matrix is helpful for food manufacturing companies to assess their resilience capability in terms of LDM characteristics and then formulate action plans to incorporate relevant LDM enablers to enhance operational resilience.
+
+
+Originality/value
+Based on the literature review, no studies exist that investigate the effects of LDM on factory’s resilience, despite many research studies suggesting distributed manufacturing as an enabler of sustainability and resilience.

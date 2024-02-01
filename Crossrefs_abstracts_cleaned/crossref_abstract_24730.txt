@@ -1,0 +1,36 @@
+Significance
+
+            In Cambodia, where
+            Plasmodium vivax
+            and
+            Plasmodium falciparum
+            are coendemic and intense multimodal malaria-control interventions have reduced malaria incidence,
+            P
+            .
+            vivax
+            malaria has proven relatively resistant to such measures. We performed comparative genomic analyses of 150
+            P
+            .
+            vivax
+            and
+            P
+            .
+            falciparum
+            isolates to determine whether different evolutionary strategies might underlie this species-specific resilience. Demographic modeling and tests of selection show that, in contrast to
+            P
+            .
+            falciparum
+            ,
+            P
+            .
+            vivax
+            has experienced uninterrupted growth and positive selection at multiple loci encoding transcriptional regulators. In particular, a strong selective sweep involving an AP2 transcription factor suggests that
+            P
+            .
+            vivax
+            may use nuanced transcriptional approaches to population maintenance. Better understanding of
+            P
+            .
+            vivax
+            transcriptional regulation may lead to improved tools to achieve elimination.
+          

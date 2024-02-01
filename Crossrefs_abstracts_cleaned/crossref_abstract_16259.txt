@@ -1,0 +1,12 @@
+Abstract
+Backgound
+Nurses working in care homes face significant challenges that are unique to that context. The importance of effective resilience building interventions as a strategy to enable recovery and growth in these times of uncertainty have been advocated. The aim of this rapid review was to inform the development of a resource to support the resilience of care home nurses. We explored existing empirical evidence as to the efficacy of resilience building interventions. undertaken with nurses.
+
+Methods
+We undertook a rapid review using quantitative studies published in peer reviewed journals that reported resilience scores using a valid and reliable scale before and after an intervention aimed at supporting nurse resilience. The databases; Cumulative Index to Nursing and Allied Health Literature, Medline and PsychInfo. and the Cochrane Library were searched. The searches were restricted to studies published between January 2011 and October 2021 in the English language. Only studies that reported using a validated tool to measure resilience before and after the interventions were included.
+
+Results
+Fifteen studies were included in this rapid review with over half of the studies taking place in the USA. No studies reported on an intervention to support resilience with care home nurses. The interventions focused primarily on hospital-based nurses in general and specialist contexts. The interventions varied in duration content and mode of delivery, with interventions incorporating mindfulness techniques, cognitive reframing and holistic approaches to building and sustaining resilience. Thirteen of the fifteen studies selected demonstrated an increase in resilience scores as measured by validated and reliable scales. Those studies incorporating ‘on the job,’ easily accessible practices that promote self-awareness and increase sense of control reported significant differences in pre and post intervention resilience scores.
+
+Conclusion
+Nurses continue to face significant challenges, their capacity to face these challenges can be nurtured through interventions focused on strengthening individual resources. The content, duration, and mode of delivery of interventions to support resilience should be tailored through co-design processes to ensure they are both meaningful and responsive to differing contexts and populations.

@@ -1,0 +1,15 @@
+
+Purpose
+Life satisfaction influences well-being. Medical students often experience more stress as compared to their counterparts in other disciplines as they are required to meet the demands of both academic workload and clinical responsibilities. However, during the current pandemic, in addition to academic changes, inability to complete clinical placements, loss of peer interaction and social connectedness and, deployment to areas in times of crisis could exacerbate their stress. This would impact their ability to cope with stress and eventually influence their life satisfaction. Students approach these challenges in various ways, either positively, religiously, or by avoiding. This study aimed to explore the association between resilience, coping mechanisms and life satisfaction in medical students during the pandemic.
+
+
+Methods
+A cross-sectional web-based survey was conducted from undergraduate medical students from year 1 to year 5. Three instruments were used to measure life satisfaction, resilience, and coping, namely The Brief Resilience Scale, The Satisfaction with Life Scale and the COPE inventory. Mean and standard deviation were calculated for all continuous variables. Robust linear regression model was used for analysis. Hierarchical (forward) stepwise model building technique was used for final model. Alpha cut off was kept at 0.05.
+
+
+Results
+A total of 351 students (out of 500 students) completed the questionnaires. A moderately negative, slightly linear correlation between life satisfaction and avoidant coping was reported. Life satisfaction showed moderately positive, slightly linear correlation with resilience score. Three variables stayed significant in the final model: Resilience, avoidant coping, and religion coping.
+
+
+Conclusion
+Life satisfaction can be improved among medical students by focusing on strategies which enhance resilience. Religion is identified as a significant coping strategy among medical students. Students coping mechanism can vary and more research is needed to assess which types of coping strategies could contribute positively to the quality of their personal and professional lives

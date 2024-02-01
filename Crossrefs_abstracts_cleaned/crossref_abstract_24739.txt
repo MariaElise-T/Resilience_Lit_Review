@@ -1,0 +1,5 @@
+
+            Tropical cyclones drive coastal ecosystem dynamics, and their frequency, intensity, and spatial distribution are predicted to shift with climate change. Patterns of resistance and resilience were synthesized for 4138 ecosystem time series from
+            n
+            = 26 storms occurring between 1985 and 2018 in the Northern Hemisphere to predict how coastal ecosystems will respond to future disturbance regimes. Data were grouped by ecosystems (fresh water, salt water, terrestrial, and wetland) and response categories (biogeochemistry, hydrography, mobile biota, sedentary fauna, and vascular plants). We observed a repeated pattern of trade-offs between resistance and resilience across analyses. These patterns are likely the outcomes of evolutionary adaptation, they conform to disturbance theories, and they indicate that consistent rules may govern ecosystem susceptibility to tropical cyclones.
+          

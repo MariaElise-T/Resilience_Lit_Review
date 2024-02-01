@@ -1,0 +1,12 @@
+Abstract
+Background
+Suicide attempt and opioid misuse continue to be major behavioral health challenges among American Indians and Alaska Natives (AI/AN). The aim of the study is to evaluate the mediating and moderating role that social support (SS) plays in their association among AI/AN high-school students in New Mexico (NM).
+
+Methods
+An aggregated NM Youth Resiliency and Risk Survey (NM-YRRS, 2009-2019: odd years) dataset was used. Multivariable logistic regression modeling and mediation analysis were conducted while adjusting for confounding variables.
+
+Results
+Overall, 12.0 and 14.0% of AI/AN students reported opioid misuse and suicide attempt, respectively. The adjusted odds ratio of suicide attempt in students with high SS relative to low SS who misused opioids was 0.43 (p-value = 0.007). The effect of high SS relative to low SS among males who misused opioids was more pronounced (AOR = 0.24, p-value < 0.0001) compared to females (AOR = 0.43, p-value = 0.007). Relative to low SS, high SS was protective for suicide attempt among AI/AN students who misused opioids and attended school in off-reservation (AOR = 0.42, p-value = 0.012) communities, rural communities (AOR = 0.44, p = 0.040), and in communities that are both rural and off-reservation (AOR = 0.39, p = 0.035). Overall, 23.64, and 41.05% of the association between opioid misuse, and suicide attempt was mediated and moderated by SS, respectively. The mediation effect of SS was lowest for rural, on-reservation schools.
+
+Conclusion
+More resources need to be allocated to rural on-reservation schools to enhance social support. The study highlights key insights into the significant role SS plays in promoting health and mitigating the association between opioid misuse and suicide attempt.

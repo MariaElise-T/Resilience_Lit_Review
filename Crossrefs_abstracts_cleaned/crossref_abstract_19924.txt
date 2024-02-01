@@ -1,0 +1,12 @@
+Abstract
+Background
+Children less than five years of age comprised approximately 30% in 2020 of foster care entries in the United States, and they are consistently the largest foster care entry group. Very young children can respond differently to the same adverse life events. Detection of complex interpersonal traumas is core to providing appropriate interventions and prevention of reoccurring negative outcomes in these children.
+
+Methods
+Children who (1) were identified as having experienced complex interpersonal trauma, but (2) who did not have traumatic stress symptoms were identified using Child and Adolescent Needs and Strengths data in a large midwestern state from 2010 to 2021. A logistic model was fit to determine the effect of cumulative traumatic exposures (e.g., adverse childhood experiences such that increased events were hypothesized to predict an increased likelihood of symptomatic detection. We conducted a latent class analysis to understand the relationship between traumatic experiences, asset-based factors, and the detection of traumatic stress in children aged five years and under who had exposure to traumatic events but did not have detectable traumatic stress symptoms.
+
+Results
+We detected three classes within this population of very young children, who were described as “resilient” (demonstrating asset-based resilience when faced with traumatic experiences), “missed” (those who exhibit behavioral and mental health types like those with detected traumatic stress symptoms but who were not detected as such), and “unfolding”. Very young children do demonstrate asset-based resilience when faced with traumatic experiences.
+
+Conclusions
+Detection of traumatic stress may be more difficult in young children. It is important to assess both traumatic stress and strengths to ensure that children who are resilient after exposure to traumatic experiences (i.e., do not demonstrate traumatic stress symptoms) are not referred to unnecessary interventions. Additional educational approaches are needed to help caseworkers identify symptoms of traumatic stress that mirror symptoms of other behavioral and emotional challenges. Precision medicine approaches are required to best match the interventions to specific needs of young children. Recognition of resilience in very young children is critical for designing systems that customize approaches of trauma-informed care.

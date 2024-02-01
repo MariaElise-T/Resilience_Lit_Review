@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Line management tends to be associated with increased responsibility and accountability in the workplace and can be a challenging and high-pressured role. More resilient line managers are more likely to continue to perform despite work stressors.
+
+
+Aims
+This study aimed to assess the association of various coping strategies and resources on resilience levels amongst line managers working within a corporate office-based environment.
+
+
+Methods
+A questionnaire-based cross-sectional study was carried out over 4 weeks in 2020. The questionnaire probed demographic factors and the use of strategies and resources which may enhance resilience. Resilience was assessed using the Connor–Davidson Resilience Scale.
+
+
+Results
+On regression analysis, resilience tended to increase with increasing years of line management. When each strategy/resource was considered separately and adjusted for the number of years of line management, exercise outside of work (B, 0.302; 95% confidence intervals [CIs], 0.109 to 0.495), hobbies/interests (B, 0.252; 95% CIs, 0.095 to 0.410) and socializing (B, 0.204; 95% CIs, 0.042 to 0.367) were all significant predictors of resilience.
+
+
+Conclusions
+The key coping strategies and resources that had the strongest association with resilience amongst office-based line managers were those that related to their personal lives, with exercise being of particular importance. This study highlights the importance of emphasizing work–life balance and lifestyle factors within workplace manager training and resilience programmes, as well as in the occupational health clinic. Additional support and health promotion for managers in their first few years of management responsibility may also be beneficial.

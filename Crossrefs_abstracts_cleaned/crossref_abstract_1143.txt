@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to propose a risk-sharing model to coordinate the decision-making behavior of players in a cassava-based bioethanol supply chain under random yield and demand environment, so as to mitigate the yield and demand uncertainty risk and improve the bioethanol supply chain resiliency and performance.
+
+
+Design/methodology/approach
+The decision-making behavior under three models, namely, centralized model, decentralized model and risk-sharing model, are analyzed. An empirical test of the advantages and feasibility of the proposed risk-sharing model, as well as the test of yield uncertainty risk, risk-sharing coefficients and randomly fluctuating cassava market price on the decision-making behavior and performances are provided.
+
+
+Findings
+Though the proposed risk-sharing model cannot achieve the supply chain performance in the centralized model, it does help to encourage the farmers and the company to increase the supply of cassava and achieve the Pareto improvement of both players compared to the decentralized model. In particular, these improvements will be enlarged as the yield uncertainty risk is higher.
+
+
+Practical implications
+The findings will help decision makers in the bioethanol supply chain to understand how to mitigate the yield uncertainty risk and improve the supply chain resiliency under yield and demand uncertainty environment. It will also be conducive to ensure the supply of feedstock and the development of the bioethanol industry.
+
+
+Originality/value
+The proposed risk-sharing model incorporates the yield uncertainty risk, the random market demand and the hierarchical decision-making behavior structure of the bioethanol supply chain in the model.

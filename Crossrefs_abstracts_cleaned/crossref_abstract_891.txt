@@ -1,0 +1,15 @@
+
+Purpose
+This study aims to provide an analysis and evaluation of infrastructure resilience, one of the components of disaster resilience, to natural hazards.
+
+
+Design/methodology/approach
+The analysis of this study consists of four stages. First, descriptive statistical analyses were carried out on the soft and hard infrastructure resilience and natural hazard index. Second, the spatial data were visualized through the exploratory spatial data analysis to understand the spatial distribution and spatial characteristics of variables of the data. Third, the local indicators of the spatial association method were used to identify areas in clusters where infrastructure resilience is weak. Fourth, comparisons were made between the soft and hard infrastructure resilience and natural hazard index: the level of natural hazard is high but the soft and infrastructure resilience remain very vulnerable to disaster.
+
+
+Findings
+The study found that infrastructure resilience varies from community to community, particularly in the same community, in terms of hard infrastructure and soft infrastructure. In addition, the comparative analysis between infrastructure resilience and disaster risk levels resulted in communities that were likely to suffer greatly in the event of a disaster.
+
+
+Originality/value
+This study is meaningful in that infrastructure resilience of Korean local governments was discussed by dividing them into soft and hard infrastructure and comparing them to natural disaster risk levels. In particular, the comparison with the natural disaster risk level identified local governments that are likely to experience significant damage from the natural disaster, which is meaningful in that it serves as a basis for policy practitioners to actively build infrastructure and respond to disasters.

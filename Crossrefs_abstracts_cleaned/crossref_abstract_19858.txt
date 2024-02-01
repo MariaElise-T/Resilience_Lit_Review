@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to apply a Lean Six Sigma framework to support continuous improvement in the maritime industry (shipbuilding, logistics services and shipping companies) during COVID-19 pandemics. By applying the concepts of Lean Six Sigma and supply chain resilience, the most suitable continuous improvement method for the maritime industry is developed to maintain a resilient supply chain during COVID-19.
+
+
+Design/methodology/approach
+A specific shipbuilding, logistics services and shipping company in Indonesia is chosen as the research object. The Lean Six Sigma framework reveals the wastes through the supply chain resilience concept, and implements internal business processes to maintain optimal system performance.
+
+
+Findings
+The paper identifies important implementation aspects in applying Lean Six Sigma to shipbuilding, logistics services and shipping. The DMAIC (define, measure, analyze, improve and control) approach is applied to achieve supply chain resilience. Resilient measures are generated for the case companies to maximize performance during the pandemics.
+
+
+Practical implications
+This paper provides a new insight for integrating Lean Six Sigma and resilience strategies in the maritime industry during COVID-19 disruptions. The authors provide some insights to sustain the performance of the maritime industries under study.
+
+
+Originality/value
+This study is part of the first research in the maritime industry that focuses on continuous improvement during COVID-19 using Lean Six Sigma and supply chain resilience.

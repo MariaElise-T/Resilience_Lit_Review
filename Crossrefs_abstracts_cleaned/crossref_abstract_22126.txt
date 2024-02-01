@@ -1,0 +1,12 @@
+Objectives: Adolescents with newly diagnosed T1D are at risk for poor physical and psychosocial outcomes. Our aim was to understand if diabetes distress and resilience assessed at 1-year post diagnosis was associated with A1C up to 5 years following diagnosis.
+Method: Adolescents (age 10-17) with newly diagnosed T1D completed diabetes distress (Problem Area in Diabetes Scale – Teen version) and the Connor-Davidson Resilience Scale at one-year post diagnosis. A1C was extracted from patient charts from time of diagnosis up to 5 years later, and values were averaged for each year. Regression analyses were used to investigate the associations between: 1) resilience and A1C and 2) diabetes distress and A1C, both up to five years post diagnosis.
+Results: At one year post-diagnosis, N=60 adolescents (M=13.22 years, SD=2.09 years) completed distress (M=27.97, SD=7.01) and resilience scales (M=40.35, SD=17.10). Average A1C was 7.73 (SD=1.57). Diabetes distress was associated with average A1C in the second year (F(1,29)=4.397, p=.045, R2=.132), third year, (F(1,27)=6.596, p=.016, R2=.196), fourth year, (F(1,24)=10.196, p=.004, R2=.298), and fifth year post-diagnosis (F(1,19)=10.665, p=.004, R2=.360).
+Resilience was associated with average A1C in the second year (F(1,29)=6.848, p=.014, R2=.191) and fifth years (F(1,19)=4.790, p=.041, R2=.201) post-diagnosis. (Trends were observed for the third (p=.095) and fourth years (p=.065)).
+Conclusions: Diabetes distress and resilience levels shortly following diagnosis (at 1-year) are both associated with glycemic control up to 5 years later. Thus, targeted psychosocial interventions to boost resilience and decrease diabetes distress in the first year following diagnosis should be explored to improve long term outcomes in this high-risk population.
+
+Disclosure
+S.R. Scott: None. B.M. Ellisor: None. M.B. O’Donnell: None. A. O’Daffer: None. E.M. Manczak: None. F. Malik: None. J. Yi-Frazier: None.
+
+
+Funding
+Seattle Children’s Research Institute’s Center for Clinical and Translational Research Clinical Research Scholars Program; National Institutes of Health Clinical and Translational Science Award (UL1TR000423) of the University of Washington Institute of Translational Health Science

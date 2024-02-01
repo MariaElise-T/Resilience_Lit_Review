@@ -1,0 +1,22 @@
+
+Background:
+In order to meet the demands of the ever-increasing human population, it
+has become necessary to raise climate-resilient crops. Plant breeding, which involves crossing and
+selecting superior gene pools, has contributed tremendously towards achieving this goal during the
+past few decades. The relatively newer methods of crop improvement based on genetic engineering
+are relatively simple, and targets can be achieved in an expeditious manner. More recently emerged
+genome editing technique using CRISPR has raised strong hopes among plant scientists for precise
+integration of valuable traits and removal of undesirable ones.
+
+
+Conclusion:
+Genome editing using Site-Specific Nucleases (SSNs) is a good alternative to the
+plant breeding and genetic engineering approaches as it can modify the genomes specifically and
+precisely at the target site in the host genome. Another added advantage of the genome editing approach
+is the simpler biosafety regulations that have been adopted by many countries for commercialization
+of the products thus generated. This review provides a critical assessment of the available
+methods for improving the stress tolerance in crop plants. Special emphasis has been given on
+genome editing approach in light of the diversity of tools, which are being discovered on an everyday
+basis and the practical applications of the same. This information will serve as a beginner’s
+guide to initiate the crop improvement programs as well as giving technical insight to the expert to
+plan the research strategically to tackle even multigenic traits in crop plants.

@@ -1,0 +1,19 @@
+
+Purpose
+In few prior empirical studies on supply chain resilience (SCRES), the focus has been on the developed world. Yet, organisations in developing countries constitute a significant part of global supply chains and have also experienced the disastrous effects of supply chain failures. The purpose of this paper is therefore to empirically investigate SCRES in a developing country context and to show that this also provides theoretical insights into the nature of what is meant by resilience.
+
+
+Design/methodology/approach
+Using a case study approach, a supply network of 20 manufacturing firms in Uganda is analysed based on a total of 45 interviews.
+
+
+Findings
+The perceived threats to SCRES in this context are mainly small-scale, chronic disruptive events rather than discrete, large-scale catastrophic events typically emphasised in the literature. The data reveal how threats of disruption, resilience strategies and outcomes are inter-related in complex, coupled and non-linear ways. These interrelationships are explained by the political, cultural and territorial embeddedness of the supply network in a developing country. Further, this embeddedness contributes to the phenomenon of supply chain risk migration, whereby an attempt to mitigate one threat produces another threat and/or shifts the threat to another point in the supply network.
+
+
+Practical implications
+Managers should be aware, for example, of potential risk migration from one threat to another when crafting strategies to build SCRES. Equally, the potential for risk migration across the supply network means managers should look at the supply chain holistically because actors along the chain are so interconnected.
+
+
+Originality/value
+The paper goes beyond the extant literature by highlighting how SCRES is not only about responding to specific, isolated threats but about the continuous management of risk migration. It demonstrates that resilience requires both an understanding of the interconnectedness of threats, strategies and outcomes and an understanding of the embeddedness of the supply network. Finally, this study’s focus on the context of a developing country reveals that resilience should be equally concerned both with smaller in scale, chronic disruptions and with occasional, large-scale catastrophic events.

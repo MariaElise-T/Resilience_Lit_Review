@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to identify how the relationship between inbound logistics (IL) activities and elements of resilience (EoR) can contribute to organisational resilience.
+
+
+Design/methodology/approach
+Two in-depth case-based studies were conducted in the dairy industry. After identifying EoR and IL activities through a systematic literature review, relationships among them have been empirically discussed in six groups (emerged content analysis results): supplier and response capability; transportation; security; quick response to disruption; logistics management; trust and knowledge.
+
+
+Findings
+A framework was developed describing the contribution of these six groups to organisational resilience by highlighting and discussing three aspects: rigidity of the hierarchy, type of relationship and geographical dispersion. These aspects emerged from the process of content analysis and are related to the companies’ characteristics.
+
+
+Practical implications
+The proposed framework can assist managers to decide which group of EoR and IL activities they should prioritise, depending on the company’s characteristics and needs.
+
+
+Originality/value
+Although some studies have discussed the IL contribution to generating resilience in companies, none of them have explored in detail the relationship between EoR and IL activities, and their contribution to organisational resilience. The proposed framework shows the contribution of the EoR to three different organisational aspects.

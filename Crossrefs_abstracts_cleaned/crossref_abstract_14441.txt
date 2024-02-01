@@ -1,0 +1,16 @@
+Abstract
+
+Background:
+COVID-19 pandemic can lead to burnout among health workers. The study aimed to know the prevalence of burnout among resident doctors and its relation to resilience.
+
+
+Methodology:
+An online anonymous cross-sectional study was done at the sole COVID nodal center of Telangana, India, using a three-part questionnaire E-mailed to all the resident doctors. It included a consent form, sociodemographic data, the Copenhagen Burnout Inventory to measure burnout, and the Brief Resilience Coping Scale to measure resilience. Data were analyzed using SPSS statistical software version 22.0 (IBM). P value was considered statistically significant below 0.05 and all tests were two-tailed.
+
+
+Results:
+Personal burnout (53.6%) was highest followed by work-related burnout (46.4%) and client-related burnout (40.8%). All three domains of burnout showed a significant negative correlation with scores of resilience (personal burnout [r = −0.240), work burnout (r = −0.203), and client burnout [r = −0.212]; P ≤ 0.001).
+
+
+Conclusion:
+Client-related burnout has increased when compared to nonpandemic times. Burnout was inversely associated with resilience, suggesting a role for resilience as a protective factor.

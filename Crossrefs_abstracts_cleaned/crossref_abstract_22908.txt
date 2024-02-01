@@ -1,0 +1,25 @@
+Abstract
+
+Background
+Gait speed, as a measure of physical function and marker of frailty, is now routinely screened when evaluating patients with aortic stenosis (AS) for transcatheter aortic valve implantation (TAVI). Assessment of physical function is important to identify patients for whom TAVI may be futile and to assign patients to a procedural risk category. After TAVI, patients may exhibit physical resilience (improvement in physical function) or vulnerability (worsening). Characterizing the trajectory and clinical consequences of physical function after TAVI represent knowledge gaps in the field.
+
+
+Purpose
+Evaluate associations between physical resilience (improved gait speed) vs vulnerability (decline) after TAVI and subsequent death/hospitalization.
+
+
+Methods
+The REPRISE III trial compared a mechanically-expanded vs a self-expanding valve in 912 high/extreme risk patients with symptomatic AS. Patients (n=587) who underwent valve implantation and who had a gait speed recorded both pre- and 1-year post-TAVI were analyzed. Gait speed is based on the 5m walk test (slow: 5m in >6s, <0.83m/s; normal: ≥0.83m/s). Trajectory of physical function after TAVI was characterized in 2 ways. Model 1 examined 4 groups based on slow or normal gait speeds at baseline and 1-year post-TAVI. Model 2 examined gait speed change pre-TAVI to 1 year (adjusted for baseline gait speed). Using a landmark approach, the relationships between baseline and 1-year gait speed were evaluated in multivariable Cox PH models of outcomes between 1 and 2 years post-TAVI.
+
+
+Results
+A clinically-meaningful improvement (≥0.1m/s), no change (±0.1m/s), or decline (≥0.1/ms) in gait speed 1 year after TAVI was observed in 39%, 36%, and 26% of patients, respectively. Among the 4 groups defined by pre- and 1-year post-TAVI gait speeds, 1 to 2 year mortality or hospitalization rates were: 6.6% (normal/normal), 20.9% (normal/slow), 8.0% (slow/normal), and 21.5% (slow/slow). Adjusted hazard ratios of the 2 models are shown (Table).
+Table. Outcome by Change in Gait Speed Death/Hospitalization P-value Death P-value Hospitalization P-value Adjusted HR [95% CI] Adjusted HR [95% CI] Adjusted HR [95% CI] Model 1: Baseline/1 year Gait Speed   (Normal/Normal (n=150) [referent])   Normal/Slow (n=59) 3.82 [1.61, 9.08] <0.01 2.75 [0.96, 7.86] 0.06 7.31 [1.94, 27.58] <0.01   Slow/Normal (n=114) 1.39 [0.53, 3.59] 0.50 1.44 [0.50, 4.12] 0.50 1.69 [0.38, 7.60] 0.49   Slow/Slow (n=253) 3.88 [1.91, 7.91] <0.01 2.36 [1.02, 5.46] 0.045 3.89 [1.14, 13.27] 0.03 Model 2: Gait speed change   Baseline to 1 year per 0.1m/s increase 0.83 [0.74, 0.92] <0.01 0.92 [0.80, 1.04] 0.19 0.75 [0.64, 0.88] <0.01
+
+
+Conclusion
+These data reveal there is marked heterogeneity in the trajectory of physical function after TAVI and that this trajectory–more so than baseline physical function–is clinically consequential. Identifying and optimizing factors associated with physical resilience after TAVI may improve outcomes.
+
+
+Acknowledgement/Funding
+Boston Scientific

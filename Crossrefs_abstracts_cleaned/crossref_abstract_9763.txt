@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to introduce a dynamic perspective of tourism resilience by analyzing tourism demand in Spain during the 2020 and 2021 summers in the context of the COVID-19 pandemic.
+
+
+Design/methodology/approach
+This study uses regression and Lasso-type methods to demonstrate a great explanatory capacity of past determinants to explain the tourism demand of the Spanish provinces.
+
+
+Findings
+Results show how the previous specialization of the domestic market, the density and the geographic location related to the type of product are behind the bulk of the territorial differences in demand resilience, although in 2021 there has been a process of adaptation to the new context.
+
+
+Research limitations/implications
+This study contributes to the theoretical understanding of tourist behavior and tourism destination management by introducing the concept of resilience dynamics of destinations.
+
+
+Practical implications
+The results are useful, on the one hand, for tourist destinations to understand the different stages of recovery from a shock, and on the other hand, to go in deep in consumer behavior after a shock.
+
+
+Originality/value
+These findings represent a paradigm shift in the static conception of resilience in tourism.

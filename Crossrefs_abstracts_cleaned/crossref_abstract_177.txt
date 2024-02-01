@@ -1,0 +1,15 @@
+
+Background:
+Front-line workers (FLW) are at risk for secondary traumatic stress, burnout, and related psychiatric sequelae: depression, anxiety, suicidality, posttraumatic stress disorder, and sleep and substance use disorders. FLW are in need of self-care programs to support their mental health.
+
+
+Methods:
+Quasi-experimental study to assess the impact of a simple mental well-being and emotional regulation training, the Community Resiliency Model (CRM), using a convenience sample of FLW. Baseline scores of mental well-being and stress measures were compared with follow-up scores at 3 time points. Outcomes were psychological wellness (World Health Organization-5 Well-being Index); resilience (Connor-Davidson Resilience Scale-10); traumatic stress (Secondary Traumatic Stress Scale); physical symptoms (Somatic Symptom Scale-8).
+
+
+Results:
+Of the 104 participants who enrolled and attended the CRM training, 73 (70.2%) completed at least 1 posttest. Well-being scores increased at 1 year with a small-moderate effect size (Cohen d=0.32). Resilience scores increased with a small-moderate effect size by 1 year (Cohen d=0.36). Secondary traumatic stress scores declined, with the largest effect at 1 week (Cohen d=0.49). Somatic symptoms decreased at each posttest, with the largest change occurring from baseline to 1 week (d=0.39). Participants reported an awareness of body sensations helped them when overwhelmed as a means of calming themselves.
+
+
+Conclusions:
+After a 3-hour CRM training, participants reported improved mental well-being and decreased secondary traumatic stress and somatic symptoms. This simple body awareness intervention may be a good resource during the COVID-19 pandemic.

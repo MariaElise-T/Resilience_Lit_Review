@@ -1,0 +1,23 @@
+
+Background
+By 2030, approximately 75 million adults will be living with Alzheimer disease and related dementias (ADRDs). ADRDs produce cognitive, emotional, and behavioral changes for persons living with dementia that undermine independence and produce considerable stressors for persons living with dementia and their spousal care-partners—together called a “dyad.” Clinically elevated emotional distress (ie, depression and anxiety symptoms) is common for both dyad members after ADRD diagnosis, which can become chronic and negatively impact relationship functioning, health, quality of life, and collaborative management of progressive symptoms.
+
+
+Objective
+This study is part of a larger study that aims to develop, adapt, and establish the feasibility of Resilient Together for Alzheimer Disease and Related Dementias (RT-ADRD), a novel dyadic skills-based intervention aimed at preventing chronic emotional distress. This study aims to gather comprehensive information to develop the first iteration of RT-ADRD and inform a subsequent open pilot. Here, we describe the proposed study design and procedures.
+
+
+Methods
+All procedures will be conducted virtually (via phone and Zoom) to minimize participant burden and gather information regarding feasibility and best practices surrounding virtual procedures for older adults. We will recruit dyads (up to n=20) from Mount Sinai Hospital (MSH) clinics within 1 month of ADRD diagnosis. Dyads will be self-referred or referred by their treating neurologists and complete screening to assess emotional distress and capacity to consent to participate in the study. Consenting dyads will then participate in a 60-minute qualitative interview using an interview guide designed to assess common challenges, unmet needs, and support preferences and to gather feedback on the proposed RT-ADRD intervention content and design. Each dyad member will then have the opportunity to participate in an optional individual interview to gather additional feedback. Finally, each dyad member will complete a brief quantitative survey remotely (by phone, tablet, or computer) via a secure platform to assess feasibility of assessment and gather preliminary data to explore associations between proposed mechanisms of change and secondary outcomes. We will conduct preliminary explorations of feasibility markers, including recruitment, screening, live video interviews, quantitative data collection, and mixed methods analyses.
+
+
+Results
+This study has been approved by the MSH Institutional Review Board. We anticipate that the study will be completed by late 2023.
+
+
+Conclusions
+We will use results from this study to develop the first live video telehealth dyadic resiliency intervention focused on the prevention of chronic emotional distress in couples shortly after ADRD diagnoses. Our study will allow us to gather comprehensive information from dyads on important factors to address in an early prevention-focused intervention and to explore feasibility of study procedures to inform future open pilot and pilot feasibility randomized control trial investigations of RT-ADRD.
+
+
+International Registered Report Identifier (IRRID)
+PRR1-10.2196/45532

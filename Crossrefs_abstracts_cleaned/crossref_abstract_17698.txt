@@ -1,0 +1,12 @@
+Abstract
+Objectives
+Transitions from middle adolescence into merging adulthood, a life stage between age 15–25, has a high prevalence of sleep problems. Mindfulness is a trait defined as being attentive to the present moment which positively relates to sleep quality. In this study, we aimed to investigate how resilience and emotional dysfunction may influence the relationship between trait mindfulness and sleep quality.
+
+Methods
+The Five Facet Mindfulness Questionnaire, Connor-Davidson Resilience Scale, Pittsburgh Sleep Quality Index and Depression Anxiety Stress Scales were used to measure the key variables through an online survey of 497 participants between middle adolescence and emerging adults (317 females, mean age 18.27 ± 0.76 years). A process model was built to investigate the mediating roles of resilience and emotional dysfunction in the impact of trait mindfulness on sleep quality, together with the relationships between their specific components.
+
+Results
+We found a positive association between mindfulness and sleep quality through resilience and through emotional dysfunction, and through the sequential pathway from resilience to emotional dysfunction. Of note, acting with awareness (mindfulness facet) showed significant indirect effects on sleep quality, mediated by resilience and emotional dysfunction.
+
+Conclusions
+Our findings may unveil the underlying mechanisms of how low mindfulness induces poor sleep quality. The findings indicate that conceiving mindfulness as a multifaceted construct facilitates comprehension of its components, relationships with other variables, and underscores its potential clinical significance given its critical implications for mental health.

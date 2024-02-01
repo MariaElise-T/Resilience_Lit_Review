@@ -1,0 +1,12 @@
+Abstract
+Background
+The coronavirus pandemic has had a profound impact on organization and delivery of care. The challenges faced by healthcare organizations in dealing with the pandemic have intensified interest in the concept of resilience. While effort has gone into conceptualising resilience, there has been relatively little work on how to evaluate organizational resilience. This paper reports on an extensive review of approaches to resilience measurement and assessment in empirical healthcare studies, and examines their usefulness for researchers, policymakers and healthcare managers.
+
+Methods
+Various databases (MEDLINE, EMBASE, PsycINFO, CINAHL (EBSCO host), Cochrane CENTRAL (Wiley), CDSR, Science Citation Index, and Social Science Citation Index) were searched from January 2000 to September 2021. We included quantitative, qualitative and modelling studies that focused on measuring or qualitatively assessing organizational resilience in a healthcare context. All studies were screened based on titles, abstracts and full text. For each approach, information on the format of measurement or assessment, method of data collection and analysis, and other relevant information were extracted. We classified the approaches to organizational resilience into five thematic areas of contrast: (1) type of shock; (2) stage of resilience; (3) included characteristics or indicators; (4) nature of output; and (5) purpose. The approaches were summarised narratively within these thematic areas.
+
+Results
+Thirty-five studies met the inclusion criteria. We identified a lack of consensus on how to evaluate organizational resilience in healthcare, what should be measured or assessed and when, and using what resilience characteristic and indicators. The measurement and assessment approaches varied in scope, format, content and purpose. Approaches varied in terms of whether they were prospective (resilience pre-shock) or retrospective (during or post-shock), and the extent to which they addressed a pre-defined and shock-specific set of characteristics and indicators.
+
+Conclusion
+A range of approaches with differing characteristics and indicators has been developed to evaluate organizational resilience in healthcare, and may be of value to researchers, policymakers and healthcare managers. The choice of an approach to use in practice should be determined by the type of shock, the purpose of the evaluation, the intended use of results, and the availability of data and resources.

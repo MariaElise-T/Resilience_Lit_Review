@@ -1,0 +1,15 @@
+
+Background
+Cohort studies represent rich sources of data that can be used to link components of resilience to a variety of health-related outcomes. The Adolescent to Adult Health (Add Health) cohort study represents one of the largest data sets of the health and social context of adolescents transitioning into adulthood. It did not however use validated resilience scales in its data collection process. This study aimed to retrospectively create and validate a resilience indicator using existing data from the cohort to better understand the resilience of its participants.
+
+
+Methods
+Questions asked of participants during one Add Health data collection time period (N = 15,701) were matched to items on a well-known and widely validated resilience scale called the Connor Davidson Resilience Scale. Factor analysis and psychometric analyses were used to refine and validate this novel Adolescent to Adult Health Resilience Instrument. Construct validity utilized participants’ answers to the 10 item Center for Epidemiologic Studies Depression Scale, which has been used to validate other resilience scales.
+
+
+Results
+Factor analysis yielded an instrument with 13 items that showed appropriate internal consistency statistics. Resilience scores in our study were normally distributed with no ceiling or floor effects. Our instrument had appropriate construct validity, negatively correlating to answers on the depression scale (r = -0.64, p<0.001). We also found demographic differences in mean resilience scores: lower resilience scores were seen among women and those who reported lower levels of education and household income.
+
+
+Conclusions
+It is possible to retrospectively construct a resilience indicator from existing cohort data and achieve good psychometric properties. The Adolescent to Adult Health Resilience Instrument can be used to better understand the relationship between resilience, social determinants of health and health outcomes among young adults using existing data, much of which is publicly available.

@@ -1,0 +1,11 @@
+
+Non-technical summary
+Our analysis shows that the framing of social vulnerability is shaped by a narrow definition of resilience, focusing on post-disaster return and recovery responses. This perspective does not account for the dynamism and non-stationarity of social-ecological systems (SES) which is becoming increasingly important in the face of accelerating environmental change. Incorporating social-ecological resilience into social vulnerability analysis can improve coastal governance by accounting for adaptation and transformation, as well as scale and cross-scale interactions.
+
+
+Technical summary
+Social vulnerability analysis has been unable to deliver outcomes that reflect the reality of vulnerability and its consequences in an era characterised by accelerating environmental change. In this work, we used critical discourse analysis and key informant interviews to understand different framings of social vulnerability in coastal governance and management, globally and in New Zealand. We found that the framing of system vulnerability could vary depending on the definition of resilience adopted, which has critical ramifications for coastal governance of linked systems of humans and nature. We found that the framing of social vulnerability in coastal governance is mainly influenced by engineering, community and disaster resilience, focusing on return and recovery governance responses to environmental change (e.g. hurricanes, wildfires). Instead, we suggest a novel perspective based on social-ecological resilience, which more accurately reflects the dynamics of linked systems of humans and nature (SES). This revised perspective, general vulnerability, accounts for the dynamics of Earth's systems across various spatial and temporal scales in the face of accelerating environmental change. Accounting for social-ecological resilience and its core aspects (i.e. panarchy, adaptation and transformation) is essential for informing coastal governance of SES (Do we adapt? or Do we transform the SES?).
+
+
+Social media summary
+Social-ecological resilience is essential for social vulnerability analysis in the face of accelerating environmental change.

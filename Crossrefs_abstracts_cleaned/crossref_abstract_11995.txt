@@ -1,0 +1,12 @@
+Abstract
+Background
+The importance of resilience, and interest in it, has increased markedly in recent years, based on the need to understand why some children and young people have a resilience to stress that others lack. At the same time, there has been a lack of instruments to measure resilience. The aim of this study was to translate the Adolescent Resilience Questionnaire (ARQ) into Swedish and investigate the psychometrics of this Swedish version.
+
+Methods
+A normative sample of 616 students aged 15–17 was recruited through the school system in five different communities. Students filled out a digitalised composite form consisting of ARQ and three other standardised questionnaires, the Sense of Coherence Scale-13 (Soc-13), the Rosenberg Self-Esteem Scale (RSES) and the Relationship Questionnaire (RQ).
+
+Results
+The ARQ, with five domains and twelve subscales, showed good alpha coefficients α = .95 for the total scale and subscales ranging between α = .70 to .91, except for the subscales Emotional insight (α = 0.69) and Empathy/Tolerance (α = .61). The convergent validity, which was tested for the first time in this study, was good, especially with the Internal Domain for both SOC-13 and RSES. The confirmatory factor analysis showed a satisfactory construct validity. Finally, some gender differences were seen, with boys scoring higher on the total ARQ scale.
+
+Conclusion
+The study shows that the Swedish translation of ARQ has satisfactory psychometric properties. The ARQ could therefore be used as a tool for adolescents when evaluating the importance of resilience.

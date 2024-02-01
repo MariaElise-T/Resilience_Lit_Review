@@ -1,0 +1,5 @@
+Supply chains suffer from serious vulnerabilities and disruptions with increasing global crises, including pandemics and natural disasters. Dynamic and complex supply chain environments have constantly led companies to modern management approaches such as resilience to address disruptions. Besides, the sustainability approach enhances the strength of the supply chain in disruptions by considering economic, social, and environmental aspects. This paper develops a mathematical model for designing a supply chain network considering resilience and sustainability. In this model, suppliers were exposed to disruption with different probabilities. The model has three objectives: minimizing total costs and maximizing suppliers’ social and environmental scores. A robust scenario-based stochastic programming approach has been used for potential disruption scenarios. The multiobjective model is solved by the 
+
+ε
+
+-constraint method in GAMS software. The numerical results show the performance of the model in a different situation. Also, the robust scenario-based stochastic programming approach allows the average performance of the supply chain in each objective to improve.

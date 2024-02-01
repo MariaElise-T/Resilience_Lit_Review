@@ -1,0 +1,12 @@
+Abstract
+Background
+According to a growing body of literature, people are quite inaccurate in recalling past affective experiences. Nevertheless, the mechanism underlying this recall bias (i.e., the tendency to overestimate and/or underestimate positive or negative past emotional experiences) remains unclear, and its association with mental health has not been studied yet.
+
+Methods
+We adopted a smartphone-based Ecological Momentary Assessment to monitor daily affect (n = 92) and investigate the association between affect recall bias, mental health and resilience.
+
+Results
+While the tendency to overestimate negative affective experiences was observed in participants reporting mild depressive symptoms, positive affect (PA) overestimation as compared to PA underestimation was associated with better mental health (i.e. higher psychological well-being and lower depressive and anxiety symptoms) through the enhancement of resilience. Furthermore, positively biased participants (i.e. PA over estimators) benefited from greater well-being, even when compared to accurate individuals.
+
+Conclusions
+While people appear to use retrospective PA overestimation as a strategy to enhance well-being and resilience, they are not likely to underestimate past negative experiences to feel better. Accordingly, owning an optimistic vision of the past may represent an adaptive “distortion” of reality that fosters people’s mental health. The clinical implications of cultivating PA and learning strategies to regulate both negative and positive emotions are discussed.

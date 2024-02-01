@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to explore supply chain resilience (SCR) and provides a unique resilience index. The work measures the resilience status of 37 organizations across 22 industries and provides insight into accessing the supply chain (SC) vulnerability in an uncertain environment.
+
+
+Design/methodology/approach
+This study involves measuring the resilience status of 37 organizations across 22 industries based on a subjective decision-making approach using fuzzy logic. Experts from industries rated the importance and level of implementation of 33 attributes of SCR, which are used to develop a fuzzy index of implementation that explains the resilience status of organizations.
+
+
+Findings
+A novel coexistent resilience index is computed based on mutualism to exhibit the proportion of contribution or learning of each attribute of an organization in an industry. The research will enhance the response plans and formation of strategic alliances for mutual coexistence by industry.
+
+
+Research limitations/implications
+Evidence-based interpretations and suggestions are provided for each industry to enhance resilience through coexistence.
+
+
+Originality/value
+The work uniquely contributes to academic literature and SC strategy. The novel coexistent resilience index is computed based on mutualism, facilitating researchers to access SC resiliency.

@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+Psychological resilience has been positively associated with sport achievement and psychological well-being, while being negatively associated with psychological distress. Lower psychological resilience may also increase the risk of protracted recovery from concussion. The purpose of this study is to examine the relationship between psychological resilience and clinical outcomes among adolescent and young adult athletes.
+
+
+Method
+Fifty-seven patients (11–22 years; m = 15.2, SD = 2.76) were diagnosed with a sport-related concussion (SRC) within two weeks of injury. Patients completed the Conner-Davidson Resilience Scale (CD-RISC-10) and the Depression Anxiety and Stress Scales (DASS-21) at first visit in addition to neurocognitive screening (ImPACT) and vestibular/oculomotor screening (VOMS). Participants were divided into “Low”, “Moderate” and “High” resilience using CD-RISC-10 tertiles. A series of one-way ANOVAS with pairwise comparisons (Tukey post-hoc test) were used to compare groups across outcomes measures.
+
+
+Results
+Significant differences were present between the High Resilience (m = 15.22 days; SD = 8.87) and Low Resilience (m = 30.95 days; SD = 23.76) groups in Days to Clearance (p = .032), DASS-21 Total score (p = 0.01), DASS-21 Depression subscale (p = 0.022), DASS-21 Anxiety subscale (p = 0.01), and DASS-21 Stress subscale (p = 0.002). No significant relationships were observed between resilience and ImPACT, VOMS, or PCSS score for any group.
+
+
+Conclusions
+Athletes with low psychological resilience immediately following concussion had a recovery time twice that of athletes with high resilience. All groups in the study exhibited recovery times within a normal time frame (i.e., ≤ 30 days), but high psychological resiliency may serve as a protective factor for recovery outcomes among athletes experiencing concussion.

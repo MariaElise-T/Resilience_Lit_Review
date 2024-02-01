@@ -1,0 +1,23 @@
+
+Purpose
+The COVID-19 pandemic came with a lot of stress, uncertainty and disruption for managing the construction supply chain (CSC). The disruption in return caused weak resilience of CSC activities. Unfortunately, the existing models for managing CSC focus on preparedness and recovery while neglecting the visibility perspective of resilience CSC. Towards creating a resilience CSC, this study modelled construction 4.0 as the vaccine for supply chain resilience in the construction industry.
+
+
+Design/methodology/approach
+A survey questionnaire was used to collect data randomly from construction stakeholders. The questionnaire was analysed with a structural equation model analysis using SmartPLS while conducting tests such as path coefficient analysis, discriminant analysis and importance-performance analysis.
+
+
+Findings
+This study discovered that construction 4.0 is a significant tool and vaccine for ensuring visibility, recovery and adaptation within the supply chain. Construction 4.0 will function as a vaccine for ensuring resilience because of its capacity to optimise CSC management by introducing an evidence-based management approach and less dependent on implicit knowledge. Towards reaping the full potential of construction 4.0, it should be adopted as a moderating variable.
+
+
+Research limitations/implications
+The research is limited by the use of a single methodology (quantitative) without including a qualitative method to understand better and explore the impact of construction 4.0 on CSC resilience. The qualitative part can be carried out by conducting interviews targeted at construction stakeholders.
+
+
+Practical implications
+In spite of the limitations, the findings of this study contributed to building a more responsive and resilient CSC during the pandemic period. Furthermore, this study also presented the crucial construction 4.0 technology capable of ensuring resilience within the CSC.
+
+
+Originality/value
+This paper presents a model for applying construction 4.0 as a vaccine for ensuring CSC resilience during the COVID-19 pandemic period. This study contributed to ensuring that decisions made within the CSC adopt an evidence-based approach.

@@ -1,0 +1,40 @@
+Rice is the most important food crop both in value and
+volume for the Asian population. Frequent drought, flood
+and salinity stresses exacerbated by global climate change
+adversely affect rice production in more than fifty percent
+of the rice growing areas. Green revolution high yielding
+varieties carrying sd1 dwarfing gene have almost fully
+replaced the traditional climate resilient landraces and
+varieties of rice. However, these were bred primarily for
+yield under high input conditions and therefore are sensitive
+to adverse climatic conditions. Hence, there is urgent need
+to combine the high productivity with climate resilience.
+Knowledge of rice genome and genes for tolerance to
+different abiotic stresses provided us an opportunity to
+transfer favorable alleles of these genes into high yielding
+varieties through genomics-assisted backcross breeding
+through multi-institutional networks. Six consistent
+genomic regions (QTLs) for grain yield under drought;
+namely qDTY1.1, qDTY2.1, qDTY2.2, qDTY3.1, qDTY3.2 and
+qDTY12.1 have been transferred to flood tolerant versions
+of mega varieties of rice, Swarna, Samba Mahsuri and IR 64.
+To address the problem of flash flooding qSUB1 QTL has
+been transferred to nine popular rice varieties, namely ADT
+46, Bahadur, Ranjit, HUR 105, Sarjoo 52, Pooja, Pratikshya
+MTU 1075 and Rajendra Mahsuri. Further, qSALTOL1 QTL
+for seedling stage salt tolerance and qSSISFH8.1 for
+reproductive stage salt tolerance have been transferred to
+six popular rice varieties, ADT 45, Gayatri, MTU 1010, PR
+114, Pusa 44 and Sarjoo 52. We used foreground selection
+markers for the presence of desired gene/QTL and
+recombinant selection markers for reduction of linkage drag
+around these genes. Genotypic background selection was
+done after BC3F3 stage using a 50K SNP chip on a set of 20
+advance lines obtained by phenotypic selection for
+closeness to the recipient parents. Near-isogenic lines
+(NILs) with more than 95% similarity to the recipient parent
+genome have been released and notified for commercial
+cultivation and are gaining fast popularity. These climate
+smart rice varieties will provide production stability in the
+adverse ecologies and support farmer’s income and
+livelihood.

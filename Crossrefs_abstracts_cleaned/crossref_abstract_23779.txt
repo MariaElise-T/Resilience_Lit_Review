@@ -1,0 +1,27 @@
+
+Background
+Educational settings are ideal for promoting mental well-being and resilience in children. The challenges of the COVID-19 pandemic made evident the important role that teachers and school counselors play in the mental health of their students. Therefore, it is imperative to develop and implement cost-effective interventions that allow them to identify and address mental health problems early, especially in post–armed conflict areas, to reduce the burden of mental disorders in this population.
+
+
+Objective
+This study aimed to adapt an existing patient-focused digital intervention called DIALOG+ from an adult clinical setting to an adolescent educational setting and to assess the feasibility, acceptability, and estimated effect of implementing this intervention as a tool for promoting quality of life, mental well-being, and resilience.
+
+
+Methods
+We conducted an exploratory mixed methods study in 2 public schools in postconflict areas in Tolima, Colombia. This study was conducted in 3 phases. In the adaptation phase, focus groups were conducted with students and teachers to identify changes required in DIALOG+ for it to be used in the school setting. The exploration phase consisted of an exploratory cluster randomized controlled trial. A total of 14 clusters, each with 1 teacher and 5 students, were randomly allocated to either the experimental (DIALOG+S) group or to an active control group (counseling as usual). Teachers in both groups delivered the intervention once a month for 6 months. Through screening scales, information was collected on mental health symptoms, quality of life, self-esteem, resilience, and family functionality before and after the intervention. Finally, the consolidation phase explored the experiences of teachers and students with DIALOG+S using focus group discussions.
+
+
+Results
+The changes suggested by participants in the adaptation phase highlighted the central importance of the school setting in the mental health of adolescents. In the exploratory phase, 70 participants with a mean age of 14.69 (SD 2.13) years were included. Changes observed in the screening scale scores of the intervention group suggest that the DIALOG+S intervention has the potential to improve aspects of mental health, especially quality of life, resilience, and emotional symptoms. The consolidation phase showed that stakeholders felt that using this intervention in the school setting was feasible, acceptable, and an enriching experience that generated changes in the perceived mental health and behavior of participants.
+
+
+Conclusions
+Our results are encouraging and show that the DIALOG+S intervention is feasible and acceptable as a promising opportunity to promote well-being and prevent and identify mental health problems in the school context in a postconflict area in Colombia. Larger, fully powered studies are warranted to properly assess the efficacy and potential impact of the intervention and to refine implementation plans.
+
+
+Trial Registration
+International Standard Randomised Controlled Trial Number (ISRCTN) registry ISRCTN14396374; https://www.isrctn.com/ISRCTN14396374
+
+
+International Registered Report Identifier (IRRID)
+RR2-10.2196/40286

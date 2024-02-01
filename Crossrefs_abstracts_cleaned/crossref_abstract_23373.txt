@@ -1,0 +1,19 @@
+
+BACKGROUND
+Resilience, or the ability to cope with difficulties, influences an individual's response to life events including unexpected injury. We sought to assess the relationship between patient self-reported resilience traits and functional and psychosocial outcomes 6 months after traumatic injury.
+
+
+METHODS
+Adult trauma patients 18 years to 64 years of age with moderate to severe injuries (Injury Severity Score, ≥9) admitted to one of three Level I trauma centers between 2015 and 2017 were contacted by phone at 6 months postinjury and asked to complete a validated Trauma Quality of Life (T-QoL) survey and PTSD screen. Patients were classified into “low” and “high” resilience categories. Long-term outcomes were compared between groups. Adjusted logistic regression models were built to determine the association between resilience and each of the long-term outcomes.
+
+
+RESULTS
+A total of 305 patients completed the 6-month interview. Two hundred four (67%) of the 305 patients were classified as having low resilience. Mean age was 42 ± 14 years, 65% were male, 91% suffering a blunt injury, and average Injury Severity Score was 15.4 ± 7.9. Patients in the low-resilience group had significantly higher odds of functional limitations in activities of daily living (odds ratio [OR], 4.81; 95% confidence interval [CI], 2.48–9.34). In addition, patients in the lower resilience group were less likely to have returned to work/school (OR, 3.25; 95% CI, 1.71–6.19), more likely to report chronic pain (OR, 2.57; 95% CI, 1.54–4.30) and more likely to screen positive for PTSD (OR, 2.96; 95% CI, 1.58–5.54).
+
+
+CONCLUSION
+Patients with low resilience demonstrated worse functional and psychosocial outcomes 6 months after injury. These data suggest that screening for resilience and developing and deploying early interventions to improve resilience-associated traits as soon as possible after injury may hold promise for improving important long-term functional outcomes.
+
+
+LEVEL OF EVIDENCE
+Prognostic, level II.

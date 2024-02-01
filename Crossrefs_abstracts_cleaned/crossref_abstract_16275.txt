@@ -1,0 +1,23 @@
+Introduction. Differences between the tooth and implant response to load can
+   lead to many biological and technical implications in the conditions of
+   occlusal forces. Objective. The objective of this study was to analyze load
+   distribution in tooth/implant-supported fixed partial dentures with the use
+   of resilient TSA (Titan Shock Absorber, BoneCare GmbH, Augsburg, Germany)
+   abutment and conventional non-resilient abutment using finite element method.
+   Methods. This study presents two basic 3D models. For one model a standard
+   non-resilient abutment is used, and on the implant of the second model a
+   resilient TSA abutment is applied. The virtual model contains drawn contours
+   of tooth, mucous membranes, implant, cortical bones and spongiosa, abutment
+   and suprastructure. The experiment used 500 N of vertical force, applied in
+   three different cases of axial load. Calculations of von Mises equivalent
+   stresses of the tooth root and periodontium, implants and peri-implant tissue
+   were made. Results. For the model to which a non-resilient abutment is
+   applied, maximum stress values in all three cases are observed in the
+   cortical part of the bone (maximum stress value of 49.7 MPa). Measurements of
+   stress and deformation in the bone tissue in the model with application of
+   the resilient TSA abutment demonstrated similar distribution; however, these
+   values are many times lower than in the model with non-resilient TSA abutment
+   (maximum stress value of 28.9 MPa). Conclusion. Application of the resilient
+   TSA abutment results in more equal distribution of stress and deformations in
+   the bone tissue under vertical forces. These values are many times lower than
+   in the model with the non-resilient abutment.

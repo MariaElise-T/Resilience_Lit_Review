@@ -1,0 +1,15 @@
+
+Purpose
+ – The purpose of this paper is to present a coherence analysis to evaluate the resilience for a critical infrastructure (CI). This is the new way to evaluate the CI and demonstrate that the authors need to pass from the protection towards resilience. 
+
+
+Design/methodology/approach
+ – The authors use two approaches for this research. First is a consequence-based approach to evaluate the resilience. This approach has been used many times for evaluating the interdependencies between CIs. The second is a systemic approach to characterize the system and doing the coherence analysis. 
+
+
+Findings
+ – This paper presents a methodology to evaluate the coherence in a context of CIs protection. The coherence analysis in resilience is a new concept and the first result to the application seems very good for the user of the research. 
+
+
+Originality/value
+ – The originality of this paper is the coherence analysis applied to a resilience evaluation. The criteria for coherence analysis is innovative and it is a new way to consider the resilience and the relation between an organization and it is partners. Another value is the need for a wider scope in the analysis of hazards and how to address them that includes the infrastructure system itself, but also other related organizations and infrastructure systems.

@@ -1,0 +1,26 @@
+
+Introduction:
+            Takotsubo Syndrome (TS) is often triggered by acute stressful events. While excessive stress reactivity is associated with worse cardiovascular (CV) outcomes, its role and that of possible stress response moderators in TS are poorly understood.
+          
+
+Goals/Aims:
+            To explore whether adaptive coping and resilience affect CV reactivity in TS patients.
+          
+
+Hypothesis:
+            Negative psychological functioning will be associated with greater CV reactivity.
+          
+
+Methods:
+            Prospectively enrolled women with TS (per Mayo criteria) completed coping (Brief-COPE) and resilience (Brief Resilience Scale) measures at enrollment (scores categorized as “high” or “low” using a median split) and a standardized stress reactivity protocol 2 weeks later. Systolic blood pressure (SBP) and diastolic BP (DBP) (mmHg) were measured every 5 min during Baseline (10 min), Mental Stress (10 min), and Recovery (20 min) using an automated BP cuff. SBP and DBP change from baseline to peak stress and 5 min into recovery were compared between low vs. high coping and resilience groups, respectively, using t-test statistics; p < 0.05 was considered significant.
+          
+
+Results:
+            Patients (n=29; mean age 64.1 ± 8.8 years) with low (vs high) adaptive coping showed a smaller stress response (SBP: 15.9 ± 22.2 vs. 28.3 ± 19.2, p= 0.13; DBP: 8.1 ± 17.8 vs 21.8 ± 23.4, p= 0.11) and slower recovery (SBP -12.0 ± 7.0 vs -23.5 ± 19.3, p = 0.12; DBP -3.4 ± 17.6 vs -18.5 ± 22.1, p=0.07). Similar, non-significant responses were noted for the low (vs high) resilience group at peak stress (SBP: 18.8 ± 22.9 vs 27.9 ± 18.7, p= 0.28; DBP: 13.0 ± 20.9 vs. 16.9 ± 23.6, p=0.67) and recovery (SBP: -13.4 ± 17.4 vs -24.7 ± 19.3, p= 0.15; DBP: -5.3 ± 18.4 vs -18.3 ± 23.8, p= 0.16, Figure 1).
+          
+
+Conclusion:
+            Consistent with recent evidence in other populations, negative psychological functioning was associated with blunted CV reactivity in women with TS. Further investigation in fully powered studies is needed to confirm these novel, exploratory findings and their prognostic value.
+          
+
+

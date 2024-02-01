@@ -1,0 +1,19 @@
+
+Background:
+Recently, a skeletal maturity system using knee radiographs, named the modified Roche-Wainer-Thissen (RWT) system, has been developed using 7 discrete radiographic parameters. While the system has been shown to significantly outperform the Greulich and Pyle atlas, the effect of rotational variation of the knee radiograph on skeletal maturity determinations has not been studied.
+
+
+Methods:
+Normal knee computed tomography scans of 12 male children ages 10 to 16 years and 8 female children ages 8 to 14 years were obtained retrospectively, converted into 3-dimensional reconstructions, and then used to simulate knee radiographs in 5 different rotational positions. Images were graded using the modified RWT system, and 1-way repeated measures analysis of variance was used to compare skeletal age in the patella centered view versus the other positions. We next retrospectively found 85 pediatric patients with both bilateral standing anteroposterior hip to ankles and separate knee radiograph within 6 months of each other. The skeletal maturity values from the 2 different radiographs were compared in 39 males between the ages of 10 and 16 years and 46 females between 8 and 14 years of age using paired t test and Wilcoxon-signed rank test.
+
+
+Results:
+On the computed tomography scan-based images, there was no statistically significant effect of rotational position on the modified RWT score using repeat measures analysis of variance (P=0.210). Only the width ratio of the tibial epiphysis and metaphysis and the width ratio of the fibular epiphysis and metaphysis were statistically different between rotational positions (P<0.05). Comparing clinical full length versus knee radiographs, we found a small difference of 0.069 years which trended towards a statistically significant difference (P=0.009).
+
+
+Conclusions:
+This retrospective study supports the resilience of the RWT model to rotational variation, reassuring clinicians that bone age estimation can be performed in a slightly rotated knee x-ray within a reasonable margin of error. These results can minimize the number of radiographs needed to assess skeletal maturity limiting radiation exposure and expedite clinical flow.
+
+
+Level of Evidence:
+Level-III—diagnostic study.

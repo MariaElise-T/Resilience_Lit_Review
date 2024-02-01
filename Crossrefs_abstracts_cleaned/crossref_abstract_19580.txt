@@ -1,0 +1,13 @@
+Abstract
+Background
+Pulmonary diseases affect health-related quality of life (HRQoL), but there are few data on patients’ adaptation to a serious illness. This study assessed resilience and its associations with HRQoL, life satisfaction, anxiety and depression in patients with pulmonary diseases receiving ambulatory oxygen therapy.
+
+Methods
+In this prospective cohort study, we enrolled 42 patients with pulmonary diseases receiving ambulatory oxygen therapy. The patients completed the following questionnaires at baseline and after one and three months; the Resilience Scale-25, the Life Satisfaction Scale-4, the 15D instrument of HRQoL, the Hospital Anxiety and Depression Scale (HADS) and the Quebec User Evaluation of Satisfaction with Assistive Technology (QUEST 2.0). To compare HRQoL, we recruited age- and gender-matched controls from the general population (n = 3574). The primary outcome was the proportion of patients with low resilience.
+
+Results
+Half (42–48%) of the patients had low resilience, which was correlated with low HRQoL, low levels of life satisfaction and higher levels of anxiety and depression. Patients had very low HRQoL compared to controls. Dissatisfaction with life increased during the 3-months follow-up, but only a few patients had anxiety or depression. Patient satisfaction with assistive technology was high; the median QUEST 2.0 score (scale 1–5) was 4.00 at baseline, 3.92 at one month and 3.88 at three months.
+
+Conclusions
+Resilience was low in half of the patients with pulmonary diseases receiving ambulatory oxygen therapy. Higher resilience was positively correlated with HRQoL and life satisfaction and negatively correlated with anxiety and depression.
+Trial registration: ClinicalTrials.gov Protocol Record 507A023. Registered 17 September 2020—Retrospectively registered, https://clinicaltrials.gov/ct2/results?cond=&term=NCT04554225&cntry=&state=&city=&dist=.

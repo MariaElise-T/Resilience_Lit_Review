@@ -1,0 +1,19 @@
+
+Background
+The Connor-Davidson Resilience Scale (CD-RISC) stands out as a widely used measure of psychological resilience. The original CD-RISC consists of 25 items, commonly referred to as CD-RISC-25.
+
+
+Aim
+This study aims to validate the Arabic version of the CD-RISC-25 involving a sample size of 1220 participants from three universities in Jordan.
+
+
+Methods
+The researcher conducted a methodological investigation to examine the validation process. This included an examination of the translation process and an evaluation of content validity, which was assessed using the content validity index (CVI). Construct validity was assessed through exploratory factor analysis and confirmatory factor analysis, while convergent and discriminant validity were both evaluated using composite reliability (CR) and the square root of the average variance extracted.
+
+
+Results
+Results showed a prominent level of psychological resilience 76.74±15.2 among the participating university students. Regarding the validity of the Arabic version of CD-RISC-25, the CVI yielded a value of 0.88, signifying a robust level of content validity. The analysis identified four constructs that accounted for 56.26% of the total variance. The goodness-of-fit indices, including goodness of fit index of 0.91, comparative fit index of 0.91, incremental fit index of 0.93, Tucker-Lewis index of 0.94, and root mean square error of approximation of 0.048, provided strong evidence supporting the alignment between the observed data and the hypothesized constructs. Discriminant and convergent validity were found to support the validity of the Arabic version of CD-RISC-25. Regarding the reliability, it demonstrated excellent reliability, with a total Cronbach’s alpha of 0.934 and all CR values surpassing the threshold of 0.70, thereby further establishing its overall robustness.
+
+
+Conclusion
+The results provide substantial evidence for the validity and reliability of the translated Arabic CD-RISC-25.

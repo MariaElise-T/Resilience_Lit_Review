@@ -1,0 +1,32 @@
+Abstract
+
+Objectives
+Conduct a secondary analysis of root cause analysis (RCA) reports of Never Events to determine whether and how Safety-II/resilient healthcare principles could contribute to improving the quality of investigation reports and therefore preventing future Never Events.
+
+
+Design
+Qualitative and quantitative retrospective analysis of RCA reports.
+
+
+Setting
+A large acute healthcare Trust in London.
+
+
+Participants
+None.
+
+
+Interventions
+None.
+
+
+Main outcome measure
+Quality of RCA reports, robustness of actions proposed.
+
+
+Results
+RCA reports had low-to-moderate effectiveness ratings and low resilience ratings. Reports identified many system vulnerabilities that were not addressed in the actions proposed. Using a Safety-II/resilient healthcare lens to examine work-as-done and misalignments between demand and capacity would strengthen analysis of Never Events.
+
+
+Conclusion
+Safety-II/Resilient Healthcare concepts can increase the quality of RCA reports and focus attention on prospectively strengthening systems. Recommendations for incorporating Safety-II concepts into RCA processes are provided.

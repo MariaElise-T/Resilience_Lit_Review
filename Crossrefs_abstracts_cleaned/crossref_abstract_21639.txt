@@ -1,0 +1,11 @@
+Resilient Hyperpolarization
+
+            Despite constant exposure to all sorts of stressors, most people are resilient and do not develop depression, but we do not understand the neurophysiological underpinnings of stress resilience.
+            
+              Friedman
+              et al.
+
+            (p.
+            313
+            ) studied this phenomenon in a mouse model of social-defeat stress depression. In the mice they found that, despite apparently pathological levels of hyperpolarization and elevated potassium channel currents in the ventral tegmental area (a structure known to be involved in depression), resilient mice showed normal activity in dopaminergic neurons. Thus, if “depressed” mice were experimentally provoked into hyperpolarization—unexpectedly, they completely reversed depression-related behaviors.
+          

@@ -1,0 +1,15 @@
+Abstract
+
+
+Species distribution modelling (SDM) has been applied to multiple bee species to examine how they may respond to future climate change. Those studies indicate a variety of likely responses to a warming climate. No SDM approaches, however, have been undertaken for arid‐adapted bees, despite their enormous diversity in xeric habitats.
+
+
+We applied SDM to an arid‐zone allodapine bee, Exoneurella tridentata Houston, 1976 (Apidae: Allodapini), and the two tree species it depends on for nesting substrate, Alectryon oleifolius (Desf.) S.T. Reynolds (Sapindaceae) and Acacia papyrocarpa Benth. (Fabaceae).
+
+
+Because of the complete dependency of this bee on these trees, there is the possibility that its vulnerability to climate change may be greater than for bee species that have broader nesting niches, such as ground or non‐specific cavity nesting. Using a variety of future climate scenarios, both optimistic and pessimistic, and also the bee's nest plant species as predictor variables of its distribution in some modelling runs, we find that both tree species and E. tridentata are likely to be resilient to future climates.
+
+
+Our findings suggest that for Australian arid‐zone bees, at least vulnerability to future climate change may be very different than that for tropical or temperate taxa.
+
+

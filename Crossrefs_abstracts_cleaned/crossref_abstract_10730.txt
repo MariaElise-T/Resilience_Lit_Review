@@ -1,0 +1,19 @@
+
+Purpose
+ – The purpose of this paper is to: explore major and potential challenges facing healthcare facilities operation specifically those related to utility supplies; and quantify the impact of utility supplies interruption on the operation of healthcare facilities through the development of an estimation model. 
+
+
+Design/methodology/approach
+ – A pluralistic qualitative and quantitative research approach benefiting from an online computer program that applies the discriminant function analysis approach. Information was collected from 66 hospitals following three major earthquakes that struck northeast Japan in 2003. 
+
+
+Findings
+ – Analysis demonstrated that healthcare utilities face three major challenges: vulnerability of infrastructure to natural hazards; low performance of alternative sources; and lack of consideration of healthcare utility supplies in resilience codes and legislations. The study also proposed a method to estimate the impact of utility interruption of healthcare facilities. A model has been developed for the case study hospitals in Northern Japan following three major earthquakes in 2003. 
+
+
+Practical implications
+ – The findings are expected to raise the awareness of the critical role utilities play for the operation of healthcare facilities which will potentially lead to upgrading resilience codes and legislations. The findings are also expected to pool the literature with more information about the resilience of healthcare utility publications. 
+
+
+Originality/value
+ – The topic and issues discussed in this research are original based on authors’ investigations following three major earthquakes that took place in northeast Japan. The study followed a statistical approach in addressing the inter-relationship between the utility systems post disasters to develop an innovative unique index to predict the impact of utility shortage on healthcare.

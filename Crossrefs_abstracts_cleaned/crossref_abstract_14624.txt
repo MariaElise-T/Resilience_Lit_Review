@@ -1,0 +1,20 @@
+ABSTRACT
+
+Objectives:
+Geriatric depression (GD) is associated with significant medical comorbidity, cognitive impairment, brain atrophy, premature mortality, and suboptimal treatment response. While apathy and anxiety are common comorbidities, resilience is a protective factor. Understanding the relationships between brain morphometry, depression, and resilience in GD could inform clinical treatment. Only few studies have addressed gray matter volume (GMV) associations with mood and resilience.
+
+
+Participants:
+Forty-nine adults aged >60 years (38 women) with major depressive disorder undergoing concurrent antidepressant treatment participated in the study.
+
+
+Measurements:
+Anatomical T1-weighted scans, apathy, anxiety, and resilience data were collected. Freesurfer 6.0 was used to preprocess T1-weighted images and qdec to perform voxel-wise whole-brain analyses. Partial Spearman correlations controlling for age and sex tested the associations between clinical scores, and general linear models identified clusters of associations between GMV and clinical scores, with age and sex as covariates. Cluster correction and Monte-Carlo simulations were applied (corrected alpha = 0.05).
+
+
+Results:
+Greater depression severity was associated with greater anxiety (r = 0.53, p = 0.0001), lower resilience (r = −0.33, p = 0.03), and greater apathy (r = 0.39, p = 0.01). Greater GMV in widespread, partially overlapping clusters across the brain was associated with reduced anxiety and apathy, as well as increased resilience.
+
+
+Conclusion:
+Our results suggest that greater GMV in extended brain regions is a potential marker for resilience in GD, while GMV in more focal and overlapping regions may be markers for depression and anxiety. Interventions focused on improving symptoms in GD may seek to examine their effects on these brain regions.

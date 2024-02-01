@@ -1,0 +1,15 @@
+
+Purpose
+This paper aims to synthesise the latest literature on supply chain operations of offsite manufacturing in the construction industry to identify and evaluate the uncertainties at each stage of the offsite construction supply chain (OSC-SC) to compile contributions to knowledge and thereby determine the future research directions to improve supply chain resilience (SCR).
+
+
+Design/methodology/approach
+The study was conducted as a systematic literature review. In total, 99 peer-reviewed journal papers published between 2015 and mid-2022 were shortlisted and analysed through the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines.
+
+
+Findings
+The bibliometric analysis revealed that the research focusing on supply chain issues and developing best practices in offsite construction adopt case study approaches to investigate the research problems comprehensively. The content analysis revealed the lack of up-to-date knowledge in the construction workforce regarding OSC; low preparedness for the changes brought by the SC uncertainties; the lack of a proper procurement model for OSC; lack of end-to-end visibility of the supply chain to identify uncertainties and lack of national or government standards on OSC-SC, as some of the key problems instigating the identified the uncertainties.
+
+
+Originality/value
+This study clarifies the current knowledge by systematically presenting uncertainties at each stage of the OSC-SC. Moreover, it provides a framework and proposes that future research should focus specifically on individual/team, organisational, supply chain/network and sector/national/supranational levels to improve SCR.

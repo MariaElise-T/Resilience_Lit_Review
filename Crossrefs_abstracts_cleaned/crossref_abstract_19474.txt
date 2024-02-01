@@ -1,0 +1,6 @@
+Abstract
+
+Identifying thermal resilience hotspots in freshwater systems enables targeted conservation action, and defining relative ecosystem resilience is important for evaluating the potential consequences of climate change for aquatic ecosystems.
+The thermal resilience of a river is likely to be affected by variables such as stream order, groundwater depth, flow predictability, water yield (precipitation minus evaporation) and catchment transformation.
+A database of values for these variables indicating resilience against thermal stress was developed for all sub‐catchments in South Africa. Radar plots show the relative importance of the five variables potentially affecting system resilience. The resilience scores (from 0 to 1) for each variable were summed to generate a total resilience score for each sub‐catchment and used to generate a map of system resilience to thermal stress for South Africa. This was extended to show hotspots in South Africa where river systems were most likely to show high resilience.
+These areas, in association with other criteria such as conservation value, provide an additional metric for prioritizing freshwater focal areas for restoration and conservation intervention, and identifying climate change refugia.

@@ -1,0 +1,16 @@
+Abstract
+
+Background and Aims
+Plant vascular diseases significantly impact crop yield worldwide. Esca is a vascular disease of grapevine found globally in vineyards which causes a loss of hydraulic conductance due to the occlusion of xylem vessels by tyloses. However, the integrated response of plant radial growth and physiology in maintaining xylem integrity in grapevine expressing esca symptoms remains poorly understood.
+
+
+Methods
+We investigated the interplay between variation in stem diameter, xylem anatomy, plant physiological response and hydraulic traits in two widespread esca-susceptible cultivars, ‘Sauvignon blanc’ and ‘Cabernet Sauvignon’. We used an original experimental design using naturally infected mature vines which were uprooted and transplanted into pots allowing for their study in a mini-lysimeter glasshouse phenotyping platform.
+
+
+Key Results
+Esca significantly altered the timing and sequence of stem growth periods in both cultivars, particularly the shrinkage phase following radial expansion. Symptomatic plants had a significantly higher density of occluded vessels and lower leaf and whole-plant gas exchange. Esca-symptomatic vines showed compensation mechanisms, producing numerous small functional xylem vessels later in development suggesting a maintenance of stem vascular cambium activity. Stabilization or late recovery of whole-plant stomatal conductance coincided with new healthy shoots at the top of the plant after esca symptoms plateaued.
+
+
+Conclusions
+Modified cropping practices, such as avoiding late-season topping, may enhance resilience in esca-symptomatic plants. These results highlight that integrating dendrometers, xylem anatomy and gas exchange provides insights into vascular pathogenesis and its effects on plant physiology.

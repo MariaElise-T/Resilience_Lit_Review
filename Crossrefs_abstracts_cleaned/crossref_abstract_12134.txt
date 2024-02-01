@@ -1,0 +1,12 @@
+Abstract
+Background
+A variety of stressors throughout medical education have contributed to a burnout epidemic at both the undergraduate medical education (UGME) and postgraduate medical education (PGME) levels. In response, UGME and PGME programs have recently begun to explore resilience-based interventions. As these interventions are in their infancy, little is known about their efficacy in promoting trainee resilience. This systematic review aims to synthesize the available research evidence on the efficacy of resilience curricula in UGME and PGME.
+
+Methods
+We performed a comprehensive search of the literature using MEDLINE, EMBASE, PsycINFO, Educational Resources Information Centre (ERIC), and Education Source from their inception to June 2020. Studies reporting the effect of resilience curricula in UGME and PGME settings were included. A qualitative analysis of the available studies was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Risk of bias was assessed using the ROBINS-I Tool.
+
+Results
+Twenty-one studies met the inclusion criteria. Thirteen were single-arm studies, 6 quasi-experiments, and 2 RCTs. Thirty-eight percent (8/21; n = 598) were implemented in UGME, while 62 % (13/21, n = 778) were in PGME. There was significant heterogeneity in the duration, delivery, and curricular topics and only two studies implemented the same training model. Similarly, there was considerable variation in curricula outcome measures, with the majority reporting modest improvement in resilience, while three studies reported worsening of resilience upon completion of training. Overall assessment of risk of bias was moderate and only few curricula were previously validated by other research groups.
+
+Conclusions
+Findings suggest that resilience curricula may be of benefit to medical trainees. Resilience training is an emerging area of medical education that merits further investigation. Additional research is needed to construct optimal methods to foster resilience in medical education.

@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to study the supply chain resilience of Indian truckload transportation industry, in the event of potential disasters that affect the normalcy of their services. This study helped to identify factors affecting the two important dimensions of resilience, namely, resistive capacity and restorative capacity.
+
+
+Design/methodology/approach
+With the help of a comprehensive literature review, the different variables that capture both resistive and restorative capacities were identified. A framework for measurement of resilience was developed and an analytical model using Bayesian belief networks methodology was used to understand the linkages between the variables.
+
+
+Findings
+The results also suggest that at present resilience of the supply chains in Indian trucking firms is very low and there is a need for companies to invest in resources to build both in resistive and restorative capacities to enhance resilience.
+
+
+Practical implications
+The results of the model and the sensitivity analysis performed further helped to understand the major drivers that can enhance resilience of truckload firms.
+
+
+Originality/value
+The major contribution of this paper is to develop a quantitative model for resilience modeling in truckload transportation. This model can be updated when a new data arrives.

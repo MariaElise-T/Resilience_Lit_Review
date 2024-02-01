@@ -1,0 +1,12 @@
+Abstract
+Background
+Cancer patients experience various forms of psychological distress. Their distress, mainly in the form of depression and anxiety, leads to poor quality of life, increased medical spending due to frequent visits, and decrease in treatment adherence. It is estimated that 30–50% among them would require support from mental health professionals: in reality, much less actually receive such support partly due to a shortage of qualified professionals and also due to psychological barriers in seeking such help. The purpose of the present study is to develop the easily accessible and the most efficient and effective smartphone psychotherapy package to alleviate depression and anxiety in cancer patients.
+
+Methods
+Based on the multiphase optimization strategy (MOST) framework, the SMartphone Intervention to LEssen depression/Anxiety and GAIN resilience project (SMILE-AGAIN project) is a parallel-group, multicenter, open, stratified block randomized, fully factorial trial with four experimental components: psychosocial education (PE), behavioral activation (BA), assertion training (AT), and problem-solving therapy (PS). The allocation sequences are maintained centrally. All participants receive PE and then are randomized to the presence/absence of the remaining three components. The primary outcome of this study is the Patient Health Questionnaire-9 (PHQ-9) total score, which will be administered as an electronic patient-reported outcome on the patients’ smartphones after 8 weeks. The protocol was approved by the Institutional Review Board of Nagoya City University on July 15, 2020 (ID: 46-20-0005). The randomized trial, which commenced in March 2021, is currently enrolling participants. The estimated end date for this study is March 2023.
+
+Discussion
+The highly efficient experimental design will allow for the identification of the most effective components and the most efficient combinations among the four components of the smartphone psychotherapy package for cancer patients. Given that many cancer patients face significant psychological hurdles in seeing mental health professionals, easily accessible therapeutic interventions without hospital visits may offer benefits. If an effective combination of psychotherapy is determined in this study, it can be provided using smartphones to patients who cannot easily access hospitals or clinics.
+
+Trial registration
+UMIN000041536, CTR. Registered on 1 November 2020 https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000047301.

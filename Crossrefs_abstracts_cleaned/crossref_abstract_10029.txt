@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to propose and empirically test a model that examines subjective well-being (SWB) components (affect balance and life satisfaction, colloquially referred to as “happiness”), as the intervening variables between resilience and organizational commitment (OC), drawing on appraisal theory and job demands‒resources model.
+
+
+Design/methodology/approach
+Based on an employee sample (n=345) from Indian organizations, this study uses structural equation modeling to confirm the differential mediating mechanism for OC dimensions.
+
+
+Findings
+The results suggest that resilience can create a pathway for positive emotions and increase life satisfaction, which, in turn, can help an employee to stick to the organization. Notably, findings indicate that affect balance fully mediates the linkages between resilience and affective commitment, whereas life satisfaction fully mediates the relationship between resilience and continuance commitment.
+
+
+Practical implications
+Besides making useful contributions to the concerned literature, the findings also have useful messages for managers and organizations trying to develop a committed workforce by building employee resilience.
+
+
+Originality/value
+Although previous studies have supported the relationship between resilience and OC, to date, no study has analyzed the motivational and cognitive process through which resilience relates to each dimension of OC (i.e. affective, normative and continuance).

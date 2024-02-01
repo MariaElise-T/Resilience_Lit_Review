@@ -1,0 +1,15 @@
+Abstract
+Objectives
+Depression among adolescents is a global concern. Adverse childhood experiences (ACEs) have been correlated with negative physical and mental health such as obesity and depression; however, increasing evidence has suggested that their correlation might be moderated by BMI and resilience. In this study, we aim to explore (1) whether resilience moderate the risk of mental health by ACEs; (2) whether BMI is a moderator of this relationship.
+
+Study Design
+Adolescents were obtained from 4 grade college students by a multi-stage convenience sampling method in the period of May to Jun, 2022.
+
+Methods
+We use the Connor-Davidson Resilience scale, Depression, Anxiety and Stress Scale-21 Item (DASS-21) questionnaires to measure the ACEs, BMI, resilience and mental health. The primary exposure was ACEs and the primary outcome was mental health; while resilience and BMI were moderators. Multivariable linear regression model was used to establish the relationship of ACEs, resilience and BMI against mental health status. Moderate analysis was employed by PROCESS method to explore the relationship between these variables.
+
+Results
+A total of 3600 individuals were initially enrolled, after excluding 22 with invalid questionnaires, 3578 adolescents were finally included. The mean age was (20.53 ± 1.65) years old. After adjusted for covariates, multivariable linear regression suggest that the high level ACEs (, β =0.58, , 95%CI:0.54,0.62,  P < 0.01), resilience (, β=-0.27, 95%CI: , 95%CI: -0.28,-0.26, P < 0.01) were associated with higher depression symptoms, and BMI (, β =0.073, 95%CI: 0.002–0.15, P < 0.05) was associated with higher depression symptoms. There is also the interaction between resilience, ACEs and mental health (depression, anxiety and stress symptoms). In the relationship between ACEs and mental health, resilience and BMI played a moderator role.
+
+Conclusions
+The moderate analysis also provided further evidence of a link between resilience, ACEs, BMI and mental health. The findings shed new light on potential mechanisms between ACEs and mental health, including the effects of the co-interaction of resilience and BMI, adding to previous literature. ACEs may be a profound variable to measure adolescents’ psychosocial environment to influence mental health, and resilience moderate this effect and is also moderated by BMI.

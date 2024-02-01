@@ -1,0 +1,19 @@
+
+Background
+Depressive symptoms predict hospitalization and mortality in adults with cardiac disease. Resilience, defined as a dynamic process of positively responding to adversity, could protect against depressive symptoms in cardiac disease. No systematic review has been conducted on the relationship between these variables in this population.
+
+
+Objective
+The aim of this review was to explore the association between psychological resilience and depressive symptoms in adults with cardiac disease.
+
+
+Methods
+Seven databases (PubMed, EMBASE, CINAHL, PsycInfo, Web of Science, SCOPUS, and Cochrane) were searched from inception to December 2019 using the search terms “cardiac disease,” “depressive symptoms,” “depression,” and “resilience.” Inclusion criteria dictated that studies reported original research on the association between resilience and depressive symptoms in adults with a cardiac disease broadly defined. Quality ratings were performed by 2 independent raters.
+
+
+Results
+We identified 13 studies for final review. Study sample sizes ranged from 30 to 1022 participants, average age ranged from 52 to 72 years, and all studies had majority male participants (64%–100%). Resilience and depressive symptoms were inversely related in 10 of 13 studies. The 3 studies with poor-quality sampling techniques or significant loss to follow-up found no relationship.
+
+
+Conclusions
+Resilience seems to protect against depression in adults with cardiac disease. Gaps in the literature include poor understanding of the direction of causality. Methods of promoting resilience need to be identified and studied.

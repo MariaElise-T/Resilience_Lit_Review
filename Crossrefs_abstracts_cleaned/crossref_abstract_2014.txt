@@ -1,0 +1,31 @@
+
+Purpose
+The purpose of this paper is to present a framework for evaluation and ranking of potential surrogates to select the optimum surrogates and test it for five selected social resilience indicators in a disaster context. Innovative resilience assessment approaches are required to capture key facets of resilience indicators to deepen the understanding of social resilience. Surrogates can adequately represent the target indicator that is difficult to measure, as surrogates are defined as key facets of a target indicator.
+
+
+Design/methodology/approach
+To optimize the selection of surrogates, five key evaluation criteria were used. Disaster management experts completed an online survey questionnaire and evaluated three potential surrogate options. Surrogates were then ranked using PROMETHEE, a multi-experts multi-criteria group decision analysis technique.
+
+
+Findings
+A framework was devised to evaluate and rank potential surrogates to assess social resilience in a disaster context. The findings revealed that the first ranked surrogate can be the most critical facet of a resilience indicator of measure. In most instances, highly experienced cohort of practitioners and policy makers have aligned their preferences of surrogates with the overall ranking of surrogates obtained in this study.
+
+
+Research limitations/implications
+The surrogate approach can also be tested in different disaster and geographic contexts. The resilience indicators used in this study to explore surrogates are largely applicable in all contexts. However, the preference of surrogates may also vary in different contexts.
+
+
+Practical implications
+Once the surrogate is selected through an evaluation process proposed in this paper, the resilience status can be updated regularly with the help of the selected surrogate. The first ranked surrogate for each of the social resilience indicator can be applied, since the findings revealed that the first ranked surrogate can be the most critical facet in the context of the social resilience indicator being measured.
+
+
+Social implications
+The framework and the selection of optimal surrogates will assist to overcome the conceptual and methodical challenges of social resilience assessment. The applicability of selected surrogates by practitioners and policymakers in disaster management will play a vital role in resilience investment decision-making at the community level.
+
+
+Originality/value
+The surrogate approach has been used in the fields of ecology and clinical medicine to overcome the challenges in measuring difficult to measure indicators. The use of surrogates in this study to measure social resilience indicators in a disaster context is innovative, which was not yet explored in resilience measurement in disaster management.
+
+
+Graphical abstract
+

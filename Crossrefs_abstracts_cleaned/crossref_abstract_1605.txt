@@ -1,0 +1,12 @@
+Abstract
+Background
+The healthcare services for non-communicable diseases (NCD) are commonly affected by public health crises like the COVID-19 pandemic. During the pandemic, all healthcare facilities in Bangkok had been overwhelmed by the extreme caseload of COVID-19. Health service resiliency is crucial for the continued service of healthcare facilities post pandemic. This study aims to explore the impacts of COVID-19 on NCD service disruption and addressed the resilience of healthcare services at the operational level.
+
+Methods
+Healthcare facility-based surveys and in-depth interviews were conducted among representatives of the facilities in Bangkok from April 2021 to July 2021. The web-based, self-administered questionnaire, was sent to directors or authorities of all healthcare facilities in Bangkok Thailand (n = 169). Two healthcare facilities from three levels of health services were purposively selected. The directors or medical doctors and nurses who are in charge of the NCD service, and working at the six selected health facilities, were invited to participate in the in-depth interviews. Descriptive statistics were used to analyze the survey data, and thematic analysis was used to analyze the data from the in-depth interviews.
+
+Results
+The impact of COVID-19 on NCD service disruption in the second wave (2021) was more severe than in the first wave (2020). The main reasons for NCD service disruptions are insufficient staff, and the closure of some services offered by the healthcare facilities. Surprisingly, both the budget and medical supply for healthcare facilities in Bangkok are less affected by the COVID-19 pandemic. Our study revealed resilience capability i.e. absorptive, adaptive, and transformative capabilityamong the healthcare facilities that provide a continuum of care by increasing availability and accessibility to healthcare services for chronic illness as DM. The service disruption in Bangkok may alter from other provinces because of variations in COVID-19 incidence and health services contexts.
+
+Conclusion
+During the public health crisis, using affordable and common digital technologies to ensure DM patients can access a continuum of care and providing alternative services such as mobile medical laboratories, medication delivery, and medical refill at drug stores can increase consistent monitoring of glycemic levels and use of prescribed medication.

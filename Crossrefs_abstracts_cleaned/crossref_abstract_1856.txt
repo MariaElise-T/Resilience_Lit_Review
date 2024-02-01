@@ -1,0 +1,23 @@
+
+Purpose
+Housing infrastructure is the basic need for people of a community and due to disaster many houses may severaly damaged. Stakeholders and decision makers should focus on this issue and make the infrastructure more resilient against natural hazards. As dependency plays a very important role in resilience, it is important to study the dependencies and correlations among the housing infrastructure resilience factors. The evaluation of dependencies involve vagueness due to subjective judgement of experts.
+
+
+Design/methodology/approach
+In this work, the interaction between the housing infrastructure resilience factors are evaluated by using two different approaches such as crisp DEMATEL (Decision-Making and Trial Evaluation Laboratory) and rough DEMATEL (intregated crisp DEMATEL and rough set theory), where rough theory addressed the involvement of vagueness. These two approaches are compared with each other to find the effectiveness of rough DEMATEL over crisp DEMATEL.
+
+
+Findings
+The important factors of housing infrastructure resilience are identified by using both the approaches against flood hazard.
+
+
+Research limitations/implications
+The limitation of rough DEMATEL method is that it does not differentiate the type of influence such as positive or negative.
+
+
+Practical implications
+The outcome of the work will helps the stakeholders and ecission makers to make the infrastructure more resilient.
+
+
+Originality/value
+This study identify the imporatnat resilience factors of housing infrastructure against flood hazard by using two methodologies.

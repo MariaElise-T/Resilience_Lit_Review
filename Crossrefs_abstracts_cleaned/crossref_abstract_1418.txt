@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this study is to test and validate a scale for measuring project resilience in the construction sector within the built environment. By identifying relevant indicators and items, the study aims to enhance the resilience of construction projects and minimize losses and failures resulting from disruptive events such as societal, technological, biological and environmental hazards (e.g. Covid-19, war in Ukraine, shortage of resources, etc.).
+
+
+Design/methodology/approach
+The study uses a quantitative approach, specifically exploratory factor analysis and confirmatory factor analysis, to evaluate the suitability, dimensionality and reliability of the proposed indicators and items for measuring project resilience in the construction sector.
+
+
+Findings
+The study found that 9 indicators and 34 items were suitable for measuring project resilience in the construction sector, and the proposed model showed good fit for the two dimensions of project resilience, which may have practical implications for project managers in the construction sector within the built environment.
+
+
+Originality/value
+The study proposes a new scale for measuring project resilience in the construction sector, which is a novel contribution to the field of project management. The study identifies specific indicators and items that are relevant to this industry, which may have practical implications for project managers in this sector. The study also highlights the need for further research to make the project resilience scale more robust and reliable.

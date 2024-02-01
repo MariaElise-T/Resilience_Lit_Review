@@ -1,0 +1,12 @@
+Abstract
+Introduction
+A new coronavirus, called COVID-19, is an acute respiratory disease, which may arouse many psychological disorders since there is no specialized knowledge about it. The present study aimed to investigate the level of resilience and its relationship with hypochondriasis in nurses working in a COVID-19 reference hospital in south of Iran.
+
+Methods
+This cross-sectional study was conducted in 2020, in which 312 nurses participated using the census method. Data collection tools were the Conker-Davidson standard resilience scale (CD-RISC) and the Evans Hypoglycaemia Awareness Questionnaire. Data were analyzed using t-test, ANOVA, Pearson correlation coefficient, and multiple linear regression using SPSS software version 23.
+
+Results
+The mean scores of resilience and hypochondriasis were 72.38 ± 7.11 and 49.75 ± 8.13, respectively, indicating the moderate level of these two variables among nurses. Hypochondriasis in 18.91, 61.22, and 1.28% of the nurses was mild, moderate, and severe, respectively. There was a significant negative correlation between resilience and hypochondriasis (r = − 0.214 and P < 0.001). In this regard, control (P < 0.001), positive acceptance of change (P < 0.001), spiritual effects (P = 0.001), trust in individual instincts (P = 0.001), and perception of competence (P = 0.002) were detected as the predictors of nurses’ hypochondriasis.
+
+Conclusion
+The nurses had moderate levels of resilience and hypochondriasis. Promoting knowledge about COVID-19and increasing information on how to protect oneself and others against the disease along with supportive packages from their managers are thus recommended.

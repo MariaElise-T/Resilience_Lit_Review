@@ -1,0 +1,19 @@
+
+Introduction
+We saw a lack of data on the biomechanical behavior of degenerated articular cartilage (OA) compared with that of healthy cartilage, even though the susceptibility to wear and tear of articular cartilage plays a key role in the progression of osteoarthritis (OA). Therefore, we performed a comparison between naturally occurring OA and healthy cartilage from pigs, before and after tribological stress.
+
+
+Aim
+The aim of the study was to compare OA-cartilage with healthy cartilage and to analyze the resilience to tribological shear stress, which will be measured as height loss (HL), and to friction forces of the cartilage layers. The findings will be substantiated in macro- and microscopical evaluations before and after tribological exposure.
+
+
+Methods
+We assessed stifle joints of fifteen old and sixteen young pigs from the local abattoir radiologically, macroscopically and histologically to determine possible OA alterations. We put pins from the femoral part of the joints and plates from the corresponding tibial plateaus in a pin-on-plate tribometer under stress for about two hours with about 1108 reciprocating cycles under a pressure of approximately 1 MPa. As a surrogate criterion of wear and tear, the HL was recorded in the tribometer. The heights of the cartilage layers measured before and after the tribological exposure were compared histologically. The condition of the cartilage before and after the tribological exposure was analyzed both macroscopically with an adapted ICRS score and microscopically according to Little et al. (2010). We assessed the friction forces acting between the surfaces of the cartilage pair–specimens.
+
+
+Results
+Articular cartilage taken from old pigs showed significant degenerative changes compared to that taken from the young animals. The macroscopic and microscopic scores showed strong alterations of the cartilage after the tribological exposure. There was a noticeable HL of the cartilage specimens after the first 100 to 300 cycles. The HL after tribological exposure was lower in the group of the old animals with 0.52 mm ± 0.23 mm than in the group of the young animals with 0.86 mm ± 0.26 mm (p < 0.0001). The data for the HL was validated by the histological height measurements with 0.50 mm ± 0.82 mm for the old and 0.79 mm ±0.53 mm for the young animals (p = 0.133). The friction forces measured at the cartilage of the old animals were 2.25 N ± 1.15 N and 1.89 N ± 1.45 N of the young animals (p = 0.3225).
+
+
+Conclusion
+Unlike articular cartilage from young pigs, articular cartilage from old pigs showed OA alterations. Tribological shear stress exposure revealed that OA cartilage showed less HL than healthy articular cartilage. Tribological stress exposure in a pin–on–plate tribometer seemed to be an appropriate way to analyze the mechanical stability of articular cartilage, and the applied protocol could reveal weaknesses of the assessed cartilage tissue. Friction and HL seemed to be independent parameters when degenerated and healthy articular cartilage were assessed under tribological exposure in a pin–on- plate tribometer.

@@ -1,0 +1,13 @@
+Objective - Entrepreneurs are one of the important contributors to increasing non-agricultural economic income and developing micro, small and medium enterprises. In Indonesia, entrepreneurial orientation has empirically proven that psychological factors affect individuals in improving the economy of society. The concept of psychological resilience as the development of models to predict the events and situations of failure. In certain circumstances difficulties cannot be avoided, a person with psychological resilience is able to reduce the problem by creating a new situation. Individuals who have strong personality characteristics thought to be one important factor in the process of creation and development of enterprises.
+
+Methodology/Technique - The scale used in this study consisted of a scale big five personality (Openness) McCrae & Costa (2004), The Self-Regulation Questionnaire (SRQ) by Brown et al (1999), The Work Locus of Control Scale (WLCS) by Spector (1988) as modified by Spector (2004), and Connor-Davidson Resilience Scale (CD-RISC) compiled by Connor & Davidson (2003) as modified by Manzano and Ayala (2013). A total of 238 micro businesses have voluntarily participated.
+
+Findings - The results of path analysis showed that the openness personality directly (β = 0.131) was significantly associated with resilience. Similarly, the personality trait through self-regulation shows indirect influence on resilience (p1 p3 0.027 x 0.175 = 0.0047) significantly.
+
+Novelty - The contributions of personality openness and self-regulation of the resilience of 0.136 or 13.6%. It can be concluded that indirectly associated the entrepreneur's psychological resilience of the personality trait through self-regulation significantly.
+
+Type of Paper - Empirical.
+
+Keywords: Personality Traits; Locus of Control; Self-regulation; Entrepreneurs; Psychological Resilience.
+
+JEL Classification: M50, M59.

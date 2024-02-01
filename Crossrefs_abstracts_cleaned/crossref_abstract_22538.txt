@@ -1,0 +1,11 @@
+Abstract
+Background
+Clostridioides difficile is a spore forming bacterial species and the major causative agent of nosocomial gastrointestinal infections. C. difficile spores are highly resilient to disinfection methods and to prevent infection, common cleaning protocols use sodium hypochlorite solutions to decontaminate hospital surfaces and equipment. However, there is a balance between minimising the use of harmful chemicals to the environment and patients as well as the need to eliminate spores, which can have varying resistance properties between strains. In this work, we employ TEM imaging and Raman spectroscopy to analyse changes in spore physiology in response to sodium hypochlorite. We characterize different C. difficile clinical isolates and assess the chemical’s impact on spores’ biochemical composition. Changes in the biochemical composition can, in turn, change spores’ vibrational spectroscopic fingerprints, which can impact the possibility of detecting spores in a hospital using Raman based methods.
+
+Results
+We found that the isolates show significantly different susceptibility to hypochlorite, with the R20291 strain, in particular, showing less than 1 log reduction in viability for a 0.5% hypochlorite treatment, far below typically reported values for C. difficile. While TEM and Raman spectra analysis of hypochlorite-treated spores revealed that some hypochlorite-exposed spores remained intact and not distinguishable from controls, most spores showed structural changes. These changes were prominent in B. thuringiensis spores than C. difficile spores.
+
+Conclusion
+This study highlights the ability of certain C. difficile spores to survive practical disinfection exposure and the related changes in spore Raman spectra that can be seen after exposure. These findings are important to consider when designing practical disinfection protocols and vibrational-based detection methods to avoid a false-positive response when screening decontaminated areas.
+
+Graphical Abstract

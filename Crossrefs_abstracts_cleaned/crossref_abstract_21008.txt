@@ -1,0 +1,12 @@
+Abstract
+Background
+The novel coronavirus (COVID-19) pandemic is disproportionately impacting the health of people with disability. Resilience has remained an important health promoting characteristic during periods of social distancing restrictions. Factors promoting resilience for people with disability under the context of the pandemic remains poorly understood. Studies have yet to investigate evidence-based factors that promote resilience over multiple periods of restrictions for people with disability.
+
+Methods
+A longitudinal study developed via a collaborative partnership between peer-support workers with lived experience of spinal cord injury (SCI) and university researchers was undertaken to fill knowledge gaps around factors promoting resilience for people with SCI during two periods of stringent social distancing restrictions within Victoria, Australia. Over 12-months, participants with SCI completed two surveys, towards the end of two lockdown periods. Evidence-based factors associated with resilience were measured. The Impact on Participation and Autonomy Questionnaire, the International SCI Quality of Life scale, and the 10-item Conor Davidson Resilience Scale, respectively measured autonomy and participation limitations, life satisfaction and psychological health, and resilience. A structural equation modelling (SEM) approach established factors directly and indirectly associated with resilience.
+
+Results
+A model with excellent fit was produced. During two extended lockdowns over the 12-month period, increased family role limitations and favourable psychological health were respectively, negatively (Lockdown 1 [n = 127]: β = -.251, p < .01, Lockdown 2: β = -.400, p < .01) and positively (Lockdown 1: β = .601, p < .01, Lockdown 2 [n = 65]: β = .430, p < .01) associated with resilience. Indirect negative associations between resilience and increased outdoor autonomy limitations (Lockdown 1: β = -.195, p < .01, Lockdown 2: β = -.255, p < .01) and social life limitations (Lockdown 1: β = -.217, p < .01, Lockdown 2: β = -.142, p < .05) existed, and these relationships were moderated by psychological health.
+
+Conclusions
+Psychological health, and participation and autonomy are determinants of resilience during periods of crisis. Health and social care providers and public health departments should prioritise programs promoting these domains, to counter the negative impact of social distancing.

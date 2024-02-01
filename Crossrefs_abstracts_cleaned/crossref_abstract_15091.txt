@@ -1,0 +1,2 @@
+Abstract
+We briefly survey recent proposals that seek to capture in numerical terms the resilience and the robustness of a graph. After a brief introduction and the establishment of notation and terminology, we catalogue characterizations proposed in journal articles published within the last two decades. We then describe some of the numerous application areas for such characterizations. We experiment with implementations of numerous characteristics on several graph-generation models, after which we conclude with a discussion of open problems and future directions.

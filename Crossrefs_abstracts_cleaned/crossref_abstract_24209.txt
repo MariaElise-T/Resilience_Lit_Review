@@ -1,0 +1,19 @@
+
+Objective:
+To explore putative different impacts of delayed graft function (DGF) on long-term graft survival in kidneys donated after brain death (DBD) and circulatory death (DCD).
+
+
+Background:
+Despite a 3-fold higher incidence of DGF in DCD grafts, large studies show equivalent long-term graft survival for DBD and DCD grafts. This observation implies a differential impact of DGF on DBD and DCD graft survival. The contrasting impact is remarkable and yet unexplained.
+
+
+Methods:
+The impact of DGF on DBD and DCD graft survival was evaluated in 6635 kidney transplants performed in The Netherlands. DGF severity and functional recovery dynamics were assessed for 599 kidney transplants performed at the Leiden Transplant Center. Immunohistochemical staining, gene expression profiling, and Ingenuity Pathway Analysis were used to identify differentially activated pathways in DBD and DCD grafts.
+
+
+Results:
+While DGF severely impacted 10-year graft survival in DBD grafts (HR 1.67; P < 0.001), DGF did not impact graft survival in DCD grafts (HR 1.08; P = 0.63). Shorter dialysis periods and superior posttransplant eGFRs in DBD grafts show that the differential impact was not caused by a more severe DGF phenotype in DBD grafts. Immunohistochemical evaluation indicates that pathways associated with tissue resilience are present in kidney grafts. Molecular evaluation showed selective activation of resilience-associated pathways in DCD grafts.
+
+
+Conclusions:
+This study shows an absent impact of DGF on long-term graft survival in DCD kidneys. Molecular evaluation suggests that the differential impact of DGF between DBD and DCD grafts relates to donor-type specific activation of resilience pathways in DCD grafts.

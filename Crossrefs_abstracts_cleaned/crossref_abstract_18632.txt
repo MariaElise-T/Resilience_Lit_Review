@@ -1,0 +1,24 @@
+ABSTRACT
+
+Aim
+To evaluate and compare the shear bond strength of resilient liners with heat cure denture base resins in the presence or absence of saliva.
+
+
+Materials and methods
+Two commercially available heat polymerized acrylics and three commercially available denture liners were immersed in artificial saliva for 7 days and 14 days, respectively. A total of 180 (Acralyn-H, No.90 and Lucitone - 199, No.90) specimens were prepared. Total of 90 overlapping joint specimens were prepared, 45 of them using Acralyn H (AGroup) and rest 45 using Lucitone-199 (L-Group). The specimens were tested for flexural strength with a 3-point bending test on an Instron universal testing machine. The results were analyzed with a one-way analysis of variance (ANOVA).
+
+
+Results
+The mean difference in shear bond strength (SBS) at different time intervals was found to be statistically significant (p < 0.001). Lucitone-199 recorded a significantly higher mean SBS compared to Acralyn H (p < 0.001). Further, significant differences between GC and Densply, GC and Aswin liners, and between Dentsply and Aswin were noted (p < 0.001). Difference between baseline and 7 days time interval, as well as, between baseline and 14 days time interval with respect to the mean SBS of these materials were significant (p < 0.001). Also, the mean difference in SBS between 7 days time interval and 14 days time interval was statistically significant (p < 0.001). Among the three different liners, GC yielded a higher mean SBS compared to Aswin and Dentsply at all the three time intervals. The mean SBS recorded in Dentsply and Aswin was almost same at 14 days time interval, but at baseline and 7 days, it was higher in Aswin compared to Dentsply.
+
+
+Conclusion
+Lucitone-199 recorded a higher mean SBS compared to Acralyn H. As the time interval increases, the mean SBS recorded in both the denture base materials decrease. Among the three different liners, GC yields a higher mean SBS compared to Aswin and Dentsply at all the three time intervals.
+
+
+Clinical significance
+The most common reason for failures of resilient linings in removable dentures is the separation of these linings from the denture base. Therefore, poor adhesive bond properties are one of the serious defects of the material in clinical practice.
+
+
+How to cite this article
+Rao CS, Reddy SS, Prasad GM, Reddy KS, Rao NV, Naik MS. A Study to Evaluate and Compare the Shear Bond Strength of Resilient Liners with Heat Cure Denture Base Resins, with and without the Effect of Saliva: An in vitro Study. J Contemp Dent Pract 2012;13(3):394-400.

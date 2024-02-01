@@ -1,0 +1,15 @@
+Abstract
+Background
+Female nurses confronting work-family conflict may endure adverse consequences for themselves and their families, leading to a decline in job performance and intentions to quit. Investigating the effects of interventions based on factors contributing to work-family conflict can aid in identifying optimal strategies for conflict reduction and mitigating its negative repercussions. This study aimed to examine the impact of time management and resilience training on work-family conflict among Iranian female Nurses in 2022.
+
+Methods
+In this randomized controlled trial employing pre, post, and follow-up measures, 132 female nurses employed in the hospitals of Bushehr University of Medical Sciences (Bushehr, Iran) were selected and subsequently categorized into three groups—time management, resilience training, and control groups—using simple random sampling method. 10 online training sessions were conducted for each intervention group. A demographic form and a work-family conflict questionnaire were used for data collection. Repeated measures ANOVA, one-way ANOVA and multivariate general linear model were used to examine the hypotheses.
+
+Results
+Regarding total work-family conflict, posttest mean scores were significantly lower than the pretest in both time management (p < 0.001) and resilience (p < 0.001) training groups, but follow-up mean scores were significantly higher than posttests in both time management (p < 0.001) and resilience (p < 0.001) training groups. In the control group, the mean scores at three time points were not statistically different (P = 0.058). The post-test mean score of work-family conflict was comparable in the two intervention groups (P > 0.05) and lower than the control group (P < 0.001) The follow-up mean score was comparable in the two intervention groups (P > 0.05) and lower than the control group (P < 0.001).
+
+Conclusion
+Time management and resilience training effectively reduced the work-family conflict experienced by female nurses. Therefore, it is recommended that training programs such as time management and resilience training be incorporated into the ongoing education of nurses to alleviate their work-family conflict. Considering the diminishing impact of these interventions over time, training should be reiterated based on the evolving needs of the nurses.
+
+Trial registration
+Number (IRCT20190122042453N2),01/27/2022.

@@ -1,0 +1,12 @@
+Abstract
+Background
+To investigate the resilience of non-local medical workers sent to support local medical workers in treating the outbreak of 2019 novel coronavirus disease (COVID-19).
+
+Methods
+In February 2020, non-local medical workers who had been sent to Wuhan as support staff to respond to the COVID-19 outbreak were asked to complete an online survey composed of the Connor Davidson Resilience Scale (CD-RISC), Hospital Anxiety Depression Scale (HADS) and Simplified Coping Style Questionnaire (SCSQ).
+
+Results
+Survey responses from 114 non-local medical workers were analyzed. CD-RISC scores were high (67.03 ± 13.22). The resilience level was highest for physicians (73.48 ± 11.49), followed by support staff, including health care assistants, technicians (67.78 ± 12.43) and nurses (64.86 ± 13.46). Respondents differed significantly in the levels of education, training/support provided by the respondent’s permanent hospital (where he or she normally works), and in their feelings of being adequately prepared and confident to complete tasks (P < 0.05). Resilience correlated negatively with anxiety (r = −.498, P < 0.01) and depression (r = −.471, P < 0.01) but positively with active coping styles (r = .733, P < 0.01). Multiple regression analysis showed that active coping (β = 1.314, p < 0.05), depression (β = −.806, p < 0.05), anxiety (β = − 1.091, p < 0.05), and training/support provided by the respondent’s permanent hospital (β = 3.510, p < 0.05) were significant associated with resilience.
+
+Conclusion
+Our data show that active coping, depression, anxiety, and training/support provided by the respondent’s permanent hospital are associated with resilience. Managers of medical staff should use these data to develop psychosocial interventions aimed at reinforcing the resilience of medical workers during highly stressful and prolonged medical emergencies, as seen during the COVID-19 outbreak.

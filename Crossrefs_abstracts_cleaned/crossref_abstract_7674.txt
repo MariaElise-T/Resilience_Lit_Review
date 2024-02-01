@@ -1,0 +1,18 @@
+
+Introduction:
+            Vascular cognitive impairment and dementia (VCID) exerts huge morbidity costs, and efficacious therapies are lacking. In a well-established mouse model of VCID, we recently documented
+            in vivo
+            an epigenetically-induced resilience to reference memory deficits by 2 mo of repetitive hypoxic conditioning (RHC) treatment prior to bilateral carotid artery stenosis-induced chronic cerebral hypoperfusion (CCH). The present study was undertaken to define the phenotypic basis of this cognition-protective effect.
+          
+
+Methods:
+            Samples of prefrontal cortex from untreated and RHC-treated mice were obtained after 4 mo of CCH, along with samples from age-matched sham-CCH controls, and analyzed by mass spectrometry using TMTpro labels for quantification. Differentially expressed proteins were bioinformatically analyzed using IPA (Qiagen), with rigid thresholds/filters for fold-change, z-scores, and statistical significance applied.
+          
+
+Results:
+            5071 proteins were identified - 3975 of which were quantified - in the 3 experimental groups. Relative to the cortical proteome of controls, the cortex of memory-impaired CCH mice exhibited a downregulation of proteins involved in Nrf2 signaling and synaptogenesis signaling pathways, and an increase of proteins and related proinflammatory mediators participating in leukocyte extravasation signaling. In addition, gamma secretase levels were increased. Treatment with RHC prior to CCH abrogated the aforementioned Nrf2, synaptogenesis, and leukocyte signaling changes, increased proteins driving oxidative phosphorylation, Rho-mediated CXCR4 signaling, DNA repair, and diverse cell survival networks, and reduced protein enrichments in both apoptosis and necrosis signaling, and reactive oxygen species generating, pathways. Levels of both amyloid precursor protein and amyloid-beta levels, as well as tau, were also lower in RHC-treated, dementia-resilient mice.
+          
+
+Conclusions:
+            These novel findings reveal potential mechanistic insights into relatively early changes in phenotype that characterize VCID and, in turn, how this phenotype is modified by an efficacious epigenetic therapeutic. Causal studies designed to confirm these multifactorial mechanisms of cognitive protection are warranted.
+          

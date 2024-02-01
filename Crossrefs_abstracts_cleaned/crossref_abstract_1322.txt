@@ -1,0 +1,6 @@
+
+
+
+In a resource-constrained world the avoidance of transport-related emissions is crucial to fulfill the sustainable development goals, the Paris agreement on climate change and the Aichi biodiversity targets. Transport simulation enables the development of transport fleet strategies in risk scenarios to further improve efficientcy, sustainability and resilience of supply chains. Discrete event simulation is a valuable methodology for transport simulation, because it focuses on business processes for a digital representation of supply chains and provides an intuitive approach for facilitating stakeholder participation. Consequently, discrete event simulation models for unimodal, multimodal and multi-echelon unimodal wood transport are presented, which enable multicriteria-based strategy development, optimal fleet configuration as well as risk management and wood quality preservation. Furthermore, the verificated and validated discrete event simulation models were used in game-based stakeholder workshops to establish credibility, provide hands- on decision support and facilitate knowledge transfer between science, industry and education. A previous version of this revised and extended journal article was published as conference paper in the Proceedings of the XIVth Junior Forensic Science Conference (JuFoS), 18–19 May 2023 in Brno.
+
+

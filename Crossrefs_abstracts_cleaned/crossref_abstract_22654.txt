@@ -1,0 +1,12 @@
+Abstract
+Background
+The World Health Organization (WHO) has called for the elimination of cervical cancer. Unfortunately, the implementation of cost-effective prevention and control strategies has faced significant barriers, such as insufficient guidance on best practices for resource and operations planning. Therefore, we demonstrate the value of discrete event simulation (DES) in implementation science research and practice, particularly to support the programmatic and operational planning for sustainable and resilient delivery of healthcare interventions. Our specific example shows how DES models can inform planning for scale-up and resilient operations of a new HPV-based screen and treat program in Iquitos, an Amazonian city of Peru.
+
+Methods
+Using data from a time and motion study and cervical cancer screening registry from Iquitos, Peru, we developed a DES model to conduct virtual experimentation with “what-if” scenarios that compare different workflow and processing strategies under resource constraints and disruptions to the screening system.
+
+Results
+Our simulations show how much the screening system’s capacity can be increased at current resource levels, how much variability in service times can be tolerated, and the extent of resilience to disruptions such as curtailed resources. The simulations also identify the resources that would be required to scale up for larger target populations or increased resilience to disruptions, illustrating the key tradeoff between resilience and efficiency. Thus, our results demonstrate how DES models can inform specific resourcing decisions but can also highlight important tradeoffs and suggest general “rules” for resource and operational planning.
+
+Conclusions
+Multilevel planning and implementation challenges are not unique to sustainable adoption of cervical cancer screening programs but represent common barriers to the successful scale-up of many preventative health interventions worldwide. DES represents a broadly applicable tool to address complex implementation challenges identified at the national, regional, and local levels across settings and health interventions—how to make effective and efficient operational and resourcing decisions to support program adaptation to local constraints and demands so that they are resilient to changing demands and more likely to be maintained with fidelity over time.

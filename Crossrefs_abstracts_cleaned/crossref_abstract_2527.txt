@@ -1,0 +1,9 @@
+Abstract
+Background
+Resilient and responsive healthcare systems is on the agenda as ever before. COVID-19, specialization of services, resource demands, and technology development are all examples of aspects leading to adaptations among stakeholders at different system levels whilst also attempting to maintain high service quality and safety. This commentary sets the scene for a journal collection on Resilient and responsive health systems in a changing world. The commentary aims to outline main challenges and opportunities in resilient healthcare theory and practice globally, as a backdrop for contributions to the collection.
+
+Main text
+Some of the main challenges in this field relate to a myriad of definitions and approaches to resilience in healthcare, and a lack of studies having multilevel perspectives. Also, the role of patients, families, and the public in resilient and responsive healthcare systems is under researched. By flipping the coin, this illustrates opportunities for research and practice and raise key issues that future resilience research should pay attention to. The potential of combining theoretical lenses from different resilience traditions, involvement of multiple stakeholders in co-creating research and practice improvement, and modelling and visualizing resilient performance are all opportunities to learn more about how healthcare succeeds under stress and normal operations.
+
+Conclusion
+A wide understanding of resilience and responsiveness is needed to support planning and preparation for future disasters and for handling the routine small-scale adaptation. This collection welcomes systematic reviews, quantitative, qualitative, and mixed-methods research on the topic of resilience and responsiveness in all areas of the health system.

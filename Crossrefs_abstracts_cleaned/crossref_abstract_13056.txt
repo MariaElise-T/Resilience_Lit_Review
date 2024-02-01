@@ -1,0 +1,15 @@
+
+Objective
+To explore the association between sleep quality and anxiety symptoms, and the mediation effect of psychological resilience on this association by a repeated measures study.
+
+
+Methods
+In this study, 127 college students were randomly recruited and their sleep quality and psychological status were repeatedly collected using the Pittsburgh Sleep Quality Index (PSQI) scale, Connor-Davidson resilience scale (CD-RISC), and 7-items generalized anxiety disorder scale (GAD-7). Linear mixed-effects models were used to explore the association between sleep quality and anxiety symptoms, and a mediated effects analysis was used to explore the role played by psychological resilience in this association.
+
+
+Results
+This study found a positive association between sleep quality and anxiety symptoms (β = 0.40, 95% confidence interval: 0.27, 0.52). Psychological resilience scores and its various dimensions play a significant mediating role in this association.
+
+
+Conclusions
+Although the role of sleep quality in anxiety disorders is not fully understood, this study highlights the importance of improving sleep quality while enhancing psychological resilience to prevent the onset of anxiety symptoms in college students.

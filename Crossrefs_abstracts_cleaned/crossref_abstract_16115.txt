@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Mental health and resilience during the COVID-19 pandemic is a challenge for all indivduals. While evidence is emerging that the COVID pandemic has affected mental health of everybody, at this point, no comparable data about the extent of the COVID-19 pandemic impact on mental health and resilience on citizens in Europe are available. We aim to fill this gap in knowledge.
+
+
+Methods
+We conducted a longitudinal study in eight European countries including 18+ year old individuals using mixed methods sampling (e.g. convenience sampling, panel data sampling). Main outcomes were depression, anxiety, post-traumatic symptoms and resilience. Depression was assessed with the PHQ-9, anxiety with the GAD-7, substance use with the Audit, resilience with the BRS and the CD-RISK, stress symptoms with the Impact of Event Scale (IES-R). We assessed as potentially influencing factors socio-demographic factors (location, age, gender, education, profession, living situation), and COVID-19 specific factors, furthermore we investigated social support, social capital, loneliness, and domestic violence and alcohol consumption (AUDIT). We analyze every measurement point, starting from the baseline data, cross-sectional and longitudinally. For the longitudinal analyses, multiple linear regression analyses, simple logistic regression analyses, and multinomial logistic regression analyses are conducted to examine resilience trajectories. Furthermore, to simultaneously control for many variables that potentially confound the relationship between a mental health and resilience, propensity score matching is applied.
+
+
+Results
+In total as of 30. April. 2,442 individuals participated (female: n = 1,582 (64.8%), male: n = 672 (27.5%), diverse: n = 5 (0.2%), missing: n = 183 (7.5%) as well as an age bias (Median=33, Mean=36.30, SD = 14,46, age range=18years-80 years. Mental health outcomes varied widely within and between countries. In this panel European and country specific data will be presented and discussed. We present the data on behalf of the COPERS consortium, other members of the consortium will be present at the discussion.
+
+
+Speakers/Panelists
+Jutta Lindert Hochschule Emden-Leer, Emden, Germany Marija Jakubauskiene Vilnius University, Vilnius, Lithuania Marija Jevtic Faculty of Medicine, University of Novi Sad, Novi Sad, Serbia Edvaldo Begotaraj Department of Social and Developmental Psychology, Sapienza University, Rome, Italy Alessandro Morganti Politecnico di Milano, Milano, Italy
+
+
+Key messages
+To the best of our knowledge, no comparable multinational data about the impact of the COVID-19 pandemic impact on mental conditions and resilience on citizens in Europe are available. Scope and extent of mental conditions during the COVID pandemic vary; country specific most vulnerbale groups are identified.

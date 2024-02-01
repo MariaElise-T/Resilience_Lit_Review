@@ -1,0 +1,18 @@
+Summary
+
+
+Alternate stable states (ASS) theory is a dominant conceptual framework for understanding processes that support resilience of ecological communities in the face of multiple anthropogenic disturbances. For decades, coral reefs have been cited as a classic example of ASS, yet this position remains highly controversial, largely because convincing empirical evaluations have been elusive.
+
+
+Using a combination of empirical measurements of positive feedback processes and simulation modelling, we assessed ASS in coral reefs of the Eastern Tropical Pacific (ETP) by identifying the potential for multiple basins of attraction from a mechanistic perspective.
+
+
+Using bioassays of algal growth and consumption, we quantified two spatially localized positive feedback mechanisms on coral reefs: increasing herbivore activity associated with higher coral abundances and amelioration of nutrient limitation leading to higher algal growth in areas with higher algal abundance.
+
+
+Analysis of a model of benthic community dynamics incorporating these feedbacks showed they were central to producing hysteresis and bistability in the model, two hallmarks of ASS. Further, reefs simulated with conditions matching those measured at Isla Contadora, Panamá, displayed ASS dynamics while producing spatial patterns matching field observations. This provides model‐derived support, based on empirically measured conditions of ETP reefs, for the presence of ASS.
+
+
+Synthesis. The combination of experimental bioassays to measure feedback strengths and simulation models to evaluate the influence of those feedbacks provides a novel, non‐destructive approach to evaluating ASS dynamics that can be applied in threatened ecosystems where classic approaches are not viable.
+
+

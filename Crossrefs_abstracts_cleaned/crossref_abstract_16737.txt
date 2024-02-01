@@ -1,0 +1,12 @@
+Abstract
+Aim
+To explore the factors associated with the coping styles in medical staff while providing emergency aid during public health emergencies.
+
+Subject and methods
+A cross-sectional study was conducted to investigate medical and nursing staff members from four hospitals in Zhejiang Province who participated in emergency assistance in Shanghai during the Omicron pandemic in April 2022.
+
+Results
+Sixty-nine out of 74 subjects completed the questionnaire. Stepwise multivariate linear regression analysis revealed that psychological resilience (β = 0.30, 95% CI: 0.30, 1.08, p = 0.001) and social support (β = 0.26, 95% CI: 0.06, 2.01, p = 0.039) were correlated with positive coping (β = 0.39, 95% CI: 0.21, 0.57, p < 0.001), and friend support (β = 0.65, 95% CI: 0.28, 1.02, p = 0.001) significantly influenced positive coping.
+
+Conclusion
+Social support and psychological resilience are the main factors associated with the coping styles of medical staff. Tenacity and friend support are the main additional influencing factors for positive coping.

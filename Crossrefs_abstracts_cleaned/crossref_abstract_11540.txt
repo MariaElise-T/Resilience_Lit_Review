@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Poor sleep quality is a well-established risk for posttraumatic symptoms (PTSS; Casement et al., 2012; Germain et al., 2004; 2005). Conversely, self-reported resilience is a well-established protective factor against PTSS (Mealer et al., 2012; Wrenn et al., 2011) and has also been shown to moderate the negative impacts of stressful life events on sleep quality (Li et al., 2019). Fewer studies have investigated whether autonomic indices of regulatory control moderate the impacts of resilience and sleep quality on PTSS. Resting heart rate variability (HRV) is a widely supported measure of top-down regulation of cognitive, behavioral and autonomic outcomes (Thayer & Ruiz-Padial, 2006). Higher HRV has been linked with increased capacity for stress coping as well as regulation of affect and attention (Bornstein & Suess, 2000). This study investigates whether resting HRV moderates the relationship between resilience, sleep quality, and PTSS.
+
+
+Methods
+Participants completed the PTSD Checklist for DSM-5 criteria (PCL-5), the Pittsburg Sleep Quality Index (PSQI), and the Connor-Davidson Resilience Scale (CD-RISC-10). A resting baseline assessment of electrocardiogram was used to derive resting-state HRV. Participants (N = 42; 86% women; 76% Caucasian) were recruited from college courses and the surrounding community.
+
+
+Results
+Individuals were grouped into higher and lower HRV. In the lower HRV group, resilience was not related to PTSS, but poorer sleep quality predicted higher PTSS severity (B=.79). Specific components of sleep quality that predicted PTSS in the lower HRV group were sleep disturbance (B=.38) and daytime dysfunction (B=.76). In the higher HRV group, greater resilience predicted lower PTSS severity (B=-.63), but sleep quality was not related to PTSS. Sleeping medication was the only component that predicted PTSS in the higher HRV group, such that less sleep medication was related to higher PTSS (B=-.751).
+
+
+Conclusion
+These findings suggest that higher HRV in combination with a self-perception of greater resilience are protective factors against PTSS as well as the effects of poorer sleep quality on PTSS. Resting HRV provides an index of regulatory control that may also be a physiological component of resilience.
+
+
+Support (if any)
+This project was funded by the Dean’s Discovery Fund at Virginia Tech.

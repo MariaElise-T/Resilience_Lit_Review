@@ -1,0 +1,27 @@
+
+Objective:
+The aim of the research was to provide insight into compassion satisfaction (CS), resilience, burnout syndrome (BOS), and overall occupational stress levels of experienced audiologists.
+
+
+Design:
+This study was based on a four-part online questionnaire consisting of the Audiology Occupational Stress Questionnaire, the Professional Quality of Life Scale (Version 5), the Connor–Davidson Resilience Scale-10, and demographic questions.
+
+
+Study Sample:
+Fifty-nine audiologists with more than 5 years of experience completed the survey. Clinicians were from New Zealand, Australia, South Africa, the United States, Hong Kong, Israel, Singapore, and the United Kingdom.
+
+
+Results:
+
+              The findings illustrate that no audiologists experienced high BOS or low CS scores. Positive correlations existed between resilience and CS and between BOS and overall occupational stress. Negative correlations were found between resilience and BOS, BOS and CS, CS and overall occupational stress, and resilience and overall occupational stress. Resilience (
+              p
+              = .015), CS (
+              p
+              < .001), and overall occupational stress (
+              p
+              < .001) were identified as being significant predictors of BOS. The top five occupational stressors for audiologists were reported as being staff shortages, administration duties, paperwork and patient reports, patient or family expectations to fix a client's hearing, and the amount time available with each patient. The differences in occupational stress experienced by private versus public audiologists were minimal, always being below 1 Likert point.
+            
+
+
+Conclusions:
+Although audiologists do not report high levels of BOS, they report stress in their workplace. As stress was a significant predictor of BOS, audiologists could benefit from interventions aimed at reducing workplace stress.

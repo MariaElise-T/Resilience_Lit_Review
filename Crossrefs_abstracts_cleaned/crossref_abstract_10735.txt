@@ -1,0 +1,12 @@
+Abstract
+Background
+American Indian and Alaska Native (AI/AN) youth face stark inequities in opioid misuse, social support, and suicide attempt. This study examined trends in these behavioral measures among AI/AN students in New Mexico (NM).
+
+Methods
+Using the NM oversampled Youth Resiliency and Risk Survey (NM-YRRS, 2009 – 2019: odd years), prevalence estimates of opioid misuse, social support (SS), and suicide attempt for AI/AN high school students were generated. Trends over time were assessed via linear regression of weighted proportions according to Peter Armitage. Stratified trends by demographics were also employed.
+
+Results
+While the prevalence of suicide attempt did not change significantly over time, it was consistently higher among females (2011–2019), those who misused opioids, received low social support, had a mother with less than high school education, had a C, D, or F for academic performance, and non-straight students relative to their counterparts. In particular, the prevalence of suicide attempt among AI/AN students who reported opioid misuse in 2009 was significantly higher by 25.4% than their counterparts who did not report opioid misuse (35.8% vs. 10.4%.) A significant decreasing trend over time (2009–2017) was observed for opioid misuse (16.1%↓8.8%, p-value = 0.0033), including when stratifying by sex (males: 15.9%↓9%, p-value = 0.002; females: 16.2%↓8.6%, p-value = 0.012). Youth with high maternal education exhibited significant decline in opioid misuse (13.5%↓6.7%, p-value = 0.019; 2011–2017.) Opioid misuse increased significantly from 2017 to 2019 (8.8%↑12.9%, p-value < 0.0001.) For instance, in 2019 among AI/AN students who reported low social support, opioid misuse was roughly doubled (18.9% vs. 8.5%, p < 0.0001), and suicide attempt was tripled (21.3% vs. 7.0%, p < 0.0001) compared to students with high social support.
+
+Conclusion
+No significant trend was observed for suicide attempt. We observed a significant decreasing trend in opioid misuse between 2009 through 2017 but a significant increase from 2017 to 2019. A higher level of maternal education (college or above), and an A or B school grade performance were protective against both opioid misuse and suicide attempt.

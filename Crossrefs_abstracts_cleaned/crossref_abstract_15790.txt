@@ -1,0 +1,19 @@
+
+Purpose
+Safety and organizational research indicates that fostering resilience in organizations is a promising way for improving safety, albeit concrete means to implement resilience are still lacking, especially in the educational field. The purpose of this paper is to propose four principles for training design derived from past and current studies the authors conduct in high-risk organizations.
+
+
+Design/methodology/approach
+Training for resilience is considered within an enactive approach of human activity building on its properties of autonomy, structural coupling, self-organization, emergence, sensemaking, and metastability.
+
+
+Findings
+The article describes four educational design principles aiming at improving individual, collective, and organizational resilience: encourage mimetic experiences; pay attention to attention and concernedness; perturb and turn into an event; support participatory-sensemaking and collective sensemaking.
+
+
+Research limitations/implications
+The training program the authors propose may be challenging to assess. Besides, the most durable solutions to improve safety through resilience are to be found at the crossroad between organizational design and training/development policies. Future research should determine the implementability criteria which are likely to support the use of the principles the authors propose, and contribute to enrich this educational foundation.
+
+
+Originality/value
+Education and training are conceived herein as high-order means to improve safety through resilience in high-risk organizations, fostering the capacity of the operators and organization to develop efficiently and in the long run. We provide independent but complementary training principles that cannot be hierarchized, but that can be locally prioritized in organizations.

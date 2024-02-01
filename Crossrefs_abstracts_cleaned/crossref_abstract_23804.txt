@@ -1,0 +1,13 @@
+
+            Ocean acidification (OA)—caused by rising concentrations of carbon dioxide (CO
+            2
+            )—is thought to be a major threat to marine ecosystems and has been shown to induce behavioural alterations in fish. Here we show behavioural resilience to near-future OA in a commercially important and migratory marine finfish, the Sea bass (
+            Dicentrarchus labrax
+            ). Sea bass were raised from eggs at 19°C in ambient or near-future OA (1000 µatm
+            p
+            CO
+            2
+            ) conditions and
+            n
+             = 270 fish were observed 59–68 days post-hatch using automated tracking from video. Fish reared under ambient conditions, OA conditions, and fish reared in ambient conditions but tested in OA water showed statistically similar movement patterns, and reacted to their environment and interacted with each other in comparable ways. Thus our findings indicate behavioural resilience to near-future OA in juvenile sea bass. Moreover, simulated agent-based models indicate that our analysis methods are sensitive to subtle changes in fish behaviour. It is now important to determine whether the absences of any differences persist under more ecologically relevant circumstances and in contexts which have a more direct bearing on individual fitness.
+          

@@ -1,0 +1,19 @@
+
+Background
+Adequately measuring resilience is important to support young people and children who may need to access resources through social work or educational settings. A widely accepted measure of youth resilience has been developed previously and has been shown to be suitable for vulnerable youth. While the measure is completed by the young person on paper, it has been designed to be worked through with a teacher or social worker in case further clarification is required. However, this method is time consuming and, when faced with large groups of pupils who need assessment, can be overwhelming for schools and practitioners. This study assesses app software with a built-in avatar that can guide young persons through the assessment and its interpretation.
+
+
+Objective
+Our primary objective is to compare the reliability and psychometric properties of a mobile software app to a paper version of the Child and Youth Resilience measure (CYRM-28). Second, this study assesses the use of the CYRM-28 in a Scottish youth population (aged 11-18 years).
+
+
+Methods
+Following focus groups and discussion with teachers, social workers, and young people, an avatar was developed by a software company and integrated into an android smartphone app designed to ask questions via the device’s inbuilt text-to-voice engine. In total, 714 students from 2 schools in North East Scotland completed either a paper version or app version of the CYRM-28. A cross-sectional design was used, and students completed their allocated version twice, with a 2-week period in between each testing. All participants could request clarification either from a guidance teacher (paper version) or from the in-built software glossary (app version).
+
+
+Results
+Test and retest correlations showed that the app version performed better than the paper version of the questionnaire (paper version: r303=0.81; P<.001; 95% CI 0.77-0.85; app version: r413=0.84; P<.001; 95% CI 0.79-0.89). Fisher r to z transformation revealed a significant difference in the correlations (Z=–2.97, P<.01). Similarly, Cronbach α in both conditions was very high (app version: α=.92; paper version: α=.87), suggesting item redundancy. Ordinarily, this would lead to a possible removal of highly correlated items; however, our primary objective was to compare app delivery methods over a pen-and-paper mode and was hence beyond the scope of the study. Fisher r to z transformation revealed a significant difference in the correlations (Z=–3.69, P<.01). A confirmatory factor analysis supported the 3-factor solution (individual, relational, and contextual) and reported a good model fit (χ215=27.6 [n=541], P=.24).
+
+
+Conclusions
+ALEX, an avatar with an integrated voice guide, had higher reliability when measuring resilience than a paper version with teacher assistance. The CFA reports similar structure using the avatar when compared against the original validation.

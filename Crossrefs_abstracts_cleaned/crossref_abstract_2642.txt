@@ -1,0 +1,15 @@
+
+Purpose
+Participatory action research can improve scientific knowledge and community capacity to address disaster resilience and environmental justice. Evidence from the literature suggests that resident participation enhances assessment of environmental risks, raises awareness and empowers residents to fight for equitable distribution of hazard and climate risk adaptations. Yet, risk assessment and urban planning processes still frequently operate within expertise-driven groups without significant community engagement. Such fragmentation results in part from a lack of appreciation for community expertise in built environment adaptations and educational tools to support resident involvement in the often technical built environment planning processes.
+
+
+Design/methodology/approach
+A participatory research and place-based education project was developed that enhanced co-learning between residents and researchers while collecting and analyzing local data on flood resilience in the built environment. Five research activities constitute the curriculum of resilience education on stormwater infrastructure: establishment of partnership agreement/memorandum of understanding, participatory GIS to identify flooding issues, water quality testing and health survey, stormwater infrastructure assessment and urban/landscape design. Partners included high school and college students, residents and environmental justice organizations.
+
+
+Findings
+Outcomes include a stakeholder-approved infrastructure assessment smartphone application, neighborhood maps of drainage issues, a report of water containments and neighborhood-scaled green infrastructure provisions and growth plans. Findings indicate that participatory research positively contributed to resilience knowledge of participants.
+
+
+Originality/value
+This paper outlines an interdisciplinary pedagogical strategy for resilience planning that engages residents to assess and monitor the performance of stormwater infrastructure and create resilience plans. The paper also discusses challenges and opportunities for similar participatory projects.

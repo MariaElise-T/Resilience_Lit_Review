@@ -1,0 +1,19 @@
+
+Background:
+Empirical data on the link between stress and cardiovascular disease (CVD) risk among black women is limited. We examined associations of stressful life events and social strain with incident CVD among black women and tested for effect modification by resilience.
+
+
+Methods and Results:
+Our analysis included 10 785 black women enrolled in the Women’s Health Initiative Observational Study and Clinical Trials cohort. Participants were followed for CVD for up to 23 years (mean, 12.5). Multivariable Cox regression was used to estimate hazard ratios and 95% CIs for associations between stress-related exposures and incident CVD. We included interactions between follow-up time (age) and stressful life events because of evidence of nonproportional hazards. Effect modification by resilience was examined in the sub-cohort of 2765 women with resilience and stressful life events measures. Higher stressful life events were associated with incident CVD at ages 55 (hazard ratio for highest versus lowest quartile=1.80; 95% CI, 1.27–2.54) and 65 (hazard ratio for highest versus lowest quartile=1.40; 95% CI, 1.16–1.68), but not at older ages. Adjustment for CVD risk factors attenuated these associations. Similar associations were observed for social strain. In the sub-cohort of women with updated stressful life events and resilience measures, higher stressful life events were associated with incident CVD in multivariable-adjusted models (hazard ratio=1.61; 95% CI, 1.04–2.51). Resilience did not modify this association nor was resilience independently associated with incident CVD.
+
+
+Conclusions:
+In this cohort of older black women, recent reports of stressful life events were related to incident CVD. Resilience was unrelated to incident CVD.
+
+
+Clinical Trials Registration:
+
+              URL:
+              https://www.clinicaltrials.gov
+              . Unique identifier: NCT00000611.
+            

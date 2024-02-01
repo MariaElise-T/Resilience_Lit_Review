@@ -1,0 +1,20 @@
+ABSTRACT
+
+Introduction:
+Frontline health-care workers continue to bear the brunt of the COVID-19 pandemic globally and ran the risk of being afflicted by COVID-19 due to proximity to COVID-related work areas. This novel scenario has created a likelihood of burnout unlike those seen before, and the resilience harbored would help overcome burnout. Our study aims to assess and compare burnout and resilience in those frontline health-care workers afflicted by COVID-19 and those not afflicted in Andhra Pradesh.
+
+
+Methodology:
+A cross-sectional, observational study assessing frontline workers on active COVID-19 duty including doctors, nurses, and interns across Andhra Pradesh through a Google Form containing the consent form, sociodemographic sheet, validated tools such as Copenhagen Burnout Inventory, and Brief Resilience Scale. Statistical tools were applied.
+
+
+Results:
+Younger, male subjects formed the majority of our sample, the majority being interns and postgraduate doctors. The COVID-19 affliction increased with increasing age except in in 37–45 years’ age group and in senior residents, medical officers, and nurses cadre. Burnout was significantly more in COVID-19 infected than uninfected subjects, with higher resilience in the uninfected group.
+
+
+Discussion:
+Recent literature on burnout and resilience in frontline workers showed burnout in general has been higher among frontline workers, with lowered resilience among them. Increased burnout was observed especially among those afflicted by COVID-19, and decreased resilience was observed in the same group. However, to our knowledge, ours is the lone study in the Indian subcontinent comparing COVID-19 afflicted health-care workers’ burnout against those nonafflicted, and neither resilience has been assessed in this aspect in the past.
+
+
+Conclusions:
+COVID-19 affliction had an increased impact on frontline health-care workers posted to active COVID-19 duty in terms of increased burnout, and nonafflicted workers recorded better resilience. These findings will impact policies in disaster management and mental health.

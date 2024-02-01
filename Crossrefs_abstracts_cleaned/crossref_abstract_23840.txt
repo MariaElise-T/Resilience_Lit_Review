@@ -1,0 +1,15 @@
+Abstract
+Background
+Many significant others of persons with serious conditions like spinal cord injury (SCI) and acquired brain injury (ABI) report high levels of psychological distress. In line with the stress-coping model, the aim of the present study was to investigate the relationship between personal resource resilience and psychological distress, and whether appraisals of threat and loss, and passive coping mediate this relationship.
+
+Methods
+Significant others (n = 228) of persons with SCI or ABI completed questionnaires shortly after admission to first inpatient rehabilitation after onset of the condition. The questionnaire included measures to assess psychological distress (Hospital Anxiety and Depression Scale), resilience (Connor-Davidson Resilience Scale-10), appraisals (Appraisals of Life Events scale, threat and loss) and passive coping (Utrecht Coping List). The PROCESS tool was used to test the presence of mediation. Confounding and differences between SCI and ABI were investigated.
+
+Results
+High levels of psychological distress among significant others were found (34–41%). Fifty-five percent of the variance in psychological distress was explained by the relationship between resilience and psychological distress. This relationship was mediated by appraisals of threat and loss, and passive coping. The relationship between resilience and psychological distress was similar in the SCI and ABI groups.
+
+Conclusions
+The results of our study indicate that appraisals of threat and loss and passive coping are mediating factors in the relationship between resilience and psychological distress. It seems useful to investigate if interventions focussing on psychological factors like resilience, appraisal and coping are effective to prevent or reduce psychological distress among significant others of persons with SCI or ABI.
+
+Trial registration
+Dutch trial register NTR5742. Registered January 9, 2016.

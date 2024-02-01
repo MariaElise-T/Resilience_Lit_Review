@@ -1,0 +1,12 @@
+Abstract
+Background
+Recently, many studies have investigated the role of migration on mental health. Nonetheless, only few focused on the consequences of childhood trauma, hopelessness, and resilience on migrants’ psychopathology, including psychiatric disorders and symptoms.
+
+Method
+119 migrants were recruited between May 2017 and April 2018, among those applying for assessment to the Mental Health Operational Unit of the National Institute for Health, Migration and Poverty (NIHMP) in Rome, Italy. Assessment included the following: Zung Self-Rating Depression Scale (SDS), Zung Self-Rating Anxiety Scale (SAS), Connor-Davidson Resilience Scale (CD-RISC), Childhood Trauma Questionnaire (CTQ), Posttraumatic Stress Disorder Checklist for DSM-5 (PCL-5), Beck Hopelessness Scale (BHS), Beck’s Suicide Intent Scale (SIS), Brief Aggression Questionnaire (BAQ), Deliberate Self-Harm Inventory (DSHI).
+
+Results
+53.39% of migrants scored above the PCL-5 cut-off score (mean score was 39.45). SDS scores below the cutoff suggested the presence of depression in 42.37%, while According to SAS scores anxiety levels were low in 38.98% of migrants. During childhood, physical abuse and neglect were reported respectively by 56.78 and 69.49% of migrants.
+
+Conclusion
+We found that Post Traumatic Stress Disorders play the role of mediators for the relation between the childhood traumatic experiences and aggressiveness, anxious and depressive symptomatology, while hopelessness is a mediator between the childhood traumatic experiences and the development of depression in adulthood. Hopelessness seems to influence the strength of the relation between childhood traumatic experiences and the individual’s current intensity of suicidal attitudes, plans, and behaviors. Further developments and future perspectives of the research project are to address key gaps in the field of resilience by means of a longitudinal evaluation study in migrants, including a native population control group, acceding to NIHMP.

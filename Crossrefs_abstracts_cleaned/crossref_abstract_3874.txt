@@ -1,0 +1,18 @@
+Abstract
+The analytical framework used in the 2019 EU Country Health Profiles defines resilience as “health systems' capacity to absorb disturbance created by changing environments, sudden shocks or crises, and to adapt and respond effectively with the provision of needed services”. These challenges can be driven by changes or shocks in supply (economic shocks, growing shortages in available resources, technological innovations) or demand (demographic changes, public health threats like the Covid-19 pandemic). The Profiles analyse relevant policy measures to assess whether countries are well prepared to face health system shocks and strains.
+
+Methods
+The framework distinguishes three dimensions of resilience: Ensuring long-term stability of resources: the capacity to protect or generate adequate financial, physical and human resources, as well as information necessary to address a variety of major challenges.Responding efficiently: the ability to manage the health system with limited resources, through achieving efficiencies, while not sacrificing key priorities, benefits, access or entitlements.Strengthening governance: the capacity to steer the system in order to adapt it quickly to new objectives and priorities and to respond to major challenges through key governance tools.
+The profiles use a harmonised approach to analyse the degree of resilience in each country across these three dimensions through a range of quantitative and qualitative indicators.
+
+
+Results
+A matrix clusters the findings from the 30 Country Profiles in 2019 (pre Covid-19 outbreak) and identifies common resilience-related challenges and risks facing EU Member States. The matrix also captures examples of countries that are successfully deploying resilience-building policy strategies.
+
+
+Conclusions
+The evidence shows that resilience is a necessary condition for health systems to mitigate the impact of adversities, as well as respond effectively to both foreseen and unforeseen challenges.
+
+
+Panelists
+Josep Figueras, Moderator, European Observatory on Health Systems and Policies Federico Pratellesi, DG SANTE, European Commission Guillaume Dedet, Health Division, OECD, Paris, France Anna Maresso, European Observatory on Health Systems and Policies, University of Technology Berlin, Germany

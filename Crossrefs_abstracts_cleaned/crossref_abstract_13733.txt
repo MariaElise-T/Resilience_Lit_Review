@@ -1,0 +1,19 @@
+
+Purpose
+Although blockchain technology holds significant promise in influencing supply chain resilience (SCR), its effectiveness depends on a variety of factors. However, given that blockchain adoption in SCR is still in its infancy, there is a lack of empirical research to reveal the critical success factors maximizing its efficacy. This study aims to apply an organizational information processing theory (OIPT) perspective to explore how transformational supply chain leadership (TSCL) can facilitate the deployment and connection of blockchain technology to meet the imperatives of enhancing SCR.
+
+
+Design/methodology/approach
+This study used a two-wave survey method to gather data from 317 Chinese manufacturers to empirically examine the hypothesized relationships.
+
+
+Findings
+The findings suggest that the adoption of blockchain technology enhances both the proactive and reactive dimensions of SCR, and these effects can be realized through the mediating role of TSCL. Furthermore, the positive effect of blockchain technology on TSCL is strengthened in the context of dysfunctional competition.
+
+
+Practical implications
+These findings suggest that companies can only enhance the benefits of disruptive technologies, such as blockchain, by fully integrating them into the operational and supply chain processes.
+
+
+Originality/value
+This research offers novel insights into the specific processes of how blockchain technology can be used to enhance SCR. It also deepens our comprehension of how digital technology can be optimally harnessed within the framework of OIPT, thus providing a contribution to the literature on emerging technologies and SCR.

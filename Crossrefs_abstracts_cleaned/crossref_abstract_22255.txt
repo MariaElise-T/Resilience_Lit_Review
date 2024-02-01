@@ -1,0 +1,16 @@
+Abstract
+
+Purpose
+This study examines workplace support and resilience's influence on psychological distress in Japanese employees.
+
+
+Method
+A 1-year prospective online cohort study was conducted. Logistic regression analyzed prevalence odds ratios (PORs) and 95% confidence intervals (CIs) for psychological distress. Participants were grouped based on their support and resilience levels.
+
+
+Results
+PORs for psychological distress followed this pattern for low and high resilience groups: "necessary but not received" (POR and 95% CI for low/high resilience: 9.71, 6.88–13.69 and 4.72, 2.97–7.52, respectively), "received" (6.65, 4.29–10.29 and 2.27, 1.21–4.25), and "not necessary" (4.43, 3.30–5.95 and reference). Workplace support had a stronger impact on psychological distress in low-resilience employees.
+
+
+Conclusions
+We provided evidence that the combination of the need for support from the workplace and resilience affects psychological distress in employees.

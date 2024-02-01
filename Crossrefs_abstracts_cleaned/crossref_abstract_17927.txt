@@ -1,0 +1,19 @@
+
+Background
+The process of immigration and subsequent adaptation can expose Latinx immigrants to chronic and compounding challenges (i.e., acculturative stress), but little is known about how resilience factors and these stressors interact to influence syndemic conditions, intertwined epidemics that disproportionally affect historically marginalized communities.
+
+
+Objectives
+The purpose of this study was to describe the influence of acculturative stress and resilience on the syndemic factor underlying substance abuse, intimate partner violence, HIV risk, and mental conditions.
+
+
+Methods
+Baseline cross-sectional data from a community-engaged, longitudinal study of 391 adult (ages 18–44 years) Latinx immigrants in North Carolina were obtained using standardized measures available in English and Spanish. Structural equation modeling tested the syndemic model, and random forest variable importance identified the most influential types of acculturative stressors and resilience factors, including their interactions, on the syndemic factor.
+
+
+Results
+Results indicated that a single syndemic factor explained variations in heavy drinking, drug use, intimate partner violence, depression, and anxiety and fit the data well. Age, being a woman, acculturative stress, acculturation to the United States, and emotional support were significantly related to the syndemic factor. The relationship between acculturative stress and the syndemic factor was buffered by ethnic pride, coping, enculturation, social support, and individual resilience. The most influential acculturative stressors were marital, family, and occupation/economic stress.
+
+
+Discussion
+Findings from this study underscore the importance of considering the co-occurrence of behavioral and mental health conditions among Latinx immigrants. Health promotion programs for Latinx immigrants should address acculturative stress and bolster ethnic pride, social support, and coping as sources of resilience.

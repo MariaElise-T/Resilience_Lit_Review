@@ -1,0 +1,31 @@
+Abstract
+
+
+Objective
+
+
+The objective of this scoping review (Registration DOI:10.17605/OSF.IO/UYV9G) is to understand how critical care professionals’ (CCP) moral distress and spiritual resources impact on their resilience.
+
+
+Introduction
+
+
+Previous reviews failed in obtaining evidence for tailored intervention reducing CCPs’ moral distress. Although frequently mentioned, spiritual resources were not thoroughly explored.
+
+
+Inclusion criteria
+
+
+In order to describe elements of the inclusion criteria, the PCC-framework (Population, Concept, Context) will be applied. Participants are all CCP (nurses, physicians, physiotherapists, psychologists …). The concept is resilience, taking into account moral distress and spirituality. The context is critical care (preclinical emergency care, emergency room, intensive care unit). Other contexts such as palliative care wards are excluded.
+
+
+Methods
+
+
+We will search 13 databases and grey literature published in 2020–2022. A two-stage screening process by at least two independent reviewers will be used. First titles and abstracts will be scanned and then a full-text review of relevant articles will be done. The extracted data will be independently discussed by at least two reviewers.
+
+
+Ethics and Dissemination
+
+
+Ethical approval is not required for scoping reviews. Dissemination will include submission to peer-reviewed journals and presentations in conferences and workshops in the area of critical care.

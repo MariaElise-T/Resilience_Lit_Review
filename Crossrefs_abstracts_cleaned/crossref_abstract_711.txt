@@ -1,0 +1,31 @@
+
+Context: 
+A multilevel model has been used to describe the complex nature of work-life balance in sport organizations. Organizational aspects such as work scheduling, hours worked, job demands, and decreased perceived value have been reported as factors that can positively or negatively affect work-life balance. However, the individual factors that contribute to this balance have not been well studied.
+
+
+Objective: 
+To better understand the individual factors (emotional stability and coping) that may facilitate or inhibit work-life balance among athletic trainers (ATs).
+
+
+Design: 
+Cross-sectional online survey.
+
+
+Setting: 
+National Collegiate Athletic Association athletic training setting.
+
+
+Patients or Other Participants: 
+A total of 423 (193 men, 230 women) ATs employed in the National Collegiate Athletic Association setting.
+
+
+Main Outcome Measure(s): 
+Data were collected via a Web-based survey instrument consisting of demographic and Likert-scale questions related to resiliency, hardiness, affectivity, work-family conflict (WFC), and work-family enrichment (WFE). Likert responses were summed and demographic information was analyzed for frequency and distribution. Independent t tests, analysis of variance, and Spearman correlations were calculated to evaluate the relationships among variables.
+
+
+Results: 
+Participants exhibited moderate hardiness scores of 3.9 ± 4.0 (range, −9 to 15). Positive affectivity was weakly negatively correlated with WFC (r = −0.212, P &lt; .001) and moderately positively correlated with WFE (r = 0.448, P &lt; .001). Resiliency was weakly negatively correlated with WFC (r = −0.25, P &lt; .001) and weakly positively correlated with WFE (r = 0.228, P &lt; .001). Additionally, individuals with less than 10 years of experience had lower positive affectivity scores than those with more than 10 years of experience. Men scored higher than women only in resiliency.
+
+
+Conclusions: 
+Collegiate ATs demonstrated moderate levels of coping behaviors that allow them to manage their personal and professional lives. Athletic trainers with more years of experience displayed a more positive affect.

@@ -1,0 +1,16 @@
+ABSTRACT:
+
+Objective:
+Mental health outcomes such as attention-deficit/hyperactivity disorder (ADHD), behavior disorders, anxiety, depression, and adverse childhood experiences (ACEs) are common disorders among children in the United States. Little is known on how potential resilient factors may moderate the relationship between exposure to ACEs and mental health outcomes. This study examines associations between ACEs and resilience on mental health outcomes using the 2018 National Survey of Children's Health (N = 26,572).
+
+
+Method:
+Logistic regression and interactions examined the association between ACEs, resilience, and mental health outcomes. ACE exposure and low resiliency were associated with an increased likelihood of mental health outcomes.
+
+
+Results:
+There were significant interactions between exposure to ACEs and family resilience as well as significant interactions between ACE exposure and community resilience. On stratification, the presence of individual resilience and having all resilience measures decreased the odds of ADHD, behavioral disorders, anxiety, and depression and the presence of community resilience decreased the odds of depression among individuals who had experienced 4 or more ACEs.
+
+
+Conclusion:
+These results illustrate the need to promote resilience measures for tackling mental health problems and reducing the negative effect of trauma in children.

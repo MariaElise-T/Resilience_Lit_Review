@@ -1,0 +1,20 @@
+Abstract
+
+Purpose
+The objective of this study was to evaluate the effect of an intervention (Growing Resilience And CouragE; GRACE) on spiritual well-being, quality of life, and general well-being in women with metastatic cancers reporting existential or spiritual distress.
+
+
+Patients and Methods
+Prospective, randomized, wait-list control clinical trial. Women with metastatic cancer experiencing existential or spiritual concerns were randomized to GRACE or waitlist control. Survey data were collected at baseline, end of program, and 1-month follow-up. Participants included English-speaking women, 18 or older, with metastatic cancer, existential or spiritual concerns, and reasonable medical stability. Eighty-one women were assessed for eligibility; 10 were excluded (not meeting exclusion criteria, refusal to participate, and death). The primary outcome was spiritual well-being measured pre- and post-program. Secondary measures assessed quality of life, anxiety, depression, hopelessness, and loneliness.
+
+
+Results
+Seventy-one women (aged 47-72) were enrolled (GRACE n = 37, waitlist control n = 34). GRACE participants demonstrated significant improvements in spiritual well-being compared to control at end of program (parameter estimate (PE), 16.67, 95% CI, 13.17, 20.16) and 1-month follow-up (PE, 10.31, 95% CI, 6.73, 13.89). Additionally, significant improvements were demonstrated in quality of life at the end of program (PE, 8.51, 95% CI, 4.26, 12.76) and 1-month follow-up (PE, 6.17, 95% CI, 1.75, 10.58). GRACE participants also demonstrated improved depression and hopelessness at follow-up, as well as improved anxiety.
+
+
+Conclusions
+Findings suggest the value of evidence-based psychoeducational and experiential interventions for improving the well-being and quality of life of women with advanced cancer.
+
+
+Trial Registration
+ClinicalTrials.gov Identifier: NCT02707510.

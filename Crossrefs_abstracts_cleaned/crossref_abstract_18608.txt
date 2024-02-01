@@ -1,0 +1,5 @@
+
+            Objectives: Patient portals are increasingly implemented to improve patient involvement and engagement. We here seek to provide an overview of ways to mitigate existing concerns that these technologies increase inequity and bias and do not reach those who could benefit most from them.
+            Methods: Based on the current literature, we review the limitations of existing evaluations of patient portals in relation to addressing health equity, literacy and bias; outline challenges evaluators face when conducting such evaluations; and suggest methodological approaches that may address existing shortcomings.
+            Results: Various stakeholder needs should be addressed before deploying patient portals, involving vulnerable groups in user-centred design, and studying unanticipated consequences and impacts of information systems in use over time.
+            Conclusions: Formative approaches to evaluation can help to address existing shortcomings and facilitate the development and implementation of patient portals in an equitable way thereby promoting the creation of resilient health systems.

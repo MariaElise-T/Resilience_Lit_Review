@@ -1,0 +1,23 @@
+
+Background
+Community violence is a persistent and challenging public health problem. Community violence not only physically affects individuals, but also its effects reverberate to the well-being of families and entire communities. Being exposed to and experiencing violence are adverse community experiences that affect the well-being and health trajectories of both children and adults. In the United States, community violence has historically been addressed through a lens of law enforcement and policing; the impact of this approach on communities has been detrimental and often ignores the strengths and experiences of community members. As such, community-centered approaches to address violence are needed, yet the process to design, implement, and evaluate these approaches is complex. Alternatives to policing responses are increasingly being implemented. However, evidence and implementation guidance for community-level public health approaches remain limited. This study protocol seeks to address community violence through a resilience framework—Adverse Community Experiences and Resilience (ACE|R)—being implemented in a major US city and leveraging a strategy of community organizing to advance community violence prevention.
+
+
+Objective
+The objective of this research is to understand the impact of community-level violence prevention interventions. Furthermore, we aim to describe the strategies of implementation and identify barriers to and facilitators of the approach.
+
+
+Methods
+This study uses a hybrid type 1 effectiveness-implementation design. Part 1 of the study will assess the effectiveness of the ACE|R framework plus community organizing by measuring impacts on violence- and health-related outcomes. To do so, we plan to collect quantitative data on homicides, fatal and nonfatal shootings, hospital visits due to nonaccidental injuries, calls for service, and other violence-related data. In Part 2 of the study, to assess the implementation of ACE|R plus community organizing, we will collect process data on community engagement events, deliver community trainings on community leadership and organizing, and conduct focus groups with key partners about violence and violence prevention programs in Milwaukee.
+
+
+Results
+This project received funding on September 1, 2020. Prospective study data collection began in the fall of 2021 and will continue through the end of 2023. Data analysis is currently underway, and the first results are expected to be submitted for publication in 2024.
+
+
+Conclusions
+Community violence is a public health problem in need of community-centered solutions. Interventions that center community and leverage community organizing show promise in decreasing violence and increasing the well-being of community members. Methods to identify the impact of community-level interventions continue to evolve. Analysis of outcomes beyond violence-specific outcomes, including norms and community beliefs, may help better inform the short-term and proximal impacts of these community-driven approaches. Furthermore, hybrid implementation-effectiveness trials allow for the inevitable contextualization required to disseminate community interventions where communities drive the adaptations and decision-making.
+
+
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/50444

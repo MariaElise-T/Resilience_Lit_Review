@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this study was to advance the knowledge of pharmaceutical supply chain (PSC) resilience using complex adaptive system theory (CAS).
+
+
+Design/methodology/approach
+An exploratory research design, which adopted a qualitative approach was used to achieve the study’s research objective. Qualitative data were gathered through 23 semi-structured interviews with key supply chain actors across the PSC in the UK.
+
+
+Findings
+The findings demonstrate that CAS, as a theory, provides a systemic approach to understanding PSC resilience by taking into consideration the various elements (environment, PSC characteristics, vulnerabilities and resilience strategies) that make up the entire system. It also provides explanations for key findings, such as the impact of power, conflict and complexity in the PSC, which are influenced by the interactions between supply chain actors and as such increase its susceptibility to the negative impact of disruption. Furthermore, the antecedents for building resilience strategies were the outcome of the decision-making process referred to as co-evolution from a CAS perspective.
+
+
+Originality/value
+Based on the data collected, the study was able to reflect on the relationships, interactions and interfaces between actors in the PSC using the CAS theory, which supports the proposition that resilience strategies can be adopted by supply chain actors to enhance this service supply chain. This is a novel empirical study of resilience across multiple levels of the PSC and as such adds valuable new knowledge about the phenomenon and the use of CAS theory as a vehicle for exploration and knowledge construction in other supply chains.

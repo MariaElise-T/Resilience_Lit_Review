@@ -1,0 +1,15 @@
+
+Background
+Extensive literature revealed the relations of depression with behavioral inhibition system (BIS) and behavioral activation system (BAS) as vulnerability and with resilience separately. Besides, the concept of resilience is still broad and ambiguous. Thus, this study aimed to reveal the mediation of two aspects of resilience: trait and process, in the relations of BIS and BAS to depression among adolescents.
+
+
+Methods
+The data set used in this study was a cross-sectional survey among 965 adolescents. The obtained data from the self-reported questionnaires used in this study were as below: Depression Serf-Rating Scale for Children (DSRS-C), Behavioral Inhibition and Behavioral Activation System Scale (BIS/BASS), and Bidimensional Resilience Scale (BRS). Structural equation modeling (SEM) was conducted to verify the hypothesized relations among BIS/BAS, trait and behavior resilience, and depressive symptoms.
+
+
+Results
+The obtained indices of fit from SEM were good or sufficient (χ2 = 562.911, df = 96, p < 0.001; CFI = 0.925; NFI = 0.913; RMSEA = 0.073, 90% CI [0.067, 0.079]; SRMR = 0.066). And the modeling showed that both BIS/BAS directly and indirectly influenced to depression. The indirect effects of BIS/BAS were mediated only trait resilience except the indirect effect of BIS via behavioral resilience.
+
+
+Discussion
+Our results suggested that trait resilience played a significant mediation role in the relationships between BIS/BAS and depression. Trait but not process resilience could be considered suitable as an intervention target in line with decreasing depression.

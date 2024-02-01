@@ -1,0 +1,27 @@
+
+Purpose
+Resilience can be of assistance to paramedics in order to maintain their own mental balance in stressful work environments. Since it is not well defined which personality traits are correlated with resilience in these personnel, the purpose of this paper is to explain the relationship between personality traits and levels of resilience.
+
+
+Design/methodology/approach
+This cross-sectional study was conducted on paramedics in Eastern Iran through field research. The study participants were selected by convenience sampling method. The data collection instruments included NEO-Five Factor Inventory-Short Form and Connor-Davidson Resilience Scale. The data obtained were also analyzed using descriptive and inferential statistics (correlation and regression analysis) through the SPSS 16.0 software.
+
+
+Findings
+A total of 252 paramedics with a mean age of 28.9±5.1 years participated in this study. The personality traits of neuroticism (r=−0.24), openness to experience (r=−0.22), and agreeableness (r=−0.18) were significantly correlated with resilience. In contrast, extraversion (r=0.26) and conscientiousness (r=0.32) were in a significant relationship with resilience. In this respect, the given personality traits could account for 31.5 percent of changes in resilience.
+
+
+Research limitations/implications
+It was concluded that the paramedics with lower scores of neuroticism had higher levels of resilience and they could similarly show better compliance with their work conditions in stressful situations and consequently maintain their mental health.
+
+
+Practical implications
+It is recommended to conduct psychological examinations of personality traits in recruitment and selection stages of medical emergency personnel and to implement psychological interventions for those medical emergency staff with the personality trait of neuroticism.
+
+
+Social implications
+Resilient paramedics may also perceive less stress and it may be negatively associated with burnout.
+
+
+Originality/value
+The study examined the relationship between personality traits and resiliency in order to clarifying recruitment criteria in emergency medical services.

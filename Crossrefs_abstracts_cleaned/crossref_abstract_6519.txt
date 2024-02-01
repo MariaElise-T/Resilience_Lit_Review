@@ -1,0 +1,9 @@
+Aging is a key risk factor for type 2 diabetes (T2D). We examined aging mouse pancreatic islets by single-cell RNA-seq sampled across young (1 month), middle (13 months) to old (24 months) age groups. By applying single-cell Western blotting, we further verified that aged mice had increased islet beta-cell percentage, which was accompanied by an increased in vivo insulin secretion. Young and old groups were fed with a six-month high-fat diet. Age-associated enhancements in insulin secretion prevented old mice from diet-induced glucose intolerance. Together, this single-cell atlas allows a comprehensive exploration of all transcriptional states in the aging islets and provides insight into the pathogenesis of T2D. Importantly, our findings indicate that age-dependent hyperinsulinemia protects against diet-induced obesity in mice and exhibit the resilience of the islet in response to stressors.
+
+
+Disclosure
+J. Nie: None. N. Musi: None.
+
+
+Funding
+American Federation for Aging Research; San Antonio Claude D. Pepper Older Americans Independence Center (P30AG044271)

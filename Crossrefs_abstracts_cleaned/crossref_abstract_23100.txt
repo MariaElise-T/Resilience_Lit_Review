@@ -1,0 +1,15 @@
+
+Background
+The Covid-19 pandemic caused a rapidly evolving and confused situation. Health sciences students (HSSs) are not immune to depression, anxiety and stress during such a pandemic. We aimed to assess the relation between depression, anxiety, stress and resilience among undergraduate HSSs during the Covid-19 lockdown.
+
+
+Methods
+We conducted a cross-sectional, online survey at a rural tertiary healthcare centre in Maharashtra. Data were recorded from study participants on sociodemographic details using the 21-item Depression, Anxiety and Stress Scale (DASS-21) and the Brief Resilience Scale (BRS). Data were analysed using SPSS software version 15.0.
+
+
+Results
+A total of 381 students participated in the online survey. The prevalence of depression, anxiety and stress were 7.6%, 6.3% and 1.0%, respectively. There was a positive correlation between all three sub-scales of DASS-21. On BRS, 5 (1.3%) participants had high resilience, 216 (56.7%) had normal resilience and 160 (42.0%) had low resilience. Those respondents who had high resilience had lower rates of depression, anxiety and stress on DASS-21 sub-scales.
+
+
+Conclusion
+A proportion of HSSs had anxiety, depression and stress during the Covid-19 outbreak and lockdown. Respondents with high resilience had less frequent depression, anxiety and stress. In the long run, strengthening resilience of HSSs may be useful.

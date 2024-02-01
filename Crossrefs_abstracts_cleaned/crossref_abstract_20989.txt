@@ -1,0 +1,18 @@
+
+Introduction:
+            Except for RESILIENT, there is a paucity of randomized controlled trials (RCTs) for stroke from Latin America (LA), home to growing stroke burden. Comparison between stroke population typically suffers from baseline factor imbalances. Here, we developed outcome models from RCTs to compare Latin American Stroke Registry (LASE) with similar baselines.
+          
+
+Methods:
+            LASE is a registry of patients receiving tPA and thrombectomy from 17 centers in 9 countries. A systematic review identified RCTs that provided median NIHSS, mean age, percentage of patients receiving tPA, time-to-randomization, 90d mRS0-2, and mortality. Akaike Information Criterion (AIC), an information theory construct, was used to select the best model amongst 15 combinations of 4 variables. 90d outcomes of LASE and RESILIENT were compared at the baseline values against the selected model.
+          
+
+Results:
+            34 RCTs with ~8300 subjects were identified. Models based on NIHSS and the percentage of tPA were considered the most optimum in terms of AIC. In the 3D models (Fig1), the middle surface defines the function and the bounding surfaces the ±90% intervals. The LASE registry has 950 patients that received tPA alone, 127 that received tPA & mechanical thrombectomy (MT), and 101 that received MT alone. LASE & RESILIENT outcomes were plotted onto the models at their baseline values. LASE tPA alone group was on the middle surface for mRS 0-2 (Fig1-A), indicating that outcomes were in line with the RCT-informed model. MT alone (0% tPA) and MT + tPA (100%), and the RESILIENT MT arm (68.5% tPA) were above the +90% surface, indicating superior efficacy compared to no-MT. The RESILIENT control arm (71.8% tPA) had > expected mortality, suggesting harm, while mortality of all other arms was within the ±90% intervals (Fig1-B).
+          
+
+Conclusion:
+            Functional outcomes and mortality of patients from the LASE that received MT and MT+tPA compared favorably to a 90-day functional and mortality predictive model.
+          
+
+

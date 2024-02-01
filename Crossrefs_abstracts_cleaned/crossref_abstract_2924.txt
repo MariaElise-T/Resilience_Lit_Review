@@ -1,0 +1,6 @@
+This Article points to key elements of Critical Infrastructure Resilience (CIR) and how they differ from Critical Infrastructure Protection (CIP). CIP is still very important and one of the key systems
+that the society relies upon to ensure the continuity of operation of CI. However, CIP cannot predict an adequate number of major threats that
+would allow to conduct the preparedness and response at the level which
+would ensure the sufficient operation of CI in all cases. In that sense
+CIR sets a new paradigm with a quality that reduces vulnerability, minimizes the consequences of threats, accelerates response and recovery, and facilitates adaptation to a disruptive event. Some selected concepts of CIR with examples are presented in the Article that
+should assist in further development and enhancement of resilience of subsystems and infrastructures as a whole, resulting in more secure CI.

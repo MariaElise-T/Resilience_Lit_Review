@@ -1,0 +1,6 @@
+
+
+
+This study examines the impact of COVID-19 pandemic on the performance of Indian stock market, measured by daily average returns and trading volume. The analysis is aimed at discovering the vulnerability of the general market as well as nine crucial sectors to the pandemic while also checking the impact on overall volatility in the market. The findings suggest that all the sectors followed a consistent pattern of being significantly impacted by the pandemic. However, the benchmark index remained resilient in the context of average returns. The entire market witnessed decreased returns and increased liquidity, which is explained by reduced volatility in the market.
+
+

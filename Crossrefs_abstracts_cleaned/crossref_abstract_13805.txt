@@ -1,0 +1,24 @@
+Abstract
+
+Funding Acknowledgements
+Type of funding sources: Private grant(s) and/or Sponsorship. Main funding source(s): HFA Nurse training Fellowship Award Center for Excellence for Culture and Nursing Research (CECRI)Nursing Scholarship OPI Rome Italy
+
+
+Introduction
+Resilience is a dynamic process of utilising abilities to harness personal, social, and spiritual resources and coping characteristics and developing regulatory flexibility to manage challenges and bounce back from emotional and physical distress. Caregivers of patients with heart failure are prone to increased stress and reduced resilience while assisting their family members in meeting self-care needs, activities of daily living, and complex medical and dietary regimens. To date, limited research exists on resilience and its predictors among caregivers of people with heart failure.
+
+
+Purpose
+To develop a comprehensive understanding of resilience and its predictors among caregivers of patients with heart failure. 
+
+
+Methods
+A convergent mixed methods design was used. In total, 50 caregivers completed the Connor-Davidson Resilience Scale (CDRS) (score range: 0–100, with higher scores indicating higher resilience), the Caregiver Burden Inventory (CBI) (higher scores indicate greater caregiver burden; there are no cut-off points for classifying burden), and the Hospital Anxiety and Depression Scale (HADS) (two subscales, range score 0 and 21 per each subscale; higher scores mean worse anxiety and depression) and participated in semi-structured face-to-face interviews. Data were analysed using multiple regression, qualitative content analysis, and joint displays. 
+
+
+Results
+The caregivers’ mean age was 62.8 ± 12.83 years. The CDRS mean score was 62.37 ± 24.2, and the mean HADS scores for anxiety and depression were 12.38 ± 2.74 and 8.54 ± 2.49, respectively. The mean CBI score was 16.82 ± 17.12. Regression analysis showed that the resilience score was only predicted by depression (B = -1.491, p = 0.031). Qualitative analysis generated three resilience-inhibiting factors (psychological outlook, physical weariness, and affective state) and two promoting factors (community interconnectedness and self-comforting activities). Mixed analysis confirmed that depression decreased caregivers’ resilience.  
+
+
+Conclusions
+Caregivers of people with heart failure are likely to experience extreme stress and anxiety that affect their resilience to provide better care for their family members. This study identified that depression, hopelessness, pessimism, powerlessness, physical fatigue, and fluctuating emotional states affected negatively caregivers’ resilience. However, self-comforting activities and community interconnectedness improved caregivers’ resilience. Community care organizations and hospitals could establish alliances to develop programs for enhancing caregivers’ resilience.

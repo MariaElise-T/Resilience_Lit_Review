@@ -1,0 +1,12 @@
+Abstract
+Background and objectives
+Policies to support people living with dementia increasingly focus on strengths-based approaches, highlighting the importance of building resilience. This research responds to the lack of a suitable resilience measure for people with dementia. It develops a pool of items to inform a new measure of resilience for this population.
+
+Methods
+A conceptual model and associated data informed the item generation of the draft resilience measure. Regular meetings with professionals (n = 7) discussed response-scale formatting, content and face validity, leading to refinement and item reduction. Cognitive interviews with people living with dementia (n = 11) then examined the face and content validity of items and the suitability of response-scale formatting. These two phases informed subsequent revision and further item reduction of the resilience measure.
+
+Results
+The first item generation exercise led to 140 items. These were independently assessed by the professionals and this refinement reduced the measure to 63 items across 7 domains of the conceptual model (psychological strengths; practical approaches for adapting to life with dementia; continuing with hobbies, interests and activities; strong relationships with family and friends; peer support and education; participating in community activities; the role of professional support services). Cognitive interviews explored the 63 items with people living with dementia. Detailed feedback led to items removed due to difficulty with (a) understanding (N = 7); (b) answering (n = 11); (c) low preference for that item (n = 6); and (d) presence of a preferred item within a cluster of similar questions (n = 4). Items were amended to enhance clarity/conciseness (n = 19) leading to a final 37-item pool.
+
+Conclusion
+Established methods for measurement development included the expertise of people with dementia and led to the generation of a set of items for a new resilience measure that were understandable and acceptable to this target population. This 37-item pool reflects the conceptual understanding of resilience in dementia as being derived across individual, community and societal level resources.

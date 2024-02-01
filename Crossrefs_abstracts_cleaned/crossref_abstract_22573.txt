@@ -1,0 +1,18 @@
+Abstract
+Background
+Indigenous experiences and perspectives of resilience, healing and recovery from trauma is gaining increasing attention, with a growing qualitative literature that spans multiple indigenous cultural groups. However, few quantitative measures are available. In this article, development of a preliminary version of the Aboriginal Resilience and Recovery Questionnaire is described.
+
+Aim
+The first aim of this study was to describe findings from two focus groups that provided theoretical knowledge and development of items for a draft version of an Aboriginal Resilience Recovery Questionnaire. The second aim of the study was to conduct a preliminary psychometric analysis of the properties of the measure.
+
+Design
+Multi-method research design grounded in indigenous research methodologies.
+
+Measures
+Aboriginal Resilience and Recovery Questionnaire, Australian Aboriginal Version of the Harvard Trauma Questionnaire Trauma symptom subscale, Growth and Empowerment Measure.
+
+Results
+(1) Two focus groups with six counselling staff from an Aboriginal health service were run that explored Victorian Aboriginal understandings of resilience, healing, and recovery from trauma. Sixty different protective factors viewed as potentially important to resilience, healing and recovery from trauma were identified by participants. (2) Following a review of the resilience literature, 75 items were reviewed and revised, with additional items developed by the focus group. (3) The final outcome was 60 items selected for a preliminary version of the Aboriginal Resilience Recovery Questionnaire, 50 of which made up 19 different subscales in addition to 10 single items. (4) Structured interviews were conducted with 81 help seeking Aboriginal clients recruited from the same health service. Preliminary psychometric assessment of the Aboriginal Resilience Recovery Questionnaire was undertaken using Principal Components Analysis. Two component subscales were extracted with adequate internal consistency and good convergent and discriminant validity. For both subscales there were moderate to strong positive associations with empowerment, and moderate to strong negative associations with trauma symptom severity.
+
+Conclusion
+The preliminary results are promising for a strength-based resilience measure developed from the knowledge of Aboriginal practitioners and staff of a counselling service. Further research to address some psychometric limitations in the measure is required. A larger sample size will allow for a common factor analysis to be conducted. The Aboriginal Resilience Recovery Questionnaire has potential to assist Aboriginal Community Controlled Health Organisations and other organisations to evaluate whether services and programs can effectively support community members to strengthen individual, relational, community and cultural resilience resources.

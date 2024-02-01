@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Israeli citizens have been exposed to intense and ongoing terrorism since September 2000. We previously studied the mental health impact of terrorism on the Israeli population (Bleich et al., 2002), however the long-term impact of ongoing terrorism has not yet been examined. The present study evaluated the psychological sequelae of 44 months of terrorism in Israel, and sought to identify factors that may contribute to vulnerability and resilience.
+
+
+Methods
+This was a telephone survey using strata sampling of 828 households, which reached a representative sample of 702 adult Israeli residents (84.8% contact rate). In total, 501 people (60.5%) agreed to participate. The methodology was similar to that of our previous study. Exposure to terrorism and other traumatic events, number of traumatic stress-related symptoms (TSRS), percentage of respondents with symptom criteria for post-traumatic stress disorder (PTSD), traumatic stress (TS) resiliency and feelings of depression, anxiety, optimism, sense of safety, and help-seeking were the main outcome measures.
+
+
+Results
+In total, 56 participants (11.2%) were directly exposed to a terrorist incident, and 101 (20.2%) had family members or friends exposed. Respondents reported a mean ± SD of 5.0 ± 4.5 TSRS; 45 (9%) met symptom criteria for PTSD; and 72 (14.4%) were TS-resilient. There were 147 participants (29.5%) who felt depressed, 50 (10.4%) felt anxious, and almost half (235; 47%) felt life-threatening danger; 48 (9.7%) felt the need for professional help. Women and people of Arab ethnicity had more TSRS, more PTSD, and less TS resiliency. Injury following a life-threatening experience, a major stressful life event, and a major loss of income were associated with PTSD. Immigrant status, lower education, low sense of safety, low sense of social support, high societal distress, and injury following life-threatening experiences were associated with TSRS. TSRS did not increase with exposure severity. This study revealed less depression and functional impairment, similar rates of PTSD, increased help-seeking and poorer TSRS and TS resiliency than our initial study, 2 years previously.
+
+
+Discussion
+The response of people in Israel to 4 years of terrorism is heterogeneous. Vulnerability factors change over time; Arab ethnicity, immigrant status and less education, not found to be risk factors in our previous study, were found in the present study to contribute to trauma-related distress. Prior experience of highly stressful events increases vulnerability to adverse psychological effects of terror.

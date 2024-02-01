@@ -1,0 +1,19 @@
+
+Purpose
+Urban built-up has been increasing exponentially in the world. Urban population growth and migration are depleting the land resources and creating thermal discomfort. Cities all around the world are facing urban heat island effects and increased temperatures. This study aims to map land cover and formulate local climate zones for enhancing urban resilience against disaster and climate risks.
+
+
+Design/methodology/approach
+This study uses exploratory research to identify local climate zones for Lahore, Pakistan. Landsat 8 imagery was used to develop a land use land cover map. For mapping local climate zones, the standard World Urban and Access Portal Tool procedure was used.
+
+
+Findings
+Results have revealed that Lahore has grown exponentially. Compact low rise and open low rise were the two most common local climate zones prevalent in the city. In contrast, the outer regions of the city consisted of LCZ D (low plants) and LCZ F (bare soil).
+
+
+Practical implications
+This study highlights the need to consider local climate zones in future development plans and policies for ensuring sustainable, resilient and climate-friendly cities.
+
+
+Originality/value
+Local climate zone studies are missing in Pakistan. This study has empirically analyzed the ground situation of local climate zones for Lahore metropolitan city. This study will provide baseline support for future studies on urban heat island and climate change adaptation planning.

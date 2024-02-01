@@ -1,0 +1,12 @@
+Abstract
+Background
+Being diagnosed with cancer is challenging. Many patients wish to be actively involved in treatment and contribute to therapy, but the patients’ coping abilities and desire for involvement differ. The individual level of resilience seems to play a major role. Our study aims to learn more about the associations of resilience and factors as demographics and psychological factors.
+
+Methods
+This multicentric cross-sectional study was conducted in ten oncological centers in Germany in summer 2021. The questionnaire collected information on demographics, resilience, self-efficacy, general satisfaction with life, and sense of coherence. Considered lifestyle-aspects were diet and physical activity. 416 patients were included in the analyses.
+
+Results
+A moderate mean resilience score was achieved (M = 69). Significant correlations in demographics were found for resilience and education (r = 0.146, p = 0.003), income (r = 0.205, p = 0.001), and time since receiving diagnosis (r = − 0.115, p = 0.021). Resilience and self-efficacy correlated on a high level (r = 0.595, p < 0.001), resilience and sense of coherence, and resilience and general satisfaction with life in a moderate way (r = 0.339, p < 0.001; r = 0.461, p = 0.001).
+
+Conclusions
+Resilience portrays an important aspect in cancer treatment. Detecting patients at risk, stabilizing, or improving resilience are important to focus on and strengthen them accordingly. Possible negatively influencing factors (e.g., low self-efficacy) need to be considered. Factors affecting resilience but difficult to influence, as educational background, should be screened for. Also, the combination of low resilience and low income seems to describe a vulnerable patient group.

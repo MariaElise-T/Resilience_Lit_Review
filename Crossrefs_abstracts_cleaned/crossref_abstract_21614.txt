@@ -1,0 +1,19 @@
+
+Background
+Previous research has identified that men experiencing depression do not always access appropriate health services. Web-based interventions represent an alternative treatment option for men, are effective in reducing anxiety and depression, and have potential for wide dissemination. However, men do not access Web-based programs at the same rate as women. Programs with content explicitly tailored to men’s mental health needs are required.
+
+
+Objective
+This study evaluated the applicability of Man Central, a new Web and mobile phone intervention for men with depression. The impact of the use of Man Central on depression, resilience, and work and social functioning was assessed.
+
+
+Methods
+A recruitment flier was distributed via social media, email networks, newsletters, research registers, and partner organizations. A single-group, repeated measures design was used. The primary outcome was symptoms of depression. Secondary outcomes included externalizing symptoms, resilience, and work and social functioning. Man Central comprises regular mood, symptom, and behavior monitoring, combined with three 15-min interactive sessions. Clinical features are grounded in cognitive behavior therapy and problem-solving therapy. A distinguishing feature is the incorporation of positive strategies identified by men as useful in preventing and managing depression. Participants were directed to use Man Central for a period of 4 weeks. Linear mixed modeling with intention-to-treat analysis assessed associations between the intervention and the primary and secondary outcomes.
+
+
+Results
+A total of 144 men aged between 18 and 68 years and with at least mild depression enrolled in the study. The symptoms most often monitored by men included motivation (471 instances), depression (399), sleep (323), anxiety (316), and stress (262). Reminders were scheduled by 60.4% (87/144). Significant improvements were observed in depression symptoms (P<.001, d=0.68), depression risk, and externalizing symptoms (P<.001, d=0.88) and work and social functioning (P<.001, d=0.78). No change was observed in measures of resilience. Participants reported satisfaction with the program, with a majority saying that it was easy (42/51, 82%) and convenient (41/51, 80%) to use. Study attrition was high; 27.1% (39/144) and 8.3% (12/144) of the participants provided complete follow-up data and partial follow-up data, respectively, whereas the majority (93/144, 64.6%) did not complete follow-up measures.
+
+
+Conclusions
+This preliminary evaluation demonstrated the potential of using electronic health (eHealth) tools to deliver self-management strategies to men with depressive symptoms. Man Central may meet the treatment needs of a subgroup of depressed men who are willing to engage with an e-mental health program. With further research, it may provide an acceptable option to those unwilling or unable to access traditional mental health services. Given the limitations of the study design, prospective studies are required, using controlled designs to further elucidate the effect of the program over time.

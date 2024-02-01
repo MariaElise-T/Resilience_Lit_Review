@@ -1,0 +1,23 @@
+
+Background
+Resilience-promoting interventions (RPIs) are increasingly used for cancer patients. However, there are few comprehensive reports on the efficacy of RPIs in cancer patients.
+
+
+Objective
+A meta-analysis of randomized controlled trials (RCTs) was conducted to systematically evaluate the effects of RPIs on resilience, posttraumatic growth (PTG), and quality of life in cancer patients.
+
+
+Methods
+Two authors conducted independent literature searches in electronic databases (PubMed, Scopus, Web of Science, MEDLINE, EBSCO [ASC], Cochrane library, China National Knowledge Infrastructure, Wan Fang Data, and Chinese Scientific and Technological Journal Database) from the first available date to February 2021. Then, eligible studies were selected, data for meta-analysis were extracted, and the risk of bias was evaluated.
+
+
+Results
+Sixteen independent randomized controlled trials with 1620 participants were included. Meta-analysis showed that RPIs significantly improved the level of resilience and PTG among cancer patients. Further analysis indicated that both group and individual interventions could enhance resilience and PTG levels. However, RPIs did not significantly enhance the quality of life in cancer patients.
+
+
+Conclusions
+Clinical evidence from current randomized controlled trials shows that RPIs can improve the positive adaptation in cancer patients through either group intervention or individual intervention methods. In the future, the impact of RPIs on the quality of life needs further validation.
+
+
+Implications for Practice
+Interventions to enhance the positive adaptation for patients with cancer are needed. Considering that both group and individual forms of RPIs can improve resilience and PTG, future clinical intervention methods can be considered in combination with the specific situation of research implementation.

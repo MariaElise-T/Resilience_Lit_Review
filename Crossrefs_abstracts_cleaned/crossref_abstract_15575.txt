@@ -1,0 +1,15 @@
+
+Purpose
+Artificial intelligence (AI) and big data analysis may further enhance the automated and smart features of tourism and hospitality services. However, it also poses new challenges to human resource management. This study aims to explore the direct and indirect effects of employees’ AI perception on career resilience and informal learning as well as the mediating effect of career resilience.
+
+
+Design/methodology/approach
+This paper proposed a theoretical model of AI perception, career resilience and informal learning with perceived AI as the antecedent variable, career resilience as the mediate variable and informal learning as the endogenous variable. Targeting the employees working with AI, a total of 472 valid data were collected. Data were analyzed using structural equation modeling with AMOS software.
+
+
+Findings
+Findings indicated that employees’ perception of AI positively contributes to career resilience and informal learning. Apart from the direct effect on informal learning, career resilience also mediates the relationship between AI perception and informal learning.
+
+
+Originality/value
+Research findings provide both theoretical and practical implications by revealing the impact of AI perception on employees’ career development, leaning activities, explaining how AI transforms the nature of work and career development and shedding lights on human resource management in the tourism and hospitality field.

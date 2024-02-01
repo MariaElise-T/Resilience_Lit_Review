@@ -1,0 +1,1 @@
+This paper proposes a novel Frequency Quorum Rendezvous (FQR) scheme for fast and resilient pre-key establishment in anti-jamming spread spectrum techniques. While nodes hop over own frequencies during the key establishment phase, using a quorum system improves their rendezvous probability and reduces time latency.

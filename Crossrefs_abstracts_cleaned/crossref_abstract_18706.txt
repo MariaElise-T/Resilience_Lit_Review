@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Anxiety and depression are comorbid disorders with IBD and are associated with poor outcomes. Resilience is an innate but modifiable trait that may improve the symptoms of psychological disorders. Increasing resilience may decrease the severity of these comorbid disorders, which may improve IBD outcomes. The aim of this study was to describe the association between resilience, anxiety, and depression in IBD patients.
+
+
+Methods
+We performed a cross-sectional study of IBD patients. Patients completed a questionnaire consisting of the Connor-Davidson Resilience Scale (CD-RISC), a measure of resilience, the Generalized Anxiety Disorder 7 (GAD-7), and the Patient Health Questionnaire-9. Primary outcome was severity of anxiety and depression in patients with high resilience. Multivariable linear regression analysis evaluated the association between severity of anxiety and depression and level of resilience.
+
+
+Results
+A sample of 288 patients was analyzed. Bivariable linear regression analysis showed a negative association between resilience and anxiety (Pearson rho = −0.47; P &lt; .0001) and between resilience and depression (Pearson rho = −0.53; P &lt; .0001). Multivariable linear regression indicated that high resilience is independently associated with lower anxiety and that for every 1-unit increase in CD-RISC, the GAD-7 score decreased by 0.04 units (P = .0003). Unlike anxiety, the association between resilience and depression did not remain statistically significant on multivariable analysis.
+
+
+Conclusions
+High resilience is independently associated with lower anxiety in IBD patients, and we report a quantifiable decrease in anxiety score severity for every point of increase in resilience score. These findings suggest that IBD patients with higher resilience may have better coping mechanisms that buffer against the development of anxiety.

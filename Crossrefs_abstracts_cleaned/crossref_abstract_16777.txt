@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to examine how career commitment (CC) affects hospitality employees perceived subjective career success (SCS) using a serial mediation system that uses career resilience (CR) behaviour and self-efficacy (SE) as serial mediators.
+
+
+Design/methodology/approach
+To examine the proposed relationships, a comprehensive theoretical serial mediation model was constructed. The proposed hypotheses were tested on a sample of 316 hospitality employees from India using regression analysis (Process Macro Model 6) with 5,000 bootstrapping at 95% confidence interval.
+
+
+Findings
+The regression analysis confirmed a strong, positive relationship between CC and SCS. It also highlighted a significant indirect effect, involving a serial mediation through CR and SE, demonstrating how CC influences SCS.
+
+
+Research limitations/implications
+Drawing from three prominent theories – career self-determination theory (CSDT), career construction theory (CCT) and the contextual action theory of career development (CATCD), this research underscores the importance of fostering career-committed behaviour among employees and advocating for strategic career development initiatives. Understanding CC elements may help firms retain and encourage individuals, which can boost job satisfaction and performance. Importantly, the results advocate for the implementation of targeted career development strategies and the promotion of career-committed behaviour within hospitality organisations. This, in turn, fosters resilience and competence, ultimately contributing to individual career success and organisational excellence.
+
+
+Originality/value
+A serial mediation model with CR and SE introduces a fresh perspective that, to the best of the authors’ knowledge, has not been extensively explored in previous research examining the relationship between CC and SCS.

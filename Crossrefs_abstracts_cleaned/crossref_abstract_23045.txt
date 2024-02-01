@@ -1,0 +1,12 @@
+Abstract
+Background
+Suicide is the fourth leading cause of death among young people aged 15–29 years. A large number of studies have found that mental disorder in adulthood is closely related to childhood trauma, and the relationship between childhood trauma and suicide risk is influenced by resilience and mental distress. This study aimed to explore the effects of childhood trauma on suicide risk among young people and the potential roles of resilience and mental distress in the relationship between childhood trauma on suicide risk.
+
+Methods
+A cross-sectional survey was conducted among 742 young adults who were in graduate school stage from multiple provinces and cities in China. The Childhood Trauma Questionnaire (CTQ-Short Form), Connor-Davison Resilience Scale (CD-RISC) and Suicide Behavior Questionnaire-Revised (SBQ-R) were used to measure young adults’ childhood trauma, resilience and suicide risk, respectively. 9-items Patient Health Questionnaire (PHQ-9) and 7-items self-report Generalized Anxiety Disorder Scale (GAD-7) were used together to measure mental distress. Correlation analysis was performed to explore the initial relationships among the main variables. Structural equation modeling (SEM) was conducted to examine the chain mediating effects of resilience and mental distress in the relationship between childhood trauma and suicide risk.
+
+Results
+The structural equation modeling produced goodness of fit indices (χ2 /df = 3.668, p < 0.001, RMSEA = 0.060, NFI = 0.959, CFI = 0.969, GFI = 0.969, TLI = 0.955). Childhood trauma significantly predicted suicide risk (β = 0.232, p < 0.001) and mental distress (β = 0.181, p < 0.001), which had negative effect on resilience (β = -0.233, p < 0.001). Resilience negatively affected mental distress (β = -0.483, p < 0.001) and suicide risk (β = -0.142, p = 0.001), while mental distress positively associated with suicide risk (β = 0.219, p < 0.001).
+
+Conclusion
+The current study revealed that resilience and mental distress played chain-mediating roles in the relationship between childhood trauma and suicide risk. This suggests that we should view the suicide risk of graduate students from a comprehensive perspective.

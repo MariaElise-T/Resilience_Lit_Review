@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+Spousal loss is a stressful life event that often results in significant depressive symptoms, with men often experiencing more significant depressive symptoms than women. Recent research suggests that psychological resilience may play a role in shaping how well people recover from the loss of a spouse. This study examined the moderating effect of resilience on widowhood in relation to changes in depressive symptoms for men and women.
+
+
+Research Design and Methods
+This study used data from the Health and Retirement Study to examine a change in depressive symptoms for men and women who experience spousal loss compared to those who remain continuously married (N = 5,626). We used the Simplified Resilience Score, which is based on measures drawn from the psychosocial and lifestyle questionnaire. Ordinary least squares regression was used to assess depression following reported spousal loss for widows relative to their continuously married counterparts.
+
+
+Results
+Results show resilience moderated depressive symptoms following spousal loss, but these effects varied by gender. Resilience was significantly and negatively associated with depressive symptoms for married but not for widowed women. However, for widowed men, resilience was significantly and negatively associated with depressive symptoms, and a high resilience score buffered the effect of widowhood.
+
+
+Discussion and Implications
+Our study suggests that having high levels of resilience prior to spousal loss may help offset persistent depressive symptoms, especially for men. Implications for future research and clinical practice are discussed.

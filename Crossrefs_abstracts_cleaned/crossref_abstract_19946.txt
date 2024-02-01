@@ -1,0 +1,9 @@
+
+            The current study sought to evaluate the predictive validity of resilience among individuals with anxiety and/or depressive disorders. Receiver operating characteristics were calculated for each of the 25-item and 10-item versions of the Connor-Davidson Resilience Scale, evaluated against psychological distress and treatment response, at screening and post-treatment. New referrals to an anxiety and related disorders clinic were recruited for this purpose (
+            N
+            = 672 at screening,
+            N
+            = 349 post-treatment). Robust cross-sectional associations between resilience and psychological distress and treatment response were noted and were strongest at post-treatment. However, the related sensitivity (63% to 66% at screening, 69% to 76% post-treatment), specificity (78% to 83% at screening, approximately 73% post-treatment), and areas under the curve (AUC; approximately 73% at screening, 78% to 82% post-treatment) were modest. Furthermore, there was minimal support for resilience as a predictor of recovery using the longitudinal data (sensitivity and specificity could not be determined, with AUC of approximately 68% for psychological distress and 56% for treatment response). Although a relatively large homogeneous sample was available for this study, analyses of specific diagnostic subgroups may offer valuable further insight. [
+            Journal of Psychosocial Nursing and Mental Health Services, 59
+            (7), 35–41.]
+          

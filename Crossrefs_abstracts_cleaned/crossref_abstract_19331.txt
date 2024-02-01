@@ -1,0 +1,12 @@
+Abstract
+
+Background:
+Medical staff in hospitals were faced with great stress as a result of COVID-19’s sudden and severe occurrence, which makes investigating their resilience essential.
+
+
+Aims and methods:
+Using qualitative and quantitative research methods, this research studied medical staff (n = 403) working in a hospital during the COVID-19 pandemic and followed four main goals: First was evaluating the psychometric properties of the Persian version of Adult Resilience Measure-Revised (ARM-R). The second goal was investigating the personal, relational, social, and organizational issues facing the medical staff during the COVID-19 using semi-structural interviews. The third goal was to determine predictive effects of demographic and work-related variables on resilience using stepwise regression analysis. And the fourth was comparing resilience of three groups of the medical staff (coronavirus group consisted of the medical staff in direct contact with COVID-19 patients; emergency group who work in the emergency department who deal with both COVID and non-COVID patients; and non-coronavirus group who had no contact with COVID-19 patients) using one-way ANOVA.
+
+
+Findings:
+Results showed that internal reliability/consistency, content, and face validity of the Persian version of the ARM-R are acceptable. The construct validity of the test was also verified using exploratory factor analysis and indicated the two factors of personal and relational resilience. The content of the interviews was analyzed using manifest content analysis, and the results were divided into 27 subcategories and 3 main categories including personal, organizational, and family categories. Moreover, regression analysis revealed that the marital status and age of children can explain resilience variance in some medical staff groups. The results of ANOVA and post hoc test also showed that the total resilience of the non-coronavirus group was greater than the coronavirus and emergency groups; the relational resilience of the coronavirus and non-coronavirus groups was greater than the emergency, and non-coronavirus group’s personal resilience was greater than the emergency group.

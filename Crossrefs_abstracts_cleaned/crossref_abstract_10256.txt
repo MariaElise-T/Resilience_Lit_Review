@@ -1,0 +1,20 @@
+Abstract
+
+Objective
+The purpose of this study was to determine the relationships between noncognitive traits (grit, resilience, and mindset-type), academic success, and clinical performance in physical therapist students.
+
+
+Methods
+This cross-sectional study using self-administered surveys was undertaken with final-year physical therapist students enrolled in 4 Australian universities. Participants completed validated questionnaires measuring grit, resilience, and mindset type. Academic transcripts were obtained to quantify academic success and clinical performance. A multiple regression analysis explored predictors of academic success and clinical performance in relation to sociodemographic factors, grit, resilience, and mindset type.
+
+
+Results
+A total of 266 students participated in the study (80% recruitment rate). Overall, 25% of students had low resilience, 20% had low grit, and 14% had a fixed mindset type. Grittiness was positively associated with academic success (r = 0.24) and clinical performance (r = 0.22) and negatively associated with failing a clinical placement (r = -0.20). Grit was an independent predictor of overall academic success (β = 0.24, P ≤ .01) and clinical performance (β = 0.15). Students with low grit were twice as likely to fail a clinical placement compared with students with moderate or high grit (risk ratio = 2.03, 95% CI = 1.06 to 3.89).
+
+
+Conclusion
+Grit was an independent predictor for overall academic success and clinical performance in final-year physical therapist students. Low grit may impact negatively on learning and students’ ability to cope with challenges associated with university studies and clinical education. Further studies should investigate interventions that best develop grit in health professional students and the overlapping nature of grit, resilience, and a growth mindset.
+
+
+Impact
+This study helps universities and educators understand noncognitive factors predicting academic success and clinical performance in physical therapist students. Universities and clinical educators may consider screening and providing proactive strategies for students with low grit to improve success and general wellbeing.

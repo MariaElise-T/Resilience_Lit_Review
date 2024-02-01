@@ -1,0 +1,1 @@
+Focusing solely on physical infrastructure runs the risk of overlooking another critical component of resilience: social infrastructure.

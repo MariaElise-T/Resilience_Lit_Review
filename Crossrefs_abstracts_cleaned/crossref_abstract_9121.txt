@@ -1,0 +1,15 @@
+
+Background
+There is no specific tool for measuring the professional resilience of emergency nurses. Therefore, the present study aimed to design and psychometrically evaluate a new tool named the emergency nurses’ professional resilience tool.
+
+
+Method
+This mixed-method sequential exploratory study was conducted in two phases: (1) item generation using literature review and evaluation of the results of a qualitative study and (2) psychometric evaluation of the developed scale. The face, content, and construct validity (exploratory and confirmatory factor analysis), reliability (internal consistency, relative, and absolute), and accountability were assessed in the population of Iranian nurses (N = 465) during March 2019-June 2020.
+
+
+Results
+The tool designed for assessing the professional resilience of Iranian nurses included 37 items. The average scale content validity index (S-CVI/Ave) was equal to 0.94. The exploratory factor analysis revealed five factors, including professional competencies, emotional-cognitive characteristics, external support, in addition to behavioral and cognitive strategies, and explained 75.59% of the whole variance. Cronbach’s alpha and intraclass correlation were 0.915 and 0.888, respectively. Construct validity for five factors was established with acceptable model fit indices [Chi–square/df = 1336.56/619, p < .001]; [Comparative Fit Index [CFI] = 0.96]; [Non-Normed Fit Index [NNFI] = 0.96]; [Root Mean Square Error of Approximation (RMSEA) = 0.074 and 90 Percent Confidence Interval = (0.069; 0.080)]; and [SRMR = 0.095].
+
+
+Conclusions
+According to the findings of the current study, the emergency nurses’ professional resilience tool can be used by healthcare managers as a valid and reliable scale to evaluate the professional resilience of nurses to designate them as nurses working in emergency and disaster situations.

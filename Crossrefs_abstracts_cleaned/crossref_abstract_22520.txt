@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+The goal of this paper was to examine associations between personality traits and resilience to neuropathologic burden.
+
+
+Method
+Using data from the Religious Orders Study and the Rush Memory and Aging Project, we identified a total of 1,375 participants with personality, cognitive, and post-mortem neuropathology data. We regressed cognition onto pathology and extracted the residuals as an indicator of cognitive resilience. We then modeled the effect of Big Five personality traits on cognitive resilience, adjusting for demographics, APOE status, medical comorbidities, and cognitive activity. The analytic plan was preregistered prior to data access or analysis, and all scripts and outputs are available online.
+
+
+Results
+Higher neuroticism was associated with greater vulnerability to pathology. Results from exploratory analyses suggest that higher conscientiousness was associated with less cognitive decline relative to the amount of pathology, or greater resilience. Education and cognitive activity did not moderate these associations.
+
+
+Discussion
+Personality may have a pathoplastic effect on neuropathology, as low neuroticism and high conscientiousness are associated with better function despite neuropathologic burden.

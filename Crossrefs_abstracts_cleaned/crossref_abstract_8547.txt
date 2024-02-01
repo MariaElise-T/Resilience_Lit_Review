@@ -1,0 +1,12 @@
+Abstract
+Background
+In May 2021, the Irish public health service was the target of a cyber-attack. The response by the health service resulted in the widespread removal of access to ICT systems. While services including radiology, diagnostics, maternity, and oncology were prioritised for reinstatement, recovery efforts continued for over four months. This study describes the response of health service staff to the loss of ICT systems, and the risk mitigation measures introduced to safely continue health services. The resilience displayed by frontline staff whose rapid and innovative response ensured continuity of safe patient care is explored.
+
+Methods
+To gain an in-depth understanding of staff experiences of the cyber-attack, eight focus groups (n = 36) were conducted. Participants from a diverse range of health services were recruited, including staff from radiology, pathology/laboratories, radiotherapy, maternity, primary care dental services, health and wellbeing, COVID testing, older person’s care, and disability services. Thematic Analysis was applied to the data to identify key themes.
+
+Results
+The impact of the cyber-attack varied across services depending on the type of care being offered, the reliance on IT systems, and the extent of local IT support. Staff stepped-up to the challenges and quickly developed and implemented innovative solutions, exhibiting great resilience, teamwork and adaptability, with a sharp focus on ensuring patient safety. The cyber-attack resulted in a flattening of the healthcare hierarchy, with shared decision-making at local levels leading to an empowered frontline workforce. However, participants in this study felt the stress placed on staff by the attack was more severe than the cumulative effect of the COVID-19 pandemic.
+
+Conclusions
+Limited contingencies within the health system IT infrastructure - what we call a lack of system resilience - was compensated for by a resilient workforce. Within the context of the prevailing COVID-19 pandemic, this was an enormous burden on a dedicated workforce. The adverse impact of this attack may have long-term and far-reaching consequences for staff wellbeing. Design and investment in a resilient health system must be prioritised.

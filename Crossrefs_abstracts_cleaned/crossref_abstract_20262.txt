@@ -1,0 +1,6 @@
+We consider fault-tolerant boolean formulas in which the output of a faulty gate is short-circuited to one of the gate’s inputs. A recent result by Kalai et al. [FOCS 2012] converts any boolean formula into a resilient formula of polynomial size that works correctly if less than 1/6 of the gates (on every input-to-output path) are faulty. We improve the result of Kalai et al., and show how to efficiently fortify any boolean formula against a fraction of 1/5 of short-circuit gates per path, with only a polynomial blowup in size. We additionally show that it is impossible to obtain formulas with higher resilience and sub-exponential growth in size.
+
+            Towards our results, we consider interactive coding schemes when noiseless feedback is present; these produce resilient boolean formulas via a Karchmer-Wigderson relation. We develop a coding scheme that resists corruptions in up to a fraction of 1/5 of the transmissions
+            in each direction of the interactive channel
+            . We further show that such a level of noise is maximal for coding schemes whose communication blowup is sub-exponential. Our coding scheme has taken a surprising inspiration from Blockchain technology.
+          

@@ -1,0 +1,12 @@
+Abstract
+Aims
+To analyze if midterm improvement in diabetes distress can be explained by resilience, diabetes acceptance, and patient characteristics.
+
+Methods
+N = 179 adults with type 1 diabetes were enrolled during their stay at a tertiary diabetes center (monocentric enrolment) and followed up over three months in a prospective, observational study (‘DIA-LINK1’). Improvement in diabetes distress was assessed as reduction in the Problem Areas in Diabetes Scale score from baseline to follow-up. Resilience (Resilience Scale-13), acceptance (Diabetes Acceptance Scale), and patient characteristics were analyzed as predictors of improvement in diabetes distress using hierarchical multiple regression.
+
+Results
+Greater reductions in diabetes distress were significantly explained by lower diabetes acceptance at baseline (β = −0.34, p < 0.01), while resilience, diabetes complications, and other person-related variables were not significantly related to changes in diabetes distress (all p > 0.05). When change in diabetes acceptance from baseline to follow-up was added to the model, improved diabetes distress was explained by increasing diabetes acceptance (β = 0.41, p < 0.01) and a shorter duration of diabetes (β = -0.18, p = 0.03), while baseline diabetes acceptance was no longer significantly associated (β = −0.14, p > 0.05).
+
+Conclusions
+Diabetes acceptance is inversely related to diabetes distress, and increasing acceptance explained greater improvement in diabetes distress. These findings suggest that increasing diabetes acceptance may facilitate the reduction of diabetes distress. Treatment approaches targeting acceptance might be useful for the mental healthcare of people with type 1 diabetes and clinically elevated diabetes distress.

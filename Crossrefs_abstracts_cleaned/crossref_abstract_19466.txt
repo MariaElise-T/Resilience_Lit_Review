@@ -1,0 +1,12 @@
+Abstract
+Background
+Improvement of psychosocial-spiritual well-being in patients with life-threatening or life-limiting illness is desirable. Resilience and mindfulness are considered to be helpful for enhancing psychosocial-spiritual well-being. Mindfulness-based interventions have been shown to promote resilience to stress and enhance well-being. However, in medical patients, evidence for the associations between mindfulness and resilience is lacking. We hypothesize patients with higher levels of psychosocial-spiritual well-being demonstrate greater resilience and mindfulness.
+
+Methods
+200 patients (mean age = 50.2, SD = 15.5) with serious and or life-limiting illnesses were recruited from the NIH Clinical Center. Patients completed a demographic questionnaire, the NIH-HEALS measure of psychosocial-spiritual well-being, the Connor-Davidson Resilience Scale (CD-RISC-10), and the Mindful Attention Awareness Scale (MAAS). The demographic questionnaire also included a question on current stress level.
+
+Results
+The NIH-HEALS was positively correlated to CD-RISC-10 (rs=0.44, p < 0.001) and MAAS (rs=0.32, p < 0.001). These findings were consistent across all three NIH-HEALS factors. Additionally, CD-RISC-10 and MAAS demonstrated a meaningful relationship to each other (rs=0.46, p < 0.001). All three constructs were inversely related to current stress level.
+
+Conclusions
+Findings suggest that there is a meaningful relationship between psychosocial-spiritual well-being, mindfulness, and resilience. Mindfulness and resilience are positively correlated in a medical population. Clinical interventions aimed at enhancing psychosocial-spiritual well-being through mindfulness and resilience can be highly promising for patients with severe and or life limiting illness.

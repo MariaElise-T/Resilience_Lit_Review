@@ -1,0 +1,15 @@
+
+BACKGROUND AND OBJECTIVES
+A high level of caregiver adverse childhood experiences (ACEs) and/or low resilience is associated with poor outcomes for both caregivers and their children after hospital discharge. It is unknown if sociodemographic or area-based measures (ie, “geomarkers”) can inform the assessment of caregiver ACEs or resilience. Our objective was to determine if caregiver ACEs or resilience can be identified by using any combinations of sociodemographic measures, geomarkers, and/or caregiver-reported household characteristics.
+
+
+METHODS
+Eligible participants for this cohort study were English-speaking caregivers of children hospitalized on a hospital medicine team. Caregivers completed the ACE questionnaire, Brief Resilience Scale, and strain surveys. Exposures included sociodemographic characteristics available in the electronic health record (EHR), geomarkers tied to a patient’s geocoded home address, and household characteristics that are not present in the EHR (eg, income). Primary outcomes were a high caregiver ACE score (≥4) and/or a low BRS Score (&lt;3).
+
+
+RESULTS
+Of the 1272 included caregivers, 543 reported high ACE or low resilience, and 63 reported both. We developed the following regression models: sociodemographic variables in EHR (Model 1), EHR sociodemographics and geomarkers (Model 2), and EHR sociodemographics, geomarkers, and additional survey-reported household characteristics (Model 3). The ability of models to identify the presence of caregiver adversity was poor (all areas under receiver operating characteristics curves were &lt;0.65).
+
+
+CONCLUSIONS
+Models using EHR data, geomarkers, and household-level characteristics to identify caregiver adversity had limited utility. Directly asking questions to caregivers or integrating risk and strength assessments during pediatric hospitalization may be a better approach to identifying caregiver adversity.

@@ -1,0 +1,24 @@
+
+Introduction:
+            Resilience is a measure of stress coping ability and has been favourably associated with cardiovascular health. Yet little is known on the likely association between diet and resilience.
+          
+
+Hypothesis:
+            We tested the hypothesis that diet quality is associated with resilience.
+          
+
+Methods:
+            Cross-sectional analysis on 10,812 subjects (mean age 52.7±10.8, 50.5% men) recruited within the cohort of the Moli-sani study from 2005 to 2010. Resilience was measured by the 25-item Connor-Davidson Resilience Scale ranging from 0-100 with the higher score reflecting greater resilience. Food intake was recorded by the EPIC food frequency questionnaire and adherence to the Mediterranean diet was appraised by both a Greek and an Italian dietary score. Empirically-derived dietary patterns were obtained by principal components analysis (PCA), while dietary polyphenol and antioxidant intakes and fruit and vegetables variety were assessed by specific holistic scoring. Multivariable linear regression analysis (95%CI) was used to test the association between dietary scores and resilience.
+          
+
+Results:
+            As compared to those below the median value of resilience (score=67), more resilient subjects had higher educational status (19.4%
+            vs
+            13.5% for university or postgraduate education) and were more likely to report favourable health behaviours (leisure-time physical activity and less prevalence of smoking habit) . In a multivariable model, greater adherence to Mediterranean-type diets or vegetables-based dietary pattern obtained from PCA, as well as dietary polyphenol or antioxidant intakes and greater variety in fruit and vegetables consumption were all positively associated with resilience (Table) . No association with Western-like diets was found.
+          
+
+Conclusions:
+            Diet quality, as measured by a number of dietary scores, was positively associated with higher resilience, whereas western-type diets were not. Modulation of stress coping ability may be a factor in considering healthy effect of high quality diet.
+          
+
+

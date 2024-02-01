@@ -1,0 +1,19 @@
+
+Background
+It is widely recognized that individuals’ health and educational attainments, commonly referred to as their human capital, are important determinants for their labour market participation (LMP). What is less recognised is the influence of individuals’ latent resilience traits on their ability to sustain LMP after experiencing an adversity such as a health shock.
+
+
+Aim
+We investigate the extent to which resilience is independently associated with LMP and moderates the effect of health shocks on LMP.
+
+
+Method
+We analysed data from two consecutive waves of a Norwegian prospective cohort study. We followed 3,840 adults who, at baseline, were healthy and worked full time. Binary logistic regression models were applied to explain their employment status eight years later, controlling for age, sex, educational attainment, health status at baseline, as well as the occurrences of three types of health shocks (cardiovascular diseases, cancer, psychological problems). Individuals’ resilience, measured by the Resilience Scale for Adults (RSA), entered as an independent variable and as an interaction with the indicators of health shocks. In separate models, we explore the role of two further indicators of resilience; locus of control, and health optimism.
+
+
+Results
+As expected, health shocks reduce the probability to keep on working full-time. While both the RSA and the two related indicators all suggest that resilience increases the probability to keep on working, we did not find evidence that resilience moderates the association between health shocks and LMP.
+
+
+Conclusion
+Higher levels of resilience is associated with full-time work as individuals age.

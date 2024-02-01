@@ -1,0 +1,15 @@
+
+Purpose
+The survival and growth of organizations presently depend on managing processes and capabilities to effectively use large volumes of data from different sources to assist organizations’ strategic and operational goals. This paper aims to test the relationship between organizational analytical capabilities (OAC), the performance results in organizational resilience (OR) and the business process management maturity (BPMM).
+
+
+Design/methodology/approach
+Based on a survey of companies operating in the state of Espírito Santo, Brazil, a conceptual model was proposed and tested using the partial least squares algorithm.
+
+
+Findings
+The results confirm the proposed theoretical hypotheses that OAC and BPMM positively impact OR. In addition, the results show that OAC exert a moderating effect on the relationship between BPMM and OR.
+
+
+Practical implications
+It is understood that stimulating the practice of data and information analysis in the organizational routine translates into a relevant managerial behavior, as this attitude leverages the knowledge development and understanding about how to manage unexpected risk events, enabling companies to assess their ability to react to disruptions, even in terms of operational failures.

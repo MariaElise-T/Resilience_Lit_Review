@@ -1,0 +1,16 @@
+Objective: The purpose of the present study was to evaluate the factors influencing resilience in primary
+brain tumor patients in Taiwan.
+Methods: A total of 95 participants completed the cross-sectional survey. All of the participants had
+undergone surgical, chemotherapy, or radiotherapy treatments for their brain tumors at least one month prior
+to data collection. The instruments that were used in data collection included the Resilience Scale (RS), a
+baseline characteristics datasheet, and the Karnofsky Performance Status (KPS) scale.
+Result: KPS score correlated significantly and positively with resilience (r = .49, p < .01). Moreover,
+financial means (t = 3.31, p < .01), mode of tumor treatment (t = 2.10, p < .05), and tumor recurrence status
+(t = -2.03, p < .05) were found to be significant predictors of resilience, accounting for 11% (R2
+inc= .11, p<
+0.01), 5% (R2
+inc= .05, p< 0.05), and 12% (R2
+inc= .12, p< 0.001) of the total variance, respectively.
+Conclusion: Health professionals may use the findings of the present study to assess the relevant baseline
+characteristics and physical abilities of their patients in order to better identify the presence of significant
+protective or risk factors for resilience.

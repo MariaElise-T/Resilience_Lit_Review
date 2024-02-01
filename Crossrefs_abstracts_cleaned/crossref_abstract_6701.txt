@@ -1,0 +1,20 @@
+Abstract
+
+Background
+The concept of health system resilience has gained popularity in the global health discourse, featuring in UN policies, academic articles and conferences. The term is commonly used to refer to the ability of health systems to respond to challenges. However, there has been no comprehensive overview of how the concept is understood and assessed in health systems research (HSR).
+
+
+Methods
+We conducted a conceptual and empirical review in 3 databases using systematic methods. Quantitative and narrative synthesis was used to trace the introduction of the concept to HSR, identify relevant definitions and examine its use in research.
+
+
+Results
+From 4063 references, we identified 96 articles concerned with health system resilience from 2007 - 2017, with a recent increase in literature (45% of studies published since 2016). Many articles take a general perspective; others focus on specific HSR building blocks (e.g. 28% on service delivery) or a particular type of crisis, such as climate change (12.5%) or natural disasters (10.4%). While the concept was developed from the ecological sciences, its meaning has been adapted in HSR, with a shift towards people-centred and process-oriented definitions. We identify three frameworks operationalising resilience: the “attributes” framework by Kruk et al. (2017), the “everyday resilience” framework by Barasa et al. (2017) and the “complex adaptive systems” framework by Blanchet et al. (2017). However, we find a mismatch between these frameworks and how the concept is assessed in 13 quantitative and 8 qualitative empirical studies.
+
+
+Conclusions
+The HSR literature has converged around a definition of resilience focusing on the system’s ability to mitigate ongoing challenges. Differences in emphasis remain, resulting in a variety of operational frameworks. The frameworks require further adaptation and testing in empirical studies to demonstrate the usefulness of “resilience” as an analytical category in HSR.
+
+
+Key messages
+There is a mismatch between conceptualisation and operationalisation of resilience in the HSR literature. Existing operational frameworks of resilience require further adaptation and testing in empirical studies to demonstrate the usefulness of “resilience” as an analytical category in HSR.

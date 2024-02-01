@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience has emerged as a concept that could explain and predict good academic and well-being of students in stressful and traumatic situations. This study was conducted to assess resilience and identify predictors of high or low resilience scores among future nurses in Palestine.
+
+Methods
+This cross-sectional study adhered to the Strengthening the Reporting of Observational Studies in Epidemiology statement. Undergraduate nursing students in all academic years were recruited and asked to complete a questionnaire that contained the Trait Resilience Scale and the State-Resilience Scale. Multiple linear regression models were used to identify predictors of higher resilience scores and to control for potentially confounding factors.
+
+Results
+In this study, 290 students completed the questionnaire (response rate = 92.4%). The means of trait, state, and combined resilience scores were 71.4 (SD: 7.5), 62.7 (SD: 6.7), and 134.1 (SD: 12.8), respectively. There was a significant moderate positive correlation between state resilience scores and trait resilience scores (r = 0.63, p < 0.001). Having a study routine on daily basis predicted higher trait (β = -0.20, p < 0.001), state (β = -0.12, p = 0.032), and combined (β = -0.18, p = 0.001) resilience scores. Trait and combined resilience scores were predicted by the absence of chronic diseases (β = 0.12, p < 0.05), experiencing addiction issues (β = -0.11, p < 0.05), living in Israeli seized areas (β = 0.16, p < 0.05), and living in a house with enough number of rooms per siblings (β = 0.13, p < 0.05). On the other hand, state and combined resilience scores were predicted by being in the first academic year (β = -0.18, p < 0.01), and state resilience scores were predicted by living in urban areas (β = -0.12, p < 0.05).
+
+Conclusions
+Undergraduate nursing students in Palestine reported relatively high trait and state resilience scores. Higher trait, state, and combined resilience scores were predicted by having a study routine on daily basis. More studies are still needed to investigate the relationship between resilience scores, perceived well-being, willingness to care, and the future success of nursing students in Palestine.

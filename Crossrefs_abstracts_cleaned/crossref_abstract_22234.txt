@@ -1,0 +1,15 @@
+
+Background:
+Resilience is defined as an individual's positive adaptation to stressors. The COVID-19 pandemic represents a generalized stressor which may affect differently people living with HIV (PLWH). The objective of this study was to characterize resilience in PLWH with particular regarding the identification of frailty-resilience phenotypes, which may differently affect health-related quality of life (HR-QoL).
+
+
+Methods:
+This was an observational study of PLWH attending Modena HIV Metabolic Clinic. Frailty was assessed in 2019, before the onset of the COVID-19 pandemic by using 37-Item frailty index ranging from 0 to 1. The frailty index score was categorized as fit (<0.25) or frail (>0.25). In January 2021, PLWH were offered to complete a set of electronic questionnaires including the CD-RISC-25 for resilience and EQ-5D5L and SF-36 for HR-QoL. Resilience was defined as CD-RISC-25 score >75.7 (ranging from 0 to 100).
+
+
+Results:
+Of 800 PLWH reached by mail, 575 (72%) completed the questionnaires. The median age and HIV duration were 54.5 and 24.3 years, respectively. Impaired resilience was associated with loneliness [odds ratio (OR = 2.39; 1.20 to 4.76, P < 0.001)]. Predictors for EQ-5D5L <89.7% were the phenotypes “frail/nonresilient” [OR = 5.21, 95% confidence interval (CI): 2.62 to 10.33] and “fit/nonresilient” (OR = 5.48, 95% CI: 2.8 to 10.74). Predictors for SF-36 <64.40 were the phenotypes “frail/nonresilient” (OR = 7.43, 95% CI: 2.57 to 21.22) and “fit/nonresilient” (OR = 6.27, 95% CI: 2.17 to 18.16). Both models were corrected for age, sex, HIV duration, and nadir CD4.
+
+
+Conclusions:
+Resilience characterizes the well-being of PLWH during the COVID-19 crisis. This construct is complementary to frailty in the identification of clinical phenotypes with different impacts on HR-QoL.

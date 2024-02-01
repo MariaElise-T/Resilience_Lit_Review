@@ -1,0 +1,11 @@
+
+            Early-life stress experiences can produce lasting impacts on organismal adaptation and fitness. How transient stress elicits memory-like physiological effects is largely unknown. Here, we show that early-life thermal stress strongly up-regulates
+            tsp-1
+            , a gene encoding the conserved transmembrane tetraspanin in
+            C. elegans
+            . TSP-1 forms prominent multimers and stable web-like structures critical for membrane barrier functions in adults and during aging. Increased TSP-1 abundance persists even after transient early-life heat stress. Such regulation requires CBP-1, a histone acetyltransferase that facilitates initial
+            tsp-1
+            transcription. Tetraspanin webs form regular membrane structures and mediate resilience-promoting effects of early-life thermal stress. Gain-of-function TSP-1 confers marked
+            C. elegans
+            longevity extension and thermal resilience in human cells. Together, our results reveal a cellular mechanism by which early-life thermal stress produces long-lasting memory-like impact on organismal resilience and longevity.
+          

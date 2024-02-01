@@ -1,0 +1,19 @@
+
+Background
+Emergency responders are routinely exposed to traumatic critical incidents and other occupational stressors that place them at higher risk of mental ill health compared to the general population. There is some evidence to suggest that resilience training may improve emergency responders’ wellbeing and related health outcomes. The aim of this study was to evaluate the effectiveness of a tertiary service resilience intervention compared to psychoeducation for improving psychological outcomes among emergency workers.
+
+
+Methods
+We conducted a multicentre, parallel-group, randomised controlled trial. Minim software was used to randomly allocate police, ambulance, fire, and search and rescue services personnel, who were not suffering from depression or post-traumatic stress disorder, to Mind’s group intervention or to online psychoeducation on a 3:1 basis. The resilience intervention was group-based and included stress management and mindfulness tools for reducing stress. It was delivered by trained staff at nine centres across England in six sessions, one per week for six weeks. The comparison intervention was psychoeducation about stress and mental health delivered online, one module per week for six weeks. Primary outcomes were assessed by self-report and included wellbeing, resilience, self-efficacy, problem-solving, social capital, confidence in managing mental health, and number of days off work due to illness. Follow-up was conducted at three months. Blinding of participants, researchers and outcome assessment was not possible due to the type of interventions.
+
+
+Results
+A total of 430 participants (resilience intervention N = 317; psychoeducation N = 113) were randomised and included in intent-to-treat analyses. Linear Mixed-Effects Models did not show a significant difference between the interventions, at either the post-intervention or follow-up time points, on any outcome measure.
+
+
+Conclusions
+The limited success of this intervention is consistent with the wider literature. Future refinements to the intervention may benefit from targeting predictors of resilience and mental ill health.
+
+
+Trial registration
+ISRCTN registry, ISRCTN79407277.

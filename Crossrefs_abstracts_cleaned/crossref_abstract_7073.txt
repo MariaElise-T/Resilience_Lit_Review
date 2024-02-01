@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to create a resilient supply chain (SC) plan to contain disruptions and risks in the overall operations of a business.
+
+
+Design/methodology/approach
+The study integrates resilience considerations in a business planning model that formulates resilience performance (RP) of SC functions in terms of flexibility, reliability, and similar system factors. It evaluates the RP of SC plans and determines their vulnerability considering required and planned resources. The model estimates the possible effects of disasters on vulnerable functions using a scenario-based analysis and plans containment options. It also includes decision options for deploying resources to achieve the expected levels of resilience by preventing potential vulnerabilities. The model takes optimum decision in a what-if approach by comparing performance of the existing business plan, with options for containing the vulnerabilities inherent in not considering potential risks when planning to fulfill market demand, and the performance of a resilient plan that includes decision options to prevent vulnerabilities where possible and mitigate them otherwise.
+
+
+Findings
+It is possible, for example, to evaluate RP of SC plans, identify vulnerable functions, and decide optimum option to create resilient business system.
+
+
+Research limitations/implications
+The present study takes a generic approach and creates bases to explore its application in any industry-based case.
+
+
+Originality/value
+The research introduces formulations for RPs and vulnerability indices that can be included in a planning model to create a resilient SC.

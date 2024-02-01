@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Stress and depression are risk factors for inflammatory bowel disease (IBD) exacerbations. It is unknown if resilience, or one’s ability to recover from adversity, impacts disease course. The aim of this study was to examine the association between resilience and IBD disease activity, quality of life (QoL), and IBD-related surgeries.
+
+
+Methods
+We performed a cross-sectional study of IBD patients at an academic center. Patients completed the Connor-Davidson Resilience Scale questionnaire, which measures resilience (high resilience score ≥ 35). The primary outcome was IBD disease activity, measured by Mayo score and Harvey-Bradshaw Index (HBI). The QoL and IBD-related surgeries were also assessed. Multivariate linear regression was conducted to assess the association of high resilience with disease activity and QoL.
+
+
+Results
+Our patient sample comprised 92 patients with ulcerative colitis (UC) and 137 patients with Crohn disease (CD). High resilience was noted in 27% of patients with UC and 21.5% of patients with CD. Among patients with UC, those with high resilience had a mean Mayo score of 1.54, and those with low resilience had a mean Mayo score of 4.31, P &lt; 0.001. Among patients with CD, those with high resilience had a mean HBI of 2.31, and those with low resilience had a mean HBI of 3.95, P = 0.035. In multivariable analysis, high resilience was independently associated with lower disease activity in both UC (P &lt; 0.001) and CD (P = 0.037) and with higher QoL (P = 0.016). High resilience was also associated with fewer surgeries (P = 0.001) among patients with CD.
+
+
+Conclusions
+High resilience was independently associated with lower disease activity and better QoL in patients with IBD and fewer IBD surgeries in patients with CD. These findings suggest that resilience may be a modifiable factor that can risk-stratify patients with IBD prone to poor outcomes.

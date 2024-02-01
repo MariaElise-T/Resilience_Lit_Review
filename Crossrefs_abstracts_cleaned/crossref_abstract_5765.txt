@@ -1,0 +1,15 @@
+
+Purpose
+With the recognition that generating economic growth is not the same as sustaining it, the challenge to catch-up and growth literature is discerning between these processes. Recent research suggests that the decline in the frequency of “shrinking” episodes is more important for long-term development than higher growth rates. By using a framework centred around social capabilities, this study aims to investigate the effects of income inequality and poverty on economic shrinking frequency, as opposed to previous literature that has exclusively had a growth focus. The aim is to investigate how and why some societies might be more resilient to economic shrinking.
+
+
+Design/methodology/approach
+The research is a quantitative study, and the authors build a longitudinal data set including 23 developing countries throughout 42 years to test the paper’s purpose. This study uses country and period fixed-effects specifications as well as cross-sectional graphical representations to investigate the relationship between proxies of economic inclusivity and the frequency of shrinking episodes.
+
+
+Findings
+The authors demonstrate that while inclusive societies are more resilient to shrinking overall, it is changes in poverty levels, but not changes in income inequality, that appear to be correlated with economic shrinking frequency. Inequality, while still an important element to explain countries’ growth potential as an initial condition, does not seem to make the sample more resilient to shrinking. The authors conclude that the mechanisms in which poverty and inequality are correlated with the catch-up process must run through different channels. Ultimately, processes that explain growth may intersect but not always overlap with the ones that explain resilience to shrinking.
+
+
+Originality/value
+The need for inclusive growth in long-term development has been championed for decades, yet inclusion has seldom been explored from the shrinking perspective. Though poverty reduction is already an important mainstream political objective, this paper differentiates itself by providing an alternate viewpoint of why this is important. Income inequality could have more of an economic growth limiting effect, while poverty reduction could be required to build resilience to economic shrinking. Developing countries will need both growth and resilience to shrinking, to catch-up with higher-income economies, which policymakers might need to balance carefully.

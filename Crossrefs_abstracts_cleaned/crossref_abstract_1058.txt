@@ -1,0 +1,19 @@
+
+Purpose
+Recently, the serviceability of the transportation infrastructure in urban areas has become crucial. Any impact of the hazardous conditions on the urban road network causes significant disruption to the functioning of the urban region, making the city’s resilience a point of concern. Thereby, the purpose of the study is to examine the city’s recovery capacity to absorb the impacts of adverse events like urban floods.
+
+
+Design/methodology/approach
+This study examines the road network resilience for an urban flood event for zones proposed by the Municipal Corporation to develop multiple central business districts. This study proposes a novel approach to measure the resilience of road networks in an urban region under floods caused due to heavy rainfall. A novel Road Network Resilience Index (RNRI) based on the serviceability of the road network during floods is proposed, estimated using Analytic Hierarchy Process - Multiple Criteria Evaluation (AHP-MCE) approaches by using the change in street centrality, impervious area and road network density. This study examines and analyses the resilience of road networks in two conditions: flood and nonflood conditions. Resilience was estimated for both the conditions at the city level and the decentralized zone level.
+
+
+Findings
+Based on RNRI values, this study identifies zones having a lower or higher resilience index. The central, southern and eastern zones have lower road network resilience and western and northern zones have high road network resilience.
+
+
+Practical implications
+The proposed methodology can be used to increase road network resilience within the city under flood conditions.
+
+
+Originality/value
+The previous literature on road network resilience concentrates on the physical properties of roads after flood events. This study demonstrates the use of nonstructural measures to improve the resilience of the road network by innovatively using the AHP-MCE approach and street centrality to measure the resilience of the road network.

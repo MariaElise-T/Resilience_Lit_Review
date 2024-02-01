@@ -1,0 +1,12 @@
+Abstract
+Background
+The Covid-19 pandemic may have had negative effects on youth and parental mental health, especially in high-risk populations such as multi-problem families (i.e., families that experience problems in multiple domains, such as mental health and social network problems). Using one to four assessments during all phases of the Covid-19 pandemic up until January 2022, we examined the associations between pandemic-related stress and mental health (resilience and well-being) of youth and parents from multi-problem families. We also investigated whether experienced informal (i.e., youth informal mentoring) and formal support (i.e., therapist support) served as protective factors in this association.
+
+Methods
+A total of 92 youth aged 10–19 years (46.7% girls; mean age 16.00 years) and 78 parents (79.5% female; mean age 47.17 years) filled in one to four questionnaires between March 2020 and January 2022. Multi-level analyses were conducted to account for the nested structure of the data.
+
+Results
+For youth, pandemic-related stress was associated with lower well-being, but not with resilience. Perceived support from both mentors and therapists was positively associated with youth mental health. Furthermore, high perceived therapist support protected youth from the negative effect of pandemic-related stress on resilience. For parents, pandemic-related stress was not related to mental health, irrespective of therapist support. Yet, therapist support was directly and positively associated with parental mental health.
+
+Conclusions
+Youth from multi-problem families who experience pandemic-related stress are at risk of (elevated) mental health problems during the pandemic, specifically if they have no or weak therapist support. The mental health of parents, however, was minimally affected by pandemic-related stress, indicating strength and flexibility. Youth and parents who experienced support during the pandemic reported higher levels of resilience and well-being, demonstrating the importance of support for individuals’ mental health during stressful times such as a pandemic.

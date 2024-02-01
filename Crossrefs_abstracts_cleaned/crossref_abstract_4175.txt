@@ -1,0 +1,15 @@
+
+Purpose
+Recently, in turbulent and highly competitive marketplace, organizational sustainability in the long run necessitates the adaptation of appropriate supply chain (SC) strategies. Hence, traditional SC philosophies are being restructured nowadays to fulfill different business goals. Articulation of lean, agile, green and resilient SC strategies could amply be found in the literature; however, integration of those in various modes may definitely improve overall SC’s performance. Past researchers have focused on the integration of lean, agile and green paradigms together to ensure an efficient SC construct. But the integration of green and resilient paradigm has been rarely reported in the literature. To deal with the unexpected situations/disturbances in the SC management along with embedded environmental consciousness, the purpose of this paper is to integrate the resilient SC and green SC philosophies; thereof to evaluate of an overall SC “g-resilient”/“ecosilient” index for a case automotive company.
+
+
+Design/methodology/approach
+A consolidated list consisting of supply chain practices (combining green and resilient performance indices) have been articulated in this study. A decision-making group has been assumed; where, the role of the decision makers is to provide individuals’ judgment (subjective opinion) toward determining the weight and the rating (performance extent) of various performance indices. The overall g-resilient SC performance has been determined by computing a unique ecosilient (g-resilient) index. The concepts of fuzzy performance importance index along with Degree of Similarity (DOS) adapted from fuzzy set theory (FST) have been applied to rank various performance indicators. In addition to that, the interrelationships amongst various g-resilient indices (performance indicators) have also been established through interpretive structural modeling.
+
+
+Findings
+By exploring the concept of fuzzy DOS, outlined in the trapezoidal fuzzy numbers set theory, various SC performance indicators have been classified into three distinct performance categories/levels (namely regretful, tolerable, and satisfactory). Such categorization has been found helpful in order to determine ill (poor) performing SC areas, which need future improvement toward boosting up the overall g-resilient index of the company’s SC.
+
+
+Originality/value
+The study bears significant managerial implications. The decision support framework suggested in this paper is found capable enough to determine a unique index known as “ecosilient (g-resilient) index” toward exploring “greenness” as well as “resiliency” for the case automotive company. Application potential of the proposed ecosilient (g-resilient) index evaluation system has been explored in this reporting. The recommended framework enables the managers to cope up with unexpected disruptions and found helpful in order to reduce the environmental impacts.

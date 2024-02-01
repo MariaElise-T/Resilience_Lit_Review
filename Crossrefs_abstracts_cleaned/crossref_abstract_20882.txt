@@ -1,0 +1,12 @@
+Abstract
+Introduction
+Globally, the coronavirus disease 2019 (COVID-19) pandemic tested the resilience of the health system and its shock-absorbing capacity to continue offering healthcare services. The available evidences does not provide comprehensive insight into primary health care (PHC) system functioning across low- and middle- income countries (LMICs) during the pandemic. Therefore, the objective of this scoping review was to generate evidence on the resilience of PHC systems in LMICs during the COVID-19 pandemic.
+
+Methods
+A scoping review was carried out utilizing an iterative search strategy using the National Library of Medicine (NLM) and the WHO COVID-19 electronic databases. Data from the identified studies in LMICs were charted in the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) checklist in the first step. The analysis framework was adapted and modified using COVID-19 and health systems resilience framework developed by Sagan et al., Blanchet et al., and the WHO position paper on ‘Building health systems resilience for universal health coverage and health security during the COVID-19 pandemic and beyond’. A total of 26 documents were included on the basis of predefined eligibility criteria for our analysis.
+
+Results
+Our review explored data from 44 LMICs that implemented strategies at the PHC level during the COVID-19 pandemic. Most of the LMICs developed national guidelines on sexual, reproductive, maternal, newborn, child, and adolescent health (SRMNCAH). Most of the countries also transformed and reoriented PHC service delivery by introducing digital healthcare services to continue essential services. Task shifting, task sharing, and redeployment of retired staff were some frequently adopted health workforce strategies adopted by most of the countries. Only a few of the countries demonstrated the availability of necessary monetary resources to respond to the pandemic.
+
+Conclusions
+The functionality of the PHC system during the COVID-19 pandemic was demonstrated by a variety of resilience strategies across the six building blocks of the health system. To strengthen PHC resilience, we recommend strengthening community-based PHC, cross-sectoral collaboration, establishing surveillance systems, capacity building in financial risk planning, and investing in strengthening the digital healthcare system.

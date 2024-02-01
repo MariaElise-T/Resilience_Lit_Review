@@ -1,0 +1,20 @@
+Abstract
+
+Background and aims
+Psychological resilience refers to successful adaptation or a positive outcome in the context of significant life adversity, such as chronic pain. On the other hand, anxiety closely associates with pain. The aim of this study was to explore how anxiety and psychological resilience together associate with persistent and experimental pain.
+
+
+Methods
+In a cross-sectional design, we studied 160 patients who had previously been treated for breast cancer and who now reported at least moderate pain (NRS ≥ 4) in any area of the body. Psychological resilience was measured on the Resilience Scale-14, anxiety on the Hospital Anxiety and Depression Scale, and intensity and interference of persistent pain by means of the Brief Pain Inventory. The cold pressor test was conducted to assess sensitivity to experimental cold pain.
+
+
+Results
+The results showed that resilience associated with pain interference in persistent pain, and that anxiety moderated this effect. Higher psychological resilience was associated with lower pain interference and this association was stronger in patients with low anxiety than among patients with high anxiety. These effects were visible with regard to persistent pain but not in experimental cold pain.
+
+
+Conclusions
+These results indicate that chronic pain and experimental pain as well as pain severity and pain interference are psychologically different phenomena. Psychological resilience protects against pain interference but effectively only in patients with low anxiety. It is necessary also to consider protective factors in addition to vulnerability factors in cases of persistent pain.
+
+
+Implications
+Resilience has been considered a potential target for intervention in chronic pain. However, high levels of anxiety might diminish the protective effect of psychological resilience in clinical settings. Therefore, it is important to treat anxiety in addition to resilience enhancing interventions. Patients with low psychological distress might be more suitable for resilience enhancing interventions than patients with high anxiety.

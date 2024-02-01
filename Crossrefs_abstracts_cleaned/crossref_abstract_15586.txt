@@ -1,0 +1,15 @@
+Abstract
+Background
+Disaster resilience is an essential personal characteristics of health rescue workers to respond to disasters in an effective manner, and maintain a state of adaptation after deployment. It is essential for disaster managers to recruit, assess, and prepare healthcare rescuers with this characteristic. A specific tool for measuring the disaster resilience of healthcare rescuers has yet to be devised.
+
+Objective
+The purpose of this study was to establish the content validity of a tool for measuring the disaster resilience of disaster rescue workers.
+
+Methods
+A modified Delphi approach was employed. Experts in disaster work and research were invited to rate the domains and items of a prototype tool for measuring disaster resilience in healthcare rescue workers. The panel of experts rated the relevance of the items using a 4-point Likert scale. The median and interquartile range, as well as the level of agreement, were calculated for each item using the Kendall coefficient W, to assess the consensus of the experts. The content validity index (CVI) was calculated to assess the content validity of this tool.
+
+Results
+A total of 22 and 21 experts were involved in the first and second rounds of this modified Delphi study (response rate of 91.7 and 95.5%), respectively. After two rounds of expert query, an eight-domain and 27-item disaster resilience measuring tool was established. The median range of all of the included items was 3.50 to 4.00 and the interquartile range was 0.00 to 1.00, and all items achieved ≥85% agreement. The Kendall coordination coefficient W was 0.21 and 0.33 in the first and second rounds, respectively, with P < 0.01. The I-CVI ranged from 0.85 to 1.0, while the S-CVI/UA and S-CVI /Ave were 0.69 and 0.97, respectively.
+
+Conclusion
+Consensus was reached on a disaster resilience measuring tool covering 27 items. The content validity of this tool for measuring the disaster resilience of healthcare rescuers was excellent. This tool is validated and ready to be tested in a pilot study to assess its psychometric properties.

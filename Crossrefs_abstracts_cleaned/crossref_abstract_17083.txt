@@ -1,0 +1,16 @@
+Abstract
+
+Background
+IBD affects the quality of life (QoL) of both the patient and their family members. Our previous systematic review and qualitative research study found that family members of IBD patients express a need for improved information about IBD, networking opportunities, and increased access to support services such as IBD nurses, counsellors, or psychologists. While existing studies recognise the challenges faced by family members, there is a lack of interventions to address their psychosocial and emotional burdens. Therefore, this study aims to co-design and develop an intervention to support family members’ psychosocial and emotional wellbeing and build familial and individual resilience.
+
+
+Methods
+The study employed co-design approach informed by Design Thinking to explore family members’ needs, prioritise problems, and generate ideas for developing the new intervention. The co-design process comprised two sequential online workshops with individuals with IBD (n=4), family members (n=9), and IBD nurses (n=2). Workshop data were recorded in both video and audio formats, and transcribed verbatim. Reflexive thematic analysis was used to analyse the data.
+
+
+Results
+The study identified two priority areas for supporting family members of individuals with IBD: information and psychosocial support. Within these domains, specific solutions were pinpointed: (1) Improving access to information related to IBD and facilitating easier adaptation to living with the condition — achievable through educational materials, online resources, or support groups. (2) Increasing opportunities for networking and peer support, feasible through online forums, support groups, or social events. (3) Enhancing access to professional support services, such as counselling or therapy, to provide coping mechanisms and necessary emotional support. Additionally, a logic model and a prototype for a web-based online resource, aimed at supporting psychosocial and emotional wellbeing, were developed.
+
+
+Conclusion
+This co-design process delineated support priorities for family members of people with IBD, as well as offering suggestions for interventions aimed at fostering family members’ psychosocial and emotional wellbeing while promoting familial and individual resilience. We now plan to test this novel intervention in a feasibility study.

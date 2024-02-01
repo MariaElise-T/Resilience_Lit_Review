@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to investigate the impact of a firm’s supply chain capabilities on supply chain resilience, and the impact of supply chain resilience on sustainable supply chain performance in a data-driven business environment. The study also aims to explore the function of supply chain resilience in mediating the relationship between a firm’s supply chain capability and sustainable supply chain performance.
+
+
+Design/methodology/approach
+Primary data were acquired through a survey of 310 managers of small- and medium-sized businesses in a variety of industries across Bangladesh. The data were analyzed using partial least squares structural equation modeling.
+
+
+Findings
+A firm’s supply chain capabilities include information technology, leadership and collaboration. Supply chain capability is positively associated with supply chain resilience. The resilience of a firm’s supply chain is also positively correlated with its sustainable supply chain performance. Supply chain resilience plays a mediating role in the relationship between a firm’s supply chain capabilities and its sustainable supply chain performance.
+
+
+Research limitations/implications
+This study provides a theoretical contribution by corroborating practical knowledge focusing on firms’ supply chain capability, supply chain resilience and sustainable supply chain performance by using a resource-based view and dynamic capability theory – a relevant and unexplored subject in the supply chain literature – and proposes several opportunities for future research.
+
+
+Practical implications
+The results highlight the study’s managerial and social relevance from the perspective of firms in developing countries. As firms shift toward an online environment, managers and decision-makers need to make strategic decisions, as they did to overcome the challenges presented by COVID-19.
+
+
+Originality/value
+The study’s findings demonstrate that firms’ supply chain capabilities can be leveraged to increase supply chain resilience. Firms’ resilience during COVID-19 allowed them to avoid losses and to improve their supply chain’s sustainable performance. To the best of the authors’ knowledge, their complex higher order model is a unique contribution to the literature on firms’ supply chain capability and extends previous research on this topic.

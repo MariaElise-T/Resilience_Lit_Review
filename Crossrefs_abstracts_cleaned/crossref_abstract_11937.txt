@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this paper is to examine how firms can develop business risk resilience from supply chain disruption events, by developing big data analytics (BDA) capabilities within their organization. The authors test whether BDA mediates the impact of institutional response to supply chain disruption events, and information technology infrastructure capabilities (ITICs), on firm’s ability to develop risk resilience from supply chain disruption events.
+
+
+Design/methodology/approach
+The study is based on survey data collected from 225 firms, spread across several sectors in the USA and Europe. The respondents are primarily senior and middle management professionals who have experience within the information technology (IT) and supply chain domain. Validity and reliability analyses were performed using SPSS and AMOS; and covariance-based structural equation modeling was used to test the hypothesis.
+
+
+Findings
+The analysis reveals two significant findings. First, the authors observe that institutional experience with managing supply chain disruption events has a negative impact on firm’s ability to develop business risk resilience. However, if the organizations adopt BDA capabilities, it enables them to effectively utilize resident firm knowledge and develop supply chain risk resilience capacity. The results further suggest that BDA positively adds to an organization’s existing IT capabilities. The analysis shows that BDA mediates the impact of ITIC on the organization’s ability to develop risk resilience to supply chain disruption events.
+
+
+Originality/value
+This study is one of the few works that empirically validate the important role that BDA capabilities play in enabling firms develop business risk resilience from supply chain disruption events. The study further provides a counterpoint to the existing perspective within the supply chain risk management literature that institutional experience of managing past supply chain disruption events prepares the organization to deal with future disruption events. This paper adds to our understanding of how, by adopting BDA capabilities, firms can develop supply chain risk resilience from disruption events.

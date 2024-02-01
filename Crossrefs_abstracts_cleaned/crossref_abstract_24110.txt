@@ -1,0 +1,39 @@
+
+            The
+            k
+            -center problem is a canonical and long-studied facility location and clustering problem with many applications in both its symmetric and asymmetric forms. Both versions of the problem have tight approximation factors on worst case instances: a 2-approximation for symmetric
+            k
+            -center and an
+            O
+            (log
+            *
+            (
+            k
+            ))-approximation for the asymmetric version. Therefore, to improve on these ratios, one must go beyond the worst case.
+          
+
+            In this work, we take this approach and provide strong positive results both for the asymmetric and symmetric
+            k
+            -center problems under a natural input stability (promise) condition called
+            α-perturbation resilience
+            [15], which states that the optimal solution does not change under any α-factor perturbation to the input distances. We provide algorithms that give strong guarantees simultaneously for stable and non-stable instances: Our algorithms always inherit the worst-case guarantees of clustering approximation algorithms and output the optimal solution if the input is 2-perturbation resilient. In particular, we show that if the input is only perturbation resilient on part of the data, our algorithm will return the optimal clusters from the region of the data that is perturbation resilient while achieving the best worst-case approximation guarantee on the remainder of the data. Furthermore, we prove that our result is tight by showing symmetric
+            k
+            -center under (2 − ϵ)-perturbation resilience is hard unless
+            NP
+            =
+            RP
+            .
+          
+
+            The impact of our results is multifaceted. First, to our knowledge, asymmetric
+            k
+            -center is the first problem that is hard to approximate to any constant factor in the worst case, yet can be optimally solved in polynomial time under perturbation resilience for a constant value of α. This is also the first tight result for any problem under perturbation resilience, i.e., this is the first time the exact value of α for which the problem switches from being NP-hard to efficiently computable has been found. Furthermore, our results illustrate a surprising relationship between symmetric and asymmetric
+            k
+            -center instances under perturbation resilience. Unlike approximation ratio, for which symmetric
+            k
+            -center is easily solved to a factor of 2 but asymmetric
+            k
+            -center cannot be approximated to any constant factor, both symmetric and asymmetric
+            k
+            -center can be solved optimally under resilience to 2-perturbations. Finally, our guarantees in the setting where only part of the data satisfies perturbation resilience make these algorithms more applicable to real-life instances.
+          

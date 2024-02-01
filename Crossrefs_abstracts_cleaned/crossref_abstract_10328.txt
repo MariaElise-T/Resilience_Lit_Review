@@ -1,0 +1,15 @@
+
+Objectives.
+To develop and test a framework to assess the potential of public health systems to maintain a resilient performance.
+
+
+Methods.
+Quantitative data from public databases and qualitative data from technical reports of Brazilian health authorities were used to develop the framework which was assessed and modified by experts. Fuzzy logic was used for the mathematical model to determine scores for four resilient abilities – monitoring, anticipation, learning, and response – and an aggregated coefficient of resilient potential in health care. The coefficient measures used data from before the coronavirus disease 2019 (COVID-19) pandemic. These were compared with measures of the actual performance of health systems in 10 cities in Brazil during the pandemic.
+
+
+Results.
+The coefficient of resilient potential in health care showed that the cities most affected by COVID-19 had lower potential for resilient performance before the pandemic. Some local health systems had adequate response capabilities, but other abilities were not well developed, which adversely affected the management of the spread of COVID-19.
+
+
+Conclusions.
+The coefficient of resilient potential in health care is useful to indicate important areas for resilient performance and the different types of resilience capacities that can be considered in different contexts and levels of public health systems. Regular assessment of the potential of health systems for resilient performance would help highlight opportunities for continuous improvement in health system functions during chronic stress situations, which could strengthen their ability to keep functioning in the face of sudden disturbances.

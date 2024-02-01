@@ -1,0 +1,12 @@
+Abstract
+Background
+Childhood adversity (CA) is strongly associated with mental health problems. Resilience factors (RFs) reduce mental health problems following CA. Yet, knowledge on the nature of RFs is scarce. Therefore, we examined RF mean levels, RF interrelations, RF-distress pathways, and their changes between early (age 14) and later adolescence (age 17).
+
+Methods
+We studied 10 empirically supported RFs in adolescents with (CA+; n = 631) and without CA (CA−; n = 499), using network psychometrics.
+
+Results
+All inter-personal RFs (e.g. friendships) showed stable mean levels between age 14 and 17, and three of seven intra-personal RFs (e.g. distress tolerance) changed in a similar manner in the two groups. The CA+ group had lower RFs and higher distress at both ages. Thus, CA does not seem to inhibit RF changes, but to increase the risk of persistently lower RFs. At age 14, but not 17, the RF network of the CA+ group was less positively connected, suggesting that RFs are less likely to enhance each other than in the CA− group. Those findings underpin the notion that CA has a predominantly strong proximal effect. RF-distress pathways did not differ in strength between the CA+ and the CA− group, which suggests that RFs have a similarly protective strength in the two groups. Yet, as RFs are lower and distress is higher, RF-distress pathways may overall be less advantageous in the CA+ group. Most RF interrelations and RF-distress pathways were stable between age 14 and 17, which may help explain why exposure to CA is frequently found to have a lasting impact on mental health.
+
+Conclusions
+Our findings not only shed light on the nature and changes of RFs between early and later adolescence, but also offer some accounts for why exposure to CA has stronger proximal effects and is often found to have a lasting impact on mental health.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Hospitals play a vital role in disaster stricken regions. The resilient hospitals will be able to provide essential services to affected people and it can mitigate the risk of injuries during and after disasters. This study aimed to obtain the indicators required for the evaluation of hospital resilience.
+
+Methods
+This systematic review was conducted in 2018. Through this systematic review, international electronic databases were investigated for the research studies published in English. The exclusion and inclusion criteria were determined to extract the hospital resilience indicators. These indicators will be used in order to develop a model to keep the system performance at an acceptable level during disasters.
+
+Results
+Out of 1794 research studies published until September 2018, 89 articles and guidelines with full text were surveyed. Thirty-two articles and guidelines were then selected and analyzed to collect the indicators related to hospital disaster resilience (HDR). The domains and the indicators were extracted from these selected research studies. The authors collected and categorized them into three domains and twenty seven subdomains. The three domains included constructive, infrastructural, and administrative resilience. The relevant indicators were designed for each subdomain to assess HDR.
+
+Conclusion
+Since diverse indicators affect hospital resilience, other studies should be conducted to propose some models or tools to quantify the hospital resilience in different countries and scopes with an all hazards approach.

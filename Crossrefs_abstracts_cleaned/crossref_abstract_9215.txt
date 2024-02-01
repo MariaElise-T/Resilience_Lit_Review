@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to empirically appraise the health of banking systems by applying a new theoretical framework based on resilience and stability simultaneously. In line with complex system theories, the authors will consider the dynamics of the banking system as a whole, analysing not only banks individually but also the broad environment in which they operate. For doing so, the authors propose a composite indicator (CI) for analysing the resilience and stability of banking systems of developed countries. The main purpose of the indicator is not to make predictions on future banks’ behaviour, but rather to use it as a tool for appraising the overall health of the most salient banking systems.
+
+
+Design/methodology/approach
+The authors have designed a theoretical framework of resilience and stability taking into account the review of previous literature. The authors have identified the main factors underlying these two concepts that can be appraised as complementary targets. The authors have applied multiple factor analyses to identify the main determinants of banks’ resilience and stability, and the authors have constructed a CI giving different weights to the relevant dimensions previously identified. The authors have tried different model specification and the authors have chosen the simplest model that render better empirical results. The authors construct the resilience and stability indicator for the group of G7 countries, Spain and Portugal, from 2004 up to 2015.
+
+
+Findings
+First, resilience–stability indicators for the group of countries analysed reveal quite different patterns in the aftermath of the financial crises. While some countries have improved its relative position within the ranking, the authors find others evolving just in the opposite direction. Second, the relative position of countries in terms of the resilience–stability indicator allows the authors to identify Canada and the USA as examples of best practices. Third, by analysing countries individually the authors will be better able to identify potential weakness and areas for improvement in each case.
+
+
+Practical implications
+The evolution of the resilience and stability indicator will serve as an early warning system for policy makers and supervisors in identifying signs of weakness, as well as a useful tool to identify the best practices. Furthermore, this indicator will allow to better assessing the potential vulnerability of banking systems in the advent of a forthcoming crisis. Therefore, this measurement should not be interpreted as an absolute value but as a warning signal of potential weakness in each case.
+
+
+Originality/value
+The main contribution of this paper to the existing literature is that it introduces a new reconceptualization of the health of the banking system in line with complex theories. The theoretical background is based on a comprehensive framework of resilience and stability as complementary targets. The CI summarises into a single figure a multidimensional concept like resilience and stability. The variables that the authors have used for the construction of the indicator have been validated by applying multiple factor analysis. The authors have empirically appraise the resilience and stability of a group of advanced economies that encompass the group of the more developed countries in the world and the two European cases that have receive financial support in order to see if there are remarkable differences.

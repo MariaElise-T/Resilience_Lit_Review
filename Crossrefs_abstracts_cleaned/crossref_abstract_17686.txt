@@ -1,0 +1,15 @@
+
+Objective:
+Recent theoretical models posit that resilience acts as a resource/mechanism opposing pain catastrophizing and other vulnerability sources against pain adaptation. The aim of this study was to investigate the relationship between resilience, pain and functionality in people living with fibromyalgia.
+
+
+Methods:
+We conducted a cross-sectional online survey of people participating in Brazilian fibromyalgia virtual support groups on Facebook in May 2018. Resilience was evaluated by the Connor-Davidson Resilience Scale. Average pain and the degree of interference of pain in the lives of participants (DIPLP) were assessed using the Brief Pain Inventory. The association between these three variables was evaluated through multivariable robust linear regression with adjustment for 21 potential confounders.
+
+
+Results:
+We included 2176 participants with fibromyalgia. Resilience was associated with a decreased DIPLP (β: -0.38, 95%CI: -0.54 to -0.22, P<0.001) but not with average pain scores (β: -0.01, 95%CI: -0.18 to 0.16, P=0.93). A significant interaction between resilience and average levels of pain on the DIPLP was observed so that resilience showed a much stronger protective association among participants with average null-to-mild pain than among those with moderate and severe pain levels.
+
+
+Discussion:
+Our results provide evidence against beliefs that the pain of people with fibromyalgia is related to low psychological resilience and shed light on the complex interrelationships between resilience, pain, and functionality. This research signals both the relevance and limits of resilience in the management of fibromyalgia. Future studies evaluating behavioral interventions for fibromyalgia should consider how those interventions interact with baseline pain levels and resilience.

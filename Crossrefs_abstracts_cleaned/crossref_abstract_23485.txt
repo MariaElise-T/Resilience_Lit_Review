@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Previous researches highlighted among patients with schizophrenia spectrum disorders (SSD) a significant presence of autistic traits, which seem to influence clinical and functional outcomes. The aim of this study was to further deepen the investigation, evaluating how patients with SSD with or without autistic traits may differ with respect to levels of functioning, self-esteem, resilience, and coping profiles.
+
+
+Methods
+As part of the add-on autism spectrum study of the Italian Network for Research on Psychoses, 164 outpatients with schizophrenia (SCZ) were recruited at eight Italian University psychiatric clinics. Subjects were grouped depending on the presence of significant autistic traits according to the Adult Autism Subthreshold Spectrum (AdAS Spectrum) instrument (“AT group” vs “No AT group”). Other instruments employed were: Autism Spectrum Quotient (AQ), Specific Levels of Functioning (SLOF), Self-Esteem Rating scale (SERS), Resilience Scale for Adults (RSA), and brief-COPE.
+
+
+Results
+The “AT group” reported significantly higher scores than the “No AT group” on SLOF activities of community living but significantly lower scores on work skills subscale. The same group scored significantly lower also on SERS total score and RSA perception of the self subscale. Higher scores were reported on COPE self-blame, use of emotional support and humor domains in the AT group. Several correlations were found between specific dimensions of the instruments.
+
+
+Conclusion
+Our findings suggest the presence of specific patterns of functioning, resilience, and coping abilities among SSD patients with autistic traits.

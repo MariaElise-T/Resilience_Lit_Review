@@ -1,0 +1,40 @@
+
+Introduction:
+            Resilience is the ability to recover after stressful events and is believed to help reduce the long-term adverse effects. The role of resilience as a determinant of neurodevelopmental (ND) outcomes and quality of life (QOL) in young adults with congenital heart disease (CHD) has not been fully delineated.
+          
+
+Hypothesis:
+            Higher resilience in young adults with CHD is associated with better QOL and can be predicted by patient factors and ND status in the preschool period.
+          
+
+Methods:
+            Prospective evaluation of subjects ≥ 18 years of age enrolled in a study of genetic determinants of ND outcome after repair of CHD at age ≤ 6 months. The subjects had previously undergone a ND evaluation (executive function, attention/impulsivity and social skills) at 4 years of age. For this study, subjects completed the RS-14, a questionnaire that captures the constructs of resilience; and the SF-36, a functional health status questionnaire. Factors associated with resilience were determined using generalized linear (gamma) regression.
+          
+
+Results:
+            The RS-14 and SF-36 were completed by 151 subjects (74 male and 77 female, mean age 19.5 ± 1.1 years). The median resilience score of 79 (CI
+            0.95
+            = 77, 82) was significantly greater than the young adult population median of 76.0,
+            p
+            = 0.006. Resilience was graded as moderate or higher in 103 subjects (68%). Higher resilience scores were significantly correlated with higher QOL assessed by the SF-36 Mental Component Summary,
+            r
+            = 0.40,
+            p
+            < 0.001. By simple regression, Caucasian race was associated with higher resilience scores,
+            p
+            = 0.03. Prematurity, low birth weight, presence of a genetic anomaly, and severity of CHD were not associated with higher or lower scores, all
+            p
+            > 0.2. No operative management factors were associated with higher or lower scores, all
+            p
+            > 0.28. Better performance for executive function (
+            p
+            = 0.03) and social skills (
+            p
+            = 0.02) at the 4-year ND evaluation were associated with higher resilience. Hyperactivity was associated with lower resilience scores,
+            p
+            = 0.02.
+          
+
+Conclusions:
+            Many young adults with CHD demonstrate good resilience. Higher resilience is associated with better QOL. Performance on ND testing in the preschool period may identify patients with lower resilience and offer an opportunity for intervention.
+          

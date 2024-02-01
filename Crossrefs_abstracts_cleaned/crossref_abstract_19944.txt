@@ -1,0 +1,23 @@
+
+Background
+Patients with colorectal cancer (CRC) experience multiple symptoms. Resilience is a positive health outcome that can assist patients to face and adapt to their disease.
+
+
+Objective
+The purpose of this study was to evaluate a proposed resilience model for patients with CRC.
+
+
+Methods
+Patients (n = 416), who were given a diagnosis of stage Ι to III CRC within the past 5 years, were recruited from 2 medical centers in Northern Taiwan. Symptom Severity Scale, Fatigue Symptom Inventory, and Center for Epidemiological Studies Depression scale were used to assess the risk factors of symptom severity, fatigue, and depressive symptoms, respectively. Cancer Behavior Inventory and Functional Assessment of Chronic Illness Therapy–Spiritual Well-Being Scale were used to assess the protective factors of self-efficacy for coping with cancer and spiritual well-being, respectively. Resilience was assessed using the Resilience Scale. Structural equation modeling was used to evaluate the proposed resilience model for patients with CRC.
+
+
+Results
+The initial structural equation modeling fit indices did not support the proposed model. In the revised model, depressive symptoms was a partial mediator between protective factors and resilience with an acceptable model fit (comparative fit index, 0.968; root mean square error of approximation, 0.085; standardized root mean square residual, 0.034).
+
+
+Conclusions
+Patients with CRC who had higher levels of protective factors had higher levels of resilience. This study provides new information on the role of depressive symptoms as a partial mediator between protective factors and resilience.
+
+
+Implications for Practice
+Oncology nurses need to evaluate for depressive symptoms as well as protective factors and resilience in patients with CRC.

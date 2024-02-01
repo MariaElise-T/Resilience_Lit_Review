@@ -1,0 +1,15 @@
+
+OBJECTIVE
+Despite the challenges of living with type 1 diabetes, many adolescents achieve “resilient outcomes”: high engagement in self-management behaviors such as self-monitoring of blood glucose (SMBG), good quality of life (QOL), and within-target glycemic outcomes (HbA1c). Adaptive diabetes-related behaviors (i.e., “strengths”) are associated with resilient outcomes, yet the combination of risks and strengths in relation to resilient outcomes is unclear. The aim of this study was to investigate relations among diabetes strengths and resilient outcomes in the context of psychological and family risk factors.
+
+
+RESEARCH DESIGN AND METHODS
+A total of 471 Australian adolescents with type 1 diabetes (mean age 15.7 ± 1.9 years; diabetes duration 6.9 ± 4.2 years; 62% female; 53% using insulin pumps) completed a national cross-sectional survey about their diabetes-related strengths, risk factors (depressive/anxiety symptoms, family conflict), and resilient outcomes (SMBG frequency, general QOL, HbA1c).
+
+
+RESULTS
+Greater diabetes strengths were significantly related to resilient outcomes: more frequent SMBG (r = 0.39), lower HbA1c (r = −0.31), and higher general QOL (r = 0.50), as well as to lower risks: fewer depressive (r = −0.45) and anxiety (r = −0.40) symptoms and less conflict (r = 0.28). In multivariate regressions, diabetes strengths consistently related to all resilient outcomes beyond significant risk factors.
+
+
+CONCLUSIONS
+In a large sample of Australian adolescents, diabetes strengths were strongly related to key resilient outcomes, even in the presence of well-documented psychological and family risk factors. More research is needed to determine whether strengths reduce or buffer other risks. Given the associations with self-management, HbA1c, and general QOL, monitoring and enhancing diabetes strengths may support resilience promotion during a vulnerable developmental period.

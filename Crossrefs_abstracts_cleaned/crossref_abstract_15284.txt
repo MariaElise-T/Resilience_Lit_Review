@@ -1,0 +1,12 @@
+Abstract
+Background
+The current definitions of resilience can be addressed as a process, an outcome, or a trait. Empirical studies should be carried out to determine the most appropriate definition for it. Therefore, the main aim of the current study was to investigate changes in adolescents’ resilience over two years and explore the links between resilience and different forms of child maltreatment.
+
+Methods
+The three-wave longitudinal study “Stress and resilience in adolescence” (STAR-A) sample was comprised of a general school-based sample of Lithuanian adolescents [baseline N = 1295, 56.7% females; M(SD)age = 14.24 (1.26)]. Resilience was measured using the 14-item Resilience Scale (RS-14), lifetime exposure to maltreatment was measured at wave 1 using a questionnaire developed by the Norwegian Center for Violence and Traumatic Stress Studies (NKVTS), risk of psychopathology—using the Strengths and Difficulties Questionnaire (SDQ). The changes in resilience scores over the period of two years were investigated using the latent growth modeling approach.
+
+Results
+The analyses revealed two classes of resilience—stable higher and stable lower. We found that experience of at least one form of abuse was significantly more prevalent in the lower resilience group in comparison to the higher resilience group. Also, adolescents with lower resilience had a higher probability of psychopathology.
+
+Conclusions
+This study provided meaningful insights into the stability of resilience over time in adolescence and its relation to various types of child maltreatment. Experiences of maltreatment, as well as risk for psychopathology, were linked to lower resilience in adolescence.

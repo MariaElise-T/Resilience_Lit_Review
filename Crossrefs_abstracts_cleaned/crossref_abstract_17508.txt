@@ -1,0 +1,15 @@
+Abstract
+Background
+Resilient Healthcare research centres on understanding and improving quality and safety in healthcare. The Concepts for Applying Resilience Engineering (CARE) model highlights the relationships between demand, capacity, work-as-done, work-as-imagined, and outcomes, all of which are central aspects of Resilient Healthcare theory. However, detailed descriptions of the nature of misalignments and the mechanisms used to adapt to them are still unknown.
+
+Objective
+The objectives were to identify and classify types of misalignments between demand and capacity and types of adaptations that were made in response to misalignments.
+
+Methods
+The study involved 88.5 hours of non-participant ethnographic observations in a large, teaching hospital in central London. The wards included in the study were: two surgical wards, an older adult ward, a critical care unit, and the Acute Assessment Unit (AAU), an extension unit created to expedite patient flow out of the Emergency Department. Data were collected via observations of routine clinical work and ethnographic interviews with healthcare professionals during the observations. Field notes were transcribed and thematically analysed using a combined deductive-inductive approach based on the CARE model.
+
+Results
+A total of 365 instances of demand-capacity misalignment were identified across the five wards included in the study. Of these, 212 had at least one observed corresponding work adaptation. Misalignments identified include equipment, staffing, process, communication, workflow, and space. Adaptations identified include process, resource redistribution, and extra-role performance. For all misalignment types observed across the five in-patient settings, process adaptations were the most frequently used adaptations. The exception to this was for staffing misalignments, which were most frequently responded to with extra-role performance adaptations. Of the three process adaptations, hospital workers most often adapted by changing how the process was done.
+
+Conclusions
+This study contributes a new version of the CARE model that includes types of misalignments and corresponding adaptations, which can be used to better understand work-as-done. This affords insight into the complexity of the system and how it might be improved by reducing misalignments via work system redesign or by enhancing adaptive capacity.

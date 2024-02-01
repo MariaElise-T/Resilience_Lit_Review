@@ -1,0 +1,12 @@
+Abstract
+Background
+Since the COVID-19 outbreak, few studies have investigated the positive psychological consequences on young people. This study examined resilience, positive experiences, and coping strategies reported by Australian adolescents during COVID-19.
+
+Methods
+Self-report surveys were administered online to a sample of 760 Australian adolescents aged 12–18 years. Quantitative and qualitative methods were used to assess resilience, positive experiences, and coping strategies. Exploratory regression analyses were conducted to explore the relationship between resilience and demographics and mental illness history, as well as between resilience and positive experiences.
+
+Results
+Overall, adolescents were somewhat resilient (M = 20.93, SD = 8.29). They reported positive experiences during COVID-19, including increased empathy, compassion, gratitude, and connection with others, and reported using a range of active coping strategies. Having a mental illness history and identification as female or non-binary gender were associated with lower resilience (Bs > 2.82, ps < 0.001). Further, resilience was associated with decreased psychological distress (OR = 0.89, p < 0.001) and with increased positive experiences (ORs > 1.03, ps < 0.001).
+
+Conclusions
+Our results indicate that Australian adolescents commonly reported positive experiences and used active coping strategies during COVID-19. Some young people demonstrated higher levels of resilience and were able to make the most out of an unpredictable situation that severely disrupted their daily routine. However, further prospective research using longitudinal methods is necessary to examine causal relationships between variables. An implication of our findings is that resilience-building programs for adolescents may be effective in increasing adaptability after adversity (e.g., climate change, bushfires, pandemics).

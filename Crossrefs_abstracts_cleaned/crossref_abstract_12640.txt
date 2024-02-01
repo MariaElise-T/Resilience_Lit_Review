@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Resilience has been recognized as a concept central to successful aging. Higher resilience has been associated with positive mental health while a direct impact on physical health outcomes has been less consistent. Objective: To investigate three levels of resilience (low, medium, and high), identify characteristics associated with medium and high resilience and measure the impact of increasing resilience on selected health outcomes: quality-of-life (QOL), and healthcare utilization and expenditures.
+
+
+Methods
+The study sample was identified from adults age ≥65, covered by an AARP® Medicare Supplement Insurance Plan from UnitedHealthcare, who had completed a health survey during May-June 2019 (N=3,573). Resilience was categorized to three levels: low, medium, and high. Other positive resources, including purpose-in-life, locus of control, social connections, and optimism, were dichotomized as high/low and counted with equal weighting as a continuous variable. Quality of life was measured from the health survey; healthcare utilization and expenditures from administrative databases.
+
+
+Results
+Among weighted survey respondents, the prevalence of low, medium, and high resilience levels were 27%, 29%, and 43%, respectively. The strongest predictors of medium and high resilience included increasing number of other positive resources, lower stress, and no depression. Individuals with medium and high resilience had significantly higher QOL, lower healthcare utilization and reduced healthcare expenditures.
+
+
+Conclusions
+Interventions promoting the maintenance and/or increase of resilience should include a focus on other positive resources and stress/depression management. Resilience strategies integrated into healthy aging programming could be associated with improved health outcomes.

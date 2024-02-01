@@ -1,0 +1,20 @@
+Abstract
+
+Background
+In the struggle with COVID-19 pandemic, Pre-Hospital Emergency Healthcare Workers(PHE-HCW) are faced with a lot of problems. It is known that people with good psychological resilience(PR) levels could successfully cope with the problems. The study was aimed to evaluate the effectiveness of the psychological resilience training program in PHE-HCW.
+
+
+Objectives
+This intervention study conducted on PHE-HCW. In the study, when type 1 error(α) was taken as 5% and type 2 error(1-β) was taken as 95% and the effect size was accepted as 0.5, it was calculated that there should be at least 47 HCW in the groups.To minimizing the differences between groups, two groups were selected as intervention(n = 51) and control(n = 49) by applying propensity score matching analysis, taking into age, gender, occupation and working time. The questionnaire included questions of sociodemographic characteristics and the PR Scale(PRS).The questionnaire was applied to the both groups before the program and after four weeks of follow-up. The PRS consists of six subdimensions(structural style, future perception, family cohesion, personal strenghts, social competence, social resources), and it was accepted that psychological resilience increased as the score increased. The intervention group received video training on PR(self-awareness, hopefulness, optimism, etc.) whereas online classical training was applied to the control group.
+
+
+Results
+There was no difference in PR score between the intervention and control groups before the intervention(p &gt; 0.05).The mean PR score±SD increased in both groups, for the intervention group from (67.2±18.2) to (80.3±12.4) and for the control group from (64.2±19.3) to (77.7±9.5).After the follow-up, positive changes were found in all subdimensions in the intervention group and in subdimensions except structural style and social competence in the control group(p &lt; 0.05).
+
+
+Conclusions
+Psychological resilience training is effective in PHE-HCW during the pandemic period.
+
+
+Key messages
+Pre-hospital emergency healthcare workers need psychological resilience training during the pandemic process and this training program provides a positive change in healthcare workers. Psychological resilience training programs should be developed according to the needs of healthcare workers and added to in-service training.

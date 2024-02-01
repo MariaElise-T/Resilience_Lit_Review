@@ -1,0 +1,12 @@
+Abstract
+Background
+School resilience, encompassing factors like teacher involvement and school supportiveness, is crucial for positive educational outcomes in adolescents. However, few validated scales measure school resilience. This study aimed to develop and validate the School Resilience Questionnaire (SRQ) for Iranian adolescents.
+
+Methods
+The study used a cross-sectional design. The SRQ was developed through expert reviews, interviews with students, and evaluation of existing resilience measures. After expert feedback, the final 55-item questionnaire was used. Participants were high school adolescents from Tehran, Iran (2021–2022). A multi-stage cluster random sampling approach was used. Exploratory Factor Analysis (EFA) involved 200 students, and Confirmatory Factor Analysis (CFA) included 310 students to validate the factor structure. Convergent validity was assessed by examining correlations with academic support, while divergent validity was evaluated using academic burnout measures. Construct validity and reliability were also assessed.
+
+Results
+EFA revealed six consistent factors across the sample. CFA confirmed significant and acceptable factor loadings for all SRQ items. Fit indices were RMSEA = 0.076; SRMR = 0.070, CFI = 0.94, NFI = 0.93, IFI = 0.94, RFI = 0.93. Convergent validity showed positive correlations between SRQ subscales and academic support. Divergent validity showed negative correlations between SRQ subscales and academic burnout (p < 0.05).
+
+Conclusion
+The study successfully developed and validated the 55-item SRQ for Iranian adolescents. The questionnaire demonstrates satisfactory psychometric properties, making it a valuable tool for research and evaluation purposes in this context.

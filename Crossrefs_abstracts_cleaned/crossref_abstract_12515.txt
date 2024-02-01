@@ -1,0 +1,15 @@
+
+Introduction
+Young transgender women (trans women) experience poor health in part due to discrimination. Factors that promote resilience may help young trans women positively adapt to discrimination, resulting in attenuation of poor health outcomes. While religion is sometimes a source of stigma and transphobia, qualitative studies have identified religiosity as an important resilience resource for young trans women. The goals of this study were to quantitatively measure religiosity and resilience among young trans women and to assess whether they are associated.
+
+
+Methods
+From 2012–2013, 300 young trans women between the ages of 16–24 years were enrolled in a longitudinal study; we examined the cross-sectional baseline data on demographics, religiosity, and resilience. Bivariate and multivariable logistic regression analysis examined the correlation between demographics (age, gender, race/ethnicity, education, income) and religiosity among young trans women. Additionally, bivariate and multivariable logistic regression analysis examined the association between religiosity and resilience among young trans women, controlling for age, gender, race/ethnicity, education, and income.
+
+
+Results
+Participants who reported high religiosity had significantly greater odds (aOR 1.78, 95% CI 1.05–3.01, p = .03) of reporting high resilience compared to those reporting low religiosity. Black/African American participants had significantly higher odds (aOR 6.16, 95% CI 2.34–16.20, p = < .001) of reporting high religiosity compared to those who identified as White.
+
+
+Conclusion
+Religiosity may be an important resilience resource for young trans women. Gender affirming religious and spiritual interventions may promote resilience among some young trans women.

@@ -1,0 +1,12 @@
+Abstract
+Background
+Youth Living with HIV (YLWH) have reduced adherence to antiretroviral therapy (ART) and worse virologic outcomes compared to children and adults. HIV peer youth led (PYL) interventions contribute to improved retention in care and psychosocial wellbeing. The study objective was to assess the feasibility and acceptability of a PYL HIV curriculum and describe change in participants’ knowledge and impact of leadership on peer leaders’ lives.
+
+Methods
+An HIV curriculum was taught during monthly Saturday adolescent HIV clinics at two clinical sites in Moshi, Tanzania (2018–2019). Youth attending clinics were ages 12 to 24 years and received the HIV curriculum during routine clinical care. Peer leaders previously participated in a mental health and life skills intervention called Sauti ya Vijana (The Voice of Youth; SYV) and were recommended for leadership by SYV facilitators and clinic staff. Peer leaders were trained and supervised weekly in curriculum delivery using a “train the trainer” model. Data were collected and analyzed using mixed methods. Fidelity checklists were used to measure adherence to the curriculum. Youth participants answered written pre- and post-knowledge questions and evaluated PYL teaching. Semi-structured interviews and the Connor Davidson Resilience scale were conducted with peer leaders before and after assuming the leadership role.
+
+Results
+Peer leaders (N = 4 male; 3 female) demonstrated high fidelity (96%) to activities in each lesson and participant feedback was positive for curriculum delivery. Participants’ knowledge improved in nine of ten sessions. All but one leader—who moved away before the study ended—demonstrated stable or improved resilience with a mean difference of 3.8 (SD = 7.0) from before the intervention to after assuming the leadership role. Peer leaders reported improved leadership confidence and resilience, and their perception was that the curriculum helped normalize the HIV experience for YLWH attending clinic. Nevertheless, anticipated stigma, difficulty disclosing HIV status, and teaching ability remained barriers.
+
+Conclusions
+This study demonstrated that a PYL curriculum to improve HIV knowledge integrated into routine adolescent HIV clinic in Tanzania was feasible, acceptable, and improved knowledge while also benefiting peer leaders, thus providing evidence to continue to support efforts to scale and sustain PYL interventions for YLWH.

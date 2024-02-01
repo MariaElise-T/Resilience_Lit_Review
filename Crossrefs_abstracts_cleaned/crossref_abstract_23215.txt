@@ -1,0 +1,15 @@
+
+Objectives
+To explore if the COVID-19 pandemic revealed differences across racial groups in coping, resilience, and optimism, all of which have implications for health and mental well-being.
+
+
+Methods
+We collect data obtained from four rounds of a national sample of 5,000 US survey respondents in each round from April 2020 to February 2021. Using logistic regression and fixed effects models, we estimate the pandemic impacts on COVID-19 related concerns, social distancing behaviors, and mental health/life satisfaction and optimism for racial/income groups.
+
+
+Results
+Despite extreme income and health disparities before and during the COVID-19 outbreak, Blacks and Hispanics remain more resilient and optimistic than their White counterparts. Moreover, the greatest difference in resilience, optimism and better mental health—is found between poor Blacks and poor Whites, a difference that persists through all four rounds.
+
+
+Conclusions
+These deep differences in resilience have implications for the long-term mental health of different population groups in the face of an unprecedented pandemic. Better understanding these dynamics may provide lessons on how to preserve mental health in the face of public health and other large-scale crises.

@@ -1,0 +1,5 @@
+<abstract>
+
+<p>The working environment of complex systems is complex and variable, and their performance is often affected by various shock events during the service phase. In this paper, first, considering that the system performance will be affected by shocks again in the process of maintenance, the reliability changes and fault process of complex systems are discussed. Second, the performance change processes of complex systems are analyzed under multiple shocks and maintenance. Then, based on performance loss and recovery, this paper analyzes the reliability and resilience of complex systems under the intersecting process of multiple shocks and maintenance. Considering the direct and indirect losses caused by shocks, as well as maintenance costs, the changes in total costs are analyzed. Finally, the practicability of the proposed model is checked by using a specific welding robot system.</p>
+
+</abstract>

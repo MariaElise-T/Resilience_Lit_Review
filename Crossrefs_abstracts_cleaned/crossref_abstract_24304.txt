@@ -1,0 +1,16 @@
+Abstract
+
+Aims 
+Knowledge of the features of patients with familial hypercholesterolaemia (FH) who are protected from atherosclerotic cardiovascular disease (ASCVD) is important for the clinical and prognostic care of this apparently high-risk condition. Our aim was to investigate the determinant and characteristics of patients with FH who are protected from ASCVD and have normal life expectancy, so-called ‘resilient’ FH (R-FH).
+
+
+Methods and results 
+Spanish Familial Hypercholesterolaemia cohort study (SAFEHEART) is an open, multicentre, nation-wide, long-term prospective cohort study in genetically defined patients with heterozygous FH in Spain. Patients in the registry who at the time of analysis were at least 65 years or those who would have reached that age had they not died from an ASCVD event were analysed as a case–control study. Resilient FH was defined as the presence of a pathogenic mutation causative of FH in a patient aged ≥65 years without clinical ASCVD. Nine hundred and thirty registrants with FH met the study criteria. A defective low-density lipoprotein (LDL)-receptor mutation, higher plasma level of high-density lipoprotein cholesterol (HDL-C), younger age, female gender, absence of hypertension, and lower plasma lipoprotein (a) [Lp(a)] concentration were independently predictive of R-FH. In a second model, higher levels of HDL-C and lower 10-year score in SAFEHEART-RE were also independently predictive of R-FH.
+
+
+Conclusion 
+Resilient FH may be typified as being female and having a defective LDL-receptor mutation, higher levels of plasma HDL-C, lower levels of Lp(a), and an absence of hypertension. The implications of this type of FH for clinical practice guidelines and the value for service design and optional care of FH remains to be established.
+
+
+Trial registration
+ClinicalTrials.gov number NCT02693548.

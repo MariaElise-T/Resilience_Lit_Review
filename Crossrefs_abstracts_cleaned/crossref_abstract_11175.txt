@@ -1,0 +1,12 @@
+Abstract
+Background
+The COVID-19 pandemic endangered the quality of health care and the safety of patients and health care workers (HCWs). This provided challenges for HCWs’ resilience and for hospital management and probably increased risks for patient safety incidents (PSI). HCWs may also have experienced psychological consequences as second victims of PSI, but evidence on this is lacking. Therefore, we mapped HCWs’ experiences with PSI during the second wave of COVID-19, the associations of these experiences with the hospital management of patient safety culture and HCWs’ interests in receiving further training.
+
+Methods
+We obtained data from 193 HCWs working at the COVID-related departments of one large hospital in eastern Slovakia via a questionnaire developed in direct collaboration with them. We measured PSI experiences as various HCWs’ experiences with near miss and adverse events and the hospital management of patient safety culture using indicators such as risk of recurrence, open disclosure and second victim experiences. For analysis, we used logistic regression models adjusted for age and gender of the HCWs.
+
+Results
+One-third of the hospital HCWs had experienced PSI; these were more likely to expect adverse events to recur (odds ratio, OR = 2.7–3.5). Regarding the hospital management of patient safety culture, the HCWs’ experiencing openly disclosed PSI was associated with one negative outcome, i.e. conflicts among colleagues (OR = 2.8), and one positive outcome, i.e. patients’ acceptance of their explanation and apologies (OR = 2.3). We found no associations for any other essential domains after disclosure. PSI experiences were strongly associated with psychological indicators of second victimhood, such as sadness, irritability, anxiety and depression (OR = 2.2–4.3), while providing support was not. The majority of the HCWs would like to participate in the suggested trainings (83.4%).
+
+Conclusion
+HCWs with PSI experiences reported poor hospital management of the patient safety culture, which might reflect they missed the opportunities to strengthen their resilience, especially during the COVID-19 pandemic.

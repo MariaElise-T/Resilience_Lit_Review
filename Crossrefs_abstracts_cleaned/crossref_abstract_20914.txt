@@ -1,0 +1,20 @@
+Abstract
+
+Background:
+Chronic stress has been suggested to play a role in cancer progression, but few studies have so far examined the potential influence of stress susceptibility. This national register-based cohort study utilizes a unique data source to investigate whether a stress resilience measure is associated with survival in cancer patients.
+
+
+Methods:
+The cohort includes 9,318 Swedish male cancer patients born during 1952 to 1956 who had their stress resilience evaluated at a semistructured interview with a psychologist during mandatory conscription examination in late adolescence.
+
+
+Results:
+Over a median of 3 years of follow-up from cancer diagnosis, a total of 2,541 patients died (2,322 from cancer). Overall, low (23%) compared with high (25%) stress resilience was associated with increased mortality (adjusted hazard ratio estimated by Cox regression 1.45; 95% confidence interval 1.28–1.65), particularly among men with carcinomas of the oropharynx (2.62, 1.24–5.56), upper respiratory tract (4.64, 1.05–20.41), and prostate (2.20, 1.04–4.62), as well as with Hodgkin lymphoma (3.52, 1.40–8.86). An association was evident for both cancer types associated with smoking (1.35, 1.10–1.66) and malignancies without an established smoking etiology (1.32, 1.12–1.56). The association between low stress resilience and mortality could partly be explained by tumor stage, marital status, and psychiatric comorbidity at cancer diagnosis.
+
+
+Conclusions:
+We observed an association between low stress resilience and mortality among men diagnosed with cancer, particularly oropharyngeal cancer, upper respiratory tract cancers, prostate cancer, and Hodgkin lymphoma.
+
+
+Impact:
+These results suggest that individual variation in stress resilience may influence survival among men with some cancer types.

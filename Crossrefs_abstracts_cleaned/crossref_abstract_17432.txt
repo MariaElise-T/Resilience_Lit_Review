@@ -1,0 +1,21 @@
+
+Background:
+Athletes might build long-term resilience due to their need to adapt constantly to stressful situations. Further, physical activity is a powerful tool for stress-release, and controlling anxiety and depressive symptoms which might induce resilience by enhancing coping skills.
+
+
+Objective:
+This study aimed to compare the resilience, psychological characteristics, and the resting-state brain cortical activity of athletes and non-athletes. The secondary goal was to identify which variables could predict the resilience score.
+
+
+Methods:
+
+                        Ninety participants were divided into three groups, athlete (n=30), physically active (n=30) and sedentary (n=30), and asked to fill out the international physical activity questionnaire – short version (IPAQ), the resilience scale, the Beck depression inventory (BDI) and the trait and state anxiety inventory (STAI). Moreover, resting-state brain cortical activity was recorded by using an EEG to compute the standardized low-resolution brain electromagnetic tomography (sLORETA) analyses.
+                    
+
+
+Results:
+Significant differences between groups were observed in terms of resilience (X2=8.52; p=0.014) and physical activity level (X 2=76.07; p<0.001), with the athletes presenting higher values. Lower anxiety and depression, and higher physical activity levels were associated with higher resilience scores (R2=0.45; p=0.02). The results of sLORETA showed higher activity for sedentary individuals compared to athletes in frontal areas (Broadmann Area-BA 6, BA 8, BA 9), as well as when compared to physically active individuals in the superior frontal gyrus (BA 9). Additionally, physically active individuals presented less activity than athletes in the inferior occipital gyrus (BA 18).
+
+
+Conclusion:
+The results suggest that the physically active and athlete groups may have built a more resilient profile (compared to sedentary), have similar anxiety and depressive symptoms, and present a divergent resting-state brain cortical activity from the sedentary group, mainly in prefrontal areas. These findings suggest that regular physical activity and sports should be encouraged to aid in enhancing resilience and resting-state brain cortical function, and consequently, improving mental health.

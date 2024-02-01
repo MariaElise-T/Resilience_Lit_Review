@@ -1,0 +1,15 @@
+
+Purpose
+ – This study aims to present a resilience framework for critical infrastructures (CIs) taking into account internal and external stakeholders involved in a crisis situation and covering the four resilience dimensions defined in the literature, as well as providing practical policies to facilitate their implementation in practice. 
+
+
+Design/methodology/approach
+ – The research methodology consists of an iterative process in which different research methods such as group model building, multiple case study and Delphi method are applied to gather knowledge from experts in the field. 
+
+
+Findings
+ – This study presents a holistic and easily applicable framework for CIs where: first, a list of resilience policies is defined and second, the influence of each resilience policy in the three resilience life-cycle stages is assessed. 
+
+
+Originality/value
+ – This study overcomes three of the main limitations that current resilience building frameworks have: some of them only focus on one resilience dimension without covering the four resilience dimensions of resilience, most of them only focus on internal stakeholders without taking into account external stakeholders, and finally, most frameworks limit to describe the framework theoretically without explaining how it can be implemented in practice.

@@ -1,0 +1,19 @@
+
+Purpose
+Although smart city studies have increased recently, smart city discussions are made based on general concepts not specific to the region. The region-specific local smart city strategy in the built environment is key to climate resilience in the built environment in the face of natural disasters. The purpose of this paper is to focus on the smart environment, which expresses the spatial dimension of smart cities. This research defines a region-specific smart city model and revealing the role of this model in the resilience against disasters of the built environment.
+
+
+Design/methodology/approach
+The analytical hierarchy process (AHP) method was conducted in four steps. In Step 1, the authors suggested new smart environmental assessment criteria with climatic and geographical data within the scope of the collective mind of the region. In Step 2, they determined the expert group to evaluate within the scope of the AHP method and then compared the significance levels of the current and suggested smart environmental assessment criteria by the AHP method.
+
+
+Findings
+From the results, it turned out that smart urbanization processes, which are trying to relate to local characteristics, are of great importance in terms of ensuring urban resilience. The results also highlight that the existing smart environmental assessment criteria in the literature are insufficient to ensure the climatic resilience of the built environment in the face of natural disasters.
+
+
+Research limitations/implications
+The study is in an intermediary section, which has a gap in the literature due to its subject. Although it has focused on an acute problem and a current research problem, the lack of literature on the field has been a limitation. Determining the cities where the field studies would be conducted has been a major limitation. For an objective hypothesis test within the scope of the AHP method, the sample group should consist of experts working in smart city projects in cities that are in the top 3 in five different smart city rankings, where field studies are conducted. Within this limited cluster, creating a large sample group was an important limitation.
+
+
+Originality/value
+This research looks into the existing gaps of the relation between climate resilience of the built environment and the local smart city approach. This examination will foster a holistic approach in the practice of sustainable smart city in the built environment, thus reinforcing urban resilience and climate studies in the context of smart cities.

@@ -1,0 +1,16 @@
+Abstract
+
+Background and Objectives
+Physical resilience (PR) is recognized as the ability to recover from the adverse effects of a stressor. However, there is a lack of consensus on how to optimally measure PR in older adults in general. We aimed to measure PR using residuals from regression analyses and investigated its association with adverse outcomes in older adults.
+
+
+Research Design and Methods
+A total of 6 508 older adults were included from the National Health and Aging Trends Study, which was a population-based prospective cohort study. PR was assessed using residual methods from a linear model regressing the short physical performance battery on clinical diseases, age, sex, race/ethnicity, and health condition. Adverse outcomes included all-cause mortality, falls, and overnight hospitalization.
+
+
+Results
+The mean age was 77.48 (7.84) years. Increased PR was associated with a lower risk of all-cause mortality (hazard ratio [HR] = 0.85, 95% confidence interval [CI]: 0.83–0.87). Compared to participants with reduced PR, those with normal PR had a lower risk for mortality (HR = 0.51, 95% CI: 0.46–0.56). Specifically, restricted cubic spline regression revealed a dose–response relationship between PR and all-cause mortality (p-overall &lt; .0001, p-nonlinear = .011). Additionally, we also found significant associations of increased PR with lower risks of falls (HR = 0.98, 95% CI: 0.96–0.99) and overnight hospitalization (HR = 0.98, 95% CI: 0.97–1.00).
+
+
+Discussion and Implications
+PR, measured by residual methods, was robustly and independently associated with all-cause mortality, falls, and overnight hospitalization. Our findings provide evidence that this approach may be a simple and feasible strategy to assess PR.

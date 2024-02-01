@@ -1,0 +1,16 @@
+Abstract
+
+Objective
+To examine the influence of caregiver resilience on health-related quality of life (HRQOL) in caregivers of service members/veterans (SMVs) following a traumatic brain injury (TBI).
+
+
+Methods
+Caregivers (N = 346, Female = 96.2%; Spouse = 91.0%%; Age: M = 40.6 years) of SMVs following a mild, moderate, severe, or penetrating TBI were recruited from Walter Reed National Military Medical Center and via community outreach to participate in the Defense and Veterans Brain Injury Center 15-Year Longitudinal TBI Study (Sec721 NDAA FY2007). Caregivers completed the Caregiver Appraisal Scale and 15 HRQOL measures. Caregivers were divided into three groups using the Resilience scale from the TBI-QOL: (1) Low Resilience [n = 125], (2) Moderate Resilience [n = 122], and (3) High Resilience [n = 99].
+
+
+Results
+There were significant main effects across groups for all HRQOL measures (ps < .001). The Low Resilience group had consistently worse scores compared to both the Moderate and High Resilience groups (d = .50-1.60). The largest effect sizes were found for the Caregiving Satisfaction, Anxiety, Depression, Anger, Social Isolation, Perceived Stress, Caregiver Strain, and Feelings of Loss-Self scales (d = .91-1.60). Step-wise regression analyses revealed that Perceived Stress was the most significant predictor of resilience (R2 = 33.3%), with Caregiver Satisfaction (R2change = 5.0%), Depression (R2change = 1.8%), Caregiver Mastery (R2change = 1.7), Caregiver Specific Anxiety (R2change = 1.2) and Feelings of Loss-Self (R2change = 1.1%) contributing some additional variance in subsequent steps.
+
+
+Conclusions
+There was a moderate to high relationship between resilience and overall HRQOL in caregivers of SMVs following TBI. Targeted interventions to increase caregiver resilience may be warranted to ensure that burden of care does not undermine the caregiver’s heath and impact the SMV’s recovery and reintegration.

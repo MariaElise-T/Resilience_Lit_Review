@@ -1,0 +1,20 @@
+Abstract
+
+Issue
+What is needed to facilitate implementation of an intervention when scaling up and scaling out the program?
+
+
+Description of the problem
+RESCUR: Surfing the Waves (Jag vill, jag kan, jag törs!) is a new resilience curriculum, developed in 2012-2015 by researchers in six European Universities, to foster the psychosocial development of children and give them tools to deal with challenging situations. It aims at increasing children's resilience, i.e. their capacity to cope with disadvantages, crises, changes and stress without breaking down. The RESCUR project in Sweden consists of a Randomized Controlled Trial among children of the ages 6-12 in schools or social services. RESCUR is a pedagogic material, which requires training before getting access to the intervention. The training consists of two days and a follow-up day as well as observation and supervision. The project has been evaluated from two perspectives: implementation and effects. For a theoretically promising method to work at all, the method must be implemented effectively and correctly. Implementation was documented through self-evaluations, reported by group leaders after six months, and observations made according to a formalized checklist. The implementation of the method is fundamental to properly evaluating the effects of the method.
+
+
+Results
+The model used to train and support people who implemented the intervention seems to have worked according to the self-reports and the observations of lessons, which noted good implementation quality in the activities that were carried out every week by the majority of teachers and group leaders. The observed implementation was exemplary or very strong among 56 % in schools (n = 41) and 41 % in social services (n = 12).
+
+
+Lessons
+An important challenge in health promotion is ensuring that an intervention is implemented in an efficient way. Recruiting participants and training implementers are basic requirements for successful trials.
+
+
+Key messages
+The implementation of the health promoting method is fundamental to properly evaluating the effects of the method. Therefore, an educational and monitoring component is needed. Different implementers can achieve the high-quality implementation of an intervention. Training, observation, feedback, supervision and educational material all supported the implementation of RESCUR.

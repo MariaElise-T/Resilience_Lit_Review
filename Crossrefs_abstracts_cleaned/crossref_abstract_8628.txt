@@ -1,0 +1,23 @@
+
+Introduction.
+Physical therapy professional education program directors (PDs) face stress associated with work roles and responsibilities, which can cause burnout and job turnover.
+
+
+Review of Literature.
+Burnout and turnover in physical therapy education PD positions are influenced by inexperience, insufficient compensation, decreased support, heavy workloads, difficulty hiring and retaining faculty, and internal conflict. Program directors also receive insufficient training in their roles. Individuals with greater resilience, or the ability to face adversity with positive outcomes, may be more resistant to stress, burnout, and turnover. Therefore, this study's purpose was to explore the relationships among leadership behaviors, demographic and program factors, and resilience in physical therapy PDs.
+
+
+Subjects.
+Of the 600 physical therapy PDs invited to participate in the study, 126 directors completed the survey (21% response rate).
+
+
+Methods.
+The survey included demographic questions, the Multifactor Leadership Questionnaire (MLQ-5X), and the 10-item Connor-Davidson Resilience Scale (CD-RISC-10). Correlational analyses were used to investigate relationships among leadership behaviors, demographic and program factors, and resilience.
+
+
+Results.
+Participants included 43 physical therapist and 82 physical therapist assistant PDs (79.4% female and 20.6% male participants; mean age, 52.0 ± 8.3 years; mean years in role, 7.3 ± 6.9 years). Mean MLQ-5X scores showed that participants primarily used transformational leadership (TFL) behaviors. The mean CD-RISC-10 score for participants was 33.06 (±4.10). Analysis revealed statistically significant positive relationships between all TFL behaviors and resilience. Exploratory regression analysis revealed that 3 leadership behaviors and one demographic factor may contribute to resilience in participants, although the proportion of variance was modest (39%).
+
+
+Discussion and Conclusion.
+This is the first study to offer insight regarding the relationships between leadership behaviors and resilience in physical therapy PDs. These results may help lay the foundation for future research in this area, with the goal of decreasing burnout and job turnover through increased resilience.

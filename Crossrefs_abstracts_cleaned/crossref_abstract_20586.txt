@@ -1,0 +1,12 @@
+Abstract
+Purpose
+The aim of the present study was to investigate the potential associations between specific knowledge, resilience and patient-reported outcome measures (PROMS) following primary total hip arthroplasty (THA).
+
+Methods
+In a cross-sectional prospective study, consecutive patients following primary THA were included at a rehabilitation center. A novel knowledge score and the validated Connor Davidson Resilience Scale (CD-RISC) were utilized to assess patients’ specific knowledge and resilience, respectively. Additionally, patients completed a qualitative questionnaire regarding the information they had received. The Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), as well as the University of California and Los Angeles Score (UCLA) served as primary outcome measures. Stepwise multiple regression analysis was performed to identify potential predictors of outcome.
+
+Results
+A total of 103 patients at a mean age of 67.5 years (SD 10.5, 38–88) were included in the analysis at a median of 55.5 days (IQR 43–81) following primary THA. The mean knowledge and resilience scores were 3.8 (SD 1.6, 0–7) and 69.5 (SD 18.5, 0–100), respectively. Forty-seven percent of patients were afraid of harming their prosthesis and these patients had up to 59% worse WOMAC scores (p < 0.001). WOMAC scores on admission to rehabilitation were predicted by resilience and knowledge scores (R2 = 0.106, p = 0.036). UCLA scores at the time of admission were predicted by knowledge scores (R2 = 0.078, p = 0.007).
+
+Conclusion
+The present study demonstrated that patients with a feeling of uncertainty had an inferior short-term functional outcome following primary THA. Moreover, it could be shown that higher specific knowledge and resilience are associated with a better functional outcome according to validated PROMS. While these findings need to be prospectively validated in future studies, specific patient knowledge and resilience may have a direct impact on the outcome of primary THA.

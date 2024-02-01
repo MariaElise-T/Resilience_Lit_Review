@@ -1,0 +1,3 @@
+AbstractIn this article, we initiate a systematic study of graph resilience. The (local) resilience of a graph G with respect to a property
+$\cal {P}$
+measures how much one has to change G (locally) to destroy $\cal {P}$. Estimating the resilience leads to many new and challenging problems. Here we focus on random and pseudorandom graphs and prove several sharp results. © 2008 Wiley Periodicals, Inc. Random Struct. Alg., 2008

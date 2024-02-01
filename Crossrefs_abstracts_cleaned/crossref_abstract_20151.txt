@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Sleep deprivation degrades the fidelity of human brain information processing, leading to cognitive impairment. Carriers of the A allele of a single nucleotide polymorphism of the TNFα gene (G308A, rs1800629) have been found to be resilient to cognitive impairment due to sleep deprivation as compared to individuals homozygous for the G allele. Caffeine mitigates the cognitive impairment associated with sleep deprivation. We investigated whether the effects of caffeine and TNFα genotype interact.
+
+
+Methods
+In an 18-day, controlled, in-laboratory study, 12 healthy adults (age 27.4±6.9; 6 females) underwent three sessions of 48-hour total sleep deprivation (TSD), with each TSD session preceded and followed by three nights of baseline and/or recovery sleep (10 hours time in bed). In randomized, counterbalanced, double-blind, placebo-controlled fashion, during each TSD session a specific dose of caffeine (0, 200, or 300 mg) was administered four times at 12-hour intervals. Vigilant attention was measured every 2 hours during each TSD session with a psychomotor vigilance test (PVT), for which the log of the signal-to-noise ratio (LSNR) derived from the RT distribution was determined as a measure of the fidelity of information processing. Each subject’s TNFα genotype was assessed from a blood sample.
+
+
+Results
+Subjects homozygous for the TNFα G allele showed greater PVT impairment during sleep deprivation in the 0 mg caffeine (i.e., placebo) condition as compared to carriers of the A allele and as compared to the 200 and 300 mg caffeine conditions (mixed-effects ANOVA, genotype by dose interaction: F2,566=5.23, p=0.005). There was no appreciable caffeine-related difference in performance for carriers of the A allele, who were relatively resilient to TSD regardless of caffeine dose.
+
+
+Conclusion
+These results suggest non-additive, interacting effects of TNFα genotype and caffeine and a potentially shared mechanism of action with regard to the fidelity of information processing during sleep deprivation.
+
+
+Support
+This research was supported by ONR. AJB, TJB, VFC, RHR were supported by DoD MOMRP-USAMRDC. The views expressed here are those of the authors and do not represent the official policy or position of the DoD.

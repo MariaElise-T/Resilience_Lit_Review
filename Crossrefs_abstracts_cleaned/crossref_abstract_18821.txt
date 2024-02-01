@@ -1,0 +1,23 @@
+
+Purpose
+Service industries increasingly have a need for frontline employees (FLEs) who are both adept and versatile at providing excellent customer services whilst exploring cross-/up-selling opportunities, known as service-sales ambidexterity (SSA). However, engaging in SSA poses various challenges. The purpose of this paper is twofold: First, the authors argue that the resilience of FLEs is a critical factor of their SSA and its effect is mediated by cognitive flexibility. Second, the authors propose a boundary condition – leadership humility – that affects this indirect relationship.
+
+
+Design/methodology/approach
+Survey data was drawn from two independent studies (N = 547). Study 1 was conducted via an online survey of FLEs involved in both service and sales roles in the insurance industry in North America. Data for Study 2 was collected from FLEs working in several branches of a commercial bank operating in Southeast Asia. The data was analysed using Hayes’ PROCESS Macro and SPSS.
+
+
+Findings
+Results from these studies reveal that resilience fosters cognitive flexibility, which, in turn, drives SSA. Additionally, leadership humility was found to moderate the indirect effect of resilience on SSA through cognitive flexibility.
+
+
+Research limitations/implications
+The sample for this study is cross-sectional. Further research could replicate this study using longitudinal data to extract more in-depth information on developmental changes in FLEs. Additionally, the scope of this research is limited to an analysis of employees. However, the phenomenon of SSA is essentially a multi-level subject. Future research could extend the findings of this research by testing other organisational factors that would present a more inclusive framework to explain the SSA phenomenon.
+
+
+Practical implications
+The findings offer managers a new perspective of achieving the alignment between the service and sales goals of their operations.
+
+
+Originality/value
+This study contributes to the growing stream of literature on FLE’s resilience and SSA in particular and shows the role resilience plays in FLEs’ dealing with and navigating a constantly changing workplace where SSA has become a norm rather than an exception.

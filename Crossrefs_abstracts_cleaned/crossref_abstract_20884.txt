@@ -1,0 +1,12 @@
+Abstract
+Background
+Patients with cancer are at higher risk of contracting COVID-19 with poor prognosis. Therefore, the present study was conducted to investigate anxiety, spiritual well-being, and resilience levels in patients with cancer undergoing chemotherapy during the COVID-19 pandemic in the south of Fars Province, Iran.
+
+Methods
+This is a descriptive study with a cross-sectional design conducted on the patients undergoing chemotherapy at Dr. Ali Shariati Hospital in Fasa from November 2021 to February 2022. Cancer patients undergoing chemotherapy were included in the study by census method. Out of 210 patients, 155 participated in the study. Data were collected electronically using the standard instruments of Ellison’s Spiritual Well-being Scale, COVID-19 anxiety questionnaire, and Connor-Davidson resilience scale. The collected data were analyzed in SPSS 22 using descriptive statistics, Pearson correlation tests, T-test, ANOVA and multivariate linear regression at a level of significance of P < 0.05.
+
+Results
+The participants’ resilience mean score was 46.35 ± 26.51 and their spiritual well-being mean score was 69.58 ± 9.32. In addition, their COVID anxiety mean, score was found to be 16.85 ± 10.51. The results showed a significant direct correlation between the patients’ spiritual well-being and resilience (r = 0.47, P < 0.001) and a significant inverse correlation between the patients’ spiritual well-being and COVID-19-related anxiety (r = − 0.275, P < 0.001). In addition, there was a significant inverse correlation between the variables of resilience and COVID-19-related anxiety (r = − 0.637, P < 0.001). Based on multivariate linear regression, the most common predictors in resilience were age and history of infection with COVID-19, and in spiritual health and anxiety, was a history of infection with COVID-19.
+
+Conclusion
+Enhancement of spiritual well-being and resilience in patients should be an integral part of care as these qualities are valuable resources in fighting cancer and lowering patients’ anxiety, especially during the COVID-19 pandemic.

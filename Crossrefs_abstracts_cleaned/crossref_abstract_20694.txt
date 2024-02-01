@@ -1,0 +1,12 @@
+Significance
+
+            The reliability of spike propagation in axons is determined by complex interactions among ionic currents, ion pumps, and morphological properties. We use compartment-based modeling to reveal that interactions of diameter, myelination, and the Na/K pump determine the reliability of high-frequency spike propagation. By acting as a “reservoir” of nodal Na
+            +
+            influx, myelinated compartments efficiently increase propagation reliability. Although spike broadening was thought to oppose fast spiking, its effect on spike propagation is complicated, depending on the balance of Na
+            +
+            channel inactivation gate recovery, Na
+            +
+            influx, and axial charge. Our findings suggest that slow Na
+            +
+            removal influences axonal resilience to high-frequency spike propagation and that different strategies may be required to overcome this constraint in different neurons.
+          

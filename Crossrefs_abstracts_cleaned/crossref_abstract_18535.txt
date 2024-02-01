@@ -1,0 +1,23 @@
+
+Background
+With many digital mental health interventions failing to engage clients for enough time to demonstrate substantive changes to their well-being and with only 2% of all digital solutions on app stores having undergone randomized controlled trials, the rising demand for mental health prevention and early intervention care is not being met. Young adults in particular struggle to find digital well-being apps that suit their needs.
+
+
+Objective
+This study explored the effects of eQuoo, an evidence-based mental health game that teaches psychological skills through gamification, on resilience, depression, anxiety, and attrition in a student population.
+
+
+Methods
+In total, 1165 students from 180 universities in the United Kingdom participated in a 5-week, 3-armed randomized controlled trial. Participants were randomly allocated into 1 of 3 groups: eQuoo users, users of a treatment-as-usual evidence-based cognitive behavioral health app called Sanvello, and a no-intervention waitlist. The Rugged Resilience Scale, Generalized Anxiety Disorder–7, and Patient Health Questionnaire–8 were administered to all participants at baseline and every 7 days until completion.
+
+
+Results
+A repeated measures–ANOVA revealed statistically significant increases in resilience scores in the test group (P<.001) compared with both control groups (Sanvello: P=.10 and waitlist: P=.82) over 5 weeks. The app also significantly decreased anxiety and depression scores (both P<.001). With 64.5% (251/389) adherence, the eQuoo group retained 42% more participants than the control groups.
+
+
+Conclusions
+Digital health interventions such as eQuoo are effective, scalable, and low-cost solutions for supporting young adults and are available on all leading mobile platforms. Further investigation could clarify the extent to which specific elements of the eQuoo app (including gamification) led to better outcomes.
+
+
+Trial Registration
+German Clinical Trials Register (DRKS) DRKS00027638; https://drks.de/search/en/trial/DRKS00027638

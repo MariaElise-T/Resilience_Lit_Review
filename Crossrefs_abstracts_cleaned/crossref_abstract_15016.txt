@@ -1,0 +1,15 @@
+
+Background
+This study examines mediation models in which behavioral inhibition and activation systems (BIS/BAS) impact internet addiction through mental health and the moderating roles of innate and acquired resilience in the models.
+
+
+Methods
+The data set used in this study was a cross-sectional survey among 952 adolescents in July 2021. Internet Addiction Test, Fear of COVID-19 Scale, BIS/BAS scales, and Depression Self-Rating Scale were used for analysis. After controlling for gender, the mediation and moderated mediation models were examined.
+
+
+Results
+The results revealed that depressive symptoms partially mediated the relationship between BIS and internet addiction and between BAS-fun-seeking (BAS-FS) and internet addiction. Innate and acquired resilience moderated the relationship between depressive symptoms and internet addiction. The indirect effect of innate and acquired resilience on internet addiction via depressive symptoms was statistically significant in both low and high innate and acquired resilience. The results of conditional indirect effect analysis indicated that the depressive symptoms–internet addiction association decreased with the increase of innate or acquired resilience level.
+
+
+Discussion
+Our results suggested that depression symptoms played a significant mediation role in the relationships between BIS/BAS and internet addiction, and higher innate and acquired resilience was associated with a reduced risk of internet addiction. BIS/BAS may be a risk for internet dependence via mental health, and innate and acquired resilience appears to serve as a protective factor.

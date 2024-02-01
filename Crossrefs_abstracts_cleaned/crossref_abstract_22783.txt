@@ -1,0 +1,12 @@
+
+                           
+                              
+                                 
+                                    
+                                       JOURNAL/nrgr/04.03/01300535-202409000-00040/figure1/v/2024-01-16T183250Z/r/image-tiff
+                                    
+                                 
+                              
+                           
+                        
+Plaques of amyloid-β (Aβ) and neurofibrillary tangles are the main pathological characteristics of Alzheimer's disease (AD). However, some older adult people with AD pathological hallmarks can retain cognitive function. Unraveling the factors that lead to this cognitive resilience to AD offers promising prospects for identifying new therapeutic targets. Our hypothesis focuses on the contribution of resilience to changes in excitatory synapses at the structural and molecular levels, which may underlie healthy cognitive performance in aged AD animals. Utilizing the Morris Water Maze test, we selected resilient (asymptomatic) and cognitively impaired aged Tg2576 mice. While the enzyme-linked immunosorbent assay showed similar levels of Aβ42 in both experimental groups, western blot analysis revealed differences in tau pathology in the pre-synaptic supernatant fraction. To further investigate the density of synapses in the hippocampus of 16–18 month-old Tg2576 mice, we employed stereological and electron microscopic methods. Our findings indicated a decrease in the density of excitatory synapses in the stratum radiatum of the hippocampal CA1 in cognitively impaired Tg2576 mice compared with age-matched resilient Tg2576 and non-transgenic controls. Intriguingly, through quantitative immunoelectron microscopy in the hippocampus of impaired and resilient Tg2576 transgenic AD mice, we uncovered differences in the subcellular localization of glutamate receptors. Specifically, the density of GluA1, GluA2/3, and mGlu5 in spines and dendritic shafts of CA1 pyramidal cells in impaired Tg2576 mice was significantly reduced compared with age-matched resilient Tg2576 and non-transgenic controls. Notably, the density of GluA2/3 in resilient Tg2576 mice was significantly increased in spines but not in dendritic shafts compared with impaired Tg2576 and non-transgenic mice. These subcellular findings strongly support the hypothesis that dendritic spine plasticity and synaptic machinery in the hippocampus play crucial roles in the mechanisms of cognitive resilience in Tg2576 mice.

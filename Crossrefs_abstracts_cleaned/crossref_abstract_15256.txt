@@ -1,0 +1,22 @@
+Abstract
+
+Background
+Among the elderly mental health is an essential but often underestimated issue. The COVID-19 pandemic had a significant impact on mental health but its effects on this population are still unclear.
+This study aims to describe the trend of depression in the elderly over the period 2016-2022 and its associated factors.
+
+
+Methods
+We used data on the elderly population (65+) collected from 2016 to 2021 by the Italian ongoing surveillance system PASSI d'Argento to analyse socio-demographic characteristics, isolation, and the prevalence of depression symptoms (through the Patient Health Questionnaire-2). In 2020-21 specific questions investigating the perception of the pandemic were introduced.
+
+
+Results
+Depression symptom prevalence decreased from 13.4%(IC:12.7-14.2) in 2016-2019 to 10,5%(IC:9,4-11,7) in 2020-21. People being female, aged over 85 years, having many economic difficulties and a low education level, and living alone and in a South region were at high risk of reported depressive symptoms in both periods. However, 66.6% reported being worried about COVID-19, and almost one-third of the sample had a painful experience related to the pandemic. Considering social isolation, people who didn't talk with anyone during a typical week decreased (20.4%,19.9-21 in 2016-19; 16.3%, 5.5-17.2 in 2020-21), while those who couldn't participate in social activities increased (70%,69.3-70.7 in 2016-19; 76.9%,75.8-78).
+
+
+Conclusions
+The Italian elderly population showed a decreasing trend in the prevalence of depression symptoms, with a marked drop during the pandemic. At the same time, worries and stressful experiences related to the pandemic were highly reported and participation in social activities was significantly affected: it may have impacted mental health among the elderly, who seemed to show resilience.
+
+
+Key messages
+• The surveillance system is relevant to monitor changes in elderly health and the factors associated in order to implement targeted interventions.
+• Elderly Italians seem to have shown resilience with regard to mental health during the pandemic.

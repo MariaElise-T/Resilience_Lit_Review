@@ -1,0 +1,19 @@
+
+Background
+Enhancing resilience and reducing stress are critical to increasing the readiness and performance of military personnel in operational settings. Stress and resilience programs can improve service members’ ability to manage their stress during both normal and extreme operational conditions, and have the potential to enhance safety at sea. Implementing an efficient and effective application-based training program in a military setting has unique challenges, including minimizing intrusion on the command’s training time and technological considerations (eg, Wi-Fi and Bluetooth technology restrictions).
+
+
+Objective
+An enhanced version of a training program called the Stress Resilience Training System (SRTS) was implemented into the operating environment of a naval vessel. The system contains an in-person workshop, regular mentoring in resilience-building techniques, and an iPad-based app used for biofeedback of heart rate variability coherence and training support. This work describes the lessons learned from the implementation process of the app component of the program, based on responses from active duty service members.
+
+
+Methods
+Crew members aboard a Navy vessel (N=92) volunteered to participate in the evaluation of the 10-week program. All ship personnel were provided with an initial 2.5-hour workshop, mentorship, and iPads containing the SRTS app to use for the duration of the 10-week program. Participants rated different components of the training, and their app usage during the course of the study was recorded.
+
+
+Results
+Participants somewhat agreed that the app was appropriate for military service members (mean 2.51, SD 1.14; response options 0=strongly disagree to 4=strongly agree for all ratings) and were somewhat likely to recommend the app to fellow service members (mean 2.53, SD 1.03). Ratings of the workshop’s relevance to military readiness (mean 2.68, SD 0.95) and of the instructors’ credibility (mean 3.22, SD 0.92) were higher than ratings of the app. Additionally, usage of the app was low and highly variable (mean 42.26, SD 60.53; range 0 to 312.54 minutes). Anecdotal evidence provided by crewmembers suggested that using the app on an iPad was cumbersome and that the Wi-Fi was often inaccessible, making the iPad a less valuable tool overall.
+
+
+Conclusions
+This implementation of the app component of SRTS raised questions regarding the suitability of the technological format for this operational setting. User ratings and participant comments suggested that the technology was not the most successful component of the program. The implementation in the iPad format was not conducive to the operational setting and the inconvenience of this format may have deterred participants from using it in settings where a personal or more compact device may have been more appropriate. Recommendations going forward include making the app component available for use on smartphones operating on both iOS and Android platforms to make it user friendly, accessible, and more engaging, which, in turn, is expected to increase usage and uptake of the program’s techniques. Furthermore, incorporating more engaging content, gamification, and tracking and reporting user progress into the overall app may enhance motivation to use more components of the app and increase usage, ultimately enhancing its impact on resilience.

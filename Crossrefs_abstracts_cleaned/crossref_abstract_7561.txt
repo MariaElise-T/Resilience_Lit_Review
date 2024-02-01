@@ -1,0 +1,9 @@
+Background: Parents of adolescent with type 1 diabetes experience increased levels of diabetes distress and depression, which is linked to adolescent glycemic control. Parental resilience might be able to improve parental mental health and facilitate adolescent glycemic control. Nevertheless, these relationships have not yet been confirmed.
+Objective: To examine relationships between parental resilience, mental health (diabetes distress and depression), and adolescent glycemic control, as well as determine if parental resilience is the mediator of the association between parental mental health and adolescent glycemic control.
+Methods: Parents of adolescents with type 1 diabetes (age 13-19) completed a measure of resilience, diabetes distress and depressive symptoms as part of a screening questionnaire. Adolescents’ HbA1c was obtained from medical records.
+Results: Parental resilience was negatively related to maternal depressive symptoms, diabetes distress, and positively related to adolescents’ HbA1c value (all P &lt; 0.01). In multivariate analyses, resilience was the only significant predictor of glycemic control.
+Conclusions: Given the links between parental resilience, parental mental health, and youth’ glycemic control, parental resilience may be important to consider when targeting both parents’ and adolescents’ adaptation to type 1 diabetes.
+
+
+Disclosure
+D. Luo: None. M. Li: None.

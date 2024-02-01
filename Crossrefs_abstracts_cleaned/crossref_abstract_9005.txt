@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Adverse childhood experiences (ACEs) are associated with health outcomes. Resilience factors provide opportunities to mitigate ACEs. This study aimed to understand ACEs and resilience in students at a university in the United States.
+
+
+Methods
+Students in the 2018-2019 health explorations course completed an online questionnaire (N = 82). Descriptive statistics were completed for all variables. ACE score was created by adding yes responses to ACE questions (range 0-10). Resilience scores were calculated using the Devereux Adult Resilience Scale (DARS, range 20-46). Simple and multiple linear regression were completed with ACE and resilience as outcome measures. Age, gender, family structure, and profession were used as predictors.
+
+
+Results
+Mean age was 18.4 (SD 1.9%), majority of respondents were female (89%), white (92.7%), rural (55.3%), and single (95.1%). Mean ACE score was 1.63 (SD = 1.99) with 40% reporting no ACEs, 26% three or more, and 18% four or more. DARS score (N = 77) had a mean of 39.29 (SD = 6.14). Age resulted in a slight increase in ACE score, β = 0.20, p &lt; 0.1, however, none of the predictors were significantly associated with ACE score. Future professions classified as helping professions resulted in a significant increase in DAR score, β = 3.91, p &lt; 0.01.
+
+
+Conclusions
+The response rate was low (20.5%), however, this pilot study provided insights into adversities and resilience factors of first-year students. Future research should include a larger, more diverse sample.
+
+
+Key messages
+Understanding ACEs and resilience in college students is necessary to mitigate and address ACEs early in adulthood.

@@ -1,0 +1,16 @@
+Abstract
+
+Background
+By 2050, about 70% of the global population will be living in cities. At the same time the health burden due to climate change is increasing in urban areas e.g. as heat waves become more frequent and prolonged and the socio-economic inequalities increase. Also, health systems are faced with multiple stress tests due to multimorbidity, lack of health personnel, and the direct and indirect health impacts of the climate crisis, falling disproportionately on disadvantaged populations. Gaining a better understanding of the climate-health-equity nexus represents huge potential for health policy to contribute to climate change mitigation and for climate policy to reduce disease burden while tackling socio-economic inequalities and health inequity.
+
+
+Objective
+Building on a systematic literature review, this paper presents a framework of the interdependencies between the climate crisis, public health, and social aspects and applies it to urban areas. It then links the domains identified with data requirements at the European level and highlights potential pitfalls for European health information systems, and all six building blocks of health systems following WHO's framework on climate resilience, from governance to health workforce to early warning systems.
+
+
+Results
+The review showcases risks associated with acting in “policy-silos”, neglecting the interactions between climate, health and inequality, compounding negative consequences both for planetary health and human health. Our data framework shows that the interdependencies described open up various opportunities for a European research infrastructure, in the aftermath of the COVID-19 pandemic and in a transformation towards more health promotion.
+
+
+Conclusions
+A European Green Deal with a strengthened focus on public health would have the potential to address these challenges, in cities and beyond. All health system building blocks need to contribute to such a climate-health pact at the European level.

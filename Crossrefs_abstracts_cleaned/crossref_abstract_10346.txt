@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this paper is to define the main dimensions/aspects of resilient organizations and propose a benchmarking model to assess an organization's resilience in the context of uncertainty.
+
+
+Design/methodology/approach
+The systematic literature review method was applied to collect and synthesize relevant scientific literature from 2001 to 2022 to construct and validate a methodological approach.
+
+
+Findings
+This paper proposes a conceptualization of organizational resilience as the capacity of an organization to first remain stable; then prepare, absorb and recover after a crisis; adapt to the new environment; and, finally, use the developed experience to enhance the capacity for transformation, playing an essential role for coping with uncertainty.
+
+
+Research limitations/implications
+Resilience is recognized as organizations’ ability to adapt to the new conditions, influenced by the crises. Moreover, it supports the recognition of the learning phase that allows for growth by constantly learning from emerging situations and gaining unique experiences. These observations allow us to suggest the twofold approach. The first distinguishes the resilience as organizations’ ability to adapt to the changing environment, that is, bounce back, while the second highlights the importance of learning capacity, that is, bounce forward.
+
+
+Practical implications
+The authors suggest to adopt the conceptual framework of the bounce forward phenomenon using the Resilient Organizations’ Resilience Benchmark Tool to assess organizational resilience. This would determine the overall resilience by identifying the links between bouncing back (preparing, absorbing, recovering and adapting) and bouncing forward (enhancing learning capacity).
+
+
+Originality/value
+Having reviewed the methodologies in the extant literature to evaluate organizational resilience and explored the similarities and differences between them, the authors concluded that the Resilient Organizations Resilience Benchmark Tool (2017) is the most appropriate three-dimensional tool because of its universality and comprehensive scope. These three dimensions consist of: leadership and culture; networks; and change readiness. This methodology assesses organizations' perspectives regarding resilience based on their ability to respond to and manage crises and their ability to bounce forward successfully.

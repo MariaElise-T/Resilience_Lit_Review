@@ -1,0 +1,11 @@
+Purpose: The study examined the enabling capabilities of digital transformation resilience across 61 countries from 2013 to 2022.
+ 
+Theoretical framework: This study draws on four theoretical perspectives: resilience theory, dynamic capabilities view, knowledge-based view theory, and diffusion of innovation theory. These theoretical lenses focus on how organizations can succeed in a changing environment.
+ 
+Design/Methodology/Approach: This study used secondary data from the International Institute for Management Developments (IMD), the World Digital Competitiveness Ranking, and the World Intellectual Property Organization (WIPO) Global Innovation Index (GII). The data set analyzed included information from 61 countries between 2013 to 2022. Panel data regression was used to conduct the analysis.
+ 
+Findings: The findings indicate that only knowledge capability has a significant relationship with digital transformation resilience technology, and future readiness was considered a non-significant enabler.
+ 
+Research, practical & social implications: In the digital age, governments and industries must prioritize resilience by implementing policies, developing necessary skills, providing training activities, and investing in research and development.
+ 
+Originality/Value: The originality of this study lies in its investigation of resilience capabilities with the new theoretical lens. Organizations must develop resilience capabilities, particularly in the realm of digital transformation. Digital transformation resilience pertains to an organization's capacity to adjust and react to changes in the dynamic environment using digital technologies.

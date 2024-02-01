@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to analyse whether the presence of supply chain complexity (SCC) influences firms to improve their supply chain (SC) resilience and SC robustness capability. This study also examines an important paradox: whether investing in both exploitation and exploration practices is conflicting or complementary to enabling SC resilience and robustness in the presence of SCC.
+
+
+Design/methodology/approach
+The authors used a survey-based approach to collect 242 useful responses from SC professionals of Pakistani firms, an important emerging economy context. The data were analysed with covariance-based structural equation modelling to statistically validate the model.
+
+
+Findings
+The analysis reveals several key findings: the presence of SCC has a direct, positive influence on SC resilience and SC robustness; while exploitation practices only partially mediate the nexus between SCC and SC resilience, they fully mediate the relationship between SCC and SC robustness; while exploration practices partially mediate the nexus between SCC and SC resilience, they do not mediate the relationship between SCC and SC robustness and SCC has a significant influence on SC resilience and SC robustness sequentially through exploitation and exploration (i.e. one after the other).
+
+
+Practical implications
+These findings help to reconcile the exploitation versus exploration paradox in cultivating SC resilience and SC robustness in the presence of SCC. The findings assist SC managers in determining how to deploy their limited resources most effectively to enhance SC resilience and SC robustness while facing SCC.
+
+
+Originality/value
+The authors devise and empirically validate a unique framework that demonstrates how the presence of SCC works as a stimulus to build SC resilience and SC robustness.

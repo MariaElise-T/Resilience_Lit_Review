@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to explore the phenomenon of collaborative resilience through in-depth case study research in India. This study endeavours to identify and model the critical success factors of collaborative resilience.
+
+
+Design/methodology/approach
+Eight critical success factors of collaborative resilience were identified through literature search. Modelling and analysis of these factors was conducted using grey-based DEMATEL method. Data were collected from supply chain experts in Indian industries.
+
+
+Findings
+It was found that organizational factors like top management commitment and resilience system design exhibit highest causality on the entire system. Also, co-adaptive transformation and resilience goal alignment are most important for managers. Overall, this research provides a guideline and mechanism to build collaborative resilience in supply chains.
+
+
+Practical implications
+Through the identification of eight critical success factors, this research has related and grounded the concept of collaborative resilience into pre-exiting supply chain practices and concepts. Through rigorous quantitative modelling and analysis of these factors, this research provides a guideline to managers for building collaborative resilience in supply chains.
+
+
+Originality/value
+To the best of the authors’ knowledge, this is the first study that has proposed the concept of collaborative resilience in supply chain and has conducted empirical research on the phenomenon in India.

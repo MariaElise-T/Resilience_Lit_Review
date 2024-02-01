@@ -1,0 +1,9 @@
+Abstract
+Background
+Environmental variance (VE) is partially under genetic control, which means that the VE of individuals that share the same environment can differ because they have different genotypes. Previously, a divergent selection experiment for VE of litter size (LS) during 13 generations in rabbit yielded a successful response and revealed differences in resilience between the divergent lines. The aim of the current study was to identify signatures of selection in these divergent lines to better understand the molecular mechanisms and pathways that control VE of LS and animal resilience. Three methods (FST, ROH and varLD) were used to identify signatures of selection in a set of 473 genotypes from these rabbit lines (377) and a base population (96). A whole-genome sequencing (WGS) analysis was performed on 54 animals to detect genes with functional mutations.
+
+Results
+By combining signatures of selection and WGS data, we detected 373 genes with functional mutations in their transcription units, among which 111 had functions related to the immune system, stress response, reproduction and embryo development, and/or carbohydrate and lipid metabolism. The genes TTC23L, FBXL20, GHDC, ENSOCUG00000031631, SLC18A1, CD300LG, MC2R, and ENSOCUG00000006264 were particularly relevant, since each one carried a functional mutation that was fixed in one of the rabbit lines and absent in the other line. In the 3ʹUTR region of the MC2R and ENSOCUG00000006264 genes, we detected a novel insertion/deletion (INDEL) variant.
+
+Conclusions
+Our findings provide further evidence in favour of VE as a measure of animal resilience. Signatures of selection were identified for VE of LS in genes that have a functional mutation in their transcription units and are mostly implicated in the immune response and stress response pathways. However, the real implications of these genes for VE and animal resilience will need to be assessed through functional analyses.

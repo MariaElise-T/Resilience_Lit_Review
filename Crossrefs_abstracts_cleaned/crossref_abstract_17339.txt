@@ -1,0 +1,9 @@
+Abstract
+Background
+There is a growing interest to decipher the genetic background of resilience and its possible improvement through selective breeding. The objective of the present study was to provide new insights into the genetic make-up of resilience in growing pigs by identifying genomic regions and candidate genes associated with resilience indicators. Commercial Duroc pigs were challenged with an attenuated Aujeszky vaccine at 12 weeks of age. Two resilience indicators were used: deviation from the expected body weight at 16 weeks of age given the growth curve of non-vaccinated pigs (∆BW) and the increase in acute-phase protein haptoglobin at four days post-vaccination (∆HP). Genome-wide association analyses were carried out on 445 pigs, using genotypes at 41,165 single nucleotide polymorphisms (SNPs) and single-marker and Bayesian multiple-marker regression approaches.
+
+Results
+Genomic regions on pig chromosomes 2, 8, 9, 11 (∆BW) and 8, 9, 13 (∆HP) were found to be associated with the resilience indicators and explained high proportions of their genetic variance. The genomic regions that were associated explained 27 and 5% of the genetic variance of ∆BW and ∆HP, respectively. These genomic regions harbour promising candidate genes that are involved in pathways related to immune response, response to stress, or signal transduction (CD6, PTGDR2, IKZF1, RNASEL and MYD88), and growth (GRB10 and LCORL).
+
+Conclusions
+Our study identified novel genomic regions that are associated with two resilience indicators (∆BW and ∆HP) in pigs. These associated genomic regions harbour potential candidate genes involved in immune response and growth pathways, which emphasise the strong relationship between resilience and immune response.

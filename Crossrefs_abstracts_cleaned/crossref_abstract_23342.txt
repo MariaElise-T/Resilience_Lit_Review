@@ -1,0 +1,19 @@
+
+Background
+Psychological well‐being is important among individuals with myocardial infarction (MI) given the clear links between stress, depression, and adverse cardiovascular outcomes. Stress and depressive disorders are more prevalent in women than men after MI. Resilience may protect against stress and depressive disorders after a traumatic event. Longitudinal data are lacking in populations post MI. We examined the role of resilience in the psychological recovery of women post MI, over time.
+
+
+Methods and Results
+We analyzed a sample from a longitudinal observational multicenter study (United States, Canada) of women post MI, between 2016 and 2020. Perceived stress (Perceived Stress Scale‐4 [PSS‐4]) and depressive symptoms (Patient Health Questionnaire‐2 [PHQ‐2]) were assessed at baseline (time of MI) and 2 months post MI. Demographics, clinical characteristics, and resilience (Brief Resilience Scale [BRS]) were collected at baseline. Low and normal/high resilience groups were established as per published cutoffs (BRS scores <3 or ≥3). Mixed‐effects modeling was used to examine associations between resilience and psychological recovery over 2 months. The sample included 449 women, mean (SD) age, 62.2 (13.2) years, of whom 61.1% identified as non‐Hispanic White, 18.5% as non‐Hispanic Black, and 15.4% as Hispanic/Latina. Twenty‐three percent had low resilience. The low resilience group had significantly higher PSS‐4 and PHQ‐2 scores than the normal/high resilience group at all time points. In adjusted models, both groups showed a decrease in PSS‐4 scores over time.
+
+
+Conclusions
+In a diverse cohort of women post MI, higher resilience is associated with better psychological recovery over time. Future work should focus on developing strategies to strengthen resilience and improve psychological well‐being for women with MI.
+
+
+Registration
+
+              URL:
+              https://clinicaltrials.gov/ct2/show/NCT02905357
+              ; Unique identifier: NCT02905357.
+            

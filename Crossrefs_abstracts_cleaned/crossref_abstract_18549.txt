@@ -1,0 +1,12 @@
+Abstract
+
+Aims
+The aim of this systematic review of the literature is to synthesize the evidence regarding the associations between individual-level psychological, social/cultural, behavioral, and biological variables with resilience in patients with CVD.
+
+
+Methods and results
+A systematic search of PubMed, PsycINFO and CINAHL was conducted from database inception through March 2020. Studies with a quantitative research design were eligible for inclusion if published in English and focused on resilience among adults with CVD. Of the 788 articles retrieved, 34 studies (35 articles) were included in the review. Twenty-three studies focused on psychological factors, with findings of inverse relationships between resilience and depression, anxiety, and stress. Evidence regarding associations between resilience and social/cultural or behavioral variables was scarce. Four of the 6 studies regarding biological factors found low stress resilience in young adulthood was associated with early diagnoses of stroke, heart failure, and coronary heart disease.
+
+
+Conclusion
+Enhancing resilience may improve quality of life for CVD patients, but research is needed to further explore the complex relationships between resilience and associated variables. This research should prioritize under-represented groups (i.e. women and minority racial/ethnic groups), with the eventual goal of developing interventions to support resilience in CVD patients.

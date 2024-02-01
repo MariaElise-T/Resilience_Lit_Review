@@ -1,0 +1,23 @@
+
+Purpose
+This paper aims to investigate the firm performance of micro, small and medium enterprises (MSMEs) by using artificial intelligence-based supply chain resilience strategies. A theoretical framework shows the relationship between artificial intelligence, supply chain resilience strategy and firm performance.
+
+
+Design/methodology/approach
+A questionnaire is developed to survey the MSMEs of India. A sample size of 307 is considered for the survey. The employees working in MSMEs are targeted responses. The conceptual model developed is tested empirically.
+
+
+Findings
+The study found that eight hypotheses were accepted and two were rejected. There are five mediating variables in the current study. Artificial intelligence, the independent variable, positively affects all five mediators. Then, according to the survey and analysis of the final 307 responses from MSMEs, the mediating variables significantly impact the dependent variable, firm performance.
+
+
+Research limitations/implications
+This study is limited to emerging markets only. Also this study used only cross sectional data collection methods.
+
+
+Practical implications
+This study is essential for supply chain managers and top management willing to adopt the latest technology in their organisation or firmfor a better efficient supply chain process.
+
+
+Originality/value
+This study investigated artificial intelligence-based supply chain resilience for improving firm performance in emerging countries like India. This study tried to fill the research gap in artificial intelligence and supply chain resilience.

@@ -1,0 +1,13 @@
+
+            Cloud computing has made the resources needed to execute large-scale in-memory distributed computations widely available. Specialized programming models, e.g., MapReduce, have emerged to offer transparent fault tolerance and fault recovery for specific computational patterns, but they sacrifice generality. In contrast, the Resilient X10 programming language adds
+            failure containment
+            and
+            failure awareness
+            to a general purpose, distributed programming language. A Resilient X10 application spans over a number of places. Its formal semantics precisely specify how it continues executing after a place failure. Thanks to failure awareness, the X10 programmer can in principle build redundancy into an application to recover from failures. In practice, however, correctness is elusive, as redundancy and recovery are often complex programming tasks.
+          
+
+            This article further develops Resilient X10 to shift the focus from failure awareness to failure recovery, from both a theoretical and a practical standpoint. We rigorously define the distinction between recoverable and catastrophic failures. We revisit the
+            happens-before invariance
+            principle and its implementation. We shift most of the burden of redundancy and recovery from the programmer to the runtime system and standard library. We make it easy to protect critical data from failure using resilient stores and harness elasticity—dynamic place creation—to persist not just the data but also its spatial distribution.
+          
+We demonstrate the flexibility and practical usefulness of Resilient X10 by building several representative high-performance in-memory parallel application kernels and frameworks. These codes are 10× to 25× larger than previous Resilient X10 benchmarks. For each application kernel, the average runtime overhead of resiliency is less than 7%. By comparing application kernels written in the Resilient X10 and Spark programming models, we demonstrate that Resilient X10’s more general programming model can enable significantly better application performance for resilient in-memory distributed computations.

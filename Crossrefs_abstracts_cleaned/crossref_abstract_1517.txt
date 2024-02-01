@@ -1,0 +1,23 @@
+
+Purpose
+Water distribution networks (WDNs) must deliver water to its customers 24/7. Disruption of this important service after a strong seismic event impedes post-disaster activities and poses health and sanitation problems. Hence, WDNs must be able to quickly restore services after the occurrence of a major seismic event. This ability to return the water service can be a metric for resilience. The purpose of this paper is to quantify the resilience by developing a framework that translates various restoration strategies into an improved resilience measure for a multisource WDN.
+
+
+Design/methodology/approach
+This paper used a quantitative risk assessment method in developing the framework for the resilience quantification of WDN. Prim’s algorithm, Horn’s algorithm and maximum slope method are used for the restoration analysis conducted in this study.
+
+
+Findings
+This paper provides resilience indices of the WDN for each repair scenarios. Then, the resilience indices are used to determine the most efficient and optimized repair scenario to restore the hypothetically damaged WDN owing to Level 1 and Level 2 seismic events.
+
+
+Research limitations/implications
+The developed framework of this study only focuses on the robustness, rapidity and resourcefulness properties of resilience.
+
+
+Practical implications
+This study aims to help the water district in the maintenance, repair and evaluation of WDN against seismic events. The results from the study can be used in preparing the disaster management plan of the local water district to repair possible pipelines. This study also serves as a starting point to more complex and comprehensive research about the resilience quantification of WDNs with the consideration of optimal restoration sequence in the future.
+
+
+Originality/value
+The developed framework in the resilience quantification of WDN is original, as it uses optimal restoration strategies to represent the rapidity property of resilience.

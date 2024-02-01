@@ -1,0 +1,15 @@
+
+Purpose
+This study aims to explore the link between mental health literacy (MHL) and resilience in two groups: individuals who underwent psychotherapy and a similar group who did not.
+
+
+Design/methodology/approach
+The research involved 256 participants from Israeli–Arab and Israeli–Jewish communities. Half of the participants had previously received psychological treatment, whereas the other half had not. MHL was evaluated through the Mental Health Literacy Scale (O’Connor and Casey, 2015), whereas resilience was gauged using the concise Connor-Davidson Resilience Scale (Connor and Davidson, 2003).
+
+
+Findings
+The results indicated that participants who had therapy had higher levels of MHL and resilience compared to those who were not in therapy. Being acquainted with mental health disorders was positively associated with resilience, independent of sociodemographic variables and therapy participation. An interaction effect was found, showing a positive association between MHL and resilience among those who had therapy, whereas a negative association was observed among those not in therapy. A negative association was also found between social closeness to mental health patients and resilience for respondents who did not participate in therapy and was unrelated to resilience among those who had therapy.
+
+
+Originality/value
+The findings suggest that having MHL is vital but it does not necessarily translate into personal application or effective coping strategy implementation. In fact, it may be that having knowledge, in the absence of taking any active measures, can even be harmful.

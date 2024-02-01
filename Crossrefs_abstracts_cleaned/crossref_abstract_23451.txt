@@ -1,0 +1,8 @@
+Abstract
+
+Climate models forecast changes in the amount and distribution of rain, which may affect ecosystems worldwide, especially in drylands where water is already the limiting factor for plant life. Annual plant communities are common in drylands where they can complete their entire life cycle during the rainy period while avoiding the dry season. Moreover, seed dormancy allows them to disperse over time by remaining in the seed bank for long periods. However, the extent to which these communities will be able to tolerate increasing drought is uncertain.
+We performed a 5‐year rainfall reduction treatment under field conditions and determined its effects on annual plant communities in a Mediterranean gypsum ecosystem. We assessed the taxonomic, functional and phylogenetic diversity of these communities each year for 5 years.
+The taxonomic and functional diversity decreased under the rainfall reduction treatment, whereas the phylogenetic diversity increased. Moreover, the relative importance of species with drought‐resistant functional designs increased in the community assemblages. However, after a rainy season with above average rainfall, all of the diversity values recovered completely even under the rainfall reduction treatment.
+Our results provide important insights into the responses of these plant communities under a climate change scenario, where they indicate high losses of diversity during drought events but rapid recovery in milder years.
+Synthesis. Our findings highlight the great resilience of annual plant communities in drylands, which may allow them to tolerate increased drought under the present climate change scenario.
+

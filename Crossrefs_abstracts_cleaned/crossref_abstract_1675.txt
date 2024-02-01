@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this study is to empirically test the impact of resilience-enhancing human resource practices on job satisfaction and organizational commitment with the mediating role of employee resilience.
+
+
+Design/methodology/approach
+With a quantitative approach, structural equation modeling was used to test the hypothesis. Data was collected with a survey method from 326 bankers of Pakistan. Data was diagnosed with all reliability and validity tests and significance was tested with bootstrapping. Smart-PLS software was used.
+
+
+Findings
+Results revealed that there is a partial mediating impact of employee resilience in the relationship of resilience-enhancing human resource practice and job satisfaction. For resilience-enhancing human resource practice and organizational commitment, employee resilience plays a partial mediating role.
+
+
+Research limitations/implications
+This study is confined to bankers only and a limited sample is used. However, it significantly provides a contextual base for further theoretical development in the research of employee resilience.
+
+
+Practical implications
+This paper recommends the banking sector of Pakistan for paying extra heed toward resilience-enhancing human resource practices, as it only augments much-needed resilience among employees but also ultimately results in greater job satisfaction and commitment.
+
+
+Originality/value
+This study is the first of the kind in the banking sector of Pakistan to explore resilience-enhancing practices.

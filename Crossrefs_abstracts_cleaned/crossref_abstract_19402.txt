@@ -1,0 +1,16 @@
+Abstract
+
+Objective:
+According to a WHO report, the number of patients with coronavirus disease 2019 (COVID-19) has reached 456,797,217 worldwide as of 15 March, 2022. In Wuhan, China, large teams of health-care personnel were dispatched to respond to the COVID-19 emergency. This study aimed to determine the sociodemographic and psychological predictors of resilience among frontline nurses fighting the current pandemic.
+
+
+Methods:
+A total of 143 nurses were recruited from February 15 to February 20, 2020, to participate in this study. The 10-item Connor-Davidson Resilience Scale and the 21-item Depression Anxiety Stress Scale were used to estimate the participants’ resilience and mental wellbeing.
+
+
+Results:
+Results showed that the nurses displayed a moderate resilience level. Their median depression, anxiety, and stress scores were 1, 2, and 3, respectively, which were negatively correlated with resilience. Female gender, being dispatched to Wuhan, and depression levels were the significant predictors of resilience.
+
+
+Conclusions:
+The results suggest that particular attention should be given to nurses who were dispatched to Wuhan and who exhibited depression symptoms, and appropriate measures should be taken to boost their resilience.

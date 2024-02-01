@@ -1,0 +1,5 @@
+
+            While chemotherapy is an essential intervention for treating many forms of cancer, gastrointestinal side effects may precede infections and risks for additional health complications. We developed an
+            in vitro
+            model to characterize key changes in bacterial community dynamics under chemotherapeutic stress and the role of bacterial interactions in drug detoxification to promote microbiota resilience.
+          

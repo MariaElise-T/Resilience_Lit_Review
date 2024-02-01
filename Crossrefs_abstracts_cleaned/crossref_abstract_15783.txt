@@ -1,0 +1,12 @@
+Abstract
+Background
+Historically, efforts to improved healthcare provisions have focussed on learning from and understanding what went wrong during adverse events. More recently, however, there has been a growing interest in seeking to improve healthcare quality through promoting and strengthening resilience in healthcare, in light of the range of changes and challenges to which healthcare providers are subjected. So far, several approaches for strengthening resilience performance have been suggested, such as reflection and simulation. However, there is a lack of studies that appraise the range of existing learning tools, the purposes for which they are designed, and the types of learning activities they comprise. The aim of this rapid scoping review is to identify the characteristics of currently available learning tools designed to translate organizational resilience into healthcare practice.
+
+Methods
+A rapid scoping review approach was used to identify, collect, and synthesise information describing the characteristics of currently available learning tools designed to translate organizational resilience into healthcare practice. EMBASE and Medline Ovid were searched in May 2022 for articles published between 2012 and 2022.
+
+Results
+The review identified six different learning tools such as serious games and checklists to guide reflection, targeting different stakeholders, in various healthcare settings. The tools, typically, promoted self-reflection either individually or collaboratively in groups. Evaluations of these tools found them to be useful and supportive of resilience; however, what constitutes resilience was often difficult to discern, particularly the organizational aspect. It became evident from these studies that careful planning and support were needed for their successful implementation.
+
+Conclusions
+The tools that are available for review are based on guidelines, checklists, or serious games, all of which offer to prompt either self-reflection or group reflections related to different forms of adaptations that are being performed. In this paper, we propose that more guided reflections mirroring the complexity of resilience in healthcare, along with an interprofessional collaborative and guided approach, are needed for these tools to be enacted effectively to realise change in practice. Future studies also need to explore how tools are perceived, used, and understood in multi-site, multi-level studies with a range of different participants.

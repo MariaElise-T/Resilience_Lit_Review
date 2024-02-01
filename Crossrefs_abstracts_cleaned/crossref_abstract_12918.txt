@@ -1,0 +1,12 @@
+Abstract
+Introduction
+Women heads of households (widows or divorcees) are vulnerable groups in society who face various psychological problems and have less resilience than other women. Therefore, the present study was conducted to determine the effectiveness of resilience educational intervention on the psychological capital of poor widows in Fasa city, south Iran.
+
+Materials and Methods
+In this quasi-experimental study, 120 widows covered by Imam Khomeini Relief Foundation were selected by a simple random sampling method based on a random Efron algorithm (Efron coin) and randomly assigned into two interventions and control groups (60 people each) in the second half of 2021. About 8 training sessions on resilience and psychological capital were held for the experimental group through training clips, audio transmissions, and podcasts. Data were collected using demographic characteristics forms, widowers' resilience assessment questionnaires, and Luten's psychological capital scale for testing and control before and two months after the intervention. Data were analyzed with Chi-square test, independent and paired t-test using SPSS V. 26 software.
+
+Results
+There were differences between the two groups at pretest in demographic variables and psychological capital and its subscales, and resilience and its subscales (P ≥ 0.05).. But two months after the educational intervention, a statistically significant increase was observed in the experimental group in these variables compared to the control group (p < 0.05). It indicates that there was an improvement in the outcomes from pretest to post-test within the intervention and no change in the outcomes over time within the control group.
+
+Discussion and Conclusion
+Using a resilience-based educational approach as a novelty of this research to promote psychological capital and resilience can increase resilience and psychological capital in widows. Then, considering the positive effect of this educational approach and the low cost of this intervention, it seems that the implementation of such interventions should be included in the plans related to widows.

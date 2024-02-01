@@ -1,0 +1,12 @@
+Abstract
+Background
+While resilience has generated a lot of interest in mental health, operationalizing the construct of resilience remains an important challenge. This study aims to evaluate the concordance of two resilience scales that evaluate intrapersonal aspects of resilience in adolescents.
+
+Methods
+Cross-sectional evaluation of internal consistency, concordance, and correlation of the Individual Protective Factors Index Questionnaire (IPFI) and the Adolescent Resilience Scale (ARS) in sixth grade students of three low-income public schools in Colombia.
+
+Results
+325 adolescents (41.5% female) participated in the study (72.5% response rate). Mean age was 12.1 years (standard deviation [SD]: 1.04). Of a possible score from 1–4, the mean adjusted IPFI score was 3.3 (SD: 0.3; Cronbach’s alpha: 0.87). Of a possible score from 21–105, the total ARS score was 76.4 (SD 13.0; Cronbach’s alpha: 0.82); both distributions were non-normal and left-skewed. The Lin’s concordance correlation coefficient was 0.34 and the Spearman correlation coefficient was 0.52 (p-value < 0.0001 for both). Notably, 10 adolescents (3.1% of the sample) had a score in the lowest quartile in one of the two instruments, and a score in the highest quartile in the other instrument.
+
+Conclusions
+There was low concordance between the scales, with notable lack of overlap in who was identified as having “low” levels of resilience. To better elucidate and operationalize the construct of resilience, studies using resilience scales should consider greater focus in understanding what aspects of the construct are being measured and how they relate to meaningful variables (well-being, risk of illness, etc.).

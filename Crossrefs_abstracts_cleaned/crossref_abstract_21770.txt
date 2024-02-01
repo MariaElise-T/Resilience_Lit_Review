@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Insufficient sleep during military operations is detrimental to cognition, physical performance, and general health outcomes. However, there is evidence of inter-individual differences in resilience to sleep loss. Therefore, some Soldiers may be more resilient to the effects of sleep loss than others. This study examined the relationship between sleep duration, resilience, and Soldier well-being during a deployment-readiness training event.
+
+
+Methods
+Seventy-six male Soldiers (aged 25.7±4.0y) from the 75th Ranger Regiment participated while undergoing a two-week training exercise. Surveys were administered at the completion of training and queried subjective measures of sleep duration during training, functional impairment (Walter Reed Functional Impairment Scale), and resilience to sleep loss (Iowa Resilience to Sleepiness Test; iREST). The independent relationships between sleep duration, resilience to sleep loss, and functional impairment were assessed using linear regressions. The interaction between sleep duration and resilience to sleep loss was assessed using SPSS Process (Model 1).
+
+
+Results
+Shorter sleep duration during training predicted higher functional impairment at the end of training (B=-.71, p=.001). Less resilience to sleep loss also predicted higher functional impairment (B=.07,p=.004). An interaction between sleep duration and resilience predicted Soldier impairment (R2 change: .06; F(1,68)=.17,p=.03). Individuals with both shorter sleep duration during training and less resilience had the highest functional impairment. Those with more sleep, and those with high resilience and less sleep, both had lower functional impairment.
+
+
+Conclusion
+This study suggests the iREST can be used as a quick, subjective screening tool to indicate who may be most vulnerable to the effects of sleep loss. Identifying individual resilience to sleep loss may be useful in the military context for prescribing sleep strategies before and during missions in order to enhance Soldier readiness and performance.
+
+
+Support
+Support for this study came from the Military Operational Medicine Research Program (MOMRP) of the United States Army Medical Research and Development Command (USAMRDC).

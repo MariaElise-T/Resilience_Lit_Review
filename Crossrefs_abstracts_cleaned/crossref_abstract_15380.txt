@@ -1,0 +1,23 @@
+
+Purpose
+Given the increasingly turbulent business landscape and unprecedented incidents (e.g. Covid-19), firms must achieve supply chain resilience (SCRes) as a dynamic capability to bounce back from adversities and ensure continuity of operations. The purpose of this study is to integrate the three interrelated [knowledge management, risk management culture (RMC) and resilience] but often separately discussed concepts to advance the understanding of their intertwined influence on SCRes in the agri-food supply chains.
+
+
+Design/methodology/approach
+This study uses a cross-sectional survey approach where quantitative data is collected from 349 participants from the Australian agri-food supply chains to test the proposed hypotheses.
+
+
+Findings
+Exposure to supply chain risks triggers the deployment of specific knowledge management practices in the agri-food supply chains. Further, the analysis on serial mediation suggests that firms’ knowledge management practices work sequentially (knowledge acquisition, assimilation and application) and develop a RMC to achieve SCRes amid supply chain risks.
+
+
+Practical implications
+The findings of this study inform practitioners and policymakers who seek to understand the key mechanisms that facilitate the development of SCRes when facing supply chain risks, particularly in the Australian agri-food supply chains.
+
+
+Social implications
+The growth of the food industry through more resilient food supply chains could ensure sustained food supply and more employment opportunities.
+
+
+Originality/value
+Using dynamic capability theory, the authors devise a novel empirical model that explicates how knowledge management practices and RMC instigate the dynamic capability of SCRes amid supply chain risks facing agri-food supply chains.

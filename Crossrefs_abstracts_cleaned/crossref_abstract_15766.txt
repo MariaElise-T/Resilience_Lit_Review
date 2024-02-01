@@ -1,0 +1,19 @@
+
+Background
+Existing mental health apps are largely not aimed at generally healthy young people who may be experimenting with addictive substances and mind-altering experiences.
+
+
+Objective
+The aim of this study is to examine the interest and expectations of young people regarding a proposed smartphone app designed to help protect and promote mental health and resilience in the face of risks associated with substance use.
+
+
+Methods
+The study was based on agile system development and had 3 empirical substudies. Our feasibility study (study 1) included an anonymous questionnaire that examined the potential interest of young people in this type of app. It was answered by 339 Israelis aged 18-30 years. The second part of the feasibility study was a pilot study with 1.2% (4/339) of the people who answered the questionnaire and expressed interest in participating in a focus group. They tested and refined the elements planned for the focus groups. Study 2 was a participatory design study involving 7 focus groups of 5 to 7 participants each (young people aged 18-35 years, n=38). Persona development, open discussion, and a Technology Acceptance Model questionnaire were used to elicit user expectations and requirements for the app and to understand the perceived usefulness and usability of the proposed features. Study 3 comprised in-depth interviews with experts in the field of youth mental health and drug use to enlist their professional opinion regarding the value of such an app and recommendations about the features it should include.
+
+
+Results
+The mock-up for the proposed app had five key features: personalized assessment of risk for a drug-associated mental crisis, support for self-monitoring, useful information (eg, warning signs and first-aid guidelines), resilience-building exercises, and a support center. Participants rated highly the usefulness of all 5 main features and 96% (24/25) of the specific features we proposed within those main categories. The participants also suggested additional features as well as a new user persona we had not considered: the parents or family members of the young person. The focus groups rated highly the perceived usability of the app. Most of the experts saw value in all the main features and suggested specific knowledge sources for the app’s content. Finally, participants of both the feasibility study and the participatory design study expressed moderate to high interest in using the app for self-help and high interest in using the app to help friends.
+
+
+Conclusions
+The findings provide preliminary encouraging support for the 5 main features suggested by the research team and reinforce recommendations for mobile health apps found in the literature. The findings emphasize the insight that this kind of app should be designed primarily for use by individuals seeking to help others.

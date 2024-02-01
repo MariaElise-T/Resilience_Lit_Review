@@ -1,0 +1,9 @@
+
+            Ecosystem dynamics are driven by both biotic and abiotic processes, and perturbations can push ecosystems into novel dynamical regimes. Plant–plant, plant–soil and mycorrhizal associations all affect plant ecosystem dynamics; however, the direction and magnitude of these effects vary by context and their contribution to ecosystem resilience over long time periods remains unknown. Here, using a mathematical framework, we investigate the effects of plant feedbacks and mycorrhiza on plant–nutrient interactions. We show evidence for strong nutrient controlled feedbacks, moderation by mycorrhiza and influence on ecological resilience. We use this model to investigate the resilience of a longitudinal palaeoecological birch–
+            δ
+15
+            N interaction to plant–soil feedbacks and mycorrhizal associations. The birch–
+            δ
+15
+            N system demonstrated high levels of resilience. Mycorrhiza were predicted to increase resilience by supporting plant–nitrogen uptake and immobilizing excess nitrogen; in contrast, long-term enrichment in available nitrogen by plant–soil feedbacks is expected to decrease ecological resilience.
+          

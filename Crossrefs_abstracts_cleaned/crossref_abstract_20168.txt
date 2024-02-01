@@ -1,0 +1,12 @@
+Abstract
+Background
+Due to the importance of procurement of medicines and medical supplies during disasters and the significance of an existing resilient supply chain, the present study aimed to explore the causes, strategies, and consequences of the medication supply chain resilience during the Kermanshah, Iran, earthquake experience in 2018.
+
+Methods
+This was a qualitative study based on the grounded theory method. The suggested approach by Strauss and Corbin was used. Thirty-two in-depth and semi-structured interviews were conducted via theoretical sampling, and data were saturated. Open-ended and probing questions were used, and all the interviews were recorded with the prior permission of the participants. Field notes and memoing were also used along with the interviews. Transcribed data were analyzed in three levels of open coding, selective, and axial coding by two researchers with sufficient reflexivity without any conflict of interest.
+
+Results
+The results led to the identification of eight main categories, including "Disaster Management Structure", "Information Management", "Supply Chain Monitoring", "Socio-Cultural Factors", "Planning", "Resource Management", "Medical Service Coverage", and "Waste of time and resources". According to Strauss and Corbin's model, socio-cultural factors and inappropriate structures and planning related to the health system during disasters may waste time and resources.
+
+Conclusions
+"Waste of time and resources” during disasters can be considered the main determinant that can damage the resilience of the medication supply chain. Policymakers need to seek applied strategies for decreasing waste. Socio-cultural interventions, preparedness of information infrastructures and coordination among the stewards and the community during disasters can help the supply chain preserve its resilience and act more effectively.

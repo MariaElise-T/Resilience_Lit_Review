@@ -1,0 +1,15 @@
+
+BACKGROUND AND OBJECTIVES:
+Adults with a history of adverse childhood experiences (ACEs) (eg, abuse) have suboptimal health outcomes. Resilience may blunt this effect. The effect of parental ACEs (and resilience) on coping with challenges involving their children (eg, hospitalization) is unclear. We sought to quantify ACE and resilience scores for parents of hospitalized children and evaluate their associations to parental coping after discharge.
+
+
+METHODS:
+We conducted a prospective cohort study at a children’s hospital (August 2015–May 2016). Eligible participants were English-speaking parents of children hospitalized on the Hospital Medicine or Complex Services team. The ACE questionnaire measured the responding parent’s past adversity (ACE range: 0–10; ≥4 ACEs = high adversity). The Brief Resilience Scale (BRS) was used to measure their resilience (range: 1–5; higher is better). The primary outcome was measured by using the Post-Discharge Coping Difficulty Scale via a phone call 14 days post-discharge (range: 0–100; higher is worse). Associations were assessed by using multivariable linear regression, adjusting for parent- and patient-level covariates.
+
+
+RESULTS:
+A total of 671 (81% of eligible parents) responded. Respondents were primarily women (90%), employed (66%), and had at least a high school degree (65%); 60% of children were white, 54% were publicly insured. Sixty-four percent of parents reported ≥1 ACE; 19% had ≥4 ACEs. The mean Brief Resilience Scale score for parents was 3.95. In adjusted analyses, higher ACEs and lower resilience were significantly associated with more difficulty coping after discharge.
+
+
+CONCLUSIONS:
+More parental adversity and less resilience are associated with parental coping difficulties after discharge, representing potentially important levers for transition-focused interventions.

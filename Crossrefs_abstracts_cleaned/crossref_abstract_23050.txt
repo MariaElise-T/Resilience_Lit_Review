@@ -1,0 +1,12 @@
+Introduction: PRISM is a resilience resources intervention that teaches stress-management, goal setting, reframing, and benefit finding. We tested the efficacy of PRISM on glycemic control, diabetes distress, resilience, and quality of life.
+Methods: This 2-site (Seattle WA, Houston TX) 1:1 RCT of PRISM vs. usual care (UC) included teens 13-18y with T1D≥12m and diabetes distress (PAID-T) scores ≥30. A1C, distress (PAID-T), diabetes resilience (DSTAR), and diabetes quality of life (T1DAL) were assessed at baseline (BL), 6m and 12m. Regression analyses used treatment arm as the primary predictor, controlling for additional covariates (Table).
+Results: Teens (n=172) were 56% female, race = 73% White, 15% Black, 4% Asian, 8% other, ethnicity = 19% Hispanic, BL A1C 8.7% ± 2.0%. No differences were evident between PRISM and UC in A1C, distress, resilience, quality of life at 6 months post-baseline. However, at 12 months, participants in the PRISM arm experienced improvements in distress, resilience, and quality of life versus UC (Table).
+Conclusions: Resilience promotion through PRISM had multiple psychosocial benefits for a diverse sample of teens with T1D by 12-months. Integrating resilience skill-building with medical intervention may optimize diabetes outcomes.
+
+
+Disclosure
+J.P.Yi-frazier: None. C.Pihoker: None. M.Bradford: None. S.R.Scott: None. A.Rosenberg: None. M.E.Hilliard: None. M.B.O'donnell: None. C.Zhou: None. B.M.Ellisor: None. S.Garcia perez: None. Y.Rojas: None. F.Malik: None. D.Desalvo: Consultant; Dexcom, Inc., Research Support; Insulet Corporation.
+
+
+Funding
+National Institutes of Health (R01DK121224)

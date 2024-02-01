@@ -1,0 +1,12 @@
+Abstract
+Background
+In this study, we examined psychometric properties of the Chinese version of the Resilience Scale (RS) and parenting-related factors associated with resilience among disaster-exposed adolescents.
+
+Methods
+Eighteen months after the earthquake, a total of 1266 adolescents (43.4% male, mean age = 15.98; SD = 1.28) were assessed using the RS, the Post-traumatic Stress Disorder Self-Rating Scale, the Depression Self-rating Scale for Children, the Screen for Child Anxiety Related Emotional Disorders, and Parental Bonding Instrument.
+
+Results
+Through exploratory factor analyses (EFAs) and parallel analysis, responses were characterized into a 3-factor structure: personal competence, meaningfulness, and acceptance of self and life. Cronbach’s alpha coefficient for the RS was 0.89 and the test-retest reliability coefficient was 0.72. In terms of predictive validity, resilience was found to be a significant predictor for PTSD, depression, and anxiety. Multiple regression analysis showed that maternal parenting styles were significant predictors of resilience after adjusting for gender, age, sibling number, and earthquake experiences.
+
+Conclusions
+The Chinese version of RS is a reliable and valid tool for assessing resilience among adolescent survivors after disasters. The implications for research and resilience-oriented interventions were also discussed.

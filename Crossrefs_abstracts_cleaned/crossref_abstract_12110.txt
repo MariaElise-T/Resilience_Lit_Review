@@ -1,0 +1,16 @@
+Abstract
+
+Subject and purpose of the work: 
+The COVID-19 and 2021-2022 energy crises shed new light on urban resilience. Cities face many more challenges and external shocks. This study aims to measure urban resilience.
+
+
+Materials and methods: 
+For this purpose, a composite indicator was developed, composed of three (social, economic and environmental) resilience components called the Complex Resilience Index.  It is applied to study Hungarian settlements in selected years (2000, 2006, 2012, 2018). Based on the results further analysis was conducted. The spatial structure of urban resilience is studied in two ways. First, the spatial differences between cities in the four selected years was examined using the relative range index, which is the difference between the highest and lowest city values relative to the average. Second, spatial patterns were mapped using one of the most commonly used indicators of spatial autocorrelation, the so-called Local Moran I indicator. The next step is to create five clusters to highlight the differences between groups in terms of population and per capita income in the selected years and to analyse the role of resilience in changing these indicators.
+
+
+Results: 
+The identification of these groups provides important information for spatial planning and policy. Hungarian settlements were also ranked based on the Complex Resilience Index. The results show that urban resilience can be measured with a composite indicator (Complex Resilience Index) and that the social, economic and environmental resilience components provide further insights. In the Hungarian urban network, the most resilient elements are Budapest, some regional centres, some county capitals, the metropolitan area of Budapest, and the most developed small and medium-sized cities in the Transdanubian region.
+
+
+Conclusions: 
+The difference in the Complex Resilience Index between cities increases over time, and as a result, the Local Moran I clusters become narrower. The rate of change in the specific income and its relative spread has the opposite sign to resilience. As resilience increases, the average change in income and its relative spread decreases, and as a result of that, stability increases.

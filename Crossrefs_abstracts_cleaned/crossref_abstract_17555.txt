@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+Older adults are at higher risk for death and infirmity from COVID-19 than younger and middle-aged adults. The current study examines COVID-19-specific anxiety and proactive coping as potential risk and resilience factors that may be differentially important for younger and older adults in understanding stress experienced due to the COVID-19 pandemic.
+
+
+Methods
+Five hundred and fifteen adults aged 20–79 years in the United States reported on their anxiety about developing COVID-19, proactive coping, and stress related to COVID-19 in an online survey.
+
+
+Results
+Although there were no age differences in stress levels, anxiety about developing COVID-19 was associated with more COVID-19 stress for older adults relative to younger adults, but proactive coping was associated with less COVID-19 stress for older adults relative to younger adults.
+
+
+Discussion
+Our results suggest that anxiety might function as a risk factor, whereas proactive coping may function as a resilience factor for older adults’ COVID-19 stress. We encourage future context-dependent investigations into mental health among older adults during this pandemic and beyond.

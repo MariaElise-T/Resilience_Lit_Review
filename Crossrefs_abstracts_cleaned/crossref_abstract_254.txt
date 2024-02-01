@@ -1,0 +1,1 @@
+The bend of beams interconnected by resilient connections and lying on resilient foundation is considered. The method suggested in works by V. A. Lazaryan and S. I. Konashenko is used in the calculation. It is based on application of the generalized functions.

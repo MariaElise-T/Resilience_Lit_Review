@@ -1,0 +1,23 @@
+Life satisfaction is an overall cognitive evaluation of an individual's living condition for the most of time or over a certain period 
+                        of time according to the standard of one’s own choice. It is an important psychological variable in the developmental stage of 
+                        children and adolescents. Some studies had shown that life satisfaction was closely related to children's and adolescents' mental 
+                        health levels, including their emotional and behavioral conditions. However, the Blue Book for Children: China Children's 
+                        Development Report (2020) published by China Children's Center stated that Chinese students did not 
+                        fare well in terms of life satisfaction. Previous studies had indicated that physical exercise was an important factor that had a 
+                        positive effect on life satisfaction, as well as on self-confidence and resilience. Also, there is a correlation between self-confidence, 
+                        resilience, and life satisfaction. Nonetheless, few studies have researched the role of self-confidence and resilience in the impact 
+                        of physical exercise on the life satisfaction of primary school students. To explore the mediating role of self-confidence and 
+                        resilience between physical exercise and life satisfaction, in order to provide a theoretical basis and practical guidance for how 
+                        to effectively promote life satisfaction and psychological well-being of primary school students in the practice of physical exercise. 
+                        Group measurements of 1009 students (519 boys and 490 girls; 576 fifth graders and 433 sixth graders) are carried out by 
+                        using the Scale of Physical Exercise Level, Children and Adolescent Self-Confidence Scale, Children and Adolescent Life 
+                        Satisfaction Scale, and Adolescent Resilience Scale, and Structural Equation Model and Bootstrap are used to 
+                        analyze the mediating effect of self-confidence and resilience. The results reveal that there is a positive correlation between 
+                        physical exercise and life satisfaction(r=0.218), but the effect on life satisfaction is not significant (P=0.516); the indirect 
+                        effect of physical exercise on life satisfaction consists of two paths: physical exercise to self-confidence to life satisfaction 
+                        (95% CI: 0.128,0.267); physical exercise to self-confidence to resilience to life satisfaction (95% CI:0.109,0.209). It is concluded 
+                        that physical exercise has an indirect but significant effect on primary school students' life satisfaction--the independent 
+                        mediating effect of self-confidence and the chain mediation effect of self-confidence and resilience. The study further confirms 
+                        that physical exercise can promote students' self-confidence levels and the formation of tenacious psychological quality, thus 
+                        improving their life satisfaction levels. Therefore, society, schools and families should pay close attention to the positive effects 
+                        of physical exercise on primary school students’ emotional and behavioral conditions.

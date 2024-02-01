@@ -1,0 +1,21 @@
+Abstract
+Abstract 2088
+
+Introduction:
+Quality of life (QoL) plays a very important role for the assessment of oncological treatment outcome. For the assessment of therapy strategies both survival time and quality of survival regarding physical and emotional conditions are of interest. The present cross sectional study evaluated the impact of resilience, life satisfaction, anxiety and depression on the global health status of patients having received an allogeneic stem cell transplantation (HSCT).
+
+
+Design and Methods:
+80 eligible patients from 26 German cancer centres fulfilling the following criteria were contacted: 1. Treatment within the AMLCG 99 trial for acute myeloid leukemia (AML). Patients were randomized to receive either standard-dose Cytarabine containing TAD or high-dose Cytarabine containing HAM-HAM induction therapy, followed by TAD consolidation and HSCT when having no low-risk cytogenetics and an available family donor or high-risk cytogenetics and an unrelated donor. 2. HSCT in first complete remission at least 6 months before the questionnaire. 3. Outpatient setting at the time of the questionnaire. The multi-part questionnaire included general informations about age, gender, marital and employment status as well as validated scaled questionnaire parts. These include the QLQ-C30, the Resilience Scale RS-25, the Hospital Anxiety and Depression Scale (HADS) and a questionnaire about general and health-related life satisfaction (FLZ). To ensure standardized analyses of the data, scales were summarized based on well-established scoring principles or rather linear transformed, so that scores ranged from 0 to 100. Global health status was defined as the primary objective of quality of life assessment.
+
+
+Results:
+Overall, 41 of 80 patients (51%) completed the questionnaire and were evaluable. Thus 41 patients (18 male, 23 females) aged between 23 and 66 (median 49) years at the time of data collection were included in the analysis. 66% were treated with de novo AML, 24% with secondary AML from MDS and 5% of the evaluable patients had MDS and t-AML, respectively. Median time between HSCT and questionnaire was 3.1 years (range, 8 months to 7 years). 26 patients (63%) received an HSCT from a related donor and 15 (37%) from an unrelated donor. Patients' self-assessed high quality of life was associated with an improved resilience (r=0.538, p<0.001) and lower patients-reported anxiety (r=−0.525, p<0.001) and depression symptoms (r=−0.751, p<0.001). A higher level in general and health-related life satisfaction was also significantly associated with a higher better self-assessed quality of life (r=0.639 and r=0.718, both p<0.001). Younger patients < 60 years old had a non-significant slightly higher score in quality of life compared to older patients (median 79.2 vs. 66.7, p=0.290). No effect was seen with respect to gender, donor type or the time interval after HSCT. Marital status was not associated with a higher QoL (p=0.962), whereas employment status revealed significant differences (p=0.008). Furthermore no differences in quality of life assessment could be detected between the two induction regimens TAD / HAM (18 patients) vs. HAM / HAM (23 patients).
+
+
+Conclusion:
+The results suggest that quality of life after HSCT for AML correlates with patients' subjective assessment of emotional and physical conditions. For an effective evaluation of the quality of life assessment and the interaction with clinical parameters in AML patients, specific QoL instruments should be applied and different comparable studies should be combined in order to obtain more reliable results.
+
+
+Disclosures:
+No relevant conflicts of interest to declare.

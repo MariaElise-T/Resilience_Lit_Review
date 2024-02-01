@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Transgender individuals face severe stigma-driven health inequities structurally, institutionally and interpersonally, yielding poor individual-level outcomes. Gender affirmation, or being recognized based on one's gender identity, expression and/or role, may be considered a manifestation of resilience.
+
+
+Methods
+To provide intervention and policy guidelines, we examined latent constructs representative of gender affirmation (legal documentation changes, transition-related medical procedures, familial support) and discrimination (unequal treatment, harassment, and attacks), and tested their impact on mental, physical, and behavioral health outcomes among 17,188 binary-identified transgender participants in the 2015 US Transgender Survey.
+
+
+Results
+Confirmatory factor analyses revealed high standardized factor loadings for both latent variables, on which we regressed outcomes using structural equation modeling. Fit indices suggested good model fit. Affirmation was associated with lower odds of suicidal ideation (p &lt; .001) and psychological distress (p &lt; .001), and higher odds of substance use (p &lt; .001), and past-year healthcare use and HIV-testing (p &lt; .001). Discrimination was associated with higher odds of suicidal ideation (p &lt; .001), psychological distress (p &lt; .001), substance use (p &lt; .001), and past-year HIV-testing (p &lt; .001). Affirmation and discrimination interaction analyses showed lower odds of past-year suicidal ideation (p &lt; .01), with affirmation having a significant moderating protective effect against discrimination.
+
+
+Conclusions
+Gender affirmation is paramount in upholding transgender health, and these findings carry global significance, beyond the US. Clarification of affirmation procedures, and increases in its accessibility, equitably across racial/ethnic groups, should become a priority, from policy to the family unit. The impact of discrimination demands continued advocacy via education and policy.

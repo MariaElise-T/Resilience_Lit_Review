@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Wintering is associated with distress to humans who work in the isolated and confined environment of Antarctica and yoga has been proved helpful for coping with stress. Therefore, a study was conducted on 14 winter expedition members of Indian Scientific Antarctic Expedition (2016) to find out the effects of yoga on stress-related markers.
+
+
+Methods
+Participants were divided into yoga, and control (non-yoga) groups. The yoga group practiced yoga for 10 months (from January to October 2016) daily in the morning for an hour. The Resilience test questionnaire was administrated at baseline and endpoint of the study. Blood samples were collected during the study at different intervals for the estimation of 8-hydroxydeoxyguanosine (8-OHdG), brain-derived neurotrophic factor (BDNF), serotonin and cortisol using ELISA.
+
+
+Results
+A trend of improvement was observed in the resilience test score in the yoga group. From January to October, 8-OHdG serum values in the yoga group declined by 55.9% from 1010.0 ± 67.8 pg/mL to 445.6 ± 60.5 pg/mL (Mean ± SD); in the control group, the decline was 49.9% from 1060.4 ± 54.6 pg/mL to 531.1 ± 81.8 pg/mL. In serotonin serum levels in the yoga group, there was a 3.1% increase from 6.4 ± 1.6 ng/mL to 6.6 ± 0.4 ng/mL while no increase was noticed in the control group. Cortisol values in the yoga group decreased by 19.9% from 321.0 ± 189.6 ng/mL to 257.1 ± 133.8 ng/mL; in the control group it increased by 2.8% from 241.2 ± 51.8 ng/mL to 247.8 ± 90.9 ng/mL.
+
+
+Conclusions
+It could be concluded from the present study that following 10 months yoga practice may be useful for better resilience and management of stress-related blood markers for the polar sojourners.

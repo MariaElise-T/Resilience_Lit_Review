@@ -1,0 +1,12 @@
+Abstract
+Aims
+Type 1 and 2 diabetes mellitus (T1DM and T2DM) can lead to emotional distress and cognitive impairments, often caused by psychological factors such as low mood or anxiety; yet, few studies have explored the theoretical mechanisms underlying these relationships and within one study. This study explored the relationships between psychological states (anxiety/worry, fatigue) and diabetes outcomes (diabetes distress, cognitive dysfunction), and whether resilience mediated the association between these in T1DM and T2DM.
+
+Methods
+A sample of 307 UK adults with a clinical diagnosis of diabetes (T1DM = 129; T2DM = 178) completed a cross-sectional online survey, composed of six questionnaires. Associations between variables were investigated using Pearson’s correlations and Structural Equation Modelling (SEM).
+
+Results
+Psychological states were significantly correlated with diabetes outcomes, and resilience was significantly related to both psychological states and diabetes outcomes. The SEM model achieved an acceptable model fit with a significant mediating effect of resilience between psychological states (anxiety/worry, fatigue) and diabetes outcomes (diabetes distress, cognitive dysfunction), with no significant differences between diabetes type.
+
+Conclusions
+We propose a new theoretical model of T1DM and T2DM that could be used to provide guidance for those designing interventions. These findings help to understand the complex nature of diabetes management, suggesting resilience could be a key factor in managing psychological states and diabetes outcomes.

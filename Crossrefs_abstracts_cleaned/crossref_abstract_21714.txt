@@ -1,0 +1,15 @@
+
+Purpose
+This paper’s main aim is to check the mediating effect of supply chain memory in the relationship between using digital technologies and both supply chain resilience and robustness. In addition, the impact of the COVID-19 disruption was tested as a moderator of the impact of supply chain memory on supply chain resilience and robustness.
+
+
+Design/methodology/approach
+Altogether, 257 supply chain managers answered the questionnaire, and data were analysed through structural equation modelling.
+
+
+Findings
+This paper contributes to theory and practice by demonstrating that the experience, familiarity and knowledge to deal with disruptions partially mediate the relationship between digital technologies, resilience and robustness. Moreover, our results show that memory is less efficient for the supply chain to maintain an acceptable level of performance in case of a new extreme disruptive event like COVID-19. The full model was able to explain 36.90% of supply chain memory, 41.58% of supply chain resilience and 46.21% of supply chain robustness.
+
+
+Originality/value
+The study helps to understand how to develop supply chain memory, positioning digital technologies as an antecedent of it. The impact of supply chain memory on supply chain resilience and robustness is proved. Knowledge about the impact of industry 4.0 technologies on disruption management is quantitatively improved. It demonstrates that digital technologies impact resilience and robustness mainly through supply chain memory. The study proves that supply chain memory is less efficient for the chain remains effective when a non-routine disruptive event occurs, but it is still imperative to recover from it.

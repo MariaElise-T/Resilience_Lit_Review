@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to examine the observer’s role in “infant psychophysics”. Infant psychophysics was developed because the diagnosis of perceptual deficits should be done as early in a patient’s life as possible, to provide efficacious treatment and thereby reduce potential long-term costs. Infants, however, cannot report their perceptions. Hence, the intensity of a stimulus at which the infant can detect it, the “threshold”, must be inferred from the infant’s behavior, as judged by observers (watchers). But whose abilities are actually being inferred? The answer affects all behavior-based conclusions about infants’ perceptions, including the well-proselytized notion that auditory stimulus-detection thresholds improve rapidly during infancy.
+
+
+Design/methodology/approach
+In total, 55 years of infant psychophysics is scrutinized, starting with seminal studies in infant vision, followed by the studies that they inspired in infant hearing.
+
+
+Findings
+The inferred stimulus-detection thresholds are those of the infant-plus-watcher and, more broadly, the entire laboratory. The thresholds are therefore tenuous, because infants’ actions may differ with stimulus intensity; expressiveness may differ between infants; different watchers may judge infants differently; etc. Particularly, the watcher’s ability to “read” the infant may improve with the infant’s age, confounding any interpretation of perceptual maturation. Further, the infant’s gaze duration, an assumed cue to stimulus detection, may lengthen or shorten nonlinearly with infant age.
+
+
+Research limitations/implications
+Infant psychophysics investigators have neglected the role of the observer, resulting in an accumulation of data that requires substantial re-interpretation. Altogether, infant psychophysics has proven far too resilient for its own good.
+
+
+Originality/value
+Infant psychophysics is examined for the first time through second-order cybernetics. The approach reveals serious unresolved issues.

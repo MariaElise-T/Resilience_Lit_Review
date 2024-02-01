@@ -1,0 +1,19 @@
+
+Background
+Psychological resilience is critical to minimize the health effects of traumatic events. Trauma may induce a chronic state of hyperarousal, resulting in problems such as anxiety, insomnia, or posttraumatic stress disorder. Mind-body practices, such as relaxation breathing and mindfulness meditation, help to reduce arousal and may reduce the likelihood of such psychological distress. To better understand resilience-building practices, we are conducting the Biofeedback-Assisted Resilience Training (BART) study to evaluate whether the practice of slow, paced breathing with or without heart rate variability biofeedback can be effectively learned via a smartphone app to enhance psychological resilience.
+
+
+Objective
+Our objective was to conduct a limited, interim review of user interactions and study data on use of the BART resilience training app and demonstrate analyses of real-time sensor-streaming data.
+
+
+Methods
+We developed the BART app to provide paced breathing resilience training, with or without heart rate variability biofeedback, via a self-managed 6-week protocol. The app receives streaming data from a Bluetooth-linked heart rate sensor and displays heart rate variability biofeedback to indicate movement between calmer and stressful states. To evaluate the app, a population of military personnel, veterans, and civilian first responders used the app for 6 weeks of resilience training. We analyzed app usage and heart rate variability measures during rest, cognitive stress, and paced breathing. Currently released for the BART research study, the BART app is being used to collect self-reported survey and heart rate sensor data for comparative evaluation of paced breathing relaxation training with and without heart rate variability biofeedback.
+
+
+Results
+To date, we have analyzed the results of 328 participants who began using the BART app for 6 weeks of stress relaxation training via a self-managed protocol. Of these, 207 (63.1%) followed the app-directed procedures and completed the training regimen. Our review of adherence to protocol and app-calculated heart rate variability measures indicated that the BART app acquired high-quality data for evaluating self-managed stress relaxation training programs.
+
+
+Conclusions
+The BART app acquired high-quality data for studying changes in psychophysiological stress according to mind-body activity states, including conditions of rest, cognitive stress, and slow, paced breathing.

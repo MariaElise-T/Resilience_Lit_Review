@@ -1,0 +1,15 @@
+
+Purpose
+Safe-to-fail (SF) is an emerging resilient design approach that has the potential to minimize the severity of flood damages. The purpose of this study is to explore the SF design strategies to reduce flood disaster damages in US coastal cities. Therefore, this study addresses two research questions: identifying the most suitable SF criteria and flood solution alternatives for coastal cities from industry professionals’ perspective; and investigating the controlling factors that influence the AEC students’ interest to learn about SF concepts through the curricula.
+
+
+Design/methodology/approach
+This study used the analytical hierarchy process to evaluate the SF criteria and flood solutions where data were collected through surveying 29 Department of Transportation professionals from different states. In addition, the study adopted a quantitative methodology by surveying 55 versed participants who reside in a coastal area and have coastal flood experiences. The data analysis included ordinal probit regression and descriptive analysis.
+
+
+Findings
+The results suggest that robustness is the highest weighted criterion for implementing SF design in coastal cities. The results demonstrated that ecosystem restoration is the highest-ranked SF flood solution followed by green infrastructure. Moreover, the results highlighted that age, duration spent in the program and prior knowledge of SF are significantly related to AEC students’ interest to learn this concept.
+
+
+Originality/value
+SF design anticipates failures while designing infrastructures thus minimizing failure consequences due to flood disasters. The findings can facilitate the implementation of the SF design concept during the construction of new infrastructures in coastal cities as well as educate the future workforces to contribute to developing resilient built environments.

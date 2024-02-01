@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Facing multiple risk factors, relative to single risk factor exposure early in life can have great implications for negative child development.
+
+
+Objective
+We aim to examine whether the prevalence of early risk factors is higher among children with familial high risk for schizophrenia or bipolar disorder compared to controls. Further, to investigate the association between number of early risk factors and level of functioning at age seven, and whether this possible association is different in children with familial high risk compared to controls.
+
+
+Method
+The Danish High Risk and Resilience Study VIA 7 is a population-based cohort study of children of parents diagnosed with schizophrenia (N = 202), bipolar disorder (N = 120) and controls (N = 200). We conducted a semi-structured anamnestic interview with the child’s primary caregiver to assess early risk factors from pregnancy to age four. We used the Children’s Global Assessment Scale to measure level of functioning at age seven.
+
+
+Results
+13 out of 17 risk factors were more prevalent in children at familial high risk for schizophrenia and 7 out of 17 risk factors were more prevalent in children at familial high risk for bipolar disorder compared to controls. Level of functioning decreased 2.7 (95% CI, 2.2; 3.3)-points per risk factor, but the association was not significantly different across the three groups (p = 0.09).
+
+
+Conclusions
+Our results showed that children at age seven with familial high risk for schizophrenia or bipolar disorder experience a greater number of early risk factors. A higher number of early risk factors were associated with lower level of functioning at age seven. However, the association is not different for children with familial high risk or controls.

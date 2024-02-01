@@ -1,0 +1,15 @@
+Abstract
+Background
+How to kindle the learning enthusiasm of nursing students and reduce the incidence of academic procrastination is an important factor in reducing student attrition and improving the quality of nursing education.
+
+Objectives
+To investigate the mediating role of coping style and resilience on the association between parenting styles and academic procrastination among nursing undergraduates.
+
+Methods
+A cross-sectional study of 683 nursing undergraduates was conducted in China from March to May 2022. Parenting styles, coping style, resilience, and academic procrastination were measured using questionnaires. Descriptive analysis, Pearson’s correlation analysis and Hayes' PROCESS Macro in SPSS 25.0 were used to test the model.
+
+Results
+Positive parenting style had a significantly direct effect on academic procrastination and through three significantly indirect pathways: (1) through positive coping style (B =  − 0.048, 95% CI: − 0.074 to − 0.025), accounting for 14.71% of the total effect; (2) through negative coping style (B =  − 0.044, 95% CI: − 0.071 to − 0.021), accounting for 13.64% of the total effect; and (3) through resilience (B =  − 0.074, 95% CI: − 0.107 to − 0.044), accounting for 22.82% of the total effect. Moreover, negative parenting style had a significantly direct effect on academic procrastination and through two significantly indirect pathways: (1) through negative coping style (B = 0.056, 95% CI: 0.032 to 0.086), accounting for 21.73% of the total effect, and (2) through resilience (B = 0.028, 95% CI: 0.004 to 0.055), accounting for 10.93% of the total effect.
+
+Conclusions
+Intervention measures to reduce the academic procrastination of nursing undergraduates should include the evaluations of coping styles and resilience of nursing students and cultivation strategies to promote their positive coping styles and resilience.

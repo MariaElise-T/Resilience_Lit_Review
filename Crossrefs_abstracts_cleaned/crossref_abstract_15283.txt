@@ -1,0 +1,16 @@
+Abstract
+
+Study Objectives
+To examine the rapid eye movement sleep (REM) response to mild stress as a predictor of the REM response to intense stress and brain-derived neurotrophic factor (BDNF) as a potential biomarker of stress resilience and vulnerability.
+
+
+Methods
+Outbred Wistar rats were surgically implanted with electrodes for recording electroencephalography (EEG) and electromyogram (EMG) and intraperitoneal Data loggers to record body temperature. Blood was also obtained to measure circulating BDNF. After recovery, rats were exposed to mild stress (novel chamber, NC) and later intense stress (shock training, ST), followed by sleep recording. Subsequently, rats were separated into resilient (Res; n=27) or vulnerable (Vul; n = 15) based on whether or not there was a 50% or greater decrease in REM after ST compared to baseline. We then compared sleep, freezing, and the stress response (stress-induced hyperthermia, SIH) across groups to determine the effects of mild and intense stress to determine if BDNF was predictive of the REM response.
+
+
+Results
+REM totals in the first 4 hours of sleep after exposure to NC predicted REM responses following ST with resilient animals having higher REM and vulnerable animals having lower REM. Resilient rats had significantly higher baseline peripheral BDNF compared to vulnerable rats.
+
+
+Conclusions
+These results show that outbred rats display significant differences in post-stress sleep and peripheral BDNF identifying these factors as potential markers of resilience and vulnerability prior to traumatic stress.

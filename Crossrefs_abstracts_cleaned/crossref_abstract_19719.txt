@@ -1,0 +1,15 @@
+
+Background
+In addition to their educational role, resilient schools have a good capacity in response to disasters. Due to the large student population, the schools can be a safe and secure environment during disasters, in addition to maintaining their performance after. Given the role and importance of the schools, the impact of culture and environment on resilience, without any indigenous and comprehensive tool for measuring the resilience in Iran, the study aimed to design and psychometrically evaluate the measurement tools.
+
+
+Method
+This study was conducted using a mixed-method sequential explanatory approach. The research was conducted in two main phases of production on items based on hybrid model and the psychometric evaluation of the tool. The second phase included validity (formal, content and construction) and reliability (multiplex internal similarity, consistency and reliability).
+
+
+Result
+The integration of systematic and qualitative steps resulted in entering 91 items into the pool of items. After formal and content validity, 73 items remained and 44 were omitted in exploratory factor analysis. A questionnaire with 5 factors explained 52.08% of total variance. Finally, after the confirmatory factor analysis, the questionnaire was extracted with 29 questions and 5 factors including "functional", "architectural", "equipment", "education" and "safety". Internal similarity and stability in all factors were evaluated as good.
+
+
+Conclusion
+The result showed that the 29-item questionnaire of school resilience in emergencies and disasters is valid and reliable, that can be used to evaluate school resilience. On the other hand, the questionnaire on assessment of school resilience in disasters enables intervention to improve its capacity.

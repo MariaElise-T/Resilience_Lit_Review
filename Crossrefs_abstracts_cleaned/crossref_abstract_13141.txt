@@ -1,0 +1,15 @@
+
+Purpose
+Value chain analyses that help businesses build competitive advantage must include considerations of unpredictable shocks and stressors that can create costly business disruptions. Enriching value chain analysis with considerations of system resilience, meaning the ability to recover and adapt after adverse events, can reduce the imposed costs of such disruptions.
+
+
+Design/methodology/approach
+The paper provides a perspective on resilience as both an expansion and complement of risk analysis. It examines applications of both concepts within current value chain literature and within supply chain literature that may inform potential directions or pitfalls for future value chain investigations. Established frameworks from the broader field of resilience research are proposed for value chain resilience analysis and practice.
+
+
+Findings
+The synthesis reveals a need to expand value chain resilience analysis to incorporate phases of system disruption. Current explorations in the literature lack an explicit acknowledgement and understanding of system-level effects related to interconnectedness. The quantification methods proposed for value chain resilience analysis address these gaps.
+
+
+Originality/value
+Using broader resilience conceptualizations, this paper introduces the resilience matrix and three-tiered resilience assessment that can be applied within value chain analyses to better safeguard long-term business feasibility despite a context of increasing threats.

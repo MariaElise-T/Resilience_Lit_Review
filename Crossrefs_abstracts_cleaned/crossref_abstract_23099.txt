@@ -1,0 +1,12 @@
+Abstract
+
+Background
+Climate change is expected to have a negative impact on food availability. While most efforts have been directed to reducing greenhouse gas emissions, complementary strategies are necessary to control the detrimental effects of climate change on farm animal performance. The objective of this study was to develop novel animal resilience phenotypes using reaction norm slopes, and examine their genetic and genomic parameters. A closely monitored dairy goat population was used for this purpose.
+
+
+Results
+Individual animals differed in their response to changing atmospheric temperature and a temperature-humidity index. Significant genetic variance and heritability estimates were derived for these animal resilience phenotypes. Furthermore, some resilience traits had a significant unfavourable genetic correlation with animal performance. Genome-wide association analyses identified several candidate genes related to animal resilience to environment change.
+
+
+Conclusions
+Heritable variation exists among dairy goats in their production response to fluctuating weather variables. Results may inform future breeding programmes aimed to ensure efficient animal performance under changing climatic conditions.

@@ -1,0 +1,15 @@
+
+Aims:
+The present study aims at validating the RSA and examining its incremental validity as a predictor of depression as measured by Beck Depression Inventory (BDI).
+
+
+Methods:
+150 healthy participants completed the RSA, Sense of Coherence Scale (SOC), and Beck Depression Inventory (BDI). After ensuring the psychometric properties of the RSA, SOC, and BDI, 220 Egyptian students were recruited from Minia University to fill in the RSA and BDI in order to assess the potential capacity of the RSA to predict depression.
+
+
+Results:
+Confirmatory factor analysis indicated that the 5-factor structure model fitted well and the goodness of fit indices were within the acceptable limits. Construct validity was shown by a positive correlation between the RSA and the SOC, and a negative correlation with the BDI. The RSA and its subscales significantly predicted the BDI even when accounting for age and gender.
+
+
+Conclusion:
+The RSA is a valid and reliable instrument for measuring resilience in the Egyptian sample and it could be useful for measurement and intervention. The findings highlight the incremental validity of the RSA as a good predictor of depression.

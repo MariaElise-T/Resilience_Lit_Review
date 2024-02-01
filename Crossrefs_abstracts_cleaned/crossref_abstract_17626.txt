@@ -1,0 +1,22 @@
+
+Background:
+            Research has reported that measures of resilience, such as optimism, social support, and religious coping are positively associated with longevity, but there are limited studies on the genetic contribution of resilience among African Americans. Utilizing Jackson Heart Study (JHS) data, we examined the heritability estimates of markers of resilience and their association with proportion of West African genetic ancestry (pAfr) in order to understand familial patterns of resilience among African Americans.
+          
+
+Hypothesis:
+            We hypothesized that genetic variation would contribute significantly to variation in indicators of resilience, and that pAfr will be positively associated with greater resilience in African Americans.
+          
+
+Methods:
+            Resilience measures (optimism, social support, social networks, religious experiences, and religious practices and coping) were obtained from validated questionnaires. Scores were created for each resilience measure and then all measures were summed to create a total resilience score among 1,200 related and 1,456 unrelated individuals of the JHS cohort. We then analyzed the subset of related individuals to estimate polygenic heritability for resilience measures using Sequential Oligogenic Linkage Analysis Routines (SOLAR), and evaluated the subset of unrelated participants for the association between resilience and pAfr using a multiple linear regression model. The pAfr was estimated from more than 1,400 ancestry informative markers that differentiate West African genetic ancestry from European ancestry using HAPMIX genetic software. In both analyses, we controlled for age, sex, age-by-sex interaction, education, physical activity, smoking and depressive symptoms.
+          
+
+Results:
+            In related individuals, we found a significant proportion of variation (h
+            2
+            ±SE; p-value) due to familial correlation on religious practices and coping (0.15±0.09; p=0.0371); religious experience (0.26±0.09; p<0.001); social networks (0.32±0.07; p<0.001); and optimism (0.21±0.08; p<0.001). Heritability estimates for total resilience and social support were not significant. In the subset of unrelated individuals, we found that pAfr was significantly associated (beta±SE; p-value) with total resilience (3.08±1.44; p=0.0327), religious experience (5.16±2.55; p=0.0437), and religious practices and coping (3.77±1.23; p=0.0023) in men but not in women.
+          
+
+Conclusion:
+            In this sample of African Americans, we found evidence that variation in markers of resilience are influenced by genetic ancestry and sex. West African genetic background was associated with markers of resilience in men only. Due to lack of household effects we could not account for influence of the common environment, which is a limitation of these findings. However, because we found genetic influences of resilience, future studies that explore associations with longevity loci are warranted.
+          

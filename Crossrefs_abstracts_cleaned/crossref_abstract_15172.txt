@@ -1,0 +1,12 @@
+Abstract
+Background
+Despite an emerging consensus on the importance of resilience as a framework for understanding the healthcare system, the operationalization of resilience in healthcare has become an area of continuous discussion, and especially so when seeking operationalization across different healthcare contexts and healthcare levels. Different indicators for resilience in healthcare have been proposed by different researchers, where some indicators are coincident, some complementary, and some diverging. The overall aim of this article is to contribute to this discussion by synthesizing knowledge and experiences from studies in different healthcare contexts and levels to provide holistic understanding of capacities for resilience in healthcare.
+
+Methods
+This study is a part of the first exploratory phase of the Resilience in Healthcare programme. The exploratory phase has focused on screening, synthesising, and validating results from existing empirical projects covering a variety of healthcare settings. We selected the sample from several former and ongoing research projects across different contexts and levels, involving researchers from SHARE, the Centre for Resilience in Healthcare in Norway. From the included projects, 16 researchers participated in semi-structured interviews. The dataset was analysed in accordance with grounded theory.
+
+Results
+Ten different capacities for resilience in healthcare emerged from the dataset, presented here according to those with the most identified instances to those with the least: Structure, Learning, Alignment, Coordination, Leadership, Risk awareness, Involvement, Competence, Facilitators and Communication. All resilience capacities are interdependent, so effort should not be directed at achieving success according to improving just a single capacity but rather at being equally aware of the importance and interrelatedness of all the resilience in healthcare capacities.
+
+Conclusions
+A conceptual framework where the 10 different resilience capacities are presented in terms of contextualisation and collaboration was developed. The framework provides the understanding that all resilience capacities are associated with contextualization, or collaboration, or both, and thereby contributes to theorization and guidance for tailoring, making operationalization efforts for the identified resilience capacities in knowledge translation. This study therefore contributes with key insight for intervention development which is currently lacking in the literature.

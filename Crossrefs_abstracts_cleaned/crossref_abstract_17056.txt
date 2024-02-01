@@ -1,0 +1,12 @@
+Abstract
+Introduction
+Under globalization, human settlement has become a major risk factor affecting life. The relationship between humans and the environment is crucial for improving community resilience and coping with globalization. This study focuses on the key contradictions of community development under globalization, exploring community resilience by analyzing the mismatch between residents' health activities and the environment.
+
+Methods
+Using data from Shanghai downtown, including land use, Sports app, geospatial and urban statistics, this paper constructs a comprehensive community resilience index (CRI) model based on the DPSIR model. This model enables quantitative analysis of the spatial and temporal distribution of Community Human Settlement Resilience (CR). Additionally, the paper uses geodetector and Origin software to analyze the coupling relationship between drivers and human settlement resilience.
+
+Results
+i) The scores of CR showed a "slide-shaped" fluctuation difference situation; ii) The spatial pattern of CR showed a "pole-core agglomeration and radiation" type and a "ring-like agglomeration and radiation" type. iii) Distance to bus stops, average annual temperature, CO2 emissions, building density and number of jogging trajectories are the dominant factors affecting the resilience level of community human settlement.
+
+Conclusion
+This paper contributes to the compilation of human settlement evaluation systems globally, offering insights into healthy community and city assessments worldwide. The findings can guide the creation of similar evaluation systems and provide valuable references for building healthy communities worldwide.

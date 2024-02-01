@@ -1,0 +1,16 @@
+Abstract
+
+Objective:
+This study is designed to measure the prevalence and severity of menopausal symptoms at different substages of perimenopause, as well as the relationships of these symptoms with social support and resilience in perimenopausal women.
+
+
+Methods:
+A convenience sample of 732 perimenopausal women was recruited from 3 communities of Jinan City, Shandong Province, China, between March 2015 and March 2017. The participants completed the Menopause Rating Scale, the 10-item Connor-Davidson Resilience Scale, the Perceived Social Support Scale, and a questionnaire regarding sociodemographic information.
+
+
+Results:
+Of all perimenopausal women surveyed, 76.4% reported menopausal symptoms. The prevalence and severity of menopausal symptoms differed significantly by different substages of perimenopause (all P < 0.001); the severity of menopausal symptoms was the least during the early menopausal transition substage and the most during the early postmenopausal substage. Multivariable-adjusted linear regression showed that family support (β = −0.169 to −0.240, P < 0.001) and resilience (β = −0.140 to −0.202, P < 0.001) were negatively associated with the total and subscale scores of the Menopause Rating Scale, and higher family support and resilience had fewer menopausal symptoms.
+
+
+Conclusions:
+The present findings suggest that menopausal symptoms vary across different substages of perimenopause. Furthermore, higher family support and resilience were significantly associated with fewer menopausal symptoms, which might be helpful for medical staff to identify these symptoms and seek appropriate preventive intervention.

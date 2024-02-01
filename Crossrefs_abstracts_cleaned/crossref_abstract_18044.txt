@@ -1,0 +1,12 @@
+Abstract
+Introduction
+Turnover intention among nurses has risen in an alarming rate since the onset of the pandemic. There are various underlying factors to turnover intention. The present study aims to determine the effect of a number of mental factors on nurses’ professional-turnover intention through two modulators of stress and resilience over COVID-19 period.
+
+Methods
+The current cross-sectional study was conducted at three hospitals in Khuzestan Province, southern Iran, during the winter of 2021. To collect the data, given the restrictions in place during COVID-19 period, the web link of electronic self-reported questionnaires (including general health, mental workload, work-family conflict, resilience, job stress, corona fear, and turnover intention) were sent to 350 nurses through e-mail and other social media (WhatsApp and Telegram). Accordingly, they were asked to complete the questionnaire during rest periods within two weeks. Totally, 300 people (85% participation) filled out the questionnaires. Finally, a model was constructed in the Amos software.
+
+Results
+The results showed that the four independent parameters of decreasing general health, increasing mental workload, increasing WFCs and fear of COVID-19 can indirectly increase nurses’ turnover intention by increasing job stress. Among these variables, the highest indirect effect coefficient on turnover intention was related to the general health parameter (-0.141). The results also demonstrated a negative correlation between job stress and resilience, with lower resilience raising job stress and, consequently, increasing intention to quit the job.
+
+Conclusion
+Mental factors affecting turnover intension were identified in this study through path analysis. Therefore, it is recommended that the required resilience-enhancing measures to be taken by hospitals and nursing administrations to reduce psychological pressures caused by mentioned variables with the aim of minimizing job-related stress and fostering nurse retention.

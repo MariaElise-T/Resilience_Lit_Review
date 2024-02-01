@@ -1,0 +1,12 @@
+Abstract
+Objective
+Restrictive measures consequent to the COVID-19 pandemic have had a significant psychological impact on everyday life in the general population, even though differences between countries remain poorly investigated. The present study sought to examine the different psychological impacts and resilience of the pandemic among three of the most heavily hit countries: Brazil, Italy, and the United States.
+
+Methods
+This cross-sectional study separately involved three national community populations, namely the Brazilian, the Italian, and the American population. Participants aged 18 years or older were recruited through a shared online survey. Participants self-completed the Connor-Davidson Resilience Scale (CD-RISC-10) and the Center for Epidemiological Studies-Depression Scale (CES-D); post-traumatic stress was additionally assessed using the Impact of Event Scale—Revised (IES-R). Three separate Analyses of Covariance (ANCOVA) were performed in order to investigate differences in the levels of resilience, post-traumatic stress, and depression among the three populations.
+
+Results
+The study included in total 734 participants (mean age = 27.60 ± 11.69 years; 77% of females). Results of ANCOVA comparisons showed significant differences between the three groups in the variable measuring resilience, post-traumatic stress symptoms, and depression. As for resilience, results of post-hoc tests showed significant differences between the groups from Brazil and Italy and between the groups from Brazil and USA. As for the post-traumatic stress symptoms, results showed significant differences between the USA and Brazil groups and between the USA and Italy groups. As for the depression symptoms, results showed significant differences between the USA and Brazil groups.
+
+Conclusions
+Overall, these findings may help to increase understanding of the psychological impact of COVID-19 in Brazil, Italy, and the USA. Interventions to prevent mental disorders among general populations should take into account these findings.

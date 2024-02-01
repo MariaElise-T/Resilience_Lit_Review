@@ -1,0 +1,12 @@
+Abstract
+Background
+Health systems resilience (HSR) research is a rapidly expanding field, in which key concepts are discussed and theoretical frameworks are emerging with vibrant debate. Fragile and conflict-affected settings (FCAS) are contexts exposed to compounding stressors, for which resilience is an important characteristic. However, only limited evidence has been generated in such settings. We conducted a scoping review to: (a) identify the conceptual frameworks of HSR used in the analysis of shocks and stressors in FCAS; (b) describe the representation of different actors involved in health care governance and service provision in these settings; and (c) identify health systems operations as they relate to absorption, adaptation, and transformation in FCAS.
+
+Methods
+We used standard, extensive search methods. The search captured studies published between 2006 and January 2022. We included all peer reviewed and grey literature that adopted a HSR lens in the analysis of health responses to crises. Thematic analysis using both inductive and deductive approaches was conducted, adopting frameworks related to resilience characteristics identified by Kruk et al., and the resilience capacities described by Blanchet et al.
+
+Results
+Thirty-seven studies met our inclusion criteria. The governance-centred, capacity-oriented framework for HSR emerged as the most frequently used lens of analysis to describe the health responses to conflict and chronic violence specifically. Most studies focused on public health systems’ resilience analysis, while the private health sector is only examined in complementarity with the former. Communities are minimally represented, despite their widely acknowledged role in supporting HSR. The documentation of operations enacting HSR in FCAS is focused on absorption and adaptation, while transformation is seldom described. Absorptive, adaptive, and transformative interventions are described across seven different domains: safety and security, society, health system governance, stocks and supplies, built environment, health care workforce, and health care services.
+
+Conclusions
+Our review findings suggest that the governance-centred framework can be useful to better understand HSR in FCAS. Future HSR research should document adaptive and transformative strategies that advance HSR, particularly in relation to actions intended to promote the safety and security of health systems, the built environment for health, and the adoption of a social justice lens.

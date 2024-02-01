@@ -1,0 +1,16 @@
+ABSTRACT
+
+Background:
+Poor well-being among health care workers, often observed as professional burnout, is a well-documented phenomenon. The coronavirus disease 2019 (COVID-19) pandemic has further stressed the health care workforce, but its specific effects on this workforce remain unknown. This study examined well-being and resilience among health care workers during the COVID-19 pandemic.
+
+
+Methods:
+The study used a cross-sectional survey design. Data collection took place through anonymous surveys of nurses (LPNs and RNs), advanced practice providers (NPs, physician assistants, and certified nurse midwives), certified registered nurse anesthetists, respiratory therapists, health care technicians, and therapy service professionals (physical, occupational, and speech therapists). Of the 6,120 health care workers recruited to participate in the study, data from 2,459 participants were analyzed using logistic regression and linear regression.
+
+
+Results:
+The study found that several factors significantly increased the likelihood of at-risk well-being. These included having a lower level of resilience, using support resources, feeling the organization lacked understanding of the emotional support needs of health care workers during the pandemic, believing the workload had increased, believing there was insufficient personal protective equipment, believing there was inadequate staffing to safely care for patients, and having a lower degree of psychological safety. After controlling for health care workers' role and employment location, several factors were found to be significantly associated with higher levels of resilience. These included having positive perceptions about the organization's understanding of the emotional support needs of health care workers during the pandemic, believing sufficient educational resources were available regarding the care of COVID-19 patients, having positive perceptions of leadership support from direct managers, having positive perceptions of the redeployment policy, and having a higher degree of psychological safety.
+
+
+Conclusions:
+This study identified several work environment factors that have significantly affected health care workers' well-being and resilience during the COVID-19 pandemic. This knowledge has practical relevance for health care leaders who aim to better understand and address the well-being and resilience of the health care workforce during this pandemic and beyond.

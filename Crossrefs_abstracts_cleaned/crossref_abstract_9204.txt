@@ -1,0 +1,20 @@
+Abstract
+
+Background
+Resilience is an important protective factor for psychological wellbeing. According to the previous literature, physical activity level and digital game playing are likely to impact anxiety level.
+
+
+Objective
+The present study aimed to identify the role of resilience, doing physical activity, and playing digital games on gifted children's anxiety levels during the Pandemic period in 2021 in Turkey.
+
+
+Method
+The sample consisted of 199 gifted students. Anxiety was measured using the Spielberger's State Anxiety Inventory. Resilience was measured using The Brief Resilience Scale. The physical activity and online/digital game-playing were measured using two open-ended questions.
+
+
+Results
+Results provided evidence that resilience had a strong negative association with anxiety among gifted students during the Pandemic period (β = -.59, p<.001). Doing physical activity was associated with anxiety among gifted boys (β = -.16, p<.001) but not girls. Finally, digital game playing was associated with anxiety among neither girls nor boys.
+
+
+Conclusions
+These results reflected the importance of resilience for anxiety.

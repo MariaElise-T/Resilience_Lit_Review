@@ -1,0 +1,13 @@
+
+            To understand how high rates of churn and random departure decisions of end-users affect connectivity of P2P networks, this paper investigates resilience of random graphs to lifetime-based node failure and derives the expected delay before a user is forcefully isolated from the graph and the probability that this occurs within his/her lifetime. Our results indicate that systems with heavy-tailed lifetime distributions are more resilient than those with light-tailed (e.g., exponential) distributions and that for a given average degree,
+            k
+            -regular graphs exhibit the highest resilience. As a practical illustration of our results, each user in a system with
+            n
+            = 100 billion peers, 30-minute average lifetime, and 1-minute node-replacement delay can stay connected to the graph with probability 1 - 1
+            n
+            using only 9 neighbors. This is in contrast to 37 neighbors required under previous modeling efforts. We finish the paper by showing that many P2P networks are
+            almost surely
+            (i.e., with probability 1-
+            o
+            (1)) connected if they have no isolated nodes and derive a simple model for the probability that a P2P system partitions under churn.
+          

@@ -1,0 +1,13 @@
+Background: Research has documented many geographic inequities in health. Research has also documented that the way one thinks about health and quality of
+life (QOL) affects one’s experience of health, treatment, and one’s ability to cope with health problems.
+Purpose: We examined United-States (US) regional differences in QOL appraisal (i.e., the way one thinks about health and QOL), and whether resilience-appraisal
+relationships varied by region.
+Methods: Secondary analysis of 3,955 chronic-disease patients and caregivers assessed QOL appraisal via the QOL Appraisal Profile-v2 and resilience via the Centers for
+Disease Control Healthy Days Core Module. Covariates included individual-level and aggregate-level socioeconomic status (SES) characteristics. Zone improvement plan
+(ZIP) code was linked to publicly available indicators of income inequality, poverty, wealth, population density, and rurality. Multivariate and hierarchical residual modeling
+tested study hypotheses that there are regional differences in QOL appraisal and in the relationship between resilience and appraisal.
+Results: After sociodemographic adjustment, QOL appraisal patterns and the appraisal-resilience connection were virtually the same across regions. For resilience,
+sociodemographic variables explained 26 % of the variance; appraisal processes, an additional 17 %; and region and its interaction terms, just an additional 0.1 %.
+Conclusion: The study findings underscore a geographic universality across the contiguous US in how people think about QOL, and in the relationship between appraisal and
+resilience. Despite the recent prominence of divisive rhetoric suggesting vast regional differences in values, priorities, and experiences, our findings support the commonality
+of ways of thinking and responding to life challenges. These findings support the wide applicability of cognitive-based interventions to boost resilience.

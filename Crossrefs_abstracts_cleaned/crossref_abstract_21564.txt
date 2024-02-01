@@ -1,0 +1,27 @@
+
+Background
+Law enforcement officers are routinely exposed to hazardous, disturbing events that can impose severe stress and long-term psychological trauma. As a result, police and other public safety personnel (PSP) are at increased risk of developing posttraumatic stress injuries (PTSIs) and disruptions to the autonomic nervous system (ANS). ANS functioning can be objectively and noninvasively measured by heart rate (HR), heart rate variability (HRV), and respiratory sinus arrhythmia (RSA). Traditional interventions aimed at building resilience among PSP have not adequately addressed the physiological ANS dysregulations that lead to mental and physical health conditions, as well as burnout and fatigue following potential psychological trauma.
+
+
+Objective
+In this study, we will investigate the efficacy of a web-based Autonomic Modulation Training (AMT) intervention on the following outcomes: (1) reducing self-reported symptoms of PTSI, (2) strengthening ANS physiological resilience and wellness capacity, and (3) exploring how sex and gender are related to baseline differences in psychological and biological PTSI symptoms and response to the AMT intervention.
+
+
+Methods
+The study is comprised of 2 phases. Phase 1 involves the development of the web-based AMT intervention, which includes 1 session of baseline survey measures, 6 weekly sessions that integrate HRV biofeedback (HRVBF) training with meta-cognitive skill practice, and 1 session of follow-up survey measures. Phase 2 will use a cluster randomized control design to test the effectiveness of AMT on the following prepost outcomes: (1) self-report symptoms of PTSI and other wellness measures; (2) physiological indicators of health and resilience including resting HR, HRV, and RSA; and (3) the influence of sex and gender on other outcomes. Participants will be recruited for an 8-week study across Canada in rolling cohorts.
+
+
+Results
+The study received grant funding in March 2020 and ethics approval in February 2021. Due to delays related to COVID-19, phase 1 was completed in December 2022, and phase 2 pilot testing began in February 2023. Cohorts of 10 participants in the experimental (AMT) and control (prepost assessment only) groups will continue until a total of 250 participants are tested. Data collection from all phases is expected to conclude in December 2025 but may be extended until the intended sample size is reached. Quantitative analyses of psychological and physiological data will be conducted in conjunction with expert coinvestigators.
+
+
+Conclusions
+There is an urgent need to provide police and PSP with effective training that improves physical and psychological functioning. Given that help-seeking for PTSI is reduced among these occupational groups, AMT is a promising intervention that can be completed in the privacy of one’s home. Importantly, AMT is a novel program that uniquely addresses the underlying physiological mechanisms that support resilience and wellness promotion and is tailored to the occupational demands of PSP.
+
+
+Trial Registration
+ClinicalTrials.gov NCT05521360; https://clinicaltrials.gov/ct2/show/NCT05521360
+
+
+International Registered Report Identifier (IRRID)
+PRR1-10.2196/33492

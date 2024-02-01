@@ -1,0 +1,13 @@
+Abstract
+Background
+Family is one of the most influential social institutions and caregivers act as the main protective factors for children’s mental health and resilience skills. Family skills programmes support caregivers to be better parents and strengthen positive age-specific and age-appropriate family functioning and interactions. We developed a universal, brief and light programme for implementation in low-resource settings, the Family UNited (FU) programme, and conducted a pilot study to show feasibility of implementation, replicability and effectiveness in improving family functioning, child behaviour and resilience.
+
+Methods
+We recruited caregivers with children aged 8–14 years through schools in East Java, Indonesia and Dhaka, Bangladesh to the FU programme. Demographic data, emotional and behavioural difficulties of children, child resilience and parental skills and family adjustment measures were collected from children and caregivers before, 2 and 6 weeks after the intervention. Outcome was assessed through the SDQ (Strengths and Difficulties Questionnaire), PAFAS (Parenting and Family Adjustment Scales) and CYRM-R (Child and Youth Resilience Measure).
+
+Results
+We enrolled 29 families in Bangladesh and allocated 37 families to the intervention and 33 to the control group in Indonesia. Overall, there was no effect over time in the control group on any of the PAFAS subscales, whereas significant reductions in scores were found on six of the seven subscales in either country in the intervention group, most prominently in caregivers with higher scores at baseline. We found highly significant reductions in total SDQ scores in the intervention group in both countries, whereas there was no effect over time in the control group in Indonesia. Boys in the intervention group in Indonesia and in Bangladesh seemed to have benefitted significantly on the SDQ as well as the total resilience scale. Overall, on the CYRM-R, particularly children below the 33rd percentile at pre-test benefitted substantially from the programme.
+
+Conclusions
+The implementation of a brief family skills programme was seemingly effective and feasible in resource-limited settings and positively improved child mental health, resilience and parenting practices and family adjustment skills. These results suggest the value of such a programme and call for further validation through other methods of impact assessment and outcome evaluation.
+Trial registration: Clinical Trial Registration: ISRCTN99645405, retrospectively registered, 22 September, 2022.

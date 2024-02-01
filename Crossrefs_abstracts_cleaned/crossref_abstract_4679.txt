@@ -1,0 +1,28 @@
+
+Background:
+The nursing shortage has been deemed a public health crisis as the turnover rate of newly licensed graduate nurses (NLGNs) continues to grow. One of five NLGNs are leaving the profession due to work dissatisfaction and feelings of inadequacy, risking patient safety.
+
+
+Method:
+
+              A prospective, randomized controlled trial evaluated the impact of a 6-week digital intervention (text messaging) on NLGNs' self-reported stress, resiliency, sense of support, and intention to leave their jobs, organization, and profession. Messages to the experimental group (
+              n
+              = 10) conveyed emotional, esteem, and networking support, and messages to the control group (
+              n
+              = 11) were medical facts.
+            
+
+
+Results:
+The digital intervention in the form of medical facts increased the control group's sense of social support. Stress, resilience, and intention to leave their jobs, organizations, or profession did not change for either the control or experimental group.
+
+
+Conclusion:
+
+              A digital intervention, such as text messaging, potentially can increase NLGNs' sense of support during their first year of hire.
+              
+                [
+                J Contin Educ Nurs
+                . 2021;52(8):367–374.]
+              
+

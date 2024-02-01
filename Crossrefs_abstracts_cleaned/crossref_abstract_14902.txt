@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this paper is to evaluate the importance and contribution of human capital, combined with human resources and research and development (R&D) measures, to nurturing company resilience as new knowledge and human capital artifices to face challenges derived from globalization, competitiveness, and the knowledge-based economy.
+
+
+Design/methodology/approach
+By means of structural equation modeling with latent variables, a new type of synthetic index is developed, with which the evolution and incidence of human capital structure, human resources development, and R&D in the company’s accumulated resiliency can be tested.
+
+
+Findings
+The results indicate a remarkable contribution of human capital to company resilience (standardized path coefficient 0.8365; p<0.0001 and R2=0.7486). Differences in company-nurtured resilience are related to categories such as productivity, products diversification, human capital structure, human resources management, innovation results, technology, and a productive environment.
+
+
+Research limitations/implications
+The main limitation is that the applied literature on this topic is scarce in economics and focused on company survival.
+
+
+Practical implications
+Management for resilience requires the development of the ability to balance efficiency in the short term with adaptability in the medium and long term. Recruitment and training and development policies should consider the role of emotions and motivation in creative thinking and innovation.
+
+
+Originality/value
+Most research on the topic has been conducted within the ecological resilience approach. The adaptive resilience approach is considered an integrated framework based on the internal perspective of company capabilities, the theory of complex adaptive systems, and the Schultz-Nelson/Phelps view on human capital.

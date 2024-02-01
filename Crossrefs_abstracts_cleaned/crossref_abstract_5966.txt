@@ -1,0 +1,23 @@
+
+Purpose
+This study aims to investigate the collective perception regarding the future of offshore platforms and frame the main categories of meanings associated by the community with the investigated phenomenon.
+
+
+Design/methodology/approach
+A data driven approach has been conducted. The collection of the peoples’ opinions has been realized on two specific social network communities as follows: Twitter and Instagram. The text mining processes carried out a sentiment and a cluster analysis.
+
+
+Findings
+The sentiment analysis of the most frequent words has been shown. The following four main homogeneous categories of words are emerged in relation to the decommissioning of offshore platforms: technological areas, green governance (GG), circular economy and socio-economic sphere.
+
+
+Research limitations/implications
+The alternative use of the offshore platforms, including tourism initiatives, aquaculture, alternative energy generation, hydrogen storage and environmental research, could improve the resilience of communities by offering the development of new jobs and the growth of local and innovative green businesses.
+
+
+Practical implications
+The adoption of a circular model and GG initiatives aims to limit the input of resources and energy, minimize waste and losses, adopt a sustainable approach and realize new social and territorial value.
+
+
+Originality/value
+The analysis underlines the importance to adopt a systems perspective, which takes into account the social, economic and environmental system as a whole, the different phenomena that occur and the variety of categories of stakeholders, from users to local governments that participate in the territorial development.

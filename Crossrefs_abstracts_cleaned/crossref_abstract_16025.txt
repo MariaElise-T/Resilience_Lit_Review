@@ -1,0 +1,19 @@
+
+Purpose
+The purpose of this paper is to understand the role of resilience enablers in combating counterfeits in the medicine supply chain based on a Systematic Literature Review (SLR). The objective is also to help practitioners and scholars as the review revealed that little research has been conducted on selecting and implementing practices to improve resilience to counterfeiting.
+
+
+Design/methodology/approach
+Based on the literature review, a content analysis was performed for 84 selected papers to explore the potential relationship among resilience enablers and counterfeit anti-measures.
+
+
+Findings
+This paper contributes to Supply Chain Resilience (SCR) research by summarizing the highly fragmented literature concerning how to combat counterfeiting. The SLR indicated reengineering, collaboration, visibility, innovation, SCR culture and trust as six key enablers to combat counterfeit medicines and identified literature gaps. Moreover, the paper discusses other resilience enablers which have been less studied in the literature and shows new avenues of research.
+
+
+Research limitations/implications
+This paper is limited in that it is an exploratory literature review and focuses only on three databases over the past 15 years. Furthermore, counterfeit is a rapidly evolving issue and anti-measure studies require frequent surveillance concerning new discoveries.
+
+
+Originality/value
+The main contribution of this paper is to provide a better understanding of enablers most often associated with counterfeit anti-measures, which, therefore, might help to increase resilience to counterfeit medicines. Moreover, research gaps involving enablers less associated with anti-measures are presented.

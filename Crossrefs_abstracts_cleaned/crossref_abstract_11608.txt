@@ -1,0 +1,12 @@
+Abstract
+Background
+The outbreak of coronavirus disease 2019 (COVID-19) caused an increase in the incidence of physical and psychological problems, particularly in the older adult. Considering the special physical and mental health conditions of the older adult, they were more exposed to psychological problems associated with the pandemic, such as death anxiety. Therefore, assessing the psychological status of this group is necessary in order to implement appropriate interventions. The present study aimed to investigate the relationship between resilience and death anxiety in the older adult during the COVID-19 pandemic.
+
+Methods
+This descriptive-analytical study was conducted on 283 older adult people over the age of 60 years. The older adult population was selected from 11 municipal districts of Shiraz, Iran, using the cluster sampling method. The resilience and death anxiety scales were used for data collection. Data analysis was performed in SPSS version 22, using Chi-square test, t-test, and Pearson’s correlation coefficient test. A P-value less than 0.05 was considered statistically significant.
+
+Results
+The mean and standard deviation of the older adult’s resilience and death anxiety scores were 64.16 ± 9.59 and 6.3 ± 2.95, respectively. There was a significant correlation between resilience and death anxiety scores (P < 0.01, r=-0.290). Also, sex (P = 0.00) and employment status (P = 0.00) were significantly associated with the older adult’s resilience. Besides, sex (P = 0.010) and employment status (P = 0.004) were significantly related to death anxiety.
+
+Conclusions
+Our findings showcase levels of resilience and death anxiety in older adults during the covid-19 pandemic and suggest that resilience and death anxiety are inversely linked. This has implications on policy planning for future major health events.

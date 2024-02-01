@@ -1,0 +1,15 @@
+
+Purpose
+This study aims to conduct a complete bibliometric analysis of published research to develop a solid roadmap for future research into developing young adults’ mental health and resilience and to further the body of knowledge and scientific advancement in this area.
+
+
+Design/methodology/approach
+A literature search using VOSviewer, through Web of Science, was conducted to identify young adult mental health and resilience studies. A total of 226 studies were identified between 1993 and the end of June 2022, as the number of published studies increased. Extracted data included citation, co-citation, keyword and co-word analyses.
+
+
+Findings
+This study evaluates the current knowledge structure of young adult mental health and resilience through co-citation analysis and discovers the directions and trends of popular topics in young adult mental health and resilience through co-word analysis. It suggests that legislators and physicians should aim to provide social support via screening and interventions, especially for young adults struggling with disruption in their social lives.
+
+
+Originality/value
+Using a bibliometric approach, the findings provide a robust roadmap for further investigation into young adult mental health and resilience evolution. This method will further advance the knowledge and progress of this field, as this research is the first attempt at doing so – to the best of the authors’ knowledge.

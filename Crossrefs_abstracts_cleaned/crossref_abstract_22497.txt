@@ -1,0 +1,10 @@
+Estimating resilience in complex systems
+
+            Resilience is an important concept in the study of critical transitions and tipping points in complex systems and is defined by the size of the disturbance that a system can endure before tipping into an alternative stable state. Nevertheless, resilience has proved resistant to measurement. Arani
+            et al.
+            show how the mathematical concept of mean exit time, the time it takes for a system to cross a threshold, can help to solve this problem and characterize the resilience of complex systems. They derived a model approach to estimate exit time from time series data and applied it to examples from a grazed plant population model, lake cyanobacterial data, and Pleistocene-Holocene climate data. This approach may improve our understanding of the dynamical properties of complex systems under threat.
+          
+
+Science
+            , aay4895, this issue p.
+            eaay4895

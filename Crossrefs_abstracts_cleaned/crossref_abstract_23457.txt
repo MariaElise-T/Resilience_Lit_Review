@@ -1,0 +1,12 @@
+Abstract
+Background
+Increasing resilience is a priority in modern pig breeding. Recent research shows that general resilience can be quantified via variability in longitudinal data. The collection of such longitudinal data on weight, feed intake and feeding behaviour in pigs has been facilitated by the development of technologies such as automated feeding stations.
+
+The goal of this study was to investigate resilience traits, which were estimated as deviations from longitudinal weight, feed intake and feeding behaviour data during the finishing phase. A dataset with 324,207 records between the age of 95 and 155 days on 5,939 Piétrain pigs with known pedigree and genomic information was used. We provided guidelines for a rigid quality control of longitudinal body weight data, as we found that outliers can significantly affect results. Gompertz growth curve analysis, linear modelling and trajectory analyses were used for quantifying resilience traits.
+
+Results
+To our knowledge, this is the first study comparing resilience traits from longitudinal body weight, feed intake and feeding behaviour data in pigs. We demonstrated that the resilience traits are lowly to moderately heritable for deviations in body weight (h2 = 2.9%–20.2%), in feed intake (9.4%–23.3%) and in feeding behaviour (16.2%–28.3%). Additionally, these traits have good predictive abilities in cross-validation analyses. Deviations in individual body weight and feed intake trajectories are highly correlated (rg = 0.78) with low to moderate favourable genetic correlations with feed conversion ratio (rg = 0.39–0.49). Lastly, we showed that some resilience traits, such as the natural logarithm of variances of observed versus predicted body weights (lnvarweight), are more robust to lower observation frequencies and are repeatable over three different time periods of the finishing phase.
+
+
+Conclusions
+Our results will help future studies investigating resilience traits and resilience-related traits. Moreover, our study provides first results on standardization of quality control and efficient data sampling from automated feeding station data. Our findings will be valuable for breeding organizations as they offer evidence that pigs’ general resilience can be selected on with good accuracy. Moreover, this methodology might be extended to other species to quantify resilience based on longitudinal data.

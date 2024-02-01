@@ -1,0 +1,15 @@
+
+Purpose
+The purpose of this study is to investigate the role of procurement digitalization in reducing uncertainty in the supply chain (SC) and how it relates to mitigating SC risks and improving SC resilience (SCRES).
+
+
+Design/methodology/approach
+Based on survey data collected from the procurement functions of 147 Finnish firms, this study conceptualizes data analytics, information sharing and procurement process digitalization as drivers of procurement digitalization and investigates their impact on SC risk management and SCRES by using partial least squares path modeling.
+
+
+Findings
+Procurement digitalization through data analytics and digital process maturity requires effective information sharing among SC partners and SC risk management to be able to improve SCRES. Procurement digitalization increases information-processing capacities and reduces uncertainty in the SC.
+
+
+Originality/value
+This study contributes to the understanding on the relationships between procurement digitalization and SCRES.

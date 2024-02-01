@@ -1,0 +1,12 @@
+Abstract
+Background
+Porcine reproductive and respiratory syndrome (PRRS) remains one of the most important infectious diseases for the pig industry. A novel small-scale transmission experiment was designed to assess whether the WUR0000125 (WUR for Wageningen University and Research) PRRS resilience single nucleotide polymorphism (SNP) confers lower susceptibility and infectivity to pigs under natural porcine reproductive and respiratory syndrome virus (PRRSV-2) transmission.
+
+Methods
+Commercial full- and half-sib piglets (n = 164) were assigned as either Inoculation, Shedder, or Contact pigs. Pigs were grouped according to their relatedness structure and WUR genotype, with R− and R+ referring to pigs with zero and one copy of the dominant WUR resilience allele, respectively. Barcoding of the PRRSV-2 strain (SD09-200) was applied to track pig genotype-specific transmission. Blood and nasal swab samples were collected and concentrations of PRRSV-2 were determined by quantitative (q)-PCR and cell culture and expressed in units of median tissue culture infectious dose (TCID50). The Log10TCID50 at each sampling event, derived infection status, and area under the curve (AUC) were response variables in linear and generalized linear mixed models to infer WUR genotype differences in Contact pig susceptibility and Shedder pig infectivity.
+
+Results
+All Shedder and Contact pigs, except one, became infected through natural transmission. There was no significant (p > 0.05) effect of Contact pig genotype on any virus measures that would indicate WUR genotype differences in susceptibility. Contact pigs tended to have higher serum AUC (p = 0.017) and log10TCID50 (p = 0.034) when infected by an R+ shedder, potentially due to more infectious R+ shedders at the early stages of the transmission trial. However, no significant Shedder genotype effect was found in serum (p = 0.274) or nasal secretion (p = 0.951) that would indicate genotype differences in infectivity.
+
+Conclusions
+The novel design demonstrated that it is possible to estimate genotype effects on Shedder pig infectivity and Contact pig susceptibility that are not confounded by family effects. The study, however, provided no supportive evidence that genetic selection on WUR genotype would affect PRRSV-2 transmission. The results of this study need to be independently validated in a larger trial using different PRRSV strains before dismissing the effects of the WUR marker or the previously detected GBP5 gene on PRRSV transmission.

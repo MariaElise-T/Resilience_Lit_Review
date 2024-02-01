@@ -1,0 +1,16 @@
+Abstract
+
+Aims
+The Resilience Scale for Adults (RSA) is a questionnaire that measures protective factors of mental health. The aim of this paper is to perform a network analysis of the RSA in a dataset composed of 675 French-speaking Belgian university students, to identify potential targets for intervention to improve protective factors in individuals.
+
+
+Methods
+We estimated a network structure for the 33-item questionnaire and for the six domains of resilience: perception of self, planned future, social competence, structured style, family cohesion and social competence. Node predictability (shared variance with surrounding nodes in the network) was used to assess the connectivity of items. An exploratory graph analysis (EGA) was performed to detect communities in the network: the number of communities detected being different than the original number of factors proposed in the scale, we estimated a new network with the resulting structure and verified the validity of the new construct which was proposed. We provide the anonymised dataset and code in external online materials (10.17632/64db36w8kf.2) to ensure complete reproducibility of the results.
+
+
+Results
+The network composed of items from the RSA is overall positively connected with strongest connections arising among items from the same domain. The domain network reports several connections, both positive and negative. The EGA reported the existence of four communities that we propose as an additional network structure. Node predictability estimates show that connectedness varies among the items and domains of the RSA.
+
+
+Conclusions
+Network analysis is a useful tool to explore resilience and identify targets for clinical intervention. In this study, the four domains acting as components of the additional four-domain network structure may be potential targets to improve an individual's resilience. Further studies may endeavour to replicate our findings in different samples.

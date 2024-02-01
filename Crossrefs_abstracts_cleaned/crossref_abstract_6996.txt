@@ -1,0 +1,14 @@
+
+Background:
+Schizophrenia, a debilitating disease, causes affected individuals to have personal and social function impairment. As a consequence, affected individuals rely on family caregivers most of the time. Access to mental health care is still limited in Lubuk Pakam, with only one district hospital providing psychiatric care. Therefore, the family must play a great role in providing care for schizophrenic individuals. The aim of our study was to investigate resilience and assess the efficacy of the family empowerment module among families taking care of individuals with schizophrenia.
+
+Methods:
+We conducted two sequential studies, both quantitative and qualitative studies (mixed method), to investigate the family resilience profile. The family empowerment module was asserted and efficacy was measured using a dependent t-test. Multivariate analysis with linear regression was used to assess the relationship between independent variables (burden, stigma, social, and health care support) and the dependent variable (family resilience).
+
+
+Result:
+The family burden has shown a negative coefficient regression score of 0.130, which means that family burden has an impact of 13%, leading towards the decline of family resilience. A considerable increase in family resilience was noted after the implementation of the family empowerment module (p = 0.001).
+
+
+Conclusion:
+Implementation of the family empowerment module has helped in increasing family resilience. We suggest that this implementation can also be carried out, especially in other county hospitals with similar relatable situations.

@@ -1,0 +1,14 @@
+Abstract
+Background
+Public safety personnel (PSP; e.g., border services personnel, correctional workers, firefighters, paramedics, police, public safety communicators) are frequently exposed to potentially psychologically traumatic events. Such events contribute to substantial and growing challenges from posttraumatic stress injuries (PTSIs), including but not limited to posttraumatic stress disorder.
+
+Methods
+The current protocol paper describes the PSP PTSI Study (i.e., design, measures, materials, hypotheses, planned analyses, expected implications, and limitations), which was originally designed to evaluate an evidence-informed, proactive system of mental health assessment and training among Royal Canadian Mounted Police for delivery among diverse PSP (i.e., firefighters, municipal police, paramedics, public safety communicators). Specifically, the PSP PTSI Study will: (1) adapt, implement, and assess the impact of a system for ongoing (i.e., annual, monthly, daily) evidence-based assessments; (2) evaluate associations between demographic variables and PTSI; (3) longitudinally assess individual differences associated with PTSI; and, (4) assess the impact of providing diverse PSP with a tailored version of the Emotional Resilience Skills Training originally developed for the Royal Canadian Mounted Police in mitigating PTSIs based on the Unified Protocol for the Transdiagnostic Treatment of Emotional Disorders. Participants are assessed pre- and post-training, and then at a follow-up 1-year after training. The assessments include clinical interviews, self-report surveys including brief daily and monthly assessments, and daily biometric data. The current protocol paper also describes participant recruitment and developments to date.
+
+Discussion
+The PSP PTSI Study is an opportunity to implement, test, and improve a set of evidence-based tools and training as part of an evidence-informed solution to protect PSP mental health. The current protocol paper provides details to inform and support translation of the PSP PTSI Study results as well as informing and supporting replication efforts by other researchers.
+
+
+Trial registration
+
+Hypotheses Registration: aspredicted.org, #90136. Registered 7 March 2022—Prospectively registered. Trial registration: ClinicalTrials.gov, NCT05530642. Registered 1 September 2022—Retrospectively registered. The subsequent PSP PTSI Study results are expected to benefit the mental health of all participants and, ultimately, all PSP.

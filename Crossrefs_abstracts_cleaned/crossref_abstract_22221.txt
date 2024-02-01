@@ -1,0 +1,12 @@
+Abstract
+Background
+The human microbiota plays several roles in health and disease but is often difficult to determine which part is in intimate relationships with the host vs. the occasional presence. During the Mars500 mission, six crewmembers lived completely isolated from the outer world for 520 days following standardized diet regimes. The mission constitutes the first spaceflight simulation to Mars and was a unique experiment to determine, in a longitudinal study design, the composition and importance of the resident vs. a more variable microbiota—the fraction of the human microbiota that changes in time and according to environmental conditions—in humans.
+
+Methods
+Here, we report the characterization of the salivary microbiota from 88 samples taken during and after Mars500 mission for a total of 720 days. Amplicon sequencing of the V3–V4 regions of 16S rRNA gene was performed, and results were analyzed monitoring the diversity of the microbiota while evaluating the effect of the three main variables present in the experimental system: time, diet, and individuality of each subject.
+
+Results
+Results showed statistically significant effects for either time, diet, and individuality of each subject. The main contribution came from the individuality of each subject, emphasizing salivary microbiota-personalized features, and an individual-based resilience of the microbiota.
+
+Conclusions
+The uniqueness of Mars500 mission, allowed to dampen the effect of environmental variables on salivary microbiota, highlighting its pronounced personalization even after sharing the same physical space for more than a year.

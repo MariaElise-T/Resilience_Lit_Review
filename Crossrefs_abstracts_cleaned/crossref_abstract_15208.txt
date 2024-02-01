@@ -1,0 +1,12 @@
+Abstract
+
+Background
+The maintenance of biological systems requires plasticity and robustness. The function of the ecdysone receptor, a heterodimer composed of the nuclear receptors ECR (NR1H1) and USP (NR2B4), was maintained in insects despite a dramatic divergence that occurred during the emergence of Mecopterida. This receptor is therefore a good model to study the evolution of plasticity. We tested the hypothesis that selection has shaped the Ligand-Binding Domain (LBD) of USP during evolution of Mecopterida.
+
+
+Results
+We isolated usp and cox1 in several species of Drosophilidae, Tenebrionidae and Blattaria and estimated non-synonymous/synonymous rate ratios using maximum-likelihood methods and codon-based substitution models. Although the usp sequences were mainly under negative selection, we detected relaxation at residues located on the surface of the LBD within Mecopterida families. Using branch-site models, we also detected changes in selective constraints along three successive branches of the Mecopterida evolution. Residues located at the bottom of the ligand-binding pocket (LBP) underwent strong positive selection during the emergence of Mecopterida. This change is correlated with the acquisition of a large LBP filled by phospholipids that probably allowed the stabilisation of the new Mecopterida structure. Later, when the two subgroups of Mecopterida (Amphiesmenoptera: Lepidoptera, Trichoptera; Antliophora: Diptera, Mecoptera, Siphonaptera) diverged, the same positions became under purifying selection. Similarly, several positions of the heterodimerisation interface experienced positive selection during the emergence of Mecopterida, rapidly followed by a phase of constrained evolution. An enlargement of the heterodimerisation surface is specific for Mecopterida and was associated with a reinforcement of the obligatory partnership between ECR and USP, at the expense of homodimerisation.
+
+
+Conclusions
+In order to explain the episodic mode of evolution of USP, we propose a model in which the molecular adaptation of this protein is seen as a process of resilience for the maintenance of the ecdysone receptor functionality.

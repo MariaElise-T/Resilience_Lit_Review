@@ -1,0 +1,9 @@
+Abstract
+Background
+In California’s mixed-conifer forests, fuel reduction treatments can successfully reduce fire severity, bolster forest resilience, and make lasting changes in forest structure. However, current understanding of the duration of treatment effectiveness is lacking robust empirical evidence. We leveraged data collected from 20-year-old forest monitoring plots within fuel treatments that captured a range of wildfire occurrence (i.e., not burned, burned once, or burned twice) following initial plot establishment and overstory thinning and prescribed fire treatments.
+
+Results
+Initial treatments reduced live basal area and retained larger-diameter trees; these effects persisted throughout the 20-year study period. Wildfires maintained low surface and ground fuel loads established by treatments. Treatments also reduced the probability of torching immediately post-treatment and 20 years post initial thinning treatments.
+
+Conclusions
+Fuel treatments in conifer-dominated forests can conserve forest structure in the face of wildfire. Additionally, findings support that the effective lifespans of treatments can be extended by wildfire occurrence. Our results suggest that continued application of shaded fuel breaks is not only a sound strategy to ensure forest persistence through wildfire but may also be compatible with restoration objectives aimed at allowing for the use of more ecologically beneficial fire across landscapes.

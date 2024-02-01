@@ -1,0 +1,15 @@
+Abstract
+Purpose
+Relatives are often involved in caregiving for patients with advanced cancer and carry a heavy burden. Self-care and resilience might be beneficial to enhance their wellbeing and burden-bearing capacity. This study assessed the engagement in self-care and resilience in relatives of patients with advanced cancer and its association with their caregiver burden.
+
+Methods
+This study analyzed baseline data of the eQuiPe study, a prospective longitudinal, multicenter, observational study on quality of care and life of patients with advanced cancer and their relatives in which self-care (Self-care Practices Scale), resilience (Connor-Davidson Resilience Scale), and caregiver burden (Zarit Burden Interview (ZBI)) of relatives were included. Their scores were compared with a gender- and age-matched normative population. Multivariable logistic regression analysis was performed to assess the association between self-care and resilience with caregiver burden.
+
+Results
+Most of the 746 relatives were the patient’s partner (78%) and 54% reported to be an informal caregiver of the patient. The median hours of caregiving a week for all relatives was 15 and 11% experienced high caregiver burden (ZBI > 20). Relatives who reported a high caregiver burden engaged less often in self-care (OR = .87) and were less resilient (OR = .76) compared to relatives with low/medium caregiver burden. Relatives with high caregiver burden were younger (OR = .96), highly educated (OR = 2.08), often reported to be an informal caregiver of the patient (OR = 2.24), and were less well informed about the importance of self-care (OR = .39).
+
+Conclusion
+A significant number of relatives of patients with advanced cancer experienced high caregiver burden. As more self-care and resilience were associated with lower experienced caregiver burden, creating awareness of the beneficial potential of self-care is important. Future studies should illuminate the causal relation.
+
+Trial registration number
+NTR6584 (date of registration: 30 June 2017)

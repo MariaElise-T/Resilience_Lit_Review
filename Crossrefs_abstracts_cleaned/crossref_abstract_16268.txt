@@ -1,0 +1,15 @@
+
+Background
+Resilience has been associated with greater adherence to treatment, better outcomes, and improved quality of life (QOL) in people with chronic health conditions. This study aimed to identify sociodemographic, treatment accessibility-related, clinical, and psychological variables associated with resilience in patients with advanced chronic kidney disease (CKD) undergoing long-term hemodialysis (>6 months).
+
+
+Methods
+This was a multicenter, cross-sectional, and correlational study. The instruments used were the Spanish versions of the Connor–Davidson Resilience Scale, the Perceived Stress Scale-10, and the Kidney Disease Quality of Life-36. The participants were categorized as resilient (with a score of ≥49.37 on the Connor–Davidson Resilience Scale) or nonresilient. Binary logistic regression analysis was performed to identify variables with predictive power for the group with the resilient profile.
+
+
+Results
+Perceived stress, general QOL, and subcomponents of QOL, such as the physical component and burden of kidney disease, were identified as factors related to the resilient profile.
+
+
+Discussion
+Identifying the factors related to resilient adjustment in patients with advanced CKD may assist health caregivers in improving adherence to treatment, treatment outcomes, and QOL.

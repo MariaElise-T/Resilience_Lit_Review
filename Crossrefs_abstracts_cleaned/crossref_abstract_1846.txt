@@ -1,0 +1,7 @@
+
+            Recently, analog compute-in-memory (CIM) architectures based on emerging analog non-volatile memory (NVM) technologies have been explored for deep neural networks (DNNs) to improve scalability, speed, and energy efficiency. Such architectures, however, leverage charge conservation, an operation with infinite resolution, and thus are susceptible to errors. Thus, the inherent stochasticity in any analog NVM used to execute DNNs, will compromise performance. Several reports have demonstrated the use of analog NVM for CIM in a limited scale. It is unclear whether the uncertainties in computations will prohibit large-scale DNNs. To explore this critical issue of scalability, this article first presents a simulation framework to evaluate the feasibility of large-scale DNNs based on CIM architecture and analog NVM. Simulation results show that
+            DNNs trained for high-precision digital computing engines are not resilient
+            against the uncertainty of the analog NVM devices. To avoid such catastrophic failures, this article introduces the analog bi-scale representation for the DNN, and the Hessian-aware Stochastic Gradient Descent training algorithm to enhance the inference accuracy of trained DNNs. As a result of such enhancements,
+            DNNs such as Wide ResNets for CIFAR-100 image recognition problem are demonstrated to have significant performance improvements in accuracy without adding cost to the inference hardware
+            .
+          

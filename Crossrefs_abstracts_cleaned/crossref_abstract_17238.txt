@@ -1,0 +1,12 @@
+Abstract
+Background
+Job satisfaction and factors affecting them are among the most important social issues. Resilience has a moderating role in the relationship between stress and diseases, so it can affect a person's job satisfaction because it enables a person to deal with adverse conditions. This study aimed to investigate the relationship between nurses’ psychological resilience and job satisfaction during the COVID-19 outbreak.
+
+Methods
+This descriptive-analytical cross-sectional study (2022) used convenience sampling to select 300 nurses. The Connor and Davidson Resilience Scale and Minnesota Satisfaction Questionnaire were used to collect data. The data were then analyzed with SPSS 22 and statistical methods (Independent t-test, Analysis of Variance, Pearson correlation coefficient, and Multiple linear regression).
+
+Results
+The study results showed a positive and poor relationship between resilience, some of its dimensions (trust in individual instincts, tolerance of negative affect (p = 0.006), positive acceptance of change and secure relationships (p = 0.01), spiritual influences (p = 0.04)) and job satisfaction (p < 0.001). In other words, nurses’ high level of resilience increased their job satisfaction and vice versa.
+
+Conclusions
+Enhancing the resilience of frontline nurses during the COVID-19 pandemic improved their job satisfaction and affected care provided by them. Nurse managers can control nurses’ resilience and offer interventions that would strengthen it, especially at crises.

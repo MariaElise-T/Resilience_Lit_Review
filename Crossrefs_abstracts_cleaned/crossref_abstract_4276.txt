@@ -1,0 +1,1 @@
+The technique and results of resilience tests of mills for processing small-size periodic profiles with different schemes forming the profile of the cutting edge - with full-profile and constructive feed are represented. Practical recommendations for the use of cutting parameters for tools with constructive feed are given.

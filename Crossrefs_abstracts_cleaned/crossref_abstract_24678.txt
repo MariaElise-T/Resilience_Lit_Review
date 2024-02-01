@@ -1,0 +1,15 @@
+
+Background
+Psychosocial stress and depressive disorder have been associated with cancer as putative contributors to worse prognosis. On the other hand, cancer diagnosis is a recognised life event that can contribute to distress and depressive states. Humoral and cellular inflammation can promote depressive disorder by means of decreased monoamine synthesis, glutamate neurotoxicity, neurogenesis and neuroplasticity, dysregulated hypothalamic-pituitary-adrenal axis, and glucocorticoid resistance. This protocol objectives are to observe the interactions between psychosocial variables and biochemical and immunological biomarkers in a longitudinal, prospective design; to identify inflammation-related depression endophenotypes in breast cancer patients and to understand if early diagnosed and treated depression in this population will translate in better inflammation status and better global prognosis.
+
+
+Methods
+Prospective observational cohort, composed by 100 consecutive premenopausal patients, diagnosed with non-distant metastatic breast carcinoma and with no history of major psychopathology or other organic illness. The participants will have an in-person assessment in three different moments, along illness treatment and follow-up, with respect to cytometric, immunologic, and psychosocial parameters and will be tested for depression vulnerability and resilience inflammation-related functional genetic polymorphisms. Additionally, at years 5 and 10 post enrollment, patients`medical records will be assessed. As a control cohort, all patients excluded due to psychiatric history or past psychiatric treatments will have their clinical records assessed at years 5 and 10 after admission. All the data will be managed with the SPSS® software.
+
+
+Discussion and conclusion
+This study is an original longitudinal cohort of breast cancer premenopausal patients, with a comprehensive approach to psychosocial, clinical, inflammatory, and genetic variables. It expects to provide evidence regarding the links between genetic, cytometric, immunologic, and psychosocial factors, their potential contribution to the pathophysiology of depressive disorder, breast cancer course, progression, and prognosis. It may further contribute with data to better efficacy of the psycho-oncological interventions.
+
+
+Trial registration
+National Commission of Data Protection (CNPD) 13413/2017; Ethics Committee of IPOP project code CI-IPOP81/2017.

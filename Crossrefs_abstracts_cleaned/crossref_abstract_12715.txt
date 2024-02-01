@@ -1,0 +1,9 @@
+Abstract
+Background
+Although a range of risk factors have been linked with poor mental health across the population, the underlying pathways leading to mental ill health remain unclear. There is a need to investigate the effects and interplay of both protective and risk factors. This population-based study aimed to explore the effects of individual and contextual factors on mental health status. Record-linkage was implemented between health and lifestyle data drawn from HealthWise Wales (HWW), a national population health survey of people > 16 years who live or access their healthcare in Wales, and treatment data from primary healthcare records. Mental health status was assessed using three different measures, including the self-reported MHI-5 and WEMWBS scales and mental health treatment in electronic healthcare records (EHR).
+
+Result
+Using cross-sectional data from 27,869 HWW participants aged over 16 years, lifestyle factors, resilience, social cohesion and neighbourhood attraction were associated with mental health across all measures. However, compared to contextual factors, the cluster of individual factors was more closely associated with poor mental health, explaining more of the variance across all measures used (MHI-5: 9.8% versus 5.4%; WEMWBS: 15.9% versus 10.3%; EHR: 5.5% versus 3.0%). Additional analysis on resilience sub-constructs indicated that personal skills were the most closely correlated with poorer mental health.
+
+Conclusion
+Mental health status was more closely linked with individual factors across the population than contextual factors. Interventions focusing on improving individual resilience and coping skills could improve mental health outcomes and reduce the negative effect of contextual factors such as negative neighbourhood perceptions.

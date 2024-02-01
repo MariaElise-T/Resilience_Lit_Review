@@ -1,0 +1,12 @@
+Abstract
+Background
+Despite the substantial burden of caring schizophrenic patients, primary caregivers can also experience posttraumatic growth (PTG) which may buffer their negative experience. Influencing factors of PTG and their functional pathways among primary caregivers of schizophrenic patients remain unclear. This study is designed to test the simple and serial mediating roles of coping styles and resilience in the relationship between perceived social support and PTG among those primary caregivers.
+
+Methods
+A cross-sectional study was conducted from October 2018 to January 2019, and 365 primary caregivers (self-reported) of schizophrenic patients were analyzed. Measures used to assess their perceived social support, coping styles, resilience, and PTG were the Perceived Social Support Scale, the Simplified Coping Style Questionnaire, the Connor-Davidson Resilience Scale, and the Posttraumatic Growth Inventory, respectively. Structural equation modeling was used to run the analysis.
+
+Results
+The average scores of PTG (range: 0–5), perceived social support (range: 1–7), positive coping style (range: 0–3), negative coping style (range: 0–3), resilience (range: 0–4) reported by primary caregivers was (2.91 ± 0.99), (4.80 ± 1.26), (1.79 ± 0.65), (1.49 ± 0.56), and (2.46 ± 0.66), respectively. The fitness indices of measurement and structural models were satisfactory. Three indirect pathways totally explained 55.56% variance of the PTG. The indirect effect of positive coping style between perceived social support and PTG was 0.20 [95% confidence interval (CI) 0.05 to 0.37], and this simple mediation pathway explained 27.78% variance of PTG. The indirect effect of resilience between perceived social support and PTG was 0.11 [95% CI 0.01 to 0.20], and this simple mediation pathway explained 15.28% variance of PTG. The indirect effect of positive coping style and then resilience between perceived social support and PTG was 0.09 [95% CI 0.01 to 0.17], and this serial mediation pathway explained 12.50% variance of PTG.
+
+Conclusions
+Both simple and serial mediation roles of positive coping style and resilience are established in the relationship between perceived social support and PTG among primary caregivers of schizophrenic patients. Positive coping style and resilience are two important targets for future interventional studies, and interventions on them may bring the synergistic effect on improving PTG.

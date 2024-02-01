@@ -1,0 +1,20 @@
+Abstract
+
+Background and Objectives
+The Stress Management and Relaxation Training—Relaxation Response Resiliency Program (SMART-3RP) is a mind–body group intervention that integrates relaxation training with cognitive behavioral and positive psychology techniques. This study assessed SMART-3RP feasibility, acceptability, and preliminary efficacy for enhancing resilience and flourishing among older adults in continuing care retirement communities (CCRCs).
+
+
+Research Design and Methods
+We conducted a prospective single-arm study of SMART-3RP groups delivered by clinicians at 4 CCRCs (n = 80). Eligible residents lived in community apartments. Participants completed pre- and postintervention surveys. We evaluated attendance (hypothesis: ≥60% attend ≥6 of 9 sessions), enrollment, and retention. Mixed methods were used to explore acceptability. Paired samples t-tests were conducted to explore changes in resilience, flourishing, and key intervention targets.
+
+
+Results
+From March to June 2021, we screened 89 residents with 87 (98%) consenting to participate and 80 (90%) enrolling in the study. Among 80 participants (85% female; 98% non-Hispanic White; M age = 80 years [SD = 6]), 88% attended ≥6 sessions, and 89% completed the postintervention survey. Participants found meaning in participation and practiced skills in the context of challenges such as caregiving burden or bereavement. Survey results, showing increases in resilience, flourishing, and several intervention targets, aligned with participants’ perceived intervention value.
+
+
+Discussion and Implications
+SMART-3RP was feasible and acceptable for CCRC residents; participants perceived value in practicing mind–body strategies in a group-based setting. Preliminary evidence suggested a pattern of improvements in resilience, flourishing, and intervention targets. Findings provide insights for mind–body interventions and recommendations for adaptations to late-in-life concerns and community settings.
+
+
+Clinical Trials Registration Number
+NCT04720014

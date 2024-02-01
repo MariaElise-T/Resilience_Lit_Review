@@ -1,0 +1,12 @@
+Abstract
+Background
+Surgery, as one of the main diagnostic and treatment methods, is a routine work in medical settings. Patients undergoing surgery often experience acute procedure anxiety due to uncertainty. There is ample evidence showing that uncertainty is a risk factor for the acute procedure anxiety in surgical patients. However, little is known about the psychological processes mediating this relationship. Therefore, this study aims to evaluate resilience as a mediator of the association between uncertainty and anxiety.
+
+Methods
+A population-based cross-sectional survey with a convenience sampling method was conducted, involving 243 surgical patients in Jiaxing, Zhejiang province of China was carried out. Relevant data were collected by self-reporting questionnaires, including demographic characteristics questionnaire, Amsterdam Preoperative Anxiety and Information Scale (APAIS-C), Mishel’s Illness Uncertainty Scale (MUIS), Connor-Davidson Resilience Scale (CD-RISC). Pearson correlation analysis was employed to examine correlations between various variables. A path model was used to assess the mediation effect of resilience with respect to uncertainty and acute procedure anxiety.
+
+Results
+In the path model, uncertainty have an indirect effect on acute procedure anxiety through resilience. The results suggest that resilience has a mediating role in uncertainty and acute procedure anxiety among surgical patients.
+
+Conclusions
+These findings call for the development of interventions targeting the role of resilience in effectively predicting and preventing acute procedure anxiety and uncertainty among surgical patients.

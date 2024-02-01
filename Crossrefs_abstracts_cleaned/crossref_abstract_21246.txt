@@ -1,0 +1,20 @@
+Abstract
+
+Objective
+Research on burnout among physical therapists and occupational therapists in the context of the coronavirus disease 2019 (COVID-19) pandemic is limited. Resilience may be important for reducing burnout and promoting well-being among rehabilitation specialists, especially during periods of elevated occupational demand and stress. The purpose of this study was to investigate experiences of burnout, COVID-19 pandemic–related distress, and resilience among physical therapists and occupational therapists during the first year of the COVID-19 pandemic.
+
+
+Methods
+Physical therapists and occupational therapists working in a university-affiliated health system were invited to complete an online survey assessing burnout, COVID-19 pandemic–related distress, state- and trait-like resilience, physical activity, sleep disturbance, and financial concerns. Multiple linear regressions were used to examine variables associated with burnout as well as the contribution of specific aspects of resilience to burnout.
+
+
+Results
+Greater COVID-19 pandemic–related distress was associated with greater emotional exhaustion and depersonalization, whereas state-like resilience at work was associated with lower emotional exhaustion, greater personal accomplishment, and lower depersonalization. Analyses examining the impact of specific components of resilience at work suggested that several components are associated with less burnout, with finding one’s calling being particularly relevant for all 3 domains of burnout.
+
+
+Conclusion
+Symptoms of burnout were reported by many physical therapists and occupational therapists. COVID-19–related distress and state-like resilience at work, particularly the perception of finding one’s calling, emerged as consistently being associated with burnout in the context of the COVID-19 pandemic.
+
+
+Impact
+These findings can inform the development of interventions to reduce burnout among physical therapists and occupational therapists amid the continuing COVID-19 pandemic.

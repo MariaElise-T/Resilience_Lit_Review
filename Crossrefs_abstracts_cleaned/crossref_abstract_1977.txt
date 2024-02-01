@@ -1,0 +1,7 @@
+
+            We introduce PRM (Probabilistic Resilient Multicast): a multicast data recovery scheme that improves data delivery ratios while maintaining low end-to-end latencies. PRM has both a proactive and a reactive component; in this paper we describe how PRM can be used to improve the performance of application-layer multicast protocols, especially when there are high packet losses and host failures. Further, using analytic techniques, we show that PRM can guarantee arbitrarily high data delivery ratios and low latency bounds. As a detailed case study, we show how PRM can be applied to the NICE application-layer multicast protocol. We present detailed simulations of the PRM-enhanced NICE protocol for 10,000 node Internet-like topologies. Simulations show that PRM achieves a high delivery ratio (
+            >
+            97%) with a low latency bound (600 ms) for environments with high end-to-end network losses (1-5%) and high topology change rates (5 changes per second) while incurring very low overheads (
+            <
+            5%).
+          

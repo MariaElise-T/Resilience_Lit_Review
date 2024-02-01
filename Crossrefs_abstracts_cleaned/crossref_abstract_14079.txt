@@ -1,0 +1,14 @@
+Purpose
+The purpose of this study was to investigate the relationship between resilience, job stress and information security awareness (ISA). The study examined the effect of resilience and job stress on the three components that comprise ISA, namely, knowledge, attitude and behaviour.
+
+Design/methodology/approach
+A total of 1,048 working Australians completed an online questionnaire. ISA was measured with the Human Aspects of Information Security Questionnaire. Participants also completed the Brief Resilience Scale and the Job Stress Scale.
+
+Findings
+It was found that participants with greater resilience also had higher ISA and experienced lower levels of job stress. More specifically, individuals who reported higher levels of resilience had significantly better knowledge, attitude and behaviour. Similarly, participants who reported lower levels of job stress also reported significantly better knowledge, attitude and behaviour. Resilience plays an important mediating role in the relationship between job stress and ISA. This means that even if people have high levels of job stress, if they are better able to cope with or adapt to stress (i.e. have higher resilience), they are less likely to have lower ISA. Results of this study add to the body of literature emphasising the positive effects of resilience and suggest that resilience is associated with improved ISA and therefore more secure behaviour.
+
+Research limitations/implications
+Future research should focus on assessing the influence of resilience training in the workplace.
+
+Originality/value
+Given the constructive findings, it may be valuable to focus on the effect of organisational culture, and organisational security culture, on resilience, job stress and ISA.

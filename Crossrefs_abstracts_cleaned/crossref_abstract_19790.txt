@@ -1,0 +1,27 @@
+
+Purpose
+This paper aims to evaluate the efficacy of the Connor–Davidson Resilience Scale 10 (CD-RISC 10) (Campbell-Sills and Stein, 2007) for use in public accounting settings.
+
+
+Design/methodology/approach
+The analyses include an examination of possible demographic differences in overall score, the scale’s factor structure, the invariance of its factor structure across gender and age groups, the scale’s reliability and its convergent and divergent validity.
+
+
+Findings
+There are significant gender and age group difference in scores, but a common univariate factor structure for the scale. The authors further find that a two-factor solution provides a superior fit to the data compared to the single factor structure used in the most prior research. Spearman–Brown reliability coefficients, item-total correlations and coefficient alphas each support the reliability of the items loading on the scale for the full sample, as well as for each of the above-referenced demographic subsamples.
+
+
+Research limitations/implications
+Limitations are acknowledged related to the use of self-report measures, absence of test-retest score comparisons and convergent and divergent assessments limited to the heterotrait–homomethod approach.
+
+
+Practical implications
+The CD-RISC 10 is an expedient resilience measure, as it can be completed and scored in just a few minutes. Human resource administrators at public accounting firms can use it as an initial screening measure to identify staff who might benefit from resilience training. The paper adds to the appreciation of what not to do in the face of crisis by the government and those in charge of large accounting organizations.
+
+
+Social implications
+The CD-RISC 10 can be used in research and clinical efforts to reduce voluntary turnover of audit staff and enhance the well-being of auditors in the workplace.
+
+
+Originality/value
+This study provides empirical evidence that the CD-RISC 10 is a valid and reliable measure for future assessments of auditor resilience levels.

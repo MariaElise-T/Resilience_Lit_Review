@@ -1,0 +1,16 @@
+ABSTRACT
+
+Objective
+The beneficial effects of exercise on the brain regions that support cognitive control and memory are well documented. However, examination of the capacity of acute exercise to promote cortical resilience—the ability to recover from temporary pertubation—has been largely unexplored. The present study sought to determine whether single session of moderate-intensity aerobic exercise can accelerate recovery of inhibitory control centers in the dorsolateral prefrontal cortex after transient perturbation via continuous theta burst stimulation (cTBS).
+
+
+Methods
+In a within-participants experimental design, 28 female participants aged 18 to 26 years (mean [standard deviation] = 20.32 [1.79] years) completed a session each of moderate-intensity and very light-intensity exercise, in a randomized order. Before each exercise session, participants received active cTBS to the left dorsolateral prefrontal cortex. A Stroop task was used to quantify both the initial perturbation and subsequent recovery effects on inhibitory control.
+
+
+Results
+Results revealed a significant exercise condition (moderate-intensity exercise, very light-intensity exercise) by time (prestimulation, poststimulation, postexercise) interaction (F(2,52) = 5.93, p = .005, d = 0.38). Specifically, the proportion of the cTBS-induced decrement in inhibition restored at 40 minutes postexercise was significantly higher after a bout of moderate-intensity exercise (101.26%) compared with very light-intensity exercise (18.36%; t(27) = −2.17, p = .039, d = −.57, 95% confidence interval = −161.40 to −4.40).
+
+
+Conclusion
+These findings support the hypothesis that exercise promotes cortical resilience, specifically in relation to the brain regions that support inhibitory control. The resilience-promoting effects of exercise have empirical and theoretical implications for how we conceptualize the neuroprotective effects of exercise.

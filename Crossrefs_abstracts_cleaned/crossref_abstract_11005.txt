@@ -1,0 +1,16 @@
+Abstract
+
+Background
+As one of the most rapidly ageing economies, Japan is currently faced with a shortage of care workers and relatively low intakes of migrant workers. While there is a shortage of health and social care professionals, the retention of professional staff is paradoxically becoming more difficult. The environment in domiciliary care is often associated with heavy and challenging workload. Robotics-aided care has been proposed in Japan to ameliorate the situation. While some positive effects of such a novel care model have been reported, the mechanism by which the technology-driven system improved care and residents’ quality of life remains unclear.
+
+
+Methods
+Using a case study approach, this paper examines one of the nursing homes in Japan where robotics-aided care was introduced. The organisational mechanism was analysed through documents and semi-structured staff interviews from the perspective of safety science. The key attributes of organisational resilience are: anticipating; responding; monitoring and learning. The paper details some of the tools that predated the introduction of the socially assistive robots and monitoring system in the care home. The interviews were conducted with 16 health and social care professionals.
+
+
+Results
+The results of the technological intervention itself demonstrated improved scores for the quality of life among the residents. However, the subsequent interview data highlight the significance of an organisational context in which technologies can be effectively introduced and implemented in nursing homes. The organisation had several well-trained care professionals, including the leaders, who share the mental map of ‘person-centred care’ and the ‘capability approach’. In addition, some tools were used to ‘visualise’ staff practice. Health and social care professionals pointed out some challenges surrounding the human-technology interface.
+
+
+Conclusion
+In order to understand the effectiveness and potential issues of the ICT robotics solution in care for older people, future research should investigate the human-technology interface and the interconnectedness between work system, care processes and outcomes.

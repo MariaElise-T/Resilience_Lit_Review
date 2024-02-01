@@ -1,0 +1,15 @@
+
+Purpose
+Supply chain (SC) and knowledge management (KM) have been studied; still, there is a need to understand how KM can be used for SC resilience and improving the firm’s performance. The purpose of the paper is to study and analyze SC resilience strategies based on KM processes to enhance SC performance considering six SC strategies: SC reengineering, collaboration, SC innovation, SC integration, SC agility and SC risk management.
+
+
+Design/methodology/approach
+By adopting the dynamic capability theory, the empirical research is conducted on a sample of 312 Indian micro, small to medium enterprises. To evaluate 312 samples, the structural equation modeling approach is adopted.
+
+
+Findings
+The study found a is a positive relationship between SC reengineering, SC collaboration, SC integration, SC agility, SC risk management and KM. Nevertheless, the relationship between SC innovation and KM is not significant. This study also found the mediating effect of KM on SC performance, and the results shows that SC reengineering, SC collaboration, SC agility and SC risk management are having complementary mediation, while SC innovation and SC integration did not show any mediation.
+
+
+Originality/value
+This is the only research that integrates resilience strategies and KM for improving SC performance. Using KM, SC reengineering will improve SC performance by enhancing readiness and recovery strategies to avoid SC disruption. KM will improve SC collaboration. It will enhance the SC process’ overall visibility, transparency and so on. Agility leads to increased speed, visibility and flexibility, which aids in dealing with uncertainty in the environment. SCRM entails investments and additional resources (such as equipment and labor) to navigate uncertainty and risks in the SC and improve SC performance.

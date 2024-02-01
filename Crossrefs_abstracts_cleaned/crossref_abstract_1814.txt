@@ -1,0 +1,15 @@
+
+BACKGROUND
+Frequent exposure to acute stress increases risk of suicide, posttraumatic stress disorder, and other stress-related disorders. Neuroendocrine and immunologic dysregulation associated with stress may underlie predispositions to psychological disorders and inflammatory disease processes in individuals, such as first-responders and other healthcare professionals, who function in high stress situations. The Hardiness Resilience Gauge (HRG) can be used to psychometrically measure resilience, a psychological modifier of the stress response. Using the HRG alongside salivary biomarker profiling, may help to identify low resilience phenotypes and allow mitigation and early therapeutic interventions. There is a paucity of knowledge regarding biomarkers of resilience. This study aims to evaluate the relationship between factors of resilience with salivary biomarker levels and fluctuations during and following acute stress.
+
+
+METHODS
+Sixty-three first responders underwent a standardized stress-inducing training exercise, providing salivary samples before (prestress), immediately after (post-stress), and 1 hour after the event (recovery). The HRG was administered before (initial) and after (final) the event. Multiplex ELISA panels quantified 42 cytokines and 6 hormones from the samples, which were analyzed for relationships to psychometric factors of resilience measured by the HRG.
+
+
+RESULTS
+Several biomarkers correlated with psychological resilience following the acute stress event. The HRG scores correlated (p < 0.05) with a select set of biomarkers with moderate-to-strong correlations (|r| > 0.3). These included EGF, GROα, PDGFAA, TGFα, VEGFA, interleukin (IL)1Ra, TNFα, IL18, cortisol, FGF2, IL13, IL15, and IL6. Interestingly, fluctuations of EGF, GROα, and PDGFAA in post-stress compared with recovery were positively correlated with factors of resilience, which were negatively correlated from the pre-stress to post-stress period.
+
+
+CONCLUSION
+This exploratory analysis discovered a small subset of salivary biomarkers that are significantly correlated with acute stress and resilience. Further investigation of their specific roles in acute stress and associations with resiliency phenotypes is warranted.

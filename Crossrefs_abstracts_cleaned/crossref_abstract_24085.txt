@@ -1,0 +1,12 @@
+Abstract
+Objective
+Non-suicidal self-injury (NSSI) behaviors are prevalent in adolescents and have adverse effects on physical and mental health. However, little is known about the relationship between NSSI and alexithymia, or the underlying mechanisms that could explain this relationship. This study aimed to elucidate the current status of NSSI in adolescent depression, and analyze the relationship between alexithymia, loneliness, resilience, and adolescent depression with NSSI, so as to provide a theoretical basis for psychotherapeutic interventions.
+
+Method
+The study sample involved inpatients and outpatients from 12 hospitals across China and adolescents with depression who met the DSM-5 diagnostic criteria for depression episode. The following scales were used: The Functional Assessment of Self-Mutilation, Toronto Alexithymia Scale, UCLA Loneliness Scale, and Connor Davidson Resilience Scale.
+
+Results
+The detection rate of NSSI in adolescents with depression from 2021.01.01-2022.01.01 was 76.06% (1782/2343). Spearman’s correlation analysis revealed a significant correlation between alexithymia, loneliness, resilience and NSSI in depressed adolescents, and the results of the non-parametric test showed that the differences between the two groups for each factor were statistically significant. Binary logistic regression results showed that alexithymia (B = 0.023, p = 0.003, OR = 1.023, 95% CI: 1.008–1.038) and depression (B = 0.045, p < 0.001, OR = 1.046, 95% CI: 1.026–1.066) are risk factors for NSSI, resilience (B = − 0.052, p < 0.001, OR = 0.949, 95% CI: 0.935 − 0.964) is a protective factor for NSSI. Alexithymia directly predicted NSSI and also indirectly influenced NSSI through the mediated effect of resilience. Loneliness moderates the first half of the path of this mediated model.
+
+Conclusion
+The present study confirms a moderated mediation effect: Alexithymia can have an impact on NSSI behaviors in depressed adolescents through the mediating role of resilience. Loneliness, as a moderating variable, moderated the first half of the pathway of the mediating model. We discuss perspectives for future research and interventions based on the findings of the study.

@@ -1,0 +1,17 @@
+Abstract
+
+Introduction
+Psychological resilience is the ability to withstand setbacks, adapt positively to challenges, and bounce back from the adversities of life. While the construct of resilience is broadly understood, the specific individual factors that contribute to the ability to be resilient and persevere in the face of difficulties remain poorly understood. We recently showed that psychological resilience during the COVID-19 pandemic was associated with a number of factors, including fewer complaints of insomnia, and others have suggested that sleep is an important contributor. We therefore tested the hypothesis that sleep quality and acute sleep quantity would combine to predict measures of psychological resilience and perseverance (i.e. “grit”).
+
+
+Methods
+We asked 447 adults (18–40 yrs; 72% female) to report the number of hours of sleep obtained the night before their assessment session (SLEEP), and complete several questionnaires, including the Pittsburgh Sleep Quality Index (PSQI), the Connor-Davidson Resilience Scale (CD-RISC), Bartone Dispositional Resilience Scale (Hardiness), and the Grit Scale. Sleep metrics were used to predict resilience, hardiness, and grit using multiple linear regression.
+
+
+Results
+For resilience, PSQI (β=-.201, p&lt;.00003) and SLEEP (β=.155, p&lt;.001) each contributed uniquely to prediction of CD-RISC (R2=.08, p&lt;.00001). Hardiness was also predicted (R2=.08, p&lt;.00001) by a combination of PSQI (β=-.218, p&lt;.00001) and SLEEP (β=.128, p=.007). Interestingly, worse sleep quality over the past month on the PSQI (β=.13, p=.008) in combination with more SLEEP the night before the assessment (β=.137, p=.005) each contributed uniquely to higher Grit (i.e., perseverance; R2=.03, p=.003).
+
+
+Conclusion
+Self-reported sleep quality and quantity were both independently associated with greater self-reported resilience, hardiness, and grit. While better sleep quality and more sleep the night before testing each uniquely predicted greater resilience and hardiness, a different pattern emerged for Grit. The combination of lower quality sleep over the past month followed by greater recent sleep duration was associated with increased perseverance. Whereas sleep quality appears to be more important for general resilience/hardiness, recent sleep time appears more important for the subjective perception of perseverance. Because these data are purely self-report and cross sectional, future work will need to determine the longitudinal effects on behavior.
+Support (if any):

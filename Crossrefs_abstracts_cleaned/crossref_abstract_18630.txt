@@ -1,0 +1,12 @@
+Abstract
+Background
+During restoration of poorly fitting complete dentures (CDs) in edentulous patients, liners are used to reconstruct the concave surfaces of CDs with a new base material. These relining materials are classified into resilient liners (RLs) and non-resilient liners (NRLs), but the clinical effects of these liners and their selection criteria remain unclear. The purpose of this study is to evaluate the clinical efficacy of relining mandibular CDs using RL and NRL and to conduct a follow-up study.
+
+Methods
+The study is currently being conducted at eight centers, and a parallel-group randomized controlled trial (RCT) is underway. One hundred thirty-two edentulous patients with poorly fitting mandibular CDs will be assigned to two groups based on whether they will receive RL or NRL. Participants will have an RL or NRL applied for relining their CDs using an indirect method of dynamic impressions. Data will be recorded at 1 week and 3, 6, and 12 months after denture delivery. The primary outcome will be assessment of the patients’ general satisfaction by using a 100-mm visual analog scale (VAS). Secondary outcomes will be measured as patient-reported outcomes, including food intake status and oral hygiene-related quality of life. Masticatory performance and the number of sore spots on the oral mucosa will also be recorded. Comparisons between the two groups and within-subject comparisons of pre- and post-intervention measurements will be conducted.
+
+Discussion
+For dentists and prosthetic researchers in Japan, this RCT will provide information on the clinical efficacy of RL materials in comparison to RNL in CD wearers. The new evidence regarding the use of RL materials in an aging population will also be useful to dentists in other countries in their routine clinical practice.
+
+Trial registration
+This clinical trial has been registered at the University Hospital Medical Information Network (UMIN) Center (UMIN000041950).

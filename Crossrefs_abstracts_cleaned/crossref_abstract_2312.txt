@@ -1,0 +1,10 @@
+In recent times, Blockchain technology (BCT) has also received considerable attention outside the financial
+sector. The thought of Blockchain is much beyond than Bitcoin and Cryptocurrencies. Exploring the chances
+within the Blockchain universe multiple applications of BCT in Supply Chain Management (SCM) are often
+implemented. During this paper, we shall combine these two perspectives on BCT in SCM to summarize a
+current state of the art and to derive avenues for further research. This paper aims to investigate the role of
+Blockchain in sustainable supply chain management and explore the applications which can contribute
+towards building a risk resilient supply chain.
+This paper examines the supply chain management system including the technologies involved and the
+methodologies. The approach used for making a supply chain monitoring web app through which we can
+implement a system which makes it easy and efficient to track a product throughout its life-cycle.

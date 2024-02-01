@@ -1,0 +1,12 @@
+Abstract
+Background
+Lockdown measures of COVID-19 have had different repercussions on the well-being of households in West Africa depending on their resilience capacity. This study compares the dynamic of households’ food insecurity during COVID-19 pandemic according to their membership in different types of agricultural cooperatives in four West African countries, namely Ghana, Mali, Ivory Coast, and Senegal.
+
+Methodology
+We used data collected from 1270 members of agricultural cooperatives and regression analyses, to understand the link between the nature of their cooperatives and the food insecurity dynamic of their household, while controlling for other sociodemographic characteristics. Cooperative were categorized either “active” or “poorly/not active” depending on their capacity to conduct initiatives that address the needs of their members, to maintain communication between leaders and members, the participation of members to decisions, and their possession of a good understanding of business management. Food insecurity is measured using the Food Insecurity Experience Scale (FIES) and the Coping Strategy Index (CSI). Respondents were asked to answer questions related to their food security status for the period before and during the pandemic.
+
+Results
+The COVID-19 pandemic has adversely affected respondents' food security status. These effects varied according to the severity of sanitary measures implemented and to the dynamism of cooperatives. Households of poorly or not active cooperatives have experienced more food insecurity in Ivory Coast and Senegal than those who were members of active cooperatives; in Ghana the effects were significant but similar in both types of cooperatives. Members of both cooperatives in Mali appear to have been less affected than members in other countries. Furthermore, households of poorly/not active cooperatives have used more severe coping strategies in Ivory Coast, Ghana, and Senegal during the pandemic.
+
+Conclusions
+Strong collaboration and support provided by cooperatives can contribute to increase the resilience capacity of their members to shocks such as the COVID-19 pandemic.

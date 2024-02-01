@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Resilience, a life-long trait, corresponds to the ability to bounce back from adversity. What factors influence resilience is unclear. Here we describe a cohort of individuals with familial natural short sleep (FNSS). Four genes in five families have been identified that confer this trait, DEC2, NPSR1, GRM1 and ADRB1. Individuals in this cohort share a resilience phenotype alongside this decreased sleep need.
+
+
+Methods
+Those reporting less than 6.5 hours of sleep when allowed to sleep ad libitum without any complaints regarding overnight sleep or daytime sleepiness were then interviewed to determine FNSS affected status from 2009 to 2020. Data on mood, depression, sleepiness and resilience were collected from participants and family members enrolled in the FNSS study.
+
+
+Results
+163 individuals meeting criteria for FNSS were enrolled. Compared to 47 unaffected family members, they had significantly shorter sleep duration as measured by self report and actigraphy, significantly more resilience as measured by the Connor-Davidson Resilience Scale, significantly less sleepiness as measured by the Epworth Sleepiness Scale, and significantly fewer symptoms of depression as measured by the Beck Depression Inventory.
+
+
+Conclusion
+FNSS individuals appear to have a distinct phenotype including shorter sleep duration, greater resilience, less subjective sleepiness, and fewer symptoms of depression. Better understanding the genetics and characteristics of those with familial natural short sleep may provide insight into mechanisms of both restorative sleep and resilience.
+
+
+Support (if any)
+This work was supported by NIH grants NS099333, NS072360 and NS104782 to L.J.P. and Y-H.F., and by the William Bowes Neurogenetics Fund to L.J.P. and Y.H.F.

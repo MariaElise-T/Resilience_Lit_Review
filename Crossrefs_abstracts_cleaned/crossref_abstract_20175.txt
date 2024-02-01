@@ -1,0 +1,19 @@
+
+Purpose
+This study aims to examine the relationships between the online communities’ characteristics and resilience to negative information (RNI) mediated by both brand knowledge and brand involvement.
+
+
+Design/methodology/approach
+According to stimulus-organism-response (S-O-R) framework, this research postulates that information quality, rewards and virtual interactivity drive RNI directly and indirectly through brand knowledge and/ or brand involvement. A survey of 326 Facebook pages followers was conducted, representing followers of fashion clothing brands in social media platforms in Egypt. We have used AMOS to check the constructs’ validity and reliability, as well as the Hayes’s PROCESS macro to test the mediation.
+
+
+Findings
+The findings show that information quality, rewards and virtual interactivity are the respective drivers of brand knowledge and brand involvement; the brand knowledge and brand involvement help explain why consumers are resilient to negative information of specific brands; and the drivers of brand knowledge and/ or brand involvement differ in consumers who tend to ignore negative information they receive about the brand.
+
+
+Practical implications
+Outcomes of the research recommend that executives should identify the outstanding determinants for improving resilient consumers to negative information through creating the highest possible brand knowledge and involvement between the consumers and brands.
+
+
+Originality/value
+Little attention has been paid to examine the RNI and linking it with brand knowledge and brand involvement in online communities’ context, thus, the current research is conducted.

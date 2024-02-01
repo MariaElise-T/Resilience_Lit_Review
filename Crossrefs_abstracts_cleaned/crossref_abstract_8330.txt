@@ -1,0 +1,20 @@
+Abstract
+
+Background
+The study of health system resilience is relatively novel, but paramount in health systems research. It is intended to portray the ability of a health system to withstand, adapt and cope with catastrophic events or ‘shocks' that affect its capacity in delivering safe, high quality health services to its population. These ‘shocks' which cause a sudden and extreme change can pose an acute or chronic impact on certain health system functions at various degrees, or on the entire system as a whole. Given the lack of clarity on quantitative measurement of health system resilience, we aimed to identify existing global standardised surveys that could be utilised for this purpose using a healthcare access perspective.
+
+
+Methods
+A scoping review was conducted using web-based searches to identify global standardised surveys that measured healthcare access in peer-reviewed and “grey” literature. Identified surveys were applied to the Levesque Framework on Healthcare Access 2013, upon which indicators applicable to each of the dimensions within the framework were determined.
+
+
+Preliminary Results
+Of the 5 global surveys identified, all fail to address all 10 dimensions of the framework and all key components within each dimension. Currently, available global standardised surveys fall short in providing a complete picture of health system resilience, leaving crucial gaps in measurement. This is further complicated by the complex nature of incorporating a specific ‘shock' in the analysis whilst accounting for other co-factors that may exist.
+
+
+Conclusions
+Whilst the concept of national health system resilience is becoming increasingly explored today, much work remains on identifying approaches to empirically measure it, and in understanding whether it is indeed possible for a single framework and/or global standardised survey to be applied regardless of the type of ‘shock' experienced by the system.
+
+
+Key messages
+Currently available global standardized surveys do not fully meet our needs to measure health system resilience at a national and regional scale. Effective measurement of health system resilience will enable strategic strengthening of essential health system functions to minimise temporal perturbations and avoid the collapse of a health system.

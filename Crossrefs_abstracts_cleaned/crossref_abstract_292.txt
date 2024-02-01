@@ -1,0 +1,19 @@
+
+Purpose
+While strong risk management and contingency planning are important for building capabilities useful for quick adaptation to foreseeable disruptions, they may not be useful for preparing for black swan-type events or situations that lack sufficient precedent to understand how they impact businesses. The key to creating a resilient organization relies most on resilient human capital, who are capable of withering whatever changes Chance may throw at them and the organization.
+
+
+Design/methodology/approach
+Using company data and semi-structured interviews, this paper presents the case study of ASK Consulting, a medium-size entrepreneurial enterprise that learned that human resources are the cornerstone of a resilient organization.
+
+
+Findings
+Resilient people exhibit three common traits: discipline, open-mindedness to change, and a sense of service to the team rather than themselves. Insights about these traits can be elicited by asking prospective employees three questions during their interview.
+
+
+Practical implications
+This case provides an illustrative case study and straightforward guidance for identifying whether a job candidate has the traits of a resilient person.
+
+
+Originality/value
+Much of the research into organizational resilience focuses on scenario planning, contingencies, and building organizational capabilities. This provides a much more straightforward and actionable approach that focuses on only one type of resource and is not contingent on the availability of slack time and money to implement.

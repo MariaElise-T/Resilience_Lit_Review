@@ -1,0 +1,11 @@
+
+Purpose of review
+Learning from errors has been the main objective of patient safety initiatives for the last decades. The different tools have played a role in the evolution of the safety culture to a nonpunitive system-centered one. The model has shown its limits, and resilience and learning from success have been advocated as the key strategies to deal with healthcare complexity. We intend to review the recent experiences in applying these to learn about patient safety.
+
+
+Recent findings
+Since the publication of the theoretical basis for resilient healthcare and Safety-II, there is a growing experience applying these concepts into reporting systems, safety huddles, and simulation training, as well as applying tools to detect discrepancies between the intended work as imagined when designing the procedures and the work as done when front-line healthcare providers face the real-life conditions.
+
+
+Summary
+As part of the evolution in patient safety science, learning from errors has its function to open the mindset for the next step: implementing learning strategies beyond the error. The tools for it are ready to be adopted.

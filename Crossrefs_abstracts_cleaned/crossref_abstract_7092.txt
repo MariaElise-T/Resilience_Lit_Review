@@ -1,0 +1,12 @@
+Abstract
+Background
+Climate change is a major global threat to human health and puts tremendous pressure on health systems. Therefore, a resilient health system is crucial to enhance, maintain, and restore the population’s health. This study aimed to identify interventions and actions to strengthen a climate-resilient health system to deal with the adverse health effects of climate change.
+
+Method
+This study was a scoping review. Five databases and Google Scholar search engine were searched using relevant keywords. Initially, 4945 documents were identified, and 105 were included in the review. Content thematic analysis method was applied using MAXQDA 10 software.
+
+Results
+Overall, 87 actions were identified for building a climate-resilient health system and were classified into six themes (i.e., governance and leadership; financing; health workforce; essential medical products and technologies; health information systems; and service delivery). The most commonly reported actions were formulating a national health and climate change adaptation plan, developing plans for essential services (electricity, heating, cooling, ventilation, and water supply), assessing the vulnerabilities and capacities of the health system, and enhancing surveillance systems targeting climate-sensitive diseases and their risk sources.
+
+Conclusions
+A holistic and systemic approach is needed to build a climate-resilient health system owing to its complex adaptive nature. Strong governance and leadership, raising public awareness, strategic resource allocation, climate change mitigation, emergency preparedness, robust health services delivery, and supporting research, are essential to building a climate-resilient health system.

@@ -1,0 +1,20 @@
+Abstract
+
+Objective
+The purpose of this study was to (1) determine the psychometric properties of the 25- and 10-item Connor-Davidson Resilience Scales (CD-RISC25, CD-RISC10) for people with lower-limb amputation (LLA) in middle age or later, and (2) describe relationships of the CD-RISC with biopsychosocial, sociodemographic, and health variables.
+
+
+Methods
+Participants were included if their most recent LLA was 1 or more years prior, if they were independently walking with a prosthesis, and if they were between 45 and 88 years of age (N = 122; mean = 62.5 years of age [SD = 8]; 59.5 [mean = 58] months since LLA; 88.5% male; 82.0% with dysvascular etiology; 68.0% with unilateral transtibial LLA). Psychometric analyses included assessment of skewness, floor and ceiling effects, internal consistency, and agreement between versions. Correlation analyses were used to determine associations between the CD-RISC with disability, perceived functional capacity, falls efficacy, life-space, anxiety, depression, self-efficacy, social support, sociodemographic, and health variables. Additionally, quartiles of participants were identified using CD-RISC25 and CD-RISC10 scores and compared using ANOVA and post-hoc comparisons for disability, perceived functional capacity, falls efficacy, and life-space.
+
+
+Results
+Skewness, floor, and ceiling effects of both CD-RISC versions were acceptable. Both versions of the CD-RISC were internally consistent (CD-RISC25: α = .92; CD-RISC10: α = .89). The CD-RISC25 and CD-RISC10 were highly correlated with disability, perceived functional capacity, falls efficacy, anxiety, depression, and self-efficacy (r = 0.52–0.67). CD-RISC25 and CD-RISC10 quartile differences, especially the lowest quartile, were identified for disability, perceived functional capacity, falls efficacy, and life-space.
+
+
+Conclusion
+The CD-RISC25 and CD-RISC10 have acceptable psychometric properties for use with people who have LLA. CD-RISC scores are associated with clinically relevant biopsychosocial measures targeted by physical therapist intervention following LLA.
+
+
+Impact
+The CD-RISC may be an appropriate tool to measure resilience following LLA.

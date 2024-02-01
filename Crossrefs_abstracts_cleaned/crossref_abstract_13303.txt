@@ -1,0 +1,19 @@
+
+Purpose
+Many nations in Sub-Saharan Africa, including Nigeria have initiated programmes targeted at addressing food insecurity, but without any major significant breakthrough. This necessitates the call for inclusion of social network institutional framework into the food and nutrition security policy of many developing countries. This is touted as an important social safety net needed for farming households’ economic advancement and welfare. Consequent on this, the purpose of this paper is to investigate the importance of social networks in building resilience against food insecurity among farmers in Oyo State, Nigeria.
+
+
+Design/methodology/approach
+Data collected from a sample of 297 smallholder farmers during 2015/2016 agricultural production season were analysed using descriptive statistics to describe farmers’ notable characteristics. However, Foster–Greer–Thorbecke indices vis-à-vis food consumption expenditure-metrics technique was used to evaluate the food security profile of the respondents. Similarly, ordinary least square and two-stage least square (2SLS) models were applied to investigate the effects and “reverse causality” in the social networks food security model.
+
+
+Findings
+The study findings indicated that about 48.15 per cent of the smallholder farmers are food insecure. Similarly, the study revealed that age (p<0.01), years of formal education (p<0.05), marital status (p<0.05), number of persons in the family (p<0.01), executive status in social groups (p<0.05), aggregate social networks (p<0.1) and non-food consumption expenditure (p<0.01) made significant contributions to food security status of farming households. Importantly, 2SLS estimation indicated non-existence of reverse causality effect of social networks components and households’ food security status.
+
+
+Social implications
+There is an urgent need for pragmatic policies that support systematic and organized social groups and networks formation in the rural/agrarian areas across Nigeria.
+
+
+Originality/value
+A widely accepted view of economic theory posits that traditional capitals (physical, economic/financial and human) drive households’ welfare including food security status. However, this study has established the relevance of social networks as an important component of human well-being. Apparently, this study also established the exogeneity of social networks in the framework of households’ food security status.

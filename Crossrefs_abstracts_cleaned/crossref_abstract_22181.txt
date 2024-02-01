@@ -1,0 +1,33 @@
+Abstract. The resilience of river catchments and the vital socio-ecological services
+they provide are threatened by the cumulative impacts of future climatic and socio-economic change. Stakeholders who manage freshwaters
+require tools for increasing their understanding of catchment system
+resilience when making strategic decisions. However, unravelling causes,
+effects and interactions in complex catchment systems is challenging,
+typically leading to different system components being considered in
+isolation. In this research, we tested a five-stage participatory method for developing
+a Bayesian network (BN) model to simulate the resilience of the Eden catchment in eastern
+Scotland to future pressures in a single transdisciplinary holistic
+framework. The five-stage participatory method involved co-developing a BN
+model structure by conceptually mapping the catchment system and identifying
+plausible climatic and socio-economic future scenarios to measure catchment
+system resilience. Causal relationships between drivers of future change and
+catchment system nodes were mapped to create the BN model structure.
+Appropriate baseline data to define and parameterise nodes that represent
+the catchment system were identified with stakeholders. The BN model measured the impact of diverse future change scenarios to a
+2050 time horizon. We applied continuous nodes within the hybrid
+equation-based BN model to measure the uncertain impacts of both climatic
+and socio-economic change. The BN model enabled interactions between future
+change factors and implications for the state of five capitals (natural,
+social, manufactured, financial and intellectual) in the system to be
+considered, providing stakeholders with a holistic catchment-scale approach
+to measure the resilience of multiple capitals and their associated
+resources. We created a credible, salient and legitimate BN model tool for
+understanding the cumulative impacts of both climatic and socio-economic
+factors on catchment resilience based on stakeholder evaluation. BN model
+outputs facilitated stakeholder recognition of future risks to their primary
+sector of interest, alongside their interaction with other sectors and the
+wider system. Participatory modelling methods improved the structure of the
+BN through collaborative learning with stakeholders while providing
+stakeholders with a strategic systems-thinking approach for considering
+river basin catchment resilience
+                    

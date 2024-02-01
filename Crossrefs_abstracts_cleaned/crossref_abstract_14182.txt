@@ -1,0 +1,6 @@
+Within the framework of this article, the author continued analytical work on developing a methodology for
+statistical assessment and analysis of economic resilience indices, in particular, a methodology for regional detailing of
+the economic resilience index was developed. The implementation of methodological provisions is based on solving two
+interrelated problems. The first – accounting task – is aimed at creating a step-by-step algorithm for assessing the index
+for territories at the subnational level. The second - analytical task - is an information and analytical tool for assessing
+the contribution of economic resilience of regions to the index for the country as a whole.

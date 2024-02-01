@@ -1,0 +1,23 @@
+
+Background
+The extent that organizational learning and resilience for the change process, that is, adaptive reserve (AR), is a component of building practice capacity for continuous quality improvement (QI) is unknown.
+
+
+Purpose
+The aim of the study was to examine the association of AR and development of QI capacity.
+
+
+Methodology
+One hundred forty-two primary care practices were evaluated at baseline and 12 months in a randomized trial to improve care quality. Practice AR was measured by staff survey along with a validated QI capacity assessment (QICA). We assessed the association of baseline QICA with baseline AR and both baseline and change in AR with change in QICA from 0 to 12 months. Effect modification by presence of QI infrastructure in parent organizations and trial arm was examined.
+
+
+Results
+Mean QICA increased from 6.5 to 8.1 (p < .001), and mean AR increased from 71.8 to 73.9 points (p < .001). At baseline, there was a significant association between AR and QICA scores: The QICA averaged 0.34 points higher (95% CI [0.04, 0.64], p = .03) per 10-point difference in AR. There was a significant association between baseline AR and 12-month QICA—which averaged 0.30 points higher (95% CI [0.02, 0.57], p = .04) per 10 points in baseline AR. There was no association between changes in AR and the QICA from 0 to 12 months and no effect modification by trial arm or external QI infrastructure.
+
+
+Conclusions
+Baseline AR was positively associated with both baseline and follow-up QI capacity, but there was no association between change in AR and change in the QICA, suggesting AR may be a precondition to growth in QI capacity.
+
+
+Practice Implications
+Findings suggest that developing AR may be a valuable step prior to undertaking QI-oriented growth, with implications for sequencing of development strategies, including added gain in QI capacity development from building AR prior to engaging in transformation efforts.

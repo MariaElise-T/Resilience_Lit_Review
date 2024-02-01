@@ -1,0 +1,16 @@
+Abstract
+
+Background
+Multimorbidity management poses significant challenges for general practitioners (GPs). The aim of this study is to analyse the role of resilience and social support on the burden experienced by GPs in managing patients with multiple health conditions in Portugal.
+
+
+Methods
+Cross-sectional quantitative study conducted among GPs in Portugal using an online questionnaire that included validated measurement tools: Questionnaire of Evaluation of Burden of Management of Multimorbidity in General and Family Medicine (SoGeMM-MGF), European Portuguese Version of the Resilience Scale (ER14), and the Oslo Social Support Scale-3 (OSSS-3) in Portuguese. A multiple linear regression analysis was conducted to examine the factors influencing the burden of managing multimorbidity.
+
+
+Results
+Two hundred and thirty-nine GPs were included, with 76.6% being female and a median age of 35 years. Most participants were specialists (66.9%) and had less than a decade of experience managing multimorbidity. Over 70% had not received specific training in multimorbidity. Female GPs and those with a higher proportion of multimorbid patients in the registries experienced higher burden levels. A multivariate regression model with moderation revealed that the effect of resilience on burden varied depending on the level of social support. Higher resilience was associated with higher burden in the “Poor Social Support” category, while it was associated with lower burden in the “Moderate Social Support” and “Strong Social Support” categories, although not statistically significant.
+
+
+Conclusions
+The study highlights the importance of GPs’ social support and resilience in managing the burden of multimorbidity, with poor social support potentially worsening the effects of high resilience.

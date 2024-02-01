@@ -1,0 +1,19 @@
+
+Purpose
+This paper aims to quantitively assess the resilience of residential properties to urban flooding in Port Harcourt, Nigeria, and assess whether they vary at spatially aggregated scales relative to the level of flood exposure.
+
+
+Design/methodology/approach
+The study synthesizes theoretical constructs/indicators for quantifying property level resilience, as a basis for measuring resilience. Using a two-stage purposive/stratified randomized sampling approach, 407 questionnaires were sent out to residents of 25 flood-prone areas, to solicit information on the resilience constructs as indicated by the adaptation behaviors of individual households and their property attributes. A principal component analysis approach is used as a mechanism for weighting the indicators, based on which aggregated spatial-scale resilience indices were computed for the 25 sampled areas relative to their levels of flood exposure.
+
+
+Findings
+Area 11 located in the moderate flood zone has the lowest resilience index, while Area 20 located in the high flood zone has the highest resilience index. The resilience indices for the low, moderate and high flood zone show only minimal and statistically insignificant differences indicating maladaptation even with incremental levels of flood exposure.
+
+
+Practical implications
+The approach to resilience measurement exemplifies a reproducible lens through which the concept of “living with floods” can be holistically assessed at the property level while highlighting the nexus of the social and technical dimensions.
+
+
+Originality/value
+The study moves beyond theoretical conceptualization, to empirically quantify the complex concept of property-level flood resilience.

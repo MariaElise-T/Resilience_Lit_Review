@@ -1,0 +1,26 @@
+Abstract
+Drought is the most widespread threat to cocoa production. We assessed the combined effect of arbuscular mycorrhizal fungi (AMF) and potassium fertilizer on cocoa drought resilience and survival at the nursery to 2 years after transplanting to field. Nursery and field experiments were conducted at the FRNR farm (6°43N and 1°36W), Ghana, from 2020 to 2022. A 3 × 3 × 2 factorial experiment in a RCBD with three varieties of cocoa (CRG8914 
+
+
+
+×
+
+\times 
+
+ PA150; AMAZ315–15 
+
+
+
+×
+
+\times 
+
+ EQX78; PA150 
+
+
+
+×
+
+\times 
+
+ CRG 0314: V1; V2; V3 respectively), potassium (0, 2, and 4 g/plant), and mycorrhizal spore treatment (non-AMF and AMF inoculated) was used. Soil from the cocoa rhizosphere was collected and the wet sieving, decantation, and sucrose centrifugation techniques were used for the isolation of AMF. Rhizophagus irregularis was identified using the morphological method. The identified inoculum was prepared using the trap culture technique. K levels with AMF recorded the highest plant height (50.27 cm) than the non-AMF seedlings (41.4 cm). 2 g K × AMF in V1 and V2 had the highest (p < 0.05) above-ground (5.13 g) and below-ground (2.81 g) biomass, respectively. At 24 months, V1 × 0 g and V3 × 4 g without AMF had mortality of 60% and 50%, respectively, while V1 × 4 g and V2 × 2 g with AMF had 2% mortality rate. In conclusion, this has implications for cocoa nutrient management, yield, and climate-smart strategies for the attainment of Sustainable Development Goal 13 (climate Action).

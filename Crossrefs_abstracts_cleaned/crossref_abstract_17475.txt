@@ -1,0 +1,12 @@
+Abstract
+Background
+The role of healthcare workers (HCWs) during the COVID-19 pandemic may make them more susceptible to anxiety than the general population. This study aimed to determine the prevalence of anxiety and evaluate the potential effects of resilience, neuroticism, social support, and other sociodemographic factors on anxiety among HCWs from two African countries.
+
+Methods
+A cross-sectional survey of 373 HCWs was conducted in Botswana and Nigeria, using an anxiety rating scale, neuroticism subscale of Big Five Inventory, Oslo social support scale, and Resilience Scale. Data collection was done between May 1 and September 30, 2020.
+
+Results
+The participants’ mean age (SD) was 38.42 (8.10) years, and 65.1% were females. Forty-nine (13.1%) of the HCWs reported clinical anxiety. In the final model of hierarchical multiple regression, neuroticism (B = 0.51, t = 10.59, p = p < 0.01), resilience (B = 0.34, t = − 7.11, p < 0.01), and social support (B = 0.079, t = − 2.11, p = 0.035) were associated with severe anxiety, after controlling for the significant sociodemographic factors.
+
+Conclusions
+Severe anxiety exists among HCWs in Africa, although the rate was lower than reported elsewhere. Neuroticism, resilience, and social support may be vital targets for psychological intervention in a pandemic as COVID-19; thus, their roles should be further explored.

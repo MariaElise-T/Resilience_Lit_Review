@@ -1,0 +1,23 @@
+
+Purpose
+The purpose of this paper is to present an exploratory study in order to understand the contributions of the resilience engineering (RE) concept and the use of unmanned aerial systems (UASs) technology to support the safety planning and control (SPC) process.
+
+
+Design/methodology/approach
+A case study on a construction project was conducted and involved the following steps: diagnosis of the SPC process; development of a safety monitoring protocol using UASs; and field tests to monitor safety performance using UASs and data analysis.
+
+
+Findings
+In terms of its theoretical contribution, this work presents a conceptual framework explaining how the RE and the UASs can contribute to the SPC process. Also, this paper provides, as a practical contribution, a protocol for safety monitoring with UASs integrated into the safety routine, highlighting the tasks that can be checked and unsafe conditions and safety/production conflicts identified through monitoring.
+
+
+Practical implications
+This study can be used to support and stimulate the construction managers who wish to adopt the RE concepts and UAS technology to improve safety management.
+
+
+Social implications
+An efficient SPC process can improve the work conditions at construction sites, contributing with the reduction of accidents rates.
+
+
+Originality/value
+The paper highlights the need to adopt new approaches, as RE concepts and UAS technology to support the SPC process, in order to improve safety conditions at construction sites.

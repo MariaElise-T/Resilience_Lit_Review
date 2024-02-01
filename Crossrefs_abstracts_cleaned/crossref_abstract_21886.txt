@@ -1,0 +1,11 @@
+
+            Aging is associated with gradual changes in cognition, yet some individuals exhibit protection against age-related cognitive decline. The topological characteristics of brain networks that promote protection against cognitive decline in aging are unknown. Here, we investigated whether the robustness and resilience of brain networks, queried via the delineation of the brain’s core network structure, relate to age and cognitive performance in a cross-sectional dataset of healthy middle- and old-aged adults (
+            n
+            = 478, ages 40 to 90 y). First, we decomposed each subject’s functional brain network using
+            k
+            -shell decomposition and found that age was negatively associated with robust core network structures. Next, we perturbed these networks, via attack simulations, and found that resilience of core brain network nodes also declined in relationship to age. We then partitioned our dataset into middle- (ages 40 to 65 y,
+            n
+            = 300) and old- (ages 65 to 90 y,
+            n
+            = 178) aged subjects and observed that older individuals had less robust core connectivity and resilience. Following these analyses, we found that episodic memory was positively related to robust connectivity and core resilience, particularly within the default node, limbic, and frontoparietal control networks. Importantly, we found that age-related differences in episodic memory were positively related to core resilience, which indicates a potential role for core resilience in protection against cognitive decline. Together, these findings suggest that robust core connectivity and resilience of brain networks could facilitate high cognitive performance in aging.
+          

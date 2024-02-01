@@ -1,0 +1,15 @@
+
+Background
+The Resilience Assessment Grid (RAG) has attracted increasing interest in recent healthcare discourse as an instrument to understand and measure the resilience performance of socio-technical systems. Despite its growing popularity in healthcare, its applicability and utility remain unclear. This scoping review aims to understand the practical application of RAG method and its outcomes in healthcare.
+
+
+Method
+We followed the Arksey and O’Malley, and the Levac and colleagues’ framework for scoping reviews and the PRISMA-ScR Checklist. We conducted searches of three electronic databases [Medline, Embase and Web of Science] in May 2021. Supplementary searches included Google Scholar, web and citation searches, and hand searches of the nine seminal edited books on Resilience Engineering and Resilient Health Care. All English language, empirical studies of RAG application in the healthcare setting were included. Open Science Framework [Registration-DOI. 10.17605/OSF.IO/GTCZ3].
+
+
+Results
+Twelve studies met the inclusion criteria. Diversities were found across study designs and methodologies. Qualitative designs and literature reviews were most frequently used to develop the RAG and applied it in practice. Eight of the studies had qualitative designs, three studies had mixed-methods designs and one study had a quantitative design. All studies reported that the RAG was very helpful for understanding how frontline healthcare professionals manage the complexity of everyday work. While the studies gained insights from applying the RAG to analyze organizational resilience and identify areas for improvement, it was unclear how suggestions were implemented and how they contributed to quality improvement.
+
+
+Conclusion
+The RAG is a promising tool to manage some of the current and future challenges of the healthcare system. To realise the potential benefits of the RAG, it is important that we move beyond the development phase of the RAG tool and use it to guide implementation and management of quality initiatives.

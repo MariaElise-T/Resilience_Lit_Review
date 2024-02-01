@@ -1,0 +1,12 @@
+
+Background
+Poor sleep raises the risk of non-alcoholic fatty liver disease (NAFLD) and hastens disease progression. It is critical to figure out what factors impact the sleep quality of NAFLD patients. The present study aimed to investigate the role of anxiety symptoms in accounting for the impact of rumination on sleep quality and the moderating role of resilience on the associations of rumination with anxiety symptoms and sleep quality.
+
+Methods
+In the cross-sectional study, 285 NAFLD patients completed the Chinese version of the Pittsburgh Sleep Quality Index, the Ruminative Responses Scale, the Generalized Anxiety Disorder 7-item scale, and the 14-item Resilience Scale to measure sleep quality, rumination (including brooding and reflection), anxiety symptoms, and resilience, respectively. The PROCESS macro for SPSS v4.0 procedure was applied to perform moderated mediation analysis.
+
+Results
+The roles of anxiety symptoms in accounting for the positive associations of brooding, reflection and rumination with poor sleep quality were revealed. It was found that there was a significant moderating role of resilience on the positive associations of brooding, reflection and rumination with anxiety symptoms, which were gradually reduced as resilience increased. The direct associations between brooding, reflection and rumination and poor sleep quality were not significantly moderated by resilience. Thus, a moderated mediation model involving anxiety symptoms and resilience for explaining the impact of rumination on poor sleep quality was supported among patients with NAFLD.
+
+Conclusions
+Rumination (including brooding and reflection) could be positively related to poor sleep quality, and anxiety symptoms had a significant role in accounting for the relationship among patients with NAFLD. Resilience showed a moderating role that could attenuate the positive association between rumination and anxiety symptoms. Interventions aimed at alleviating rumination, reducing anxiety symptoms, and enhancing resilience could improve the sleep quality of NAFLD patients.

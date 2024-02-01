@@ -1,0 +1,10 @@
+Background: Adolescent with type 1 diabetes (T1D) experience increased diabetes distress, which is linked to poor self-management and glycemic control. Resilience might be able to decrease distress and facilitate disease management.
+Objective: To determine whether resilience buffers the deleterious consequences of distress on glycemic control and self-management.
+Methods: A convenience sample of 203 eligible adolescents (mean age 14.60 years) was recruited from a national endocrine center. Data were collected on social clinical characteristics, diabetes distress, resilience, self-management and glycemic. We preformed the simple slope and Johnson-Neyman statistical technique to probe moderating effects of resilience.
+Results: A total of 42.4% of adolescents reported high diabetes distress. Our results indicated that resilience moderated the association that hazards of severe diabetes distress for higher HbA1c (β = 0.148, t = 4.156, p = 0.000) and worse self-management (β = -0.010, t = -3.000, p = 0.003) were only apparent in the context of low resilience.
+Conclusions: We highlight the interactive relationship between diabetes distress and resilience in relation to glycemic control and self-management. It suggest that resilience is promising intervention target for distressed T1D adolescents with unsatisfactory glycemic control and self-management behavior.
+
+
+
+Disclosure
+D. Luo: None. J. Xu: None. M. Zhu: None. H. Wang: None. Y. Wang: None. Y. Shi: None. M. Zhang: None.

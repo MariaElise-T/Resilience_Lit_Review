@@ -1,0 +1,15 @@
+
+Background
+The burden of psychological distress is increasing with the spread of the pandemic and also with the enforcement of its containment measures. The aim of this research was to determine the proportion of self-reported psychological distress, loneliness and degrees of resilient coping, and to also investigate the relationship of loneliness, coping and other variables with psychological distress among apparently healthy Indians during nation-wide lockdown period.
+
+
+Methods
+A cross-sectional, region-stratified survey using pre-designed pre-tested Google form disseminated via different social media platforms was conducted. A total of 1249 responses were analysed all over India. The form enquired about Socio-demographic profile, awareness on COVID pandemic and cases in the surroundings. UCLA Loneliness scale, Brief resilience and coping scale (BRCS) and Psychological distress scale (K6) assessed self-reported loneliness, coping and psychological distress, respectively. Special regressor technique adjusting for endogeneity and heteroskedasticity was used to extract the average marginal effects.
+
+
+Results
+Majority of the respondents were 18–35 years old, male, single and urban residents. News media, social media mostly acted as sources of information regarding COVID related news. Overall, 54.47% (95% CI: 51.39–57.53%) and 38.39% (95% CI: 35.57–41.29%) were reported to be lonely and had low resilient coping ability respectively. Around 44.68% had high risk of developing psychological distress. Being a student (average marginal effect coefficient (AMECoef).: -0.07, 95% CI: [-0.12, -0.01]) and perceiving lockdown as an effective measure (AMECoef: -0.11, 95% CI: [-0.19, -0.03]) were protective against psychological distress. Psychological distress was associated with male respondents (AMECoef 0.07, 95% CI: [0.02, 0.11]), low or medium resilient copers (AMECoef 0.89, 95% CI: [0.17, 1.61]), and perceiving a serious impact of social distancing measures (AMECoef 0.17, 95% CI: [0.09, 0.26]).
+
+
+Conclusions
+Psychological distress among Indian population during lockdown was prevalent. Poor coping ability and perceiving social distancing to have a serious impact was found to be significantly contributing to psychological distress. Appropriate measures to address these issues would be beneficial for the community mental health.

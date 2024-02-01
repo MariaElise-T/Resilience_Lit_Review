@@ -1,0 +1,16 @@
+Abstract
+
+Objectives
+A comprehensive examination of resilience by race, ethnicity, and neighborhood socioeconomic status (NSES) among women aged ≥80 is needed, given the aging of the U.S. population, increasing longevity, and growing racial and ethnic diversity.
+
+
+Methods
+Participants were women aged ≥80 enrolled in the Women’s Health Initiative. Resilience was assessed with a modified version of the Brief Resilience Scale. Descriptive statistics and multiple linear regression examined the association of demographic, health, and psychosocial variables with resilience by race, ethnicity, and NSES.
+
+
+Results
+Participants (n = 29,367, median age = 84.3) were White (91.4%), Black (3.7%), Hispanic (1.9%), and Asian (1.7%) women. There were no significant differences by race and ethnicity on mean resiliency scores (p = .06). Significant differences by NSES were observed regarding mean resiliency scores between those with low NSES (3.94 ± 0.83, out of 5) and high NSES (4.00 ± 0.81). Older age, higher education, higher self-rated health, lower stress, and living alone were significant positive correlates of resilience in the sample. Social support was correlated with resilience among White, Black, and Asian women, but not for Hispanic women. Depression was a significant correlate of lower resilience, except among Asian women. Living alone, smoking, and spirituality were significantly associated with higher resilience among women with moderate NSES.
+
+
+Discussion
+Multiple factors were associated with resilience among women aged ≥80 in the Women’s Health Initiative. Despite some differing correlates of resilience by race, ethnicity, and NSES, there were many similarities. These results may aid in the design of resilience interventions for the growing, increasingly diverse population of older women.

@@ -1,0 +1,16 @@
+Abstract
+
+Background
+This systematic scoping review aimed to identify changes in biomarkers of microbiological, immunological and biochemical origin during experimental gingivitis (EG) studies that might indicate resistance and resilience.
+
+
+Methods
+The term ‘experimental gingivitis’ was run in PubMed from inception to April 11th, 2018. From the 411 studies retrieved, 22 studies were included for this review.
+
+
+Results
+Studies reporting data on biomarker changes during and after full mouth EG trial were included. Two studies reported findings on changes in biomarkers of microbiological, 12 on immunological and eight on biochemical origin. Changes were reported in the induction phase, and occasionally in the resolution phase. The microbiological composition of both supragingival and subgingival dental plaque changed over the course of EG to a more pathogenic direction, but showed a shift back to a more normal composition. This indicates resilience of the oral microbiome. For immunological biomarkers, it was challenging to retrieve a robust pattern of changes across multiple studies. IL-1β and IL-6 in saliva and in gingival crevicular fluid increased during induction phase and returned in the resolution phase below baseline values. The biochemical parameters cystatin-SN, cystatin-S and lactoferrin in saliva were increased at the end of induction phase, however also here no clear pattern emerged based on all available studies.
+
+
+Conclusions
+More research is needed to investigate which microbiological, immunological, and biochemical biomarkers can be useful for future investigations into the resistance and resilience of the oral cavity to experimental gingivitis.

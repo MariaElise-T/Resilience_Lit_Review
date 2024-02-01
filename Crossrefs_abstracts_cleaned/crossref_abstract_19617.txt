@@ -1,0 +1,15 @@
+
+Purpose
+Facing turbulent environments, firms have strived to achieve greater supply chain resilience (SCR) to leverage the resources and knowledge of supply chain members. Both SCR and supply chain integration (SCI) require digitization in the supply chain, but their interrelationships have rarely been researched empirically. This paper aims to uncover the impact of digital technology (DT) on SCR and SCI and the role of SCI in mediating between DT and SCR.
+
+
+Design/methodology/approach
+China manufacturing enterprises were surveyed through a Web-based questionnaire, and 96 responses were received. Structural equation modeling was used to test the conceptual model.
+
+
+Findings
+The level of enterprise digitization is not directly related to supply chain resilience, but the level of enterprise digitization has a positive impact on the improvement of SCI and SCI also has a positive effect on SCR. Therefore, SCI has a complete intermediary effect between the level of DT and SCR.
+
+
+Originality/value
+This is a pioneer study to examine the relationships among DT, SCI and SCR. The findings of this study present that firms need to improve DT, SCI and SCR consequently.

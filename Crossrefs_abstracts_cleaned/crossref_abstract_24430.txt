@@ -1,0 +1,12 @@
+Abstract
+Background
+Resilience reflects coping with pregnancy-specific stress, including physiological adaptations of the maternal organism or factors arising from the socioeconomic context, such as low income, domestic violence, drug and alcohol use, lack of a support network and other vulnerability characteristics. Resilience is a dynamic characteristic that should be comparatively evaluated within a specific context; its association with perceived stress and social vulnerability during pregnancy is still not fully understood. This study aimed at exploring maternal resilience, perceived stress and social vulnerability during pregnancy and its associated factors and outcomes.
+
+Methods
+Prospective multicenter cohort study of nulliparous women in Brazil determining resilience (Resilience Scale; RS) and stress (Perceived Stress Scale; PSS) at 28 weeks of gestation (± 1 week). Resilience and stress scores were compared according to sociodemographic characteristics related to maternal/perinatal outcomes and social vulnerability, defined as having low level of education, being adolescent, without a partner or ethnicity other than white.
+
+Results
+We included 383 women who completed the RS and PSS instruments. Most women showed low resilience scores (median: 124.0; IQR 98–143). Women with a low resilience score (RS < 125) were more likely from the Northeast region, adolescents, other than whites, did not study or work, had a low level of education, low family income and received public antenatal care. Higher scores of perceived stress were shown in the Northeast, other than whites, at low levels of education, low annual family income and public antenatal care. Pregnant women with low resilience scores (n = 198) had higher perceived stress scores (median = 28) and at least one vulnerability criterion (n = 181; 91.4%).
+
+Conclusion
+Our results reinforce the role of resilience in protecting women from vulnerability and perceived stress. It may prevent complications and build a positive experience during pregnancy.

@@ -1,0 +1,1 @@
+This work focuses on proposing the basic components of a resilience scheme that can be used for the protection of Health Services Critical Infrastructure (HSCI) and the protection of its key assets based on combined protection against cyber and physical attacks.

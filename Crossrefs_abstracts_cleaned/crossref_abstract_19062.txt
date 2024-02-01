@@ -1,0 +1,13 @@
+Abstract
+Background
+Accumulating evidence suggests that pregnancy-related anxiety (PRA) has adverse impacts on maternity health and infant development. A substantial body of literature has documented the important influence of family function, perceived social support and resilience on PRA. However, research identifying the mediating mechanisms underlying this relationship in China are still lacking. Therefore, the current study aimed to investigate the prevalence of PRA under the three-child policy in China, and also explore the interrelationships among perceived social support, family function, resilience, and PRA.
+
+Methods
+In this cross-sectional study, a convenient sampling method was used to select 579 pregnant women who underwent prenatal examination at the maternity outpatient departments of the First Affiliated Hospital of Chongqing Medical University in China from December 2021 to April 2022. Participants were required to complete the following questionnaires: the demographic form, the Chinese Pregnancy-related Anxiety scale, the 10-item Connor-Davidson Resilience Scale, the APGAR Family Care Index Scale, and Multidimensional Scale of Perceived Social Support. Pearson correlation analysis was utilized to examine the rudimentary relationship among the study variables. Bootstrapping analyses in the structural equation modeling were applied to identify the significance of indirect effects.
+
+
+Results
+There were 41.4% of pregnant Chinese women indicating PRA. Correlational analyses indicated that perceived social support, family function and resilience were negatively associated with PRA (r = − 0.47, P < 0.01; r = − 0.43, P < 0.01; r = − 0.37, P < 0.01, respectively). The results of bootstrapping analyses demonstrated significant indirect effects of perceived social support (β = − 0.098, 95% CI [− 0.184, − 0.021]) and family function (β = − 0.049, 95% CI [− 0.103, − 0.011]) on PRA via resilience.
+
+Conclusions
+Chinese pregnant women are suffering from high levels of PRA. Better family function and perceived social support might reduce the occurrence of PRA, as well as by the mediating effects of resilience. Healthcare providers must be concerned about PRA and perform corresponding actions to reduce it. By strengthening social support and improving family function, antenatal care providers could effectively reduce or prevent PRA. And more importantly, implementing resilience-promoting measures are also essential to relieve anxiety and support mental health in pregnant women.

@@ -1,0 +1,17 @@
+Abstract
+Background
+Homelessness constitutes a traumatic period that adversely impacts health and quality of life outcomes. The potential mitigating effects of resilience on quality of life levels in people experiencing homelessness are underresearched. This study assesses the longitudinal associations between resilience and quality of life scores among adults experiencing homelessness and mental illness.
+
+Methods
+This study is a secondary  analysis of longitudinal data collected over 6 years from participants (N = 575) of the At Home/Chez Soi study on Housing First, Toronto site. Repeatedly measured resilience scores are the primary exposure and repeatedly measured global quality of life scores and mental health-specific quality of life scores are the primary outcomes. Mixed effect models were used to assess the association between the exposures and the outcomes.
+
+Results
+The majority of the participants were men (69.2%) and were on average 40.4 (± 11.8) years old at baseline. The average resilience score ranged between 5.00 to 5.62 over 8 data collection points across the 6-year follow-up period. After adjusting for gender, age, ethno-racial background, Housing First intervention, physical and mental comorbidities, and lifetime homelessness, higher resilience scores were positively associated with higher Global  quality of life (Adjusted-coefficient: 0.23, 95% CI 0.19–0.27) and mental health-related quality of life values (Adjusted-coefficient: 4.15, 95% CI 3.35–4.95).
+
+Conclusion
+In homeless adults with mental illness, higher resilience levels were positively associated with higher global and mental health related quality of life values. Further interventions and services aimed to enhance resilience mechanisms and strategies are warranted to enhance better mental health and quality of life outcomes of this population group.
+
+
+Trial registration
+
+At Home/Chez Soi trial was registered with ISRCTN, ISRCTN42520374. Registered 18 September 2009, http://www.isrctn.com/ISRCTN42520374.

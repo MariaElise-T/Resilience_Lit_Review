@@ -1,0 +1,7 @@
+Summary
+
+Anthropogenic stressors affect the ecosystems upon which humanity relies. In some cases when resilience is exceeded, relatively small linear changes in stressors can cause relatively abrupt and nonlinear changes in ecosystems.
+Ecological regime shifts occur when resilience is exceeded and ecosystems enter a new local equilibrium that differs in its structure and function from the previous state. Ecological resilience, the amount of disturbance that a system can withstand before it shifts into an alternative stability domain, is an important framework for understanding and managing ecological systems subject to collapse and reorganization.
+Recently, interest in the influence of spatial characteristics of landscapes on resilience has increased. Understanding how spatial structure and variation in relevant variables in landscapes affects resilience to disturbance will assist with resilience quantification, and with local and regional management.
+Synthesis and applications. We review the history and current status of spatial resilience in the research literature, expand upon existing literature to develop a more operational definition of spatial resilience, introduce additional elements of a spatial analytical approach to understanding resilience, present a framework for resilience operationalization and provide an overview of critical knowledge and technology gaps that should be addressed for the advancement of spatial resilience theory and its applications to management and conservation.
+

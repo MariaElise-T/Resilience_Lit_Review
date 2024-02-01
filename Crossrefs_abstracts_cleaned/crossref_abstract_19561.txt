@@ -1,0 +1,20 @@
+Abstract
+
+OBJECTIVE
+To identify challenges veterinarians faced during the COVID-19 pandemic, explore how they coped, identify coping strategies associated with greater resilience, and determine incentives and barriers to performing healthy coping behaviors.
+
+
+SAMPLES
+266 surveys completed by veterinarians in the Potomac region.
+
+
+PROCEDURES
+A cross-sectional survey was distributed electronically through veterinary medical boards and professional associations between June and September 2021.
+
+
+RESULTS
+Most survey responses came from veterinarians working in Maryland (128/266 [48%]) and Virginia (63/266 [24%]) who were predominantly white (186/266 [70%]), female (162/266 [61%]), and working in small-animal clinical practice (185/266 [70%]). The greatest workplace challenges experienced were increased workloads (195/266 [73%]) and reevaluating existing workflows (189/266 [71%]). Separation from loved ones (161/266 [61%]) was the greatest personal challenge. Of the veterinarians who completed the 10-point Connor-Davidson Resilience Scale (n = 219), which measures resilience on a scale from 0 (no resilience) to 40 (greatest resilience), the mean score was 29.6 (SD, 6.9), with a median of 30 (IQR = 10). Intrinsic factors most strongly associated with greater resilience were increasing age (P = .01) and later career stage (P = .002). Job satisfaction, autonomy, good work-life balance, and approach-focused coping strategies were positively associated with resilience. Overwhelmingly, the primary reported barrier to performing healthy coping behaviors was limited time to devote to self-care (177/266 [67%]).
+
+
+CLINICAL RELEVANCE
+A combination of individual approach-focused coping strategies and organizational interventions are crucial to support a resilient veterinary workforce.

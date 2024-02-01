@@ -1,0 +1,19 @@
+
+Background
+Most people who experience a potentially traumatic event (PTE) recover on their own. A small group of individuals develops psychological complaints, but this is often not detected in time or guidance to care is suboptimal. To identify these individuals and encourage them to seek help, a web-based self-help test called Mobile Insight in Risk, Resilience, and Online Referral (MIRROR) was developed. MIRROR takes an innovative approach since it integrates both negative and positive outcomes of PTEs and time since the event and provides direct feedback to the user.
+
+
+Objective
+The goal of this study was to assess MIRROR’s use, examine its psychometric properties (factor structure, internal consistency, and convergent and divergent validity), and evaluate how well it classifies respondents into different outcome categories compared with reference measures.
+
+
+Methods
+MIRROR was embedded in the website of Victim Support Netherlands so visitors could use it. We compared MIRROR’s outcomes to reference measures of PTSD symptoms (PTSD Checklist for DSM-5), depression, anxiety, stress (Depression Anxiety Stress Scale–21), psychological resilience (Resilience Evaluation Scale), and positive mental health (Mental Health Continuum Short Form).
+
+
+Results
+In 6 months, 1112 respondents completed MIRROR, of whom 663 also completed the reference measures. Results showed good internal consistency (interitem correlations range .24 to .55, corrected item-total correlations range .30 to .54, and Cronbach alpha coefficient range .62 to .68), and convergent and divergent validity (Pearson correlations range –.259 to .665). Exploratory and confirmatory factor analyses (EFA+CFA) yielded a 2-factor model with good model fit (CFA model fit indices: χ219=107.8, P<.001, CFI=.965, TLI=.948, RMSEA=.065), conceptual meaning, and parsimony. MIRROR correctly classified respondents into different outcome categories compared with the reference measures.
+
+
+Conclusions
+MIRROR is a valid and reliable self-help test to identify negative (PTSD complaints) and positive outcomes (psychosocial functioning and resilience) of PTEs. MIRROR is an easily accessible online tool that can help people who have experienced a PTE to timely identify psychological complaints and find appropriate support, a tool that might be highly needed in times like the coronavirus pandemic.

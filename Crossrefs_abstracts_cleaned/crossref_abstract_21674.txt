@@ -1,0 +1,39 @@
+
+            Recent human studies suggest that genetic polymorphisms allow an individual to maintain optimal cognitive functioning during sleep deprivation. If such polymorphisms were not associated with additional costs, selective pressures would allow these alleles to spread through the population such that an evolutionary alternative to sleep would emerge. To determine whether there are indeed costs associated with resiliency to sleep loss, we challenged natural allelic variants of the
+            foraging
+            gene (
+            for
+            ) with either sleep deprivation or starvation. Flies with high levels of Protein Kinase G (PKG) (
+            
+              for
+              R
+
+            ) do not display deficits in short-term memory following 12 h of sleep deprivation. However, short-term memory is significantly disrupted when
+            
+              for
+              R
+
+            flies are starved overnight. In contrast, flies with low levels of PKG (
+            
+              for
+              s
+
+            ,
+            
+              for
+              s2
+
+            ) show substantial deficits in short-term memory following sleep deprivation but retain their ability to learn after 12 h of starvation. We found that
+            
+              for
+              R
+
+            phenotypes could be largely recapitulated in
+            
+              for
+              s
+
+            flies by selectively increasing the level of PKG in the α/β lobes of the mushroom bodies, a structure known to regulate both sleep and memory. Together, these data indicate that whereas the expression of
+            for
+            may appear to provide resilience in one environmental context, it may confer an unexpected vulnerability in other situations. Understanding how these tradeoffs confer resilience or vulnerability to specific environmental challenges may provide additional clues as to why an evolutionary alternative to sleep has not emerged.
+          

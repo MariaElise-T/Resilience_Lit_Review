@@ -1,0 +1,12 @@
+Abstract
+Background
+Most Australian Aboriginal children are on track with their development, however, the prevalence of children at risk of or with a developmental or behavioural problem is higher than in other children. Aboriginal child development data mostly comes from remote communities, whereas most Aboriginal children live in urban settings. We quantified the proportion of participating children at moderate and high developmental risk as identified by caregivers’ concerns, and determined the factors associated with developmental risk among urban Aboriginal communities.
+
+Methods
+Study methods were co-designed and implemented with four participating urban Aboriginal Community Controlled Health Services in New South Wales, Australia, between 2008 and 2012. Caregiver-reported data on children < 8 years old enrolled in a longitudinal cohort study (Study of Environment on Aboriginal Resilience and Child Health: SEARCH) were collected by interview. The Parents’ Evaluation of Developmental Status (PEDS) was used to assess developmental risk through report of caregiver concerns. Odds ratios (OR) were calculated using multinomial logistic regression to investigate risk factors and develop a risk prediction model.
+
+Results
+Of 725 children in SEARCH with PEDS data (69% of eligible), 405 (56%) were male, and 336 (46%) were aged between 4.5 and 8 years. Using PEDS, 32% were at high, 28% moderate, and 40% low/no developmental risk. Compared with low/no risk, factors associated with high developmental risk in a mutually-adjusted model, with additional adjustment for study site, were male sex (OR 2.42, 95% confidence intervals 1.62–3.61), being older (4.5 to < 8 years versus < 3 years old, 3.80, 2.21–6.54), prior history of ear infection (1.95, 1.21–3.15), having lived in 4 or more houses versus one house (4.13, 2.04–8.35), foster care versus living with a parent (5.45, 2.32–12.78), and having a caregiver with psychological distress (2.40, 1.37–4.20).
+
+Conclusion
+In SEARCH, 40% of urban Aboriginal children younger than 8 years were at no or low developmental risk. Several factors associated with higher developmental risk were modifiable. Aboriginal community-driven programs to improve detection of developmental problems and facilitate early intervention are needed.

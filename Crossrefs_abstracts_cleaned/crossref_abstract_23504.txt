@@ -1,0 +1,7 @@
+Abstract
+
+Environmental stressors frequently have sublethal consequences for animals, often affecting the mean of phenotypic traits in populations. However, effects on inter‐individual variability are poorly understood. Since phenotypic variability is the basis for adaptation, any change due to stressors may have important implications for population resilience.
+Here, we explored this possibility in bees by analysing raw datasets from 23 studies (5618 bees) in which individuals were first exposed to stressors and then tested for cognitive tasks.
+While all types of stressors decreased the mean cognitive performance of bees, they increased cognitive variability. Focusing on 14 pesticide studies, we found that the mode of exposure to stressors and the dose were critical. Mean cognitive performance was more affected by a chronic exposure than by an acute exposure. Yet, cognitive variability increased with increasing doses following both exposure durations.
+Policy implications. Current guidelines for the authorization of plant protection products on the European market prioritize acute over chronic toxicity assessments on non‐target organisms. By overlooking the consequences of a chronic exposure, regulatory authorities may register new products or doses that are harmful to bee populations. Our findings call for more research on stress‐induced phenotypic variation and its incorporation into policy guidelines to help identify levels and modes of exposure animals can cope with.
+

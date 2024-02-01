@@ -1,0 +1,12 @@
+Abstract
+Background
+Female sex workers and addicted women are among the vulnerable groups who impose high costs on the health system of every society. They are prone to psychological problems such as anxiety, stress, and reduced resilience due to their lifestyles. Since mindfulness-based stress reduction (MBSR) has been applied frequently by many psychotherapists to treat stress and anxiety, the present study investigated the effectiveness of MBSR on resilience of the vulnerable women.
+
+Methods
+The statistical population of this quasi-experimental study consisted of all eligible women who referred to the drop-in centers in Kerman in the southeast of Iran. Followed by random sampling, 63 vulnerable women were randomly assigned into the intervention (n = 30) and control (n = 33) groups. The MBSR intervention was conducted for the intervention group in eight 90-min sessions. Demographic information questionnaire and Connor-Davidson resilience scale were administered to collect data prior to and one month after the MBSR intervention.
+
+Results
+The pre-test resilience score was not significantly different between the intervention (53.40 ± 10.49) and the control (54.5 ± 9.27) groups (t = 0.43, p = 0.66). However, the posttest resilience score in the intervention group (60.66 ± 6.71) was significantly higher than the control group (53.88 ± 7.54) (t = 3.58, P = 0.001). Moreover, a comparison between the pretest and posttest scores revealed a significant decrease in resilience scores of the control group (t = 2.81, p = 0.009).
+
+Conclusion
+Since MBSR intervention increased resilience of the vulnerable women in the intervention group, researchers, managers, counselors, community health nurses, and psychiatric nurses are suggested to implement related interventions to promote the health of women, especially vulnerable ones.

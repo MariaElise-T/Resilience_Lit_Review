@@ -1,0 +1,16 @@
+Abstract
+Purpose
+This study aims to understand the association between positive personal resources (i.e., optimism, hope, courage, trait mindfulness, and self-efficacy), resilience, and psychological distress (i.e., anxiety, depression, stress) in women with breast cancer and breast cancer survivors during the COVID-19 pandemic. We hypothesized that personal positive resources can directly influence resilience, which in turn prevented psychological distress.
+
+Methods
+The research sample consisted of 409 Italian women (49% patients, 51% survivors) who were administered a questionnaire to assess positive resources, resiliency, and distress. structural equation model (SEM) analysis was carried out to confirm the hypothetical-theoretical model.
+
+Results
+Personal positive resources had a direct positive effect on resilience, which prevented from distress. These results were observed across cancer patients and survivors, and regardless the level of direct exposure to COVID-19.
+
+Conclusions
+In both patients and survivors, the relationships between positive personal resources, resilience, and psychological distress is strong enough to be not influenced by the level of exposure to COVID-19 and despite COVID-19 pandemic caused the disruption of active treatment plans and delays in routine check-ups.
+
+Implications for cancer survivors
+Implications of this study suggest the urgency to screen positive resources and to identify women with lower resilience and a potentially higher susceptibility to develop psychological distress. For these women, our findings suggest the implementation of psychological interventions that build resilience.
+

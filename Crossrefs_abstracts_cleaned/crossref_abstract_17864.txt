@@ -1,0 +1,12 @@
+Abstract
+Background
+The main purpose of the research was to examine the differences between adults in the age group 70+ and two other age groups (45–59 and 60–69), concerning their healthy and active lifestyle. The death toll of the current COVID-19 pandemic is strongly biased toward the elderly. However, some studies of crises suggest that older adults tend to perceive events as less stressful than do younger people. Therefore, we examined healthy behavior in populations at risk according to the age cutoff-points used by the Ministry of Health at the time of vaccination, and divided the participants into three age groups (45–59, 60–69, and 70+) following health organizations’ recommendations.
+
+Methods
+Participants were 1202 people, 381 males and 821 females, aged 45–90. A survey comprised of six parts was used: Demographic background, the International Physical Activity Questionnaire–short version, Positive and Negative Affect Schedule – PANAS, the Connor and Davidson Resilience Scale, a questionnaire for measuring depressive moods, and questions regarding weight change, based on the Israeli National Health and Nutrition (MABAT) survey. Data were collected in Israel during the first complete lockdown. The questionnaire was distributed via e-mail, WhatsApp, Twitter, and Facebook using a snowball sampling method.
+
+Results
+Resilience and negative feelings and depression symptoms were higher in age group 45–59 compared to 70+ year-old participants, and the depression symptoms score was also higher among participants aged 45–59 compared to ages 60–69. Physical activity was associated with higher resilience, fewer depression symptoms, and fewer negative emotions. Regarding gender and psychological variables, no differences were found. During the time of lockdown, weight change was not prevalent and sleeping hours increased.
+
+Conclusion
+In adults at 70+, the physical activity level, physical activity before and during the lockdown, emotions, sleeping hours, and weight change were similar to the other adult groups that were examined (45–59 and 60–69). However, in the older adults groups (70+ and 60–69), resilience and depression symptoms were lower than in the youngest age group.

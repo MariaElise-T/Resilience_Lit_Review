@@ -1,0 +1,1 @@
+Effective methodology for designing a resilient micron silicon-based anode material for stable and reversible storage of lithium ions and its practical application in next generation lithium-ion batteries.

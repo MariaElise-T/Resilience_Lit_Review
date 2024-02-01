@@ -1,0 +1,4 @@
+Measuring the resilience of a dynamic system is a difficult undertaking. This article is an effort to present intersecting theories between destination resilience and sustainable tourism. Traditional tourism management relies on a narrow focus based in scientific approaches that are
+ often linear in concept. This type of thinking may lead to some limitations in planning and a full understanding of how the tourism industry operates on various scales. Resilience describes the capacity of a system to absorb change and continue to persist. Sustainability is the intersection
+ of social, economic, institutional, and ecological variables. In this article, a heuristic model is presented that combines and adapts Butler's Tourism Area Life Cycle and Holling's Adaptive Cycle. This heuristic model is intended to stimulate theories on destination resilience within the
+ context of sustainable tourism.

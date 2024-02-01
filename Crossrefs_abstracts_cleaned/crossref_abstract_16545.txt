@@ -1,0 +1,12 @@
+Abstract
+Background
+Prenatal stress is a highly prevalent mental disorder experienced by pregnant women. This study assessed the prevalence and influencing factors of prenatal stress and investigated the mediating role of social support and resilience between self-efficacy and prenatal stress among pregnant women in China.
+
+Methods
+A convenience sample comprising 1071 pregnant women from three hospitals in Nantong, Jiangsu Province, China, was recruited between February and June 2023. These participants completed a set of general survey questionnaires and were assessed using the Pregnancy Pressure Scale, Perceived Social Support Scale, the 10-item Connor–Davidson Resilience Scale, and the Chinese version of the General Self-Efficacy Scale. Furthermore, a hierarchical multiple regression model was employed to investigate the relevant factors and mediators of prenatal stress symptoms. A structural equation model was used to examine the mediating role of social support and resilience in the relationship between self-efficacy and prenatal stress.
+
+Results
+The results of the multivariate regression analysis indicated significant associations between prenatal stress and parity, self-efficacy, social support, and resilience (P < 0.001). Self-efficacy accounted for 35.33% of the total effect, with a direct effect of -2.5306 (95% confidence interval [CI]: -4.0309 to -1,0303). Further examination through mediation analysis revealed the mediating roles of social support and resilience in the relationship between self-efficacy and prenatal stress. The mediating effect of social support was − 1.5933 (95% CI: -2.2907 to -0.9496), accounting for 22.24% of the total effect. Similarly, resilience exhibited a mediating effect of -3.0388 (95% CI: -4.3844 to -1.7135), accounting for 42.43% of the total effect.
+
+Conclusion
+The mediation analysis revealed that among pregnant women in China, the influence of self-efficacy on prenatal stress is channelled through social support and resilience. Therefore, enhancing social support, resilience, and self-efficacy might alleviate prenatal stress.

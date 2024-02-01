@@ -1,0 +1,19 @@
+
+Purpose
+As evacuation is one of the most used response actions to such disasters, it is essential to understand correctly what a resilient evacuation would mean. One critical factor in evacuation resilience is the resilience level of evacuation infrastructures. Also, UN sustainable development has a goal to build resilient infrastructures. This study aims to investigate the characteristics of resilient evacuation infrastructures.
+
+
+Design/methodology/approach
+A systematic methodology for reviewing articles has been implemented to understand how vulnerable cities can be more prepared, especially for pedestrian evacuation.
+
+
+Findings
+This study has developed an evacuation scoring system framework for pedestrians to investigate evacuation infrastructure in terms of different resilience features, such as redundancy, safe-to-fail, readiness and capacity. The most practical evacuation system will be estimated. The output of this study can provide insight into a final output to provide the features of a successful pedestrian evacuation system for future policy drafting for infrastructure strategy decision-makers.
+
+
+Practical implications
+Climate change has made the risks of natural hazards such as tsunamis more intense for humans. Many people in the world live in hazardous environments and are susceptible to disasters. A community must be prepared to mitigate the destructive event and quickly respond to be called resilient.
+
+
+Originality/value
+This is an original work. The researcher has gone through a deep literature review and developed a cluster showing the features a resilient evacuation infrastructure should have.

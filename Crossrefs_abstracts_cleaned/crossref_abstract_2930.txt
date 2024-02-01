@@ -1,0 +1,27 @@
+
+Purpose
+This paper draws on the literature of cybernetics to argue that the resilience of organizations can be diminished by an unconsidered maximization of transparency and accountability. In doing so, it critically examines the concept of resilience and the relationship of resilience to neoliberalism.
+
+
+Design/methodology/approach
+A conceptual analysis of resilience is carried out at two levels. First, the use of the concepts of resilience, viability, transparency, accountability and neoliberalism is considered, together with the relationship between them. Second, the management interventions that result from the application of these related ideas are critiqued from the perspective of cybernetics and particularly of variety and black boxes.
+
+
+Findings
+It is shown that within complex social environments, the unconsidered imposition of transparency and accountability as a management strategy may constrain the resilience of the organizations and individuals rather than enhance it. The use of data analytics enhances this tendency.
+
+
+Research limitations/implications
+The theoretical analysis of the relationship between transparency and resilience offers a basis for carrying out empirical studies.
+
+
+Practical implications
+There are practical implications for organizational managers, employees and stakeholders, offering them a means of understanding the systemic threat posed by organizational design decisions which enhance transparency and accountability without taking into consideration the full range of interactions which act to maintain organizational viability.
+
+
+Social implications
+The analysis provides a rationale for resisting the imposition of social policies inspired by neoliberalism.
+
+
+Originality/value
+The bringing together of the concepts of resilience, neoliberalism, transparency and accountability, and their exposure to cybernetic analysis, provides a novel perspective on resilience, and new insights into way that organizations maintain their viability.

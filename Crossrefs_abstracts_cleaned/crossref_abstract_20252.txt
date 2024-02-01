@@ -1,0 +1,15 @@
+Abstract
+
+Purpose of Review
+
+Boreal forests provide a wide range of ecosystem services that are important to society. The boreal biome is experiencing the highest rates of warming on the planet and increasing demand for forest products. Here, we review how changes in climate and its associated extreme events (e.g., windstorms) are putting at risk the capacity of these forests to continue providing ecosystem services. We further analyze the role of forest management to increase forest resilience to the combined effects of climate change and extreme events.
+
+
+Recent Findings
+
+Enhancing forest resilience recently gained a lot of interest from theoretical perspective. Yet, it remains unclear how to translate the theoretical knowledge into practice and how to operationalize boreal forest management to maintain forest ecosystem services and functions under changing global conditions. We identify and summarize the main management approaches (natural disturbance emulation, landscape functional zoning, functional complex network, and climate-smart forestry) that can promote forest resilience.
+
+
+Summary
+
+We review the concept of resilience in forest sciences, how extreme events may put boreal forests at risk, and how management can alleviate or promote such risks. We found that the combined effects of increased temperatures and extreme events are having negative impacts on forests. Then, we discuss how the main management approaches could enhance forest resilience and multifunctionality (simultaneous provision of high levels of multiple ecosystem services and species habitats). Finally, we identify the complementary strengths of individual approaches and report challenges on how to implement them in practice.

@@ -1,0 +1,15 @@
+
+Background:
+The COVID-19 pandemic had a tremendous impact on Healthcare Professionals (HCPs). Social support and resilience were seen as protective factors for mental health problems. This study aimed to investigate the role of perceived social support and resilience in predicting Healthcare Professionals’ mental health during the outbreak in Indonesia.
+
+
+Methods:
+A digital self-reported survey was completed by 202 HCPs (143 women and 59 men) during the outbreak. A cross-sectional study was applied, and participants were recruited through a purposive sampling technique. The online survey collected information on sociodemographic, perceived social support, resilience, and mental health problems. Perceived social support was measured by The Multidimensional Scale of Perceived Social Support (MSPSS), resilience by the Connor-Davidson Resilience Scale (CD-RISC)–10, and mental health problems by the Self-Report Questionnaire (SRQ). Multivariate regression was applied to analyze the data.
+
+
+Results:
+Results indicated that a high resilience score was associated with low scores for depression, anxiety, and somatoform symptoms (β = -4.72, p = 0.000). On the contrary, perceived social support did not predict mental health or PTSD symptoms (β = -0.56, p = 0.412).
+
+
+Conclusion:
+Considering the role of resilience in reducing mental health problems, we suggest government and health authorities design an intervention program to increase HCPs’ resilience.

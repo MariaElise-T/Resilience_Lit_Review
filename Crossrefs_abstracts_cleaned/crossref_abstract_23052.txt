@@ -1,0 +1,12 @@
+Abstract
+Background
+The world guidance on the measures of social distancing for prevention of COVID-19 has changed the daily habits of great part of the population, and this could influence the care and resilience with diabetes during situations of adversity. This study aimed at assessing the characteristics of diabetic individuals and self-care practices and resilience with diabetes in the context of the COVID-19 pandemic in Brazil.
+
+Methods
+This is a cross-sectional web survey study carried out among adults with diabetes, in which a structured 43-item questionnaire was conducted on the REDCap plataform, including the Diabetes Self-Care Activities Questionnaire and Connor-Davidson Resilience Scale, to measure socio-demographic and clinical characteristics. The web survey was disseminated through the main social media and data were collected from September 1st to October 19th, 2020. Data analysis was performed according to type of diabetes mellitus (DM) and at a significance level of 5% (p < 0.05).
+
+Results
+Of the 1633 participants, 67.5% were women, 43.2% aged between 35 and 59 years old, 68.0% lived in the south-eastern region of Brazil, 57.1% had a high education level, 49% reported to have DM1 and 140 participants reported to have had COVID-19. Diabetes care mostly involved the use of medications (93%), whereas the least used ones were physical activity (24.6%) and examination of the shoes (35.7%). About 40% of the participants reported to be followed up by telemedicine, 61.5% monitored the glycaemic levels, 61.2% followed a healthy diet and 43.4% left home only to go to the supermarket and drugstore. The mean resilience was 25.4 (SD = 7.7).
+
+Conclusions
+In Brazil, individuals with diabetes followed social distancing and maintained their medication treatment for DM. However, practice of physical activity and foot examination was little followed by the participants, who also had a low level of resilience. These findings showed the importance of patient follow-up in the healthcare services, meaning that telemedicine should be improved and support provided for adaptation in view of the therapeutic setbacks.

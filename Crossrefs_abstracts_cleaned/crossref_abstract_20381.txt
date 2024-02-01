@@ -1,0 +1,16 @@
+Abstract
+
+Objective:
+Women living with HIV (WLWH) are commonly symptomatic during perimenopause and menopause (≥1 y without menstruation), however, little is known of risks for symptoms and their timing. We analyzed these unwanted experiences to inform care.
+
+
+Methods:
+WLWH (≥40 y) in the Canadian HIV Women’s Sexual and Reproductive Health Cohort Study rated midlife experiences for seven symptoms and a symptom composite (from 0 to 21). Timing was categorized into four phases: i) perimenopause (flow in the last year), ii) 1-2 years from final menstrual period (FMP), iii) 2-5 years post-FMP; and iv) >5 years post-FMP. Resilience (standardized out of 100) was assessed based on Wagnild’s Resilience Scale. Univariable/multivariable mixed effects linear regression assessed correlates of symptom intensity by composite score.
+
+
+Results:
+Among 457 peri-/menopausal women mean age 54.7 (±6.6) over two time points (703 observations), 88% experienced ≥1 mild symptom; 75% were of moderate and 55% severe intensity. The most frequently reported symptoms were joint/muscle stiffness (67%), depressed mood (67%), and hot flashes (57%). After adjusting for reproductive phase, we found that women with greater resilience had fewer/lower intensity symptoms (symptom score 1.37 [2.30 to 0.44] lower; P = 0.004); those with depressive symptoms and recreational drug use (respectively) had more/higher intensity symptoms (scores 1.71 [0.61 to 2.82] [P = 0.002]; 2.89 [2.09 to 3.77] [P<0.001] higher). Symptoms were most intense in perimenopause and declined with increasing menopausal years (P = 0.03).
+
+
+Conclusions:
+WLWH experiences a high burden of midlife symptoms, decreased by resilience and most intense during perimenopause. Unwanted experiences were linked to psychosocial and behavioral factors. These data encourage HIV providers to adopt a bio-psychosocial approach to midlife management.

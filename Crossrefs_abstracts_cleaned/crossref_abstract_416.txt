@@ -1,0 +1,1 @@
+Many risks of catastrophic failures of critical infrastructures can be significantly reduced by relatively simple measures to increase resiliency.

@@ -1,0 +1,15 @@
+
+Purpose
+While, supply chain resilience (SCRES) continues to be a dominant topic in both academic and business literature and has gained more attention recently, there is limited knowledge on SCRES capabilities specific to business functions. The purpose of this paper is to identify and investigate capabilities shared between supply, operations and logistics that are most important for SCRES.
+
+
+Design/methodology/approach
+To address this gap, the authors followed a multi-method research approach. First, the authors used the grounded theory method to generate a theoretical framework based on interviews with 51 managers from five companies in automotive SCs. Next, the authors empirically validated the framework using a survey of 340 SC professionals from the manufacturing industry.
+
+
+Findings
+Five significant capabilities emerged from the qualitative study; all were significant in empirical validation. This research advances the knowledge of SCRES as it informs managerial decision-making by identifying capabilities common to supply, logistics and operations that impact SCRES.
+
+
+Originality/value
+This research advances the knowledge of SCRES as it informs managerial decision-making by identifying capabilities common to supply, logistics and operations that impact SCRES. In addition, the findings of this research help managers better allocate resources among significant capabilities.

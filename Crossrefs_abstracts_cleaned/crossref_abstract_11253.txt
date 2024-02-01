@@ -1,0 +1,15 @@
+
+Purpose
+COVID-19 disrupted the usual way of working for many people across the globe, making full-time work from home and hybrid models two popular work arrangements. Despite the proliferation and high acceptance of the hybrid model, very little research has focused on the same. This study aims to compare the impact of transitions caused by remote work on work disengagement under two settings: remote work and hybrid model.
+
+
+Design/methodology/approach
+The data is collected from three corporate hubs in India: Hyderabad, Gurgaon and Bangalore. This study’s respondents represent two working models: full-time work from home and a hybrid model. Responses were collected using Google forms-based questionnaire, which resulted in the following usable responses: 356 (hybrid) and 398 (work from home).
+
+
+Findings
+The findings reveal that the structural model for the hybrid sector explained 11% of the variance in work disengagement, while the same for work from home model accounted for 20% of the variance in work disengagement. The authors also tested for the moderation of individual resilience between work-home and home-to-work conflicts and home-to-work transitions and work-to-home conflict under full-time work-from and hybrid models. Based on 356 respondents from hybrid category and 398 from work from home, the study found that employees experience less work-to-home and home-to-work conflicts in the hybrid model and employees experience more work-to-home and home-to-work conflicts in the full-time work from home model.
+
+
+Originality/value
+The study is also the first to examine the moderating role of individual resilience as a tool to bounce back and handle conflicts. As the full-time work from home model leads to more work-to-home and home-to-work conflicts, individuals have more scope to exhibit resilience, and thus, the moderating relationship is stronger in the full-time work from home model. The paper offers theoretical and managerial implications.

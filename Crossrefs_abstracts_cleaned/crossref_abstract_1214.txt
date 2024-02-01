@@ -1,0 +1,12 @@
+Abstract
+Background
+Family resilience plays a crucial role in helping depressed adolescents overcome challenges. However, studies examining family resilience in depressed adolescents are currently scarce. This study, guided by the family resilience framework, aimed to investigate the serial-multiple mediation of social support and psychological resilience between family communication and family resilience in Chinese families of depressed adolescents.
+
+Methods
+In 229 parents of adolescents with major depressive disorder, 20.1% comprises of fathers, while 79.9% comprises of mothers. The mean age of depressed adolescents was 14.84 (±1.76) years, and the mean age of parents of these depressed adolescents was 43.24 (±4.67) years. The Family Resilience Assessment Scale (FRAS), the Psychological Resilience of Parents of Special Children Questionnaire, and the Social Support Rating Scale, Family Assessment Device (FAD) were used to collected data. Descriptive, univariate, and Pearson correlation analyses were used in preliminary analyses. To explore mediation, we employed a serial-multiple mediation model (PROCESS model 6).
+
+Results
+Family communication was positively correlated with family resilience, social support, and psychological resilience. Mediation analysis revealed indirect effects of family communication on family resilience, which were mediated solely by either social support or psychological resilience, or through multiple mediation pathways involving both social support and psychological resilience.
+
+Conclusions
+Family communication positively and directly affects the family resilience of depressed adolescents, and a higher level of social support and psychological resilience can help improve family resilience. These findings not only provide empirical evidence supporting the family resilience framework but also have practical implications for future family interventions targeting depressed adolescents.

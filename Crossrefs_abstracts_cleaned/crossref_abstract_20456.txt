@@ -1,0 +1,12 @@
+Abstract
+Background
+Burnout is a serious issue that affects physicians more than the general population; however, those with higher levels of grit and resilience have been shown to experience lower levels of burnout. The primary aim was to determine the prevalence of burnout among Jordanian orthopedic surgeons, explore its risk factors, and investigate the relationship between burnout and grit and resilience.
+
+Methods
+We conducted a questionnaire-based cross-sectional study targeting a total of 180 orthopedic surgeons attending the yearly Jordanian National Orthopedic Conference (JNOC). Non-random sampling (i.e., convenience) was utilized to recruit participants. The abbreviated Maslach Burnout Inventory, short grit scale, and Connor-Davidson Resilience Scale were used. Scores were examined using the Mann–Whitney U, Kruskal–Wallis H, and Spearman’s rho tests, of which results were corrected using the Bonferroni method.
+
+Results
+Among 135 respondents, 62.2% were specialists and 37.8% were residents. About 52.0% practiced in public hospitals. Approximately 69.0% worked for more than 50 h weekly. The prevalence of burnout among all participants was 45.2% with more frequency among residents (66.7%). Burnout and the participants’ grit and resilience showed an inverse relationship (ρ = -0.441 and ρ = -0.312, respectively). Age (ρ = 0.337), number of children (ρ = 0.245), and years of experience (ρ = 0.331) were positively correlated with grit. The median score for grit was higher in physicians who had or are having their residency outside Jordan (p < 0.001). Age (ρ = 0.233) and years of experience (ρ = 0.269) were positively correlated with resilience.
+
+Conclusion
+Jordanian orthopedic surgeons face significant rates of burnout. Institutional efforts should be taken to detect and prevent burnout in addition to enhancing the grit and resilience among orthopedic professionals.

@@ -1,0 +1,9 @@
+Abstract
+Background
+To date (April 2021), medical device (MD) design approaches have failed to consider the contexts where MDs can be operationalised. Although most of the global population lives and is treated in Low- and Middle-Income Countries (LMCIs), over 80% of the MD market share is in high-resource settings, which set de facto standards that cannot be taken for granted in lower resource settings. Using a MD designed for high-resource settings in LMICs may hinder its safe and efficient operationalisation. In the literature, many criteria for frameworks to support resilient MD design were presented. However, since the available criteria (as of 2021) are far from being consensual and comprehensive, the aim of this study is to raise awareness about such challenges and to scope experts’ consensus regarding the essentiality of MD design criteria.
+
+Results
+This paper presents a novel application of Delphi study and Multiple Criteria Decision Analysis (MCDA) to develop a framework comprising 26 essential criteria, which were evaluated and chosen by international experts coming from different parts of the world. This framework was validated by analysing some MDs presented in the WHO Compendium of innovative health technologies for low-resource settings.
+
+Conclusions
+This novel holistic framework takes into account some domains that are usually underestimated by MDs designers. For this reason, it can be used by experts designing MDs resilient to low-resource settings and it can also assist policymakers and non-governmental organisations in shaping the future of global healthcare.

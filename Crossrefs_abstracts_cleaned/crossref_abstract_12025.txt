@@ -1,0 +1,23 @@
+
+Purpose
+The study of supply chain resilience (SCRES) continues to gain interest in the academic and practitioner communities. The purpose of this paper is to present a focused review of the SCRES literature by investigating supply chain (SC) capabilities, their relationship to SCRES outcomes and the underpinning theoretical mechanisms of this relationship.
+
+
+Design/methodology/approach
+The paper uses the systematic literature review approach to examine 383 articles published between 2000 and 2017, ultimately down selecting to the most relevant 228 peer-reviewed studies. Context-interventions-mechanisms-outcomes (CIMO) logic is applied to organize and synthesize these peer-reviewed studies. A typological framework is developed from the CIMO-based classification of the SCRES literature.
+
+
+Findings
+The findings of this study outline the gaps in the SCRES literature and present an agenda for future research.
+
+
+Research limitations/implications
+This paper presents an exploratory research; therefore, the typological model presented is just one of the possible perspectives.
+
+
+Practical implications
+The typology of SCRES literature can help practitioners to understand SCRES and to measure and assess the resilience of SCs.
+
+
+Originality/value
+The paper provides clear definitions of SCRES constructs, develops a typological framework to further understand SCRES and identifies SCRES measures and assessment techniques.

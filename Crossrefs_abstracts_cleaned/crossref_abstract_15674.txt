@@ -1,0 +1,12 @@
+Abstract
+Purpose
+Oncologists are predisposed to developing burnout syndrome. Like other health care professionals worldwide, oncologists have endured additional, extreme challenges during the Covid-19 pandemic. Psychological resilience presents a potential protective mechanism against burnout. This cross-sectional study examines whether psychological resilience eased burnout syndrome among Croatian oncologists during the pandemic.
+
+Methods
+An anonymized self-reporting questionnaire was electronically distributed by the Croatian Society for Medical Oncology to 130 specialist and resident oncologists working in hospitals. Available for completion from September 6–24, 2021, the survey comprised demographic questions; the Oldenburg Burnout Inventory (OLBI), covering exhaustion and disengagement; and the Brief Resilience Scale (BRS). The response rate was 57.7%.
+
+Results
+Burnout was moderate or high for 86% of respondents, while 77% had moderate or high psychological resilience. Psychological resilience was significantly negatively correlated with the OLBI exhaustion subscale (r =  − .54; p < 0.001) and the overall OLBI score (r =  − .46; p < 0.001). Scheffe’s post hoc test showed that oncologists with high resilience scored significantly lower on the overall OLBI (M = 2.89; SD = 0.487) compared to oncologists with low resilience (M = 2.52; SD = 0.493).
+
+Conclusion
+The findings thus indicate that oncologists with high psychological resilience are at significantly lower risk of developing burnout syndrome. Accordingly, convenient measures to encourage psychological resilience in oncologists should be identified and implemented.

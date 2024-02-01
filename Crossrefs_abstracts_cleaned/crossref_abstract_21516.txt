@@ -1,0 +1,15 @@
+Abstract
+Background
+During the COVID-19 outbreak, most Chinese college students were home-quarantined to prevent the spread of the virus. COVID-19-associated impact has been shown to be a risk factor for the development of post-traumatic symptoms disorder (PTSD). However, little is known about the psychological processes that mediate this association. This study investigated the association between COVID-19-associated impact and PTSD and examined whether past stressful events, psychological resilience, and social support have mediating effects on this association.
+
+Methods
+The 12,397 valid responses from 31cities in China via an online survey assessed PTSD symptoms, past stressful events, psychological resilience, social support and social-demographic variables. AMOS was used to test the hypotheses of mediating effects.
+
+Results
+On the 39th day of the declared COVID-19 epidemic in China, 6.75% of the surveyed sample showed PTSD symptoms. A positive mediating effect of past stressful events was found between COVID-19-associated impact and PTSD, whereas psychological resilience and social support had negative mediating effects. The fit indices for the path model were found to be significant (β = 0.28, p < 0.001), COVID-19-associated impact indirectly affects the risk of PTSD through mediating pathways (past stressful events → psychological resilience → social support) on PTSD.
+
+Conclusions
+Attention should be paid to the effects of past stressful events of Chinese college students who were home-quarantined during the COVID-19 epidemic, and strategies should also be implemented to improve social support and develop psychological resilience.
+
+Trial registration
+The study was approved by the ethics committee of the Southwest Minzu University.

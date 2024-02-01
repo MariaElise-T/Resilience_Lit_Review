@@ -1,0 +1,26 @@
+
+Background:
+The stress level among nurses is significantly high, which negatively affects the nurses' well-being and the quality of care provided to patients. The goal of this study was to measure the impact of implementing a resiliency training program on nurses.
+
+
+Method:
+A pretest-posttest quasi-experimental design was used to measure the impact of nurses' participation in a resiliency training program. The sample was recruited with the convenience sampling technique. Participants were allocated to groups according to their ability to attend all intervention sessions. A total of 137 participants completed all phases of the study. The study was conducted at a private hospital in Amman, Jordan. Data were collected at two time points, before the intervention and 1 week after the intervention.
+
+
+Results:
+
+              Analysis of covariance was used to measure differences between groups after the intervention. The results indicated that there were statistically significant differences (
+              p
+              < .001) in resilience and stress levels between the groups after the intervention.
+            
+
+
+Conclusion:
+
+              Nurses in the intervention group showed a significant improvement in resilience scores and a significant reduction in stress scores.
+              
+                [
+                J Contin Educ Nurs.
+                2023;54(12):581–588.]
+              
+

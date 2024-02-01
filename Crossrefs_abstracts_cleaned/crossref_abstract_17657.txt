@@ -1,0 +1,19 @@
+
+Purpose
+The main purpose of this study is to examine the impact of agricultural internet information (AII) acquisition on climate-resilient variety adoption among rice farmers in the Jianghan Plain region of China. Additionally, it explores the influencing channels involved in this process.
+
+
+Design/methodology/approach
+Based on survey data for 877 rice farmers from 10 counties in the Jianghan Plain, China, this paper used an econometric approach to estimate the impact of AII acquisition on farmers’ adoption of climate-resilient varieties. A recursive bivariate Probit model was used to address endogeneity issues and obtain accurate estimates. Furthermore, three main influencing mechanisms were proposed and tested, which are broadening information channels, enhancing social interactions and improving agricultural skills.
+
+
+Findings
+The results show that acquiring AII can overall enhance the likelihood of farmers adopting climate-resilient varieties by 36.8%. The three influencing channels are empirically confirmed. Besides, educational attainment, income and peer effects can facilitate farmers’ acquisition of AII, while climate conditions and age significantly influence the adoption of climate-resilient varieties.
+
+
+Practical implications
+Practical recommendations are put forward to help farmers build climate resilience, including investing in rural internet infrastructures, enhancing farmers’ digital literacy and promoting the dissemination of climate-resilient information through diverse internet platforms.
+
+
+Originality/value
+Strengthening climate resilience is essential for sustaining the livelihoods of farmers and ensuring national food security; however, the role of internet information has received limited attention. To the best of the authors’ knowledge, this study is the first to examine the casual relationship between internet information and climate resilience, which fills the research gap.

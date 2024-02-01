@@ -1,0 +1,12 @@
+Abstract
+Background
+Depression and anxiety are prevalent mental health issues among medical students due to the various challenges during medical education. These issues affect not only their quality of life, but also their academic and professional development. Coping strategy and resilience are two factors that may influence students’ mental health outcomes. Data of medical student mental health in Indonesia is scarce, hampering efforts to systematically address the problem. Hence, this study aims to estimate the prevalence of depressive and anxiety symptoms in Indonesian medical students, and their association with coping strategy and resilience.
+
+Methods
+Undergraduate medical students from each year of study (Preclinical Year 1 to 4, Clinical Year 1 and 2) in the Faculty of Medicine Universitas Indonesia were randomly selected to participate in this cross-sectional study. The study questionnaire included sociodemographic characteristics, Depression Anxiety Stress Scale (DASS) to measure symptoms of depression and anxiety, Brief COPE to measure coping strategy, and Connor-Davidson Resilience Scale (CD-RISC) to measure resilience. Scores of depression and anxiety symptoms were analyzed by comparing them between different sociodemographic groups and by measuring their correlation with coping strategies and resilience. Multiple regression analyses were conducted to identify predictors of depression and anxiety symptoms.
+
+Results
+Among 532 respondents, 22.2% reported symptoms of depression and 48,1% reported anxiety, including 3.0% and 8.1% with extremely severe depression and anxiety, respectively. Students not living with immediate family had higher depression score; female students and those in Preclinical Year 1 and Clinical Year 1 showed higher anxiety scores. Dysfunctional coping strategies and lower resilience are predictors of higher depression and anxiety symptoms.
+
+Conclusions
+Students show different levels of depressive and anxiety symptoms, signifying different levels of mental health support needs from universal mental health promotion to psychiatric treatment. Prevention programs can be targeted towards students with risk factors, such as not living with immediate family, undergoing first year of preclinical studies or clinical rotations, coping with dysfunctional strategies, and having low resilience. Additionally, medical educators must be aware of other, non-student factors that may impact student mental health, such as curriculum design and learning experience.

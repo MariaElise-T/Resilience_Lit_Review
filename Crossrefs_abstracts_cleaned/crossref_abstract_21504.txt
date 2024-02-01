@@ -1,0 +1,19 @@
+
+Background
+Whereas organizational literature has provided much insight into the conceptual and theoretical underpinnings of organizational leadership and management during emergencies, measures to operationalize related effective practices during crises remain sparse.
+
+
+Purpose
+To address this need, we developed the Healthcare Emergency Response Optimization survey, which set out to examine the leadership and management practices in health care organizations that support resilience and performance during crisis.
+
+
+Methodology
+We administered an online survey in April to May 2022 to health care administrators and frontline staff intimately involved in their hospital’s emergency response during the COVID-19 pandemic, which included a sample of 379 respondents across nine rural and urban hospitals (response rate: 44.4%). We used confirmatory factor analysis and quantile regressions to examine the results.
+
+
+Results
+Applying confirmatory factor analysis, we retained 36 items in our survey that comprised eight measures for formal and informal practices to assess crisis leadership and management. To test effectiveness of the specified practices, we regressed self-reported resilience and performance measures on the formality and informality scores. Findings show that informal practices mattered most for resilience, whereas formal practices mattered most for performance. We also identified specific practices (anticipation, transactional and relational interactions, and ad hoc collaborations) for resilience and performance.
+
+
+Practice Implications
+These validated measures of organizational practices assess emergency response during crisis, with an emphasis on the actions and decisions of leadership as well as the management of organizational structures and processes. Organizations using these measures may subsequently modify preparedness and planning approaches to better manage future crises.

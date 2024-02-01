@@ -1,0 +1,12 @@
+Abstract
+Purpose
+Healthcare workers are at increased risk for mental health problems during disasters such as the COVID-19 pandemic. Identifying resilience mechanisms can inform development of interventions for this population. The current study examined pathways that may support healthcare worker resilience, specifically testing enabling (social support enabled self-efficacy) and cultivation (self-efficacy cultivating support) models.
+
+Methods
+Healthcare workers (N = 828) in the Rocky Mountain West completed self-report measures at four time points (once per month from April to July of 2020). We estimated structural equation models to explore the potential mediating effects that received social support and coping self-efficacy had (at time 2 and time 3) between traumatic stress symptom severity (at time 1 and time 4). Models included covariates gender, age, minority status, and time lagged co-variations between the proposed mediators (social support and coping self-efficacy).
+
+Results
+The full model fit the data well, CFI = .993, SRMR = .027, RMSEA = .036 [90% CIs (0.013, 0.057)]. Tests of sequential mediation supported enabling model dynamics. Specifically, the effects of time 1 traumatic stress severity were mediated through received social support at time 2 and time 3 coping self-efficacy, in sequential order to reduce time 4 traumatic stress severity.
+
+Conclusions
+Findings show the importance of received social support and coping self-efficacy in mitigating psychopathology risk. Interventions can support mental health by focusing on social resource engagement that facilitates coping empowerment, which may decrease risk for mental health job-related problems among frontline healthcare workers exposed to highly stressful events.

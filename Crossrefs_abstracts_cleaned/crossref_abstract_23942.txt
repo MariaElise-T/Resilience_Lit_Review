@@ -1,0 +1,12 @@
+Abstract
+Background
+Impaired respiratory and intestinal microbiome composition is linked to cystic fibrosis lung disease severity. In people with cystic fibrosis (pwCF), regular exercise is recommended to delay disease progression and preserve a stable lung function. An optimal nutritional status is vital for best clinical outcomes. Our study investigated whether regular and monitored exercise and nutritional support promotes CF microbiome health.
+
+Methods
+A personalized nutrition and exercise program promoted nutritional intake and physical fitness in 18 pwCF for 12 months. Throughout the study, patients performed strength and endurance training monitored by a sports scientist via an internet platform. After three months, food supplementation with Lactobacillus rhamnosus LGG was introduced. Nutritional status and physical fitness were assessed before the study started, after three and nine months. Sputum and stool were collected, and microbial composition was analyzed by 16S rRNA gene sequencing.
+
+Results
+Sputum and stool microbiome composition remained stable and highly specific to each patient during the study period. Disease-associated pathogens dominated sputum composition. Lung disease severity and recent antibiotic treatment had the highest impact on taxonomic composition in stool and sputum microbiome. Strikingly, the long-term antibiotic treatment burden had only a minor influence.
+
+Conclusion
+Despite the exercise and nutritional intervention, respiratory and intestinal microbiomes proved to be resilient. Dominant pathogens drove the composition and functionality of the microbiome. Further studies are required to understand which therapy could destabilize the dominant disease-associated microbial composition of pwCF.

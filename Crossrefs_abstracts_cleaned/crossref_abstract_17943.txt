@@ -1,0 +1,20 @@
+Abstract
+
+Study Objectives
+Stressful life events contribute to insomnia, psychosocial functioning, and illness. Though individuals with a history of insomnia may be especially vulnerable during stressful life events, risk may be mitigated by prior intervention. This study evaluated the effect of prior digital cognitive-behavioral therapy for insomnia (dCBT-I) versus sleep education on health resilience during the COVID-19 pandemic.
+
+
+Methods
+COVID impact, insomnia, general- and COVID-related stress, depression, and global health were assessed in April 2020 in adults with a history of insomnia who completed a randomized controlled trial of dCBT-I (n = 102) versus sleep education control (n = 106) in 2016–2017. Regression analyses were used to evaluate the effect of intervention conditions on subsequent stress and health during the pandemic.
+
+
+Results
+Insomnia symptoms were significantly associated with COVID-19 related disruptions, and those who previously received dCBT-I reported less insomnia symptoms, less general stress and COVID-related cognitive intrusions, less depression, and better global health than those who received sleep education. Moreover, the odds for resurgent insomnia was 51% lower in the dCBT-I versus control condition. Similarly, odds of moderate to severe depression during COVID-19 was 57% lower in the dCBT-I condition.
+
+
+Conclusions
+Those who received dCBT-I had increased health resilience during the COVID-19 pandemic in adults with a history of insomnia and ongoing mild to moderate mental health symptoms. These data provide evidence that dCBT-I is a powerful tool to promote mental and physical health during stressors, including the COVID-19 pandemic.
+
+
+Clinical Trial Registration
+NCT02988375

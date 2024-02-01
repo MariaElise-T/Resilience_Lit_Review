@@ -1,0 +1,12 @@
+Abstract
+Background
+The original Family Resilience Scale (FRS) is a reliable tool to assess family resilience. However, the FRS is based on the United States and parental context. Thus, the usefulness of the FRS for the adolescent and young adult population in Asian countries, particularly Malaysia remains unknown. This study translated the FRS into the Malay language and validated it on Malaysian adolescents and young adults to identify its potential as a self-report tool to assess the resilience level of their family.
+
+Methods
+A total of 351 participants (Mage = 19.75, SDage = 3.29) were recruited in the study using purposive sampling. Confirmatory factor analysis was conducted to examine the factorial structure of the Family Resilience Scale-Malay (FRS-Malay) and measurement invariance between adolescents and young adults. Then, the scale’s reliability was investigated using Cronbach’s alpha, McDonald’s omega coefficients, and composite reliability index. Finally, we examined the discriminant validity of the FRS-Malay by correlating its score with individual resilience score and examined the incremental validity of the scale using hierarchical multiple regression analysis to test if family resilience can explain individual well-being levels beyond and above individual resilience.
+
+Results
+The findings of the confirmatory factor analysis suggest that a single-factor model is supported for both age groups. Furthermore, the scale exhibited scalar invariance between adolescents and young adults. The scale also exhibited good reliability, as the value of Cronbach’s alpha, McDonald omega coefficients, and composite reliability index were above 0.80. Additionally, the Pearson correlation analysis showed a positive correlation between the FRS-Malay and individual resilience scores, which supports the discriminant validity of the scale. Similarly, the incremental validity of the scale is also supported. Specifically, family resilience had a positive correlation with well-being, even after controlling for individual resilience in the regression analysis.
+
+Conclusions
+The FRS-Malay has demonstrated good reliability and validity. The scale measures the same construct of family resilience across adolescents and young adults, making it suitable for comparisons. Therefore, this unidimensional tool is appropriate for self-reporting their perceived level of family resilience. It is also useful for studying the development and fluctuation of family resilience in the Malaysian context.

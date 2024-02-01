@@ -1,0 +1,15 @@
+
+Purpose
+There is a well-documented trend among businesses for applying continuously improving, technologically-supported processes. This trend, in part, responds to evolving and challenging business environments and competitive pressures. It also increasingly mandates the need for businesses to invest in improving their digital capabilities and is driven by the expectation that such investments will better equip them for uncertain times. The COVID-19 pandemic presented disruptions to the supply chain, logistics, operations, market demand and labour supply, with industry reports providing evidence that businesses with digital capabilities were better able to respond to such disruptions promptly and appropriately. The study aims to investigate the effects of Industry 4.0 (I4.0) technologies on business operations and supply chain resilience.
+
+
+Design/methodology/approach
+The authors surveyed 117 Australian manufacturing firms using an online survey and analysed the data by using the partial least square structural equation modelling method.
+
+
+Findings
+The authors found I4.0 capabilities directly and positively impact supply chain resilience and that incremental innovation acts as a complementary mediator for the I4.0 technologies’ relationship with supply chain resilience. I4.0 technology capability needs to first transfer to incremental innovation for operations resilience. The authors also found that incremental innovation and operations resilience are serial mediators in the relationship between I4.0 technologies and supply chain resilience.
+
+
+Originality/value
+This research linked the three research areas of I4.0 implementations, innovation capabilities and resilience. To the best of the authors’ knowledge, there has not been a previous study that investigated all three constructs together. Also, this study considered operations resilience and supply chain resilience as two distinct constructs and found I4.0 technologies had differential effects on them. The findings, thus, provide a novel contribution to the resilience, organizational capability and innovation literature. The investigations make clear to business practitioners how investments in technology and innovation capabilities translate into the resilience that is required in periods of disruption to business certainty.

@@ -1,0 +1,20 @@
+
+Introduction:
+            Few proteomics studies have included non-white individuals, and none have explored the influence of resiliency resources on the association between proteins and cardiovascular disease (CVD). Religious and spiritual beliefs and practices are understudied resiliency resources that may attenuate the influence of proteins associated with increased risk of CVD.
+          
+
+Methods:
+            We conducted a nested case-control study using data from the MASALA Study. We used baseline plasma samples from 50 South Asian participants with incident CVD and 50 sex- and age-matched controls. We analyzed plasma samples by SOMAscan, an aptamer-based proteomics platform, for 1305 unique proteins. Multivariable logistic regression models and model selection using Akaike Information Criteria were performed on the proteins and clinical covariates. We assessed the influence of measures of spiritual practices on the association between proteins and incident CVD events.
+          
+
+Results:
+            We identified 36 proteins that were significantly dysregulated among CVD cases compared to matched controls. These proteins are involved in immune cell recruitment, atherosclerosis, endothelial cell differentiation, and vascularization. A final multivariable model found three proteins (Contactin-5, Low affinity immunoglobulin gamma Fc region receptor II-a, Complement factor B) associated with CVD after adjustment for diabetes (c-statistic=0.82). Negative religious coping significantly modified the effect of Contactin-5 and Complement factor B for risk of CVD. (
+            Table
+            )
+          
+
+Conclusions:
+            Three novel plasma proteins were associated with incident CVD, and negative religious coping significantly modified the effect, in this pilot study of South Asians. Further investigation is needed to understand proteomic profiles across diverse communities, and the role that resiliency resources in modifying the putative effect of proteomic signatures.
+          
+
+

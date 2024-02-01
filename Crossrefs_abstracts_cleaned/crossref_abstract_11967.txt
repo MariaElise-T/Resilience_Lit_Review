@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Substantial individual differences exist in cognitive deficits due to sleep restriction (SR) and total sleep deprivation (TSD), but the best approach to define such resilience and vulnerability remains a critical question. We compared multiple approaches and cutoff thresholds to define resilience and vulnerability using the Digit Symbol Substitution Task (DSST) and the Digit Span Task (DST).
+
+
+Methods
+Forty-one healthy adults (mean±SD ages,33.9±8.9y) participated in a 13-night experiment [two baseline nights (10h-12h time-in-bed, TIB), 5 SR nights (4h TIB), 4 recovery nights (12h TIB), and 36h TSD]. The DSST [measuring cognitive throughput] and DST [measuring working memory] were administered every 2h during wakefulness. Resilient/vulnerable groups were defined by average performance (DSST: number correct; DST: total correct from forward and backward versions) during SR1-5, average performance change from baseline during SR1-5, and variance in performance during SR1-5. Within each approach, groups were defined by +/-1 standard deviation (SD) and the top and bottom 12.5%, 20%, 25%, 33%, 50%. Bias-corrected and accelerated bootstrapped t-tests compared performance between resilient and vulnerable groups during baseline and SR1-5. Kendall’s tau correlations compared the ranking of individuals in each group.
+
+
+Results
+T-tests showed significant differences between resilient/vulnerable groups at all raw score cutoffs for DSST and DST performance during SR and at baseline. Change from baseline t-tests showed significant differences during SR between the DSST groups only at 12.5%, 20%, and SD whereas DST t-tests showed significant differences at all cutoffs. Variance t-tests revealed a significant difference between the DSST groups only at 25% during SR. For the DSST, the variance vs. change from baseline comparison at all cutoffs and between raw score vs. change from baseline for the SD cutoff showed moderate correlations, and for the DST, the raw score vs. change from baseline correlation was moderate for 25% and 33%.
+
+
+Conclusion
+The resilient/vulnerable groups defined by raw score were more consistent than those defined by change from baseline or variance, and raw score did not track these approaches well. As such, raw score is the optimal approach to define cognitive throughput and working memory performance resiliency/vulnerability during sleep loss.
+
+
+Support (if any)
+ONR Award No. N00014-11-1-0361;NIH UL1TR000003;NASA NNX14AN49G and 80NSSC20K0243;NIH R01DK117488

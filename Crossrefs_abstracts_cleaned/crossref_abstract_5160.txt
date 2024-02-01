@@ -1,0 +1,24 @@
+Abstract
+
+Background
+Previous findings from our group show that in the acute (ie, 6–10 weeks) post-injury period, women with concussions have a 70% greater risk of sexual dysfunction than those with extremity injuries. There are currently limited treatment options for the clinical management of concussions. Resilience is a protective, modifiable psychological construct that has been shown to improve concussion-related sequelae. To date, however, no research has evaluated how resilience impacts sexuality outcomes after concussion in women.
+
+
+Aim
+Evaluate if resilience offers protection against negative sexuality outcomes in a cohort of reproductive, aged women with a concussion, seeking care in the Emergency Department of a Level-1 Trauma Center. We hypothesized that women with low resilience will be more likely to experience negative impacts on sexuality and that increasing levels of resilience will be associated with more positive sexuality outcomes.
+
+
+Methods
+Secondary data analyses.
+
+
+Measures
+Resilience was evaluated with the Resilience Scale (RS), and the Brain Injury Questionnaire for Sexuality (BIQS) was used for sexuality.
+
+
+Results
+Of the 299 participants recruited for the parent study, 80 with concussion had complete follow-up data and were included in these secondary analyses. Less than half (42.5%; n = 34) had low resilience (score≤130 on the RS), and the remaining 46 (57.5%) had high resilience (score&gt;130 on the RS). In crude linear regression models, 1-unit increase in resilience was associated with a 4% increase in sexuality outcomes (β = 0.04, 95% CI:0.01, 0.05; P = .008). The effect estimate remained similar in post-concussion-symptom-adjusted models (β = 0.03, 95% CI:0.002, 0.06; P = .03). Mood-adjusted models showed a statistically significant interaction term (P &lt; .0001). After stratifying by mood, findings showed that unit increases in resilience were associated with a 6% increase in sexuality outcomes for women in the high risk mood group (HADS score ≥11; PCS-adjusted β = 0.06, 95% CI:0.02, 0.11; P = .009).
+
+
+Conclusion
+Longitudinal studies are needed to evaluate how these improvements in resilience translate to patient recovery measures following concussion.

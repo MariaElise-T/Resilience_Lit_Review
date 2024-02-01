@@ -1,0 +1,19 @@
+The brain depends on a continuous supply of blood for its oxygenation, whereas the kidney is over-perfused for its metabolic needs in order to provide sufficient plasma to form a glomerular filtrate. Thus, the brain requires resilience to vasoconstriction to prevent ischemia and vascular cognitive impairment, but the mechanisms are unclear.
+
+Methods and Results:
+            Single penetrating cerebral microarterioles (CMAs, 12-18μM) were dissected from the frontal cortex and single renal afferent arterioles (RAAs, 8-12μM) from the kidney cortex to investigate the hypothesis that CMAs deploy unique mechanisms to provide resilience to Ang II vasoconstriction. Individual arteriolar genes were assessed by RNAseq or RT-PCR of endothelial cells (ECs). The mRNA for lipocalin type PGD
+            2
+            synthase (LPGDS) and the PGD 1 receptor (PD1R) were > 3,000-fold higher in CMAs than RAAs whereas RAAs expressed 3-fold more mRNA for thromboxane A
+            2
+            synthase. Both microarterioles had similar expression of AT1Rs. Endothelial cells cultured from these vessels had similar patterns of gene expression. Single isolated perfused RAAs contracted strongly with Ang II (at 10
+            -6
+            mol·l
+            -1
+            ; -47 ± 2%; P<0.005) whereas CMAs were totally resistant to Ang II (0.1 ± 0.1%; NS), yet both contracted similarly to endothelin I or perfusion pressure (n = 6 per group). However, CMAs from COX 1 -/- (vs +/+) mice did contract with Ang II (-15 ± 2 vs 0.1 ± 0.1%; P<0.01) and contracted with Ang II after incubation with parecoxib (vs vehicle) to block COX2 (-7 ± 3 vs 0.1 ± 0.1%; P<0.01) or after dual blockade of COX1 + 2 (-20 ± 2%; P<0.01) or after incubation with AT-56 (vs vehicle) to block LPGDS (-20 ± 3 vs 0.1 ± 0.1%; P<0.01). During LPGDS blockade, incubation of CMAs with BW245c (stable PD1R agonist) reduced Ang II contraction > 65% (-8 ± 2%; P<0.01). In contrast, COX blockade reduced Ang II contractions of RAAs, indicating opposing effects of PGs on cerebral and renal vessels. Measurements of cerebral and renal blood flow and MAP in anesthetized mice confirmed selective renal vasoconstriction with Ang II, yet selective cerebral vasodilation with BW245c.
+          
+
+Perspective:
+            Resilience against Ang II vasoconstriction in cerebral arterioles depends on the generation of PGD
+            2
+            and could be a therapeutic target for vascular dementia and stroke.
+          

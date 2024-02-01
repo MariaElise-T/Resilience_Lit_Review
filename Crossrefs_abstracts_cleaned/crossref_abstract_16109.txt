@@ -1,0 +1,9 @@
+Abstract
+
+An increasing number of studies have been examining the functional configuration of biological communities or ecosystems using biological traits.
+Here, we investigated the temporal dynamics and resilience of the traits composition in Mediterranean fisheries landings over 31 years (1985–2015).
+We transcribed the FAO Mediterranean landings dataset for 101 marine species into a dataset of 23 traits related to the life cycle, distribution, ecology and behaviour. Mediterranean mean Sea Surface Temperature (SST) was evaluated as a potential driver of the traits composition. Trait dynamics were evaluated both individually and holistically by developing an Integrated Traits Resilience Assessment (ITRA). ITRA is a variation of the Integrated Resilience Assessment (IRA), a method to infer resilience dynamics and build stability landscapes of complex natural systems.
+Changes in landings trait dynamics were documented both for individual traits and for the entire traits ‘system’, and a relevant regime shift was detected in the second half of the 1990s. The traits system switched to higher optimal temperature, more summer spawning, shorter life span, smaller maximum size, shallower optimal depth and planktivorous diet. This shift was found to be a lagged discontinuous response to sea warming, which gradually eroded the resilience of the original state of the traits system, leading it into a new basin of attraction.
+The inclusion of ecological/response traits (related to environmental preferences) in our analyses indicates potential mechanisms that explain the observed shift, while changes in functional/effect traits indicate potential impacts on ecosystem functioning. Our findings suggest that changes in the Mediterranean ecosystems are evidently larger than previously thought, with profound implications for the management of this highly impacted sea.
+
+​

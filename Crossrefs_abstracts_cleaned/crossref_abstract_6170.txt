@@ -1,0 +1,51 @@
+AbstractThe Non-Uniform k-center (NUkC) problem has recently been formulated by Chakrabarty et al. [ICALP, 2016; ACM Trans Algorithms 16(4):46:1–46:19, 2020] as a generalization of the classical k-center clustering problem. In NUkC, given a set of n points P in a metric space and non-negative numbers $$r_1, r_2, \ldots , r_k$$
+
+
+r
+1
+
+,
+
+r
+2
+
+,
+…
+,
+
+r
+k
+
+
+, the goal is to find the minimum dilation $$\alpha $$
+α
+ and to choose k balls centered at the points of P with radius $$\alpha \cdot r_i$$
+
+α
+·
+
+r
+i
+
+
+ for $$1\le i\le k$$
+
+1
+≤
+i
+≤
+k
+
+, such that all points of P are contained in the union of the chosen balls. They showed that the problem is $$\mathsf {NP}$$
+NP
+-hard to approximate within any factor even in tree metrics. On the other hand, they designed a “bi-criteria” constant approximation algorithm that uses a constant times k balls. Surprisingly, no true approximation is known even in the special case when the $$r_i$$
+
+r
+i
+
+’s belong to a fixed set of size 3. In this paper, we study the NUkC problem under perturbation resilience, which was introduced by Bilu and Linial (Comb Probab Comput 21(5):643–660, 2012). We show that the problem under 2-perturbation resilience is polynomial time solvable when the $$r_i$$
+
+r
+i
+
+’s belong to a constant-sized set. However, we show that perturbation resilience does not help in the general case. In particular, our findings imply that even with perturbation resilience one cannot hope to find any “good” approximation for the problem.

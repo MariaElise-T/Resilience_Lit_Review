@@ -1,0 +1,9 @@
+
+            Consistent evidence from human data points to successful threat–safety discrimination and responsiveness to extinction of fear memories as key characteristics of resilient individuals. To promote valid cross-species approaches for the identification of resilience mechanisms, we establish a translationally informed mouse model enabling the stratification of mice into three phenotypic subgroups following chronic social defeat stress, based on their individual ability for threat–safety discrimination and conditioned learning: the
+            Discriminating-avoiders
+            , characterized by successful social threat–safety discrimination and extinction of social aversive memories; the
+            Indiscriminate-avoiders
+            , showing aversive response generalization and resistance to extinction, in line with findings on susceptible individuals; and the
+            Non-avoiders
+            displaying impaired aversive conditioned learning. To explore the neurobiological mechanisms underlying the stratification, we perform transcriptome analysis within three key target regions of the fear circuitry. We identify subgroup-specific differentially expressed genes and gene networks underlying the behavioral phenotypes, i.e., the individual ability to show threat–safety discrimination and respond to extinction training. Our approach provides a translationally informed template with which to characterize the behavioral, molecular, and circuit bases of resilience in mice.
+          

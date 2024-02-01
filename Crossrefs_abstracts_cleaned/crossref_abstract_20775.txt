@@ -1,0 +1,20 @@
+Abstract
+
+Introduction
+Despite exposure to operational stressors (e.g., sleep loss, caloric restriction), military personnel must maintain different aspects of neurobehavioral function (i.e., subjective alertness, behavioral alertness, perception-action coupling) to operate safely within military environments. It is unclear whether perception-action coupling, which refers to the ability to ‘read and react’ to ever-changing circumstances, reflects a distinct aspect of neurobehavioral resilience from subjective and behavioral alertness. Further, prior sleep may enhance resilience during subsequent exposure to operational stressors. Therefore, we examined resilience across different neurobehavioral tasks during exposure to simulated military operational stress (SMOS) and examined differences in baseline sleep between resilient and vulnerable participants.
+
+
+Methods
+Forty-nine military personnel (11 females, 26.6 ± 5.8 years) completed a 5-day SMOS protocol that included two days of sleep restriction and disruption (sleep opportunities: 01:00-03:00 and 05:00-07:00) accompanied by caloric restriction (50% caloric need). Participants completed tasks of subjective alertness (Profile of Mood States Vigor subscale, POMS), behavioral alertness (Psychomotor Vigilance Task) and perception-action coupling (Perception-Action Coupling Task) at baseline and at 04:00 across the two nights of sleep disruption. For each neurobehavioral outcome, a two-step decision-making process defined resilient and vulnerable participants: resilient participants demonstrated high alertness/performance during sleep disruption and minimal change from baseline during sleep disruption. Kappa coefficients were calculated to determine agreement in resilience classification across different neurobehavioral outcomes. Further, differences between resilient and vulnerable participants in baseline sleep questionnaires (Pittsburgh Sleep Quality Index; Epworth Sleepiness Scale) and polysomnography (sleep efficiency; sleep fragmentation; and slow wave activity, SWA) were examined with independent t-tests.
+
+
+Results
+Classification of participants as resilient or vulnerable differed across neurobehavioral outcomes, as indicated by kappa values &lt;0.60. Resilient participants, defined by POMS, had lower baseline SWA than vulnerable participants (t = 2.06, p = .04). No other differences in sleep were observed between groups.
+
+
+Conclusion
+Subjective alertness, behavioral alertness, and perception-action coupling reflect distinct aspects of neurobehavioral resilience, highlighting the importance of understanding the operational relevance of different neurobehavioral measures when assessing fatigue risk. Further, more baseline SWA, indicating higher baseline sleep need, may reflect vulnerability to SMOS and subsequent sleep loss.
+
+
+Support (If Any)
+Department of Defense Award #W81XWH-17-2-0070

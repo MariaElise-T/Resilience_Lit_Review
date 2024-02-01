@@ -1,0 +1,6 @@
+Abstract
+Objective
+Health insurance is based on people’s significant risks in receiving health services that they cannot afford alone. Since the outbreak of the corona epidemic, the health insurance system has suffered many economic problems. Designing a model of a health insurance system based on the requirements of a resilient economy can improve the functions of this system in the corona crisis.
+
+Results
+In this research 12, structural components were obtained in the form of 4 conceptual components. The 4 main conceptual components are Knowledge-based economy, Economic stability, Economic resilience, and justice. The knowledge-based economy is the basis for the formation of economic resilience in the health insurance systems. Health insurance systems will achieve two crucial intermediate results, namely economic resilience, and economic stability, by building the basic infrastructure of a knowledge-based economy. In the long run, maintaining such intermediate results is the foundation of justice in the health insurance system.
