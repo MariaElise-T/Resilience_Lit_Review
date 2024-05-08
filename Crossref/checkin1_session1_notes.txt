@@ -1,0 +1,25 @@
+Chris Jacobi - A24 movies 
+
+(1) data scraped from wikipedia - not reliable 
+(2) main takeaway - critics and audience have fairly similar opinions 
+(3) likes the minimalism 
+(4) scale of bubbles could be improved
+
+Dan Brown - United Way DB
+
+(1) data source - 211 system (icarol? but TX recently switched to a new system)
+(2) Most requests coming from Austin
+(3)
+(4) Add note explaining timeline cutoff
+*** Check for full screen Tableau map options
+*** Look for easy clear all filters options
+
+Maria Enriquez - Tom Hanks movie DB (chocolates)
+
+(1) IMDB
+(2) makes the data exciting; not overwhelmed or underwhelmed
+(3) Likes design 
+(4) critique - data is incomplete - 
+missing movies and unclearabout how the average score was calc
+
+*** look for resources on graphic dashboards
