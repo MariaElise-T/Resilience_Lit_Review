@@ -1,0 +1,764 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "art",
+				"x": 2.0709,
+				"y": -0.3170,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3333,
+					"Avg. citations": 3.7778,
+					"Avg. norm. citations": 0.0959
+				}
+			},
+			{
+				"id": 2,
+				"label": "biology",
+				"x": 0.3236,
+				"y": 0.6172,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 358.0000,
+					"Occurrences": 554.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5776,
+					"Avg. citations": 61.9747,
+					"Avg. norm. citations": 1.4225
+				}
+			},
+			{
+				"id": 3,
+				"label": "business",
+				"x": -0.1935,
+				"y": -0.3042,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 162.0000,
+					"Occurrences": 1073.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5061,
+					"Avg. citations": 38.7670,
+					"Avg. norm. citations": 1.4722
+				}
+			},
+			{
+				"id": 4,
+				"label": "chemistry",
+				"x": 0.6219,
+				"y": 0.8732,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 31.0000,
+					"Occurrences": 45.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.5556,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 0.5767
+				}
+			},
+			{
+				"id": 5,
+				"label": "computer science",
+				"x": -0.4200,
+				"y": -0.1426,
+				"cluster": 1,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 430.0000,
+					"Occurrences": 1332.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.8784,
+					"Avg. citations": 21.5593,
+					"Avg. norm. citations": 1.0659
+				}
+			},
+			{
+				"id": 6,
+				"label": "economics",
+				"x": -0.0492,
+				"y": -0.2071,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 60.0000,
+					"Occurrences": 413.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4455,
+					"Avg. citations": 36.7724,
+					"Avg. norm. citations": 1.1366
+				}
+			},
+			{
+				"id": 7,
+				"label": "engineering",
+				"x": -0.6785,
+				"y": -0.2919,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 135.0000,
+					"Occurrences": 504.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.1567,
+					"Avg. citations": 41.6369,
+					"Avg. norm. citations": 0.6176
+				}
+			},
+			{
+				"id": 8,
+				"label": "environmental science",
+				"x": -0.7759,
+				"y": 0.1442,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 152.0000,
+					"Occurrences": 455.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5670,
+					"Avg. citations": 44.5890,
+					"Avg. norm. citations": 1.2265
+				}
+			},
+			{
+				"id": 9,
+				"label": "geography",
+				"x": -0.4323,
+				"y": 0.2436,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 218.0000,
+					"Occurrences": 855.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7088,
+					"Avg. citations": 39.8515,
+					"Avg. norm. citations": 0.9723
+				}
+			},
+			{
+				"id": 10,
+				"label": "geology",
+				"x": -0.7743,
+				"y": -0.0288,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 40.0000,
+					"Occurrences": 129.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.1163,
+					"Avg. citations": 34.5736,
+					"Avg. norm. citations": 0.8506
+				}
+			},
+			{
+				"id": 11,
+				"label": "history",
+				"x": 0.1836,
+				"y": -0.1887,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 58.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2414,
+					"Avg. citations": 10.5690,
+					"Avg. norm. citations": 0.4160
+				}
+			},
+			{
+				"id": 12,
+				"label": "materials science",
+				"x": -0.2672,
+				"y": 0.6205,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 47.0000,
+					"Occurrences": 194.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.9536,
+					"Avg. citations": 21.4794,
+					"Avg. norm. citations": 0.6708
+				}
+			},
+			{
+				"id": 13,
+				"label": "mathematics",
+				"x": -0.4887,
+				"y": 0.0260,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 73.0000,
+					"Occurrences": 95.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0421,
+					"Avg. citations": 24.8316,
+					"Avg. norm. citations": 0.6880
+				}
+			},
+			{
+				"id": 14,
+				"label": "medicine",
+				"x": 0.2003,
+				"y": 0.1617,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 2522.0000,
+					"Occurrences": 8332.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.7357,
+					"Avg. citations": 29.2088,
+					"Avg. norm. citations": 1.4859
+				}
+			},
+			{
+				"id": 16,
+				"label": "physics",
+				"x": -0.2131,
+				"y": 0.0554,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 282.0000,
+					"Occurrences": 496.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.3488,
+					"Avg. citations": 7.5484,
+					"Avg. norm. citations": 0.5677
+				}
+			},
+			{
+				"id": 17,
+				"label": "political science",
+				"x": -0.4704,
+				"y": -0.4701,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 103.0000,
+					"Occurrences": 496.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.1331,
+					"Avg. citations": 21.5302,
+					"Avg. norm. citations": 0.9608
+				}
+			},
+			{
+				"id": 18,
+				"label": "psychology",
+				"x": 1.4897,
+				"y": -0.2149,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 1408.0000,
+					"Occurrences": 3288.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8707,
+					"Avg. citations": 54.1320,
+					"Avg. norm. citations": 1.0052
+				}
+			},
+			{
+				"id": 19,
+				"label": "sociology",
+				"x": -0.1268,
+				"y": -0.5763,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 158.0000,
+					"Occurrences": 1050.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1448,
+					"Avg. citations": 38.8238,
+					"Avg. norm. citations": 0.9049
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 3,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 4,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 6,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 8,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 13,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 14,
+				"strength": 321.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 16,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 19,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 6,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 7,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 14,
+				"strength": 69.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 16,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 19,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 14,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 6,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 7,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 8,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 10,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 12,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 13,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 14,
+				"strength": 183.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 16,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 18,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 19,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 7,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 8,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 13,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 14,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 16,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 19,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 12,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 14,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 16,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 17,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 9,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 10,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 14,
+				"strength": 95.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 16,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 10,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 14,
+				"strength": 127.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 16,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 17,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 19,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 13,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 14,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 14,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 14,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 16,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 14,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 16,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 16,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 17,
+				"strength": 64.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 18,
+				"strength": 1368.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 19,
+				"strength": 93.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 17,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 18,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 19,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 19,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 19,
+				"strength": 9.0000
+			}
+		]
+	}
+}

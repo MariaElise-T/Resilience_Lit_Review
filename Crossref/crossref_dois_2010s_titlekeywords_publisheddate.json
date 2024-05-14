@@ -1,0 +1,10169 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "academic resilience",
+				"x": 0.4844,
+				"y": -0.5967,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0833,
+					"Avg. citations": 21.5000,
+					"Avg. norm. citations": 0.6094
+				}
+			},
+			{
+				"id": 2,
+				"label": "action",
+				"x": -0.7629,
+				"y": -0.3969,
+				"cluster": 3,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 23.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4348,
+					"Avg. citations": 15.9565,
+					"Avg. norm. citations": 0.6355
+				}
+			},
+			{
+				"id": 3,
+				"label": "adolescence",
+				"x": 0.5529,
+				"y": 0.2823,
+				"cluster": 6,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5333,
+					"Avg. citations": 20.7333,
+					"Avg. norm. citations": 0.8898
+				}
+			},
+			{
+				"id": 4,
+				"label": "adolescents",
+				"x": 0.7688,
+				"y": -0.2636,
+				"cluster": 2,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 33.0000,
+					"Occurrences": 32.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6562,
+					"Avg. citations": 20.1562,
+					"Avg. norm. citations": 0.6030
+				}
+			},
+			{
+				"id": 5,
+				"label": "adult",
+				"x": 0.6182,
+				"y": 0.0188,
+				"cluster": 2,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 58.0000,
+					"Occurrences": 69.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7391,
+					"Avg. citations": 22.5652,
+					"Avg. norm. citations": 0.8013
+				}
+			},
+			{
+				"id": 6,
+				"label": "adverse childhood experience",
+				"x": 0.9799,
+				"y": -0.0886,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.4667,
+					"Avg. citations": 25.2667,
+					"Avg. norm. citations": 1.2225
+				}
+			},
+			{
+				"id": 7,
+				"label": "agency",
+				"x": -0.6224,
+				"y": -0.5251,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5625,
+					"Avg. citations": 41.9375,
+					"Avg. norm. citations": 0.9127
+				}
+			},
+			{
+				"id": 8,
+				"label": "annual research review",
+				"x": 0.1764,
+				"y": 0.4916,
+				"cluster": 7,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 241.5000,
+					"Avg. norm. citations": 3.4850
+				}
+			},
+			{
+				"id": 9,
+				"label": "anxiety",
+				"x": 1.2226,
+				"y": 0.1478,
+				"cluster": 2,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 38.0000,
+					"Occurrences": 23.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0435,
+					"Avg. citations": 47.3043,
+					"Avg. norm. citations": 1.3999
+				}
+			},
+			{
+				"id": 10,
+				"label": "application",
+				"x": -0.5375,
+				"y": 0.1964,
+				"cluster": 4,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 32.0000,
+					"Occurrences": 53.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4906,
+					"Avg. citations": 27.5849,
+					"Avg. norm. citations": 0.8832
+				}
+			},
+			{
+				"id": 11,
+				"label": "association",
+				"x": 0.9110,
+				"y": 0.1380,
+				"cluster": 2,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 49.0000,
+					"Occurrences": 44.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2045,
+					"Avg. citations": 24.2727,
+					"Avg. norm. citations": 0.9773
+				}
+			},
+			{
+				"id": 12,
+				"label": "associations",
+				"x": 1.1594,
+				"y": 0.0108,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0769,
+					"Avg. citations": 22.1538,
+					"Avg. norm. citations": 1.0529
+				}
+			},
+			{
+				"id": 13,
+				"label": "bangladesh",
+				"x": -0.7706,
+				"y": -0.1000,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 11.4167,
+					"Avg. norm. citations": 0.5798
+				}
+			},
+			{
+				"id": 14,
+				"label": "brazil",
+				"x": -0.4768,
+				"y": 0.3999,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5294,
+					"Avg. citations": 11.6471,
+					"Avg. norm. citations": 0.4885
+				}
+			},
+			{
+				"id": 15,
+				"label": "building",
+				"x": -0.2852,
+				"y": -0.1411,
+				"cluster": 4,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 27.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4815,
+					"Avg. citations": 8.0370,
+					"Avg. norm. citations": 0.3849
+				}
+			},
+			{
+				"id": 16,
+				"label": "building resilience",
+				"x": -0.2778,
+				"y": -0.2315,
+				"cluster": 1,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 39.0000,
+					"Occurrences": 71.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4648,
+					"Avg. citations": 15.4648,
+					"Avg. norm. citations": 0.7351
+				}
+			},
+			{
+				"id": 17,
+				"label": "cancer",
+				"x": 0.9304,
+				"y": -0.1421,
+				"cluster": 2,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 45.0000,
+					"Occurrences": 32.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7188,
+					"Avg. citations": 24.5938,
+					"Avg. norm. citations": 1.0456
+				}
+			},
+			{
+				"id": 18,
+				"label": "caregiver",
+				"x": 0.7966,
+				"y": 0.0187,
+				"cluster": 7,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 36.0000,
+					"Occurrences": 30.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.9333,
+					"Avg. citations": 23.4000,
+					"Avg. norm. citations": 0.7961
+				}
+			},
+			{
+				"id": 19,
+				"label": "case",
+				"x": -0.5843,
+				"y": 0.1434,
+				"cluster": 1,
+				"weights": {
+					"Links": 44.0000,
+					"Total link strength": 76.0000,
+					"Occurrences": 96.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3646,
+					"Avg. citations": 16.0104,
+					"Avg. norm. citations": 0.7032
+				}
+			},
+			{
+				"id": 20,
+				"label": "case study",
+				"x": -0.6286,
+				"y": -0.0442,
+				"cluster": 1,
+				"weights": {
+					"Links": 59.0000,
+					"Total link strength": 99.0000,
+					"Occurrences": 121.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4793,
+					"Avg. citations": 11.0248,
+					"Avg. norm. citations": 0.4611
+				}
+			},
+			{
+				"id": 21,
+				"label": "challenges",
+				"x": -0.2423,
+				"y": 0.1393,
+				"cluster": 5,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 23.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7826,
+					"Avg. citations": 11.0870,
+					"Avg. norm. citations": 0.5024
+				}
+			},
+			{
+				"id": 22,
+				"label": "change",
+				"x": -0.5369,
+				"y": 0.0549,
+				"cluster": 8,
+				"weights": {
+					"Links": 57.0000,
+					"Total link strength": 113.0000,
+					"Occurrences": 107.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8972,
+					"Avg. citations": 49.0467,
+					"Avg. norm. citations": 1.3411
+				}
+			},
+			{
+				"id": 23,
+				"label": "chronic pain",
+				"x": 1.3746,
+				"y": 0.3682,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.8000,
+					"Avg. citations": 22.4000,
+					"Avg. norm. citations": 0.7610
+				}
+			},
+			{
+				"id": 24,
+				"label": "city",
+				"x": -0.8471,
+				"y": -0.0527,
+				"cluster": 1,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 82.0000,
+					"Occurrences": 87.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1494,
+					"Avg. citations": 33.8851,
+					"Avg. norm. citations": 1.1284
+				}
+			},
+			{
+				"id": 25,
+				"label": "climate",
+				"x": -0.7531,
+				"y": 0.2783,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 48.0000,
+					"Occurrences": 49.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6939,
+					"Avg. citations": 59.8776,
+					"Avg. norm. citations": 1.6536
+				}
+			},
+			{
+				"id": 26,
+				"label": "climate change",
+				"x": -0.9786,
+				"y": -0.0002,
+				"cluster": 1,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 73.0000,
+					"Occurrences": 103.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.3010,
+					"Avg. citations": 57.6796,
+					"Avg. norm. citations": 1.6828
+				}
+			},
+			{
+				"id": 27,
+				"label": "climate resilience",
+				"x": -0.7513,
+				"y": -0.1264,
+				"cluster": 3,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 40.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1750,
+					"Avg. citations": 26.2250,
+					"Avg. norm. citations": 1.0086
+				}
+			},
+			{
+				"id": 28,
+				"label": "college student",
+				"x": 0.8390,
+				"y": -0.3069,
+				"cluster": 2,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 22.0909,
+					"Avg. norm. citations": 0.7980
+				}
+			},
+			{
+				"id": 29,
+				"label": "community resilience",
+				"x": -0.6598,
+				"y": 0.0138,
+				"cluster": 1,
+				"weights": {
+					"Links": 47.0000,
+					"Total link strength": 93.0000,
+					"Occurrences": 149.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6644,
+					"Avg. citations": 26.4564,
+					"Avg. norm. citations": 0.8448
+				}
+			},
+			{
+				"id": 30,
+				"label": "comparative study",
+				"x": -0.1021,
+				"y": -0.4125,
+				"cluster": 1,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.1429,
+					"Avg. citations": 8.4286,
+					"Avg. norm. citations": 0.4244
+				}
+			},
+			{
+				"id": 31,
+				"label": "complexity",
+				"x": -0.0609,
+				"y": -0.3000,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8421,
+					"Avg. citations": 40.1579,
+					"Avg. norm. citations": 1.3389
+				}
+			},
+			{
+				"id": 32,
+				"label": "conceptual framework",
+				"x": -0.1754,
+				"y": 0.5493,
+				"cluster": 7,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.9286,
+					"Avg. citations": 105.5714,
+					"Avg. norm. citations": 2.7735
+				}
+			},
+			{
+				"id": 33,
+				"label": "control",
+				"x": -0.1824,
+				"y": 0.1148,
+				"cluster": 4,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 36.0000,
+					"Occurrences": 58.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1552,
+					"Avg. citations": 19.5690,
+					"Avg. norm. citations": 0.8496
+				}
+			},
+			{
+				"id": 34,
+				"label": "correlation",
+				"x": 0.6284,
+				"y": -0.2841,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6364,
+					"Avg. citations": 13.1818,
+					"Avg. norm. citations": 0.6753
+				}
+			},
+			{
+				"id": 35,
+				"label": "cultural resilience",
+				"x": -0.5384,
+				"y": -0.4346,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4167,
+					"Avg. citations": 9.3333,
+					"Avg. norm. citations": 0.2935
+				}
+			},
+			{
+				"id": 36,
+				"label": "definition",
+				"x": -0.5063,
+				"y": 0.2762,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.1333,
+					"Avg. citations": 91.4000,
+					"Avg. norm. citations": 2.6617
+				}
+			},
+			{
+				"id": 37,
+				"label": "dementia",
+				"x": 0.6852,
+				"y": 0.1722,
+				"cluster": 7,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 31.8571,
+					"Avg. norm. citations": 1.0294
+				}
+			},
+			{
+				"id": 38,
+				"label": "depression",
+				"x": 1.1304,
+				"y": 0.1351,
+				"cluster": 2,
+				"weights": {
+					"Links": 46.0000,
+					"Total link strength": 111.0000,
+					"Occurrences": 89.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2247,
+					"Avg. citations": 33.0787,
+					"Avg. norm. citations": 1.2789
+				}
+			},
+			{
+				"id": 39,
+				"label": "design",
+				"x": -0.3210,
+				"y": -0.0025,
+				"cluster": 4,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 42.0000,
+					"Occurrences": 73.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7260,
+					"Avg. citations": 20.4658,
+					"Avg. norm. citations": 0.6741
+				}
+			},
+			{
+				"id": 40,
+				"label": "disaster resilience",
+				"x": -0.5473,
+				"y": -0.2663,
+				"cluster": 3,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 60.0000,
+					"Occurrences": 82.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5976,
+					"Avg. citations": 19.5000,
+					"Avg. norm. citations": 0.6379
+				}
+			},
+			{
+				"id": 41,
+				"label": "disaster risk reduction",
+				"x": -0.8258,
+				"y": -0.7026,
+				"cluster": 3,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 72.7692,
+					"Avg. norm. citations": 1.3075
+				}
+			},
+			{
+				"id": 42,
+				"label": "discourse",
+				"x": -0.5823,
+				"y": -0.5339,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.9375,
+					"Avg. citations": 16.8125,
+					"Avg. norm. citations": 0.7163
+				}
+			},
+			{
+				"id": 43,
+				"label": "disturbance",
+				"x": -1.0590,
+				"y": 0.1670,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 41.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2683,
+					"Avg. citations": 28.3659,
+					"Avg. norm. citations": 0.9043
+				}
+			},
+			{
+				"id": 44,
+				"label": "drought",
+				"x": -1.0085,
+				"y": -0.1316,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 37.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2973,
+					"Avg. citations": 53.4324,
+					"Avg. norm. citations": 1.9447
+				}
+			},
+			{
+				"id": 45,
+				"label": "dynamics",
+				"x": -1.3596,
+				"y": 0.0586,
+				"cluster": 8,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 51.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 85.1429,
+					"Avg. norm. citations": 1.8063
+				}
+			},
+			{
+				"id": 46,
+				"label": "ecological resilience",
+				"x": -0.7895,
+				"y": 0.3141,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 30.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.8000,
+					"Avg. citations": 47.8000,
+					"Avg. norm. citations": 1.3005
+				}
+			},
+			{
+				"id": 47,
+				"label": "economic crisis",
+				"x": -0.4359,
+				"y": 0.7566,
+				"cluster": 6,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2500,
+					"Avg. citations": 43.5833,
+					"Avg. norm. citations": 1.3932
+				}
+			},
+			{
+				"id": 48,
+				"label": "economic resilience",
+				"x": -0.5362,
+				"y": 0.1740,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 41.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4634,
+					"Avg. citations": 27.8049,
+					"Avg. norm. citations": 1.2472
+				}
+			},
+			{
+				"id": 49,
+				"label": "ecosystem resilience",
+				"x": -0.9957,
+				"y": -0.0727,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 25.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2400,
+					"Avg. citations": 37.2400,
+					"Avg. norm. citations": 1.2812
+				}
+			},
+			{
+				"id": 50,
+				"label": "effectiveness",
+				"x": 0.8689,
+				"y": -0.1507,
+				"cluster": 2,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 36.0000,
+					"Occurrences": 30.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1667,
+					"Avg. citations": 18.8000,
+					"Avg. norm. citations": 0.6513
+				}
+			},
+			{
+				"id": 51,
+				"label": "emotional intelligence",
+				"x": 0.8811,
+				"y": -0.2838,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7222,
+					"Avg. citations": 20.0000,
+					"Avg. norm. citations": 0.8247
+				}
+			},
+			{
+				"id": 52,
+				"label": "employee resilience",
+				"x": 0.1891,
+				"y": 0.1102,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5789,
+					"Avg. citations": 52.3684,
+					"Avg. norm. citations": 2.0547
+				}
+			},
+			{
+				"id": 53,
+				"label": "empowerment",
+				"x": -0.4199,
+				"y": -0.5050,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 19.5000,
+					"Avg. norm. citations": 0.4902
+				}
+			},
+			{
+				"id": 54,
+				"label": "examination",
+				"x": 0.8079,
+				"y": 0.1497,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3889,
+					"Avg. citations": 56.3333,
+					"Avg. norm. citations": 1.8427
+				}
+			},
+			{
+				"id": 55,
+				"label": "exploratory study",
+				"x": 0.4602,
+				"y": 0.0718,
+				"cluster": 2,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.3571,
+					"Avg. citations": 18.2143,
+					"Avg. norm. citations": 0.5886
+				}
+			},
+			{
+				"id": 56,
+				"label": "family resilience",
+				"x": 0.4893,
+				"y": -0.1772,
+				"cluster": 2,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 31.0000,
+					"Occurrences": 38.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2632,
+					"Avg. citations": 30.3684,
+					"Avg. norm. citations": 0.9472
+				}
+			},
+			{
+				"id": 57,
+				"label": "flood",
+				"x": -1.0513,
+				"y": -0.0706,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 25.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5600,
+					"Avg. citations": 35.7600,
+					"Avg. norm. citations": 1.1093
+				}
+			},
+			{
+				"id": 58,
+				"label": "flood resilience",
+				"x": -1.1921,
+				"y": -0.1201,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 27.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2593,
+					"Avg. citations": 29.4074,
+					"Avg. norm. citations": 1.2198
+				}
+			},
+			{
+				"id": 59,
+				"label": "focus",
+				"x": -0.0690,
+				"y": 0.0718,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7222,
+					"Avg. citations": 28.6111,
+					"Avg. norm. citations": 1.2877
+				}
+			},
+			{
+				"id": 60,
+				"label": "higher education",
+				"x": 0.2289,
+				"y": -0.3447,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4706,
+					"Avg. citations": 19.6471,
+					"Avg. norm. citations": 0.7418
+				}
+			},
+			{
+				"id": 61,
+				"label": "history",
+				"x": 0.1491,
+				"y": -0.1546,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.4706,
+					"Avg. citations": 20.0000,
+					"Avg. norm. citations": 0.5164
+				}
+			},
+			{
+				"id": 62,
+				"label": "hiv",
+				"x": 0.4897,
+				"y": -0.0038,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 8.1000,
+					"Avg. norm. citations": 0.4800
+				}
+			},
+			{
+				"id": 63,
+				"label": "identification",
+				"x": -0.1643,
+				"y": 0.6817,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.9231,
+					"Avg. citations": 16.3077,
+					"Avg. norm. citations": 0.7400
+				}
+			},
+			{
+				"id": 64,
+				"label": "implementation",
+				"x": -0.7737,
+				"y": -0.0705,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 64.9231,
+					"Avg. norm. citations": 1.1767
+				}
+			},
+			{
+				"id": 65,
+				"label": "indicator",
+				"x": -0.4163,
+				"y": 0.3918,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 32.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.8125,
+					"Avg. citations": 44.6562,
+					"Avg. norm. citations": 1.3220
+				}
+			},
+			{
+				"id": 66,
+				"label": "indonesia",
+				"x": -0.6989,
+				"y": -0.2227,
+				"cluster": 1,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 36.0000,
+					"Occurrences": 31.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.4194,
+					"Avg. citations": 4.8710,
+					"Avg. norm. citations": 0.2629
+				}
+			},
+			{
+				"id": 67,
+				"label": "innovation",
+				"x": -0.8010,
+				"y": 0.0815,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.9048,
+					"Avg. citations": 17.4286,
+					"Avg. norm. citations": 0.6992
+				}
+			},
+			{
+				"id": 68,
+				"label": "insight",
+				"x": -0.9711,
+				"y": 0.2260,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 28.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4643,
+					"Avg. citations": 46.0714,
+					"Avg. norm. citations": 1.7205
+				}
+			},
+			{
+				"id": 69,
+				"label": "integration",
+				"x": -0.0422,
+				"y": 0.0955,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6429,
+					"Avg. citations": 27.5714,
+					"Avg. norm. citations": 1.2105
+				}
+			},
+			{
+				"id": 70,
+				"label": "intimate partner violence",
+				"x": 0.1893,
+				"y": 0.2303,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6364,
+					"Avg. citations": 23.2727,
+					"Avg. norm. citations": 1.0376
+				}
+			},
+			{
+				"id": 71,
+				"label": "introduction",
+				"x": -0.1083,
+				"y": -0.7923,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 20.2500,
+					"Avg. norm. citations": 0.5131
+				}
+			},
+			{
+				"id": 72,
+				"label": "japan",
+				"x": -0.4908,
+				"y": -0.3902,
+				"cluster": 3,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4000,
+					"Avg. citations": 16.5333,
+					"Avg. norm. citations": 0.3641
+				}
+			},
+			{
+				"id": 73,
+				"label": "job satisfaction",
+				"x": 0.5538,
+				"y": 0.4847,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2000,
+					"Avg. citations": 31.2000,
+					"Avg. norm. citations": 1.0645
+				}
+			},
+			{
+				"id": 74,
+				"label": "lesson",
+				"x": -0.6603,
+				"y": -0.1567,
+				"cluster": 3,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 29.0000,
+					"Occurrences": 41.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.9268,
+					"Avg. citations": 37.0244,
+					"Avg. norm. citations": 0.9737
+				}
+			},
+			{
+				"id": 75,
+				"label": "life",
+				"x": 0.9432,
+				"y": 0.1808,
+				"cluster": 2,
+				"weights": {
+					"Links": 46.0000,
+					"Total link strength": 147.0000,
+					"Occurrences": 117.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 20.2051,
+					"Avg. norm. citations": 0.8049
+				}
+			},
+			{
+				"id": 76,
+				"label": "life satisfaction",
+				"x": 1.0822,
+				"y": -0.2399,
+				"cluster": 2,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 37.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0500,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 0.6381
+				}
+			},
+			{
+				"id": 77,
+				"label": "link",
+				"x": -0.0988,
+				"y": 0.2516,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6154,
+					"Avg. citations": 23.1538,
+					"Avg. norm. citations": 1.0537
+				}
+			},
+			{
+				"id": 78,
+				"label": "literature",
+				"x": 0.0663,
+				"y": 0.4485,
+				"cluster": 7,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 27.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1852,
+					"Avg. citations": 69.2222,
+					"Avg. norm. citations": 2.9707
+				}
+			},
+			{
+				"id": 79,
+				"label": "malaysia",
+				"x": -0.2263,
+				"y": 0.2464,
+				"cluster": 4,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.9286,
+					"Avg. citations": 4.7143,
+					"Avg. norm. citations": 0.3101
+				}
+			},
+			{
+				"id": 80,
+				"label": "meaning",
+				"x": 0.8794,
+				"y": 0.1102,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.1176,
+					"Avg. citations": 16.5882,
+					"Avg. norm. citations": 0.8576
+				}
+			},
+			{
+				"id": 81,
+				"label": "mediating effect",
+				"x": 1.1003,
+				"y": -0.0508,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 15.6667,
+					"Avg. norm. citations": 0.8818
+				}
+			},
+			{
+				"id": 82,
+				"label": "mediating role",
+				"x": 0.4414,
+				"y": 0.0379,
+				"cluster": 1,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 33.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.9000,
+					"Avg. citations": 21.3000,
+					"Avg. norm. citations": 0.9478
+				}
+			},
+			{
+				"id": 83,
+				"label": "mediator",
+				"x": 1.0322,
+				"y": -0.3377,
+				"cluster": 2,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 28.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.2222,
+					"Avg. citations": 13.9444,
+					"Avg. norm. citations": 0.7162
+				}
+			},
+			{
+				"id": 84,
+				"label": "mindfulness",
+				"x": 0.7877,
+				"y": -0.4252,
+				"cluster": 2,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 25.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3200,
+					"Avg. citations": 24.3600,
+					"Avg. norm. citations": 0.6617
+				}
+			},
+			{
+				"id": 85,
+				"label": "moderating effect",
+				"x": 1.2023,
+				"y": -0.0796,
+				"cluster": 2,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.2727,
+					"Avg. citations": 13.8182,
+					"Avg. norm. citations": 0.8667
+				}
+			},
+			{
+				"id": 86,
+				"label": "mouse",
+				"x": 0.2683,
+				"y": 0.6837,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5385,
+					"Avg. citations": 55.0000,
+					"Avg. norm. citations": 2.5655
+				}
+			},
+			{
+				"id": 87,
+				"label": "natural disaster",
+				"x": -0.5236,
+				"y": -0.3001,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 25.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5600,
+					"Avg. citations": 31.0000,
+					"Avg. norm. citations": 1.1187
+				}
+			},
+			{
+				"id": 88,
+				"label": "nepal",
+				"x": -0.9633,
+				"y": -0.3574,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4000,
+					"Avg. citations": 17.1333,
+					"Avg. norm. citations": 0.6339
+				}
+			},
+			{
+				"id": 89,
+				"label": "nursing student",
+				"x": 0.4556,
+				"y": -0.5738,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2000,
+					"Avg. citations": 23.6000,
+					"Avg. norm. citations": 0.8887
+				}
+			},
+			{
+				"id": 90,
+				"label": "opportunity",
+				"x": -0.4161,
+				"y": 0.1773,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0833,
+					"Avg. citations": 21.0000,
+					"Avg. norm. citations": 0.9590
+				}
+			},
+			{
+				"id": 91,
+				"label": "organisational resilience",
+				"x": -0.8133,
+				"y": 0.2006,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3333,
+					"Avg. citations": 22.2000,
+					"Avg. norm. citations": 0.9004
+				}
+			},
+			{
+				"id": 92,
+				"label": "organizational resilience",
+				"x": -0.1822,
+				"y": -0.0145,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 47.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4894,
+					"Avg. citations": 61.3191,
+					"Avg. norm. citations": 2.7276
+				}
+			},
+			{
+				"id": 93,
+				"label": "pain",
+				"x": 1.2408,
+				"y": 0.2883,
+				"cluster": 4,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6111,
+					"Avg. citations": 24.1667,
+					"Avg. norm. citations": 1.0712
+				}
+			},
+			{
+				"id": 94,
+				"label": "paper",
+				"x": -1.6183,
+				"y": 0.3200,
+				"cluster": 8,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 50.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5000,
+					"Avg. citations": 87.4375,
+					"Avg. norm. citations": 1.6588
+				}
+			},
+			{
+				"id": 95,
+				"label": "parent",
+				"x": 0.8294,
+				"y": -0.2235,
+				"cluster": 2,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 31.0000,
+					"Occurrences": 47.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2553,
+					"Avg. citations": 19.4681,
+					"Avg. norm. citations": 0.6405
+				}
+			},
+			{
+				"id": 96,
+				"label": "patient",
+				"x": 1.1986,
+				"y": 0.2472,
+				"cluster": 5,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 87.0000,
+					"Occurrences": 75.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4800,
+					"Avg. citations": 15.6000,
+					"Avg. norm. citations": 0.6230
+				}
+			},
+			{
+				"id": 97,
+				"label": "patients",
+				"x": 1.2191,
+				"y": -0.0043,
+				"cluster": 2,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2667,
+					"Avg. citations": 14.1333,
+					"Avg. norm. citations": 0.5351
+				}
+			},
+			{
+				"id": 98,
+				"label": "personal resilience",
+				"x": 0.0445,
+				"y": 0.2485,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0769,
+					"Avg. citations": 18.0000,
+					"Avg. norm. citations": 0.6294
+				}
+			},
+			{
+				"id": 99,
+				"label": "philippine",
+				"x": -0.5454,
+				"y": 0.3372,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6000,
+					"Avg. citations": 11.0000,
+					"Avg. norm. citations": 0.4307
+				}
+			},
+			{
+				"id": 100,
+				"label": "pilot study",
+				"x": 1.1978,
+				"y": 0.4340,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.3529,
+					"Avg. citations": 8.1176,
+					"Avg. norm. citations": 0.2848
+				}
+			},
+			{
+				"id": 101,
+				"label": "place",
+				"x": -0.1026,
+				"y": -0.1809,
+				"cluster": 3,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6316,
+					"Avg. citations": 27.7368,
+					"Avg. norm. citations": 0.9685
+				}
+			},
+			{
+				"id": 102,
+				"label": "planning",
+				"x": -0.7569,
+				"y": -0.1738,
+				"cluster": 1,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 68.0000,
+					"Occurrences": 69.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5797,
+					"Avg. citations": 19.5217,
+					"Avg. norm. citations": 0.9805
+				}
+			},
+			{
+				"id": 103,
+				"label": "policy",
+				"x": -0.6930,
+				"y": 0.0760,
+				"cluster": 3,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 41.0000,
+					"Occurrences": 50.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5800,
+					"Avg. citations": 32.0000,
+					"Avg. norm. citations": 0.9499
+				}
+			},
+			{
+				"id": 104,
+				"label": "politic",
+				"x": -0.3377,
+				"y": -0.3953,
+				"cluster": 3,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6364,
+					"Avg. citations": 40.2273,
+					"Avg. norm. citations": 1.0139
+				}
+			},
+			{
+				"id": 105,
+				"label": "posttraumatic growth",
+				"x": 1.0525,
+				"y": -0.0832,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 41.3750,
+					"Avg. norm. citations": 1.5356
+				}
+			},
+			{
+				"id": 106,
+				"label": "posttraumatic stress disorder",
+				"x": 1.3634,
+				"y": 0.0127,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.7000,
+					"Avg. citations": 37.5000,
+					"Avg. norm. citations": 1.2391
+				}
+			},
+			{
+				"id": 107,
+				"label": "potential",
+				"x": -0.2903,
+				"y": 0.2308,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5455,
+					"Avg. citations": 32.5000,
+					"Avg. norm. citations": 1.0111
+				}
+			},
+			{
+				"id": 108,
+				"label": "poverty",
+				"x": -0.8487,
+				"y": 0.0410,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 31.7857,
+					"Avg. norm. citations": 0.8441
+				}
+			},
+			{
+				"id": 109,
+				"label": "power",
+				"x": -0.5299,
+				"y": -0.3702,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4118,
+					"Avg. citations": 23.1176,
+					"Avg. norm. citations": 0.7700
+				}
+			},
+			{
+				"id": 110,
+				"label": "prediction",
+				"x": 0.1013,
+				"y": -0.1811,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0556,
+					"Avg. citations": 25.0000,
+					"Avg. norm. citations": 0.7554
+				}
+			},
+			{
+				"id": 111,
+				"label": "predictor",
+				"x": 0.9822,
+				"y": -0.2827,
+				"cluster": 2,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 49.0000,
+					"Occurrences": 47.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7021,
+					"Avg. citations": 22.9787,
+					"Avg. norm. citations": 0.8535
+				}
+			},
+			{
+				"id": 112,
+				"label": "promoting resilience",
+				"x": 0.4853,
+				"y": 0.1609,
+				"cluster": 5,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 27.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4074,
+					"Avg. citations": 26.7778,
+					"Avg. norm. citations": 1.0475
+				}
+			},
+			{
+				"id": 113,
+				"label": "psychological",
+				"x": 0.8057,
+				"y": -0.2577,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 19.0000,
+					"Avg. norm. citations": 0.7833
+				}
+			},
+			{
+				"id": 114,
+				"label": "psychological distress",
+				"x": 1.1605,
+				"y": -0.2308,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.9333,
+					"Avg. citations": 30.8667,
+					"Avg. norm. citations": 1.3794
+				}
+			},
+			{
+				"id": 115,
+				"label": "psychological resilience",
+				"x": 0.9286,
+				"y": 0.0133,
+				"cluster": 2,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 57.0000,
+					"Occurrences": 88.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6250,
+					"Avg. citations": 39.7614,
+					"Avg. norm. citations": 1.1970
+				}
+			},
+			{
+				"id": 116,
+				"label": "psychometric property",
+				"x": 1.1140,
+				"y": 0.5583,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.8000,
+					"Avg. citations": 46.7000,
+					"Avg. norm. citations": 0.9816
+				}
+			},
+			{
+				"id": 117,
+				"label": "qualitative study",
+				"x": 0.3389,
+				"y": 0.3285,
+				"cluster": 4,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4167,
+					"Avg. citations": 23.6667,
+					"Avg. norm. citations": 1.0502
+				}
+			},
+			{
+				"id": 118,
+				"label": "quality",
+				"x": 1.0897,
+				"y": 0.1554,
+				"cluster": 2,
+				"weights": {
+					"Links": 40.0000,
+					"Total link strength": 127.0000,
+					"Occurrences": 74.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2973,
+					"Avg. citations": 16.1081,
+					"Avg. norm. citations": 0.6627
+				}
+			},
+			{
+				"id": 119,
+				"label": "reflection",
+				"x": -0.1846,
+				"y": 0.3086,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3000,
+					"Avg. citations": 30.7500,
+					"Avg. norm. citations": 0.9084
+				}
+			},
+			{
+				"id": 120,
+				"label": "regional resilience",
+				"x": -0.5175,
+				"y": 0.8320,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2222,
+					"Avg. citations": 29.1667,
+					"Avg. norm. citations": 1.2490
+				}
+			},
+			{
+				"id": 121,
+				"label": "reliability",
+				"x": 0.1374,
+				"y": -0.0139,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2727,
+					"Avg. citations": 30.3636,
+					"Avg. norm. citations": 0.8390
+				}
+			},
+			{
+				"id": 122,
+				"label": "research",
+				"x": -0.4692,
+				"y": -0.0776,
+				"cluster": 3,
+				"weights": {
+					"Links": 43.0000,
+					"Total link strength": 70.0000,
+					"Occurrences": 82.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7439,
+					"Avg. citations": 52.5488,
+					"Avg. norm. citations": 1.7544
+				}
+			},
+			{
+				"id": 123,
+				"label": "resilience analysis",
+				"x": -0.6505,
+				"y": 0.5189,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8421,
+					"Avg. citations": 25.4211,
+					"Avg. norm. citations": 0.5496
+				}
+			},
+			{
+				"id": 124,
+				"label": "resilience assessment",
+				"x": -0.6853,
+				"y": 0.1256,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 23.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.1739,
+					"Avg. citations": 27.6087,
+					"Avg. norm. citations": 1.0581
+				}
+			},
+			{
+				"id": 125,
+				"label": "resilience building",
+				"x": -0.2758,
+				"y": -0.3923,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4167,
+					"Avg. citations": 16.7500,
+					"Avg. norm. citations": 0.7681
+				}
+			},
+			{
+				"id": 126,
+				"label": "resilience engineering",
+				"x": -0.3555,
+				"y": -0.3886,
+				"cluster": 5,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1250,
+					"Avg. citations": 11.8750,
+					"Avg. norm. citations": 0.5231
+				}
+			},
+			{
+				"id": 127,
+				"label": "resilience factor",
+				"x": 0.5665,
+				"y": 0.0560,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 33.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7576,
+					"Avg. citations": 16.8485,
+					"Avg. norm. citations": 0.6448
+				}
+			},
+			{
+				"id": 128,
+				"label": "resilience intervention",
+				"x": 0.6212,
+				"y": -0.3284,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2667,
+					"Avg. citations": 24.2667,
+					"Avg. norm. citations": 0.7276
+				}
+			},
+			{
+				"id": 129,
+				"label": "resilience process",
+				"x": 0.0489,
+				"y": -0.2333,
+				"cluster": 3,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4706,
+					"Avg. citations": 18.6471,
+					"Avg. norm. citations": 0.4917
+				}
+			},
+			{
+				"id": 130,
+				"label": "resilience scale",
+				"x": 1.0106,
+				"y": 0.3469,
+				"cluster": 5,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 37.0000,
+					"Occurrences": 46.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5435,
+					"Avg. citations": 31.8696,
+					"Avg. norm. citations": 0.8570
+				}
+			},
+			{
+				"id": 131,
+				"label": "resilience strategy",
+				"x": 0.0928,
+				"y": 0.4161,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.7500,
+					"Avg. citations": 55.1000,
+					"Avg. norm. citations": 1.3446
+				}
+			},
+			{
+				"id": 132,
+				"label": "resilience theory",
+				"x": -1.1027,
+				"y": -0.1839,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5455,
+					"Avg. citations": 58.4545,
+					"Avg. norm. citations": 2.6338
+				}
+			},
+			{
+				"id": 133,
+				"label": "resilience training",
+				"x": 0.7712,
+				"y": 0.3889,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2941,
+					"Avg. citations": 41.3529,
+					"Avg. norm. citations": 1.2714
+				}
+			},
+			{
+				"id": 134,
+				"label": "resilient",
+				"x": -0.0802,
+				"y": 0.1301,
+				"cluster": 7,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 48.0000,
+					"Occurrences": 107.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0654,
+					"Avg. citations": 19.1215,
+					"Avg. norm. citations": 0.6190
+				}
+			},
+			{
+				"id": 135,
+				"label": "resilient city",
+				"x": -0.3879,
+				"y": 0.4077,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.1667,
+					"Avg. citations": 16.0000,
+					"Avg. norm. citations": 0.5587
+				}
+			},
+			{
+				"id": 136,
+				"label": "resilient modulus",
+				"x": 0.0656,
+				"y": -0.1991,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 47.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.4255,
+					"Avg. citations": 18.0000,
+					"Avg. norm. citations": 0.5317
+				}
+			},
+			{
+				"id": 137,
+				"label": "response",
+				"x": -0.8276,
+				"y": 0.2894,
+				"cluster": 8,
+				"weights": {
+					"Links": 37.0000,
+					"Total link strength": 106.0000,
+					"Occurrences": 93.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2043,
+					"Avg. citations": 46.6559,
+					"Avg. norm. citations": 1.3915
+				}
+			},
+			{
+				"id": 138,
+				"label": "restoration",
+				"x": -1.2882,
+				"y": 0.2971,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.3500,
+					"Avg. citations": 40.1500,
+					"Avg. norm. citations": 1.5162
+				}
+			},
+			{
+				"id": 139,
+				"label": "result",
+				"x": 0.3102,
+				"y": 0.1147,
+				"cluster": 5,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 29.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7931,
+					"Avg. citations": 29.7931,
+					"Avg. norm. citations": 1.1618
+				}
+			},
+			{
+				"id": 140,
+				"label": "robustness",
+				"x": -0.7514,
+				"y": 0.4594,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.7692,
+					"Avg. citations": 77.1538,
+					"Avg. norm. citations": 1.9074
+				}
+			},
+			{
+				"id": 141,
+				"label": "safety",
+				"x": -0.1774,
+				"y": -0.1610,
+				"cluster": 5,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8750,
+					"Avg. citations": 27.5625,
+					"Avg. norm. citations": 1.3554
+				}
+			},
+			{
+				"id": 142,
+				"label": "sample",
+				"x": 0.7952,
+				"y": -0.0166,
+				"cluster": 5,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 40.0000,
+					"Occurrences": 34.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7941,
+					"Avg. citations": 50.5882,
+					"Avg. norm. citations": 1.1346
+				}
+			},
+			{
+				"id": 143,
+				"label": "schizophrenia",
+				"x": 1.1629,
+				"y": -0.0419,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 30.0000,
+					"Avg. norm. citations": 1.3629
+				}
+			},
+			{
+				"id": 144,
+				"label": "science",
+				"x": -0.3803,
+				"y": -0.5724,
+				"cluster": 3,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 40.0000,
+					"Occurrences": 33.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5152,
+					"Avg. citations": 26.4242,
+					"Avg. norm. citations": 0.8595
+				}
+			},
+			{
+				"id": 145,
+				"label": "sea level rise",
+				"x": -1.1289,
+				"y": -0.1697,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.2727,
+					"Avg. citations": 31.8182,
+					"Avg. norm. citations": 1.4643
+				}
+			},
+			{
+				"id": 146,
+				"label": "security",
+				"x": -0.3906,
+				"y": -0.1128,
+				"cluster": 3,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 41.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6585,
+					"Avg. citations": 43.3659,
+					"Avg. norm. citations": 1.4931
+				}
+			},
+			{
+				"id": 147,
+				"label": "selection",
+				"x": -1.8662,
+				"y": 0.3458,
+				"cluster": 8,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 46.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 86.6316,
+					"Avg. norm. citations": 1.9312
+				}
+			},
+			{
+				"id": 148,
+				"label": "self efficacy",
+				"x": 1.2739,
+				"y": -0.3016,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4444,
+					"Avg. citations": 13.8333,
+					"Avg. norm. citations": 0.8336
+				}
+			},
+			{
+				"id": 149,
+				"label": "self esteem",
+				"x": 1.5863,
+				"y": -0.0730,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.8571,
+					"Avg. citations": 9.2143,
+					"Avg. norm. citations": 0.3150
+				}
+			},
+			{
+				"id": 150,
+				"label": "sense",
+				"x": 0.8501,
+				"y": -0.2579,
+				"cluster": 2,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5625,
+					"Avg. citations": 19.3125,
+					"Avg. norm. citations": 0.8698
+				}
+			},
+			{
+				"id": 151,
+				"label": "simulation",
+				"x": -0.5444,
+				"y": 0.4186,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 15.5000,
+					"Avg. norm. citations": 0.7120
+				}
+			},
+			{
+				"id": 152,
+				"label": "social resilience",
+				"x": -0.6780,
+				"y": -0.3624,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 33.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7879,
+					"Avg. citations": 19.2424,
+					"Avg. norm. citations": 0.6450
+				}
+			},
+			{
+				"id": 153,
+				"label": "social support",
+				"x": 0.9397,
+				"y": -0.1052,
+				"cluster": 2,
+				"weights": {
+					"Links": 32.0000,
+					"Total link strength": 50.0000,
+					"Occurrences": 50.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5600,
+					"Avg. citations": 22.7400,
+					"Avg. norm. citations": 0.9095
+				}
+			},
+			{
+				"id": 154,
+				"label": "special issue",
+				"x": -0.4677,
+				"y": -0.7740,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8235,
+					"Avg. citations": 3.2941,
+					"Avg. norm. citations": 0.1083
+				}
+			},
+			{
+				"id": 155,
+				"label": "stability",
+				"x": -0.3854,
+				"y": -0.0162,
+				"cluster": 5,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0526,
+					"Avg. citations": 35.0000,
+					"Avg. norm. citations": 1.0915
+				}
+			},
+			{
+				"id": 156,
+				"label": "stress resilience",
+				"x": 0.5356,
+				"y": 0.6191,
+				"cluster": 6,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 30.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2667,
+					"Avg. citations": 36.6000,
+					"Avg. norm. citations": 1.1381
+				}
+			},
+			{
+				"id": 157,
+				"label": "supply chain resilience",
+				"x": -0.3909,
+				"y": 0.2695,
+				"cluster": 4,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 46.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6304,
+					"Avg. citations": 173.1522,
+					"Avg. norm. citations": 4.9695
+				}
+			},
+			{
+				"id": 158,
+				"label": "sustainability",
+				"x": -0.6245,
+				"y": 0.3112,
+				"cluster": 4,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 28.0000,
+					"Occurrences": 50.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0200,
+					"Avg. citations": 24.0000,
+					"Avg. norm. citations": 0.8273
+				}
+			},
+			{
+				"id": 159,
+				"label": "systematic review",
+				"x": 0.5821,
+				"y": 0.3675,
+				"cluster": 7,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 36.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6944,
+					"Avg. citations": 57.1111,
+					"Avg. norm. citations": 2.1743
+				}
+			},
+			{
+				"id": 160,
+				"label": "taiwan",
+				"x": 0.5680,
+				"y": -0.2887,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6364,
+					"Avg. citations": 17.9091,
+					"Avg. norm. citations": 0.7129
+				}
+			},
+			{
+				"id": 161,
+				"label": "teacher resilience",
+				"x": -0.6889,
+				"y": -0.0750,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2308,
+					"Avg. citations": 26.0000,
+					"Avg. norm. citations": 1.8638
+				}
+			},
+			{
+				"id": 162,
+				"label": "technology",
+				"x": -0.5437,
+				"y": -0.6184,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 34.0000,
+					"Occurrences": 27.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0741,
+					"Avg. citations": 11.5556,
+					"Avg. norm. citations": 0.5004
+				}
+			},
+			{
+				"id": 163,
+				"label": "threat",
+				"x": -0.8713,
+				"y": 0.2514,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.8125,
+					"Avg. citations": 37.0000,
+					"Avg. norm. citations": 1.1286
+				}
+			},
+			{
+				"id": 164,
+				"label": "tool",
+				"x": -0.5412,
+				"y": -0.0037,
+				"cluster": 1,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 31.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2581,
+					"Avg. citations": 44.6774,
+					"Avg. norm. citations": 0.9416
+				}
+			},
+			{
+				"id": 165,
+				"label": "transformation",
+				"x": -0.2397,
+				"y": -0.2383,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6250,
+					"Avg. citations": 33.3125,
+					"Avg. norm. citations": 1.0618
+				}
+			},
+			{
+				"id": 166,
+				"label": "university",
+				"x": -0.2014,
+				"y": -0.0952,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.9412,
+					"Avg. citations": 10.7647,
+					"Avg. norm. citations": 0.3500
+				}
+			},
+			{
+				"id": 167,
+				"label": "university student",
+				"x": 1.1563,
+				"y": -0.2764,
+				"cluster": 2,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 23.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0435,
+					"Avg. citations": 9.3478,
+					"Avg. norm. citations": 0.5350
+				}
+			},
+			{
+				"id": 168,
+				"label": "urban resilience",
+				"x": -0.6382,
+				"y": -0.3750,
+				"cluster": 3,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 46.0000,
+					"Occurrences": 51.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4118,
+					"Avg. citations": 31.4510,
+					"Avg. norm. citations": 1.2373
+				}
+			},
+			{
+				"id": 169,
+				"label": "validation",
+				"x": 0.7422,
+				"y": 0.0790,
+				"cluster": 5,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 35.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6857,
+					"Avg. citations": 31.6571,
+					"Avg. norm. citations": 0.9501
+				}
+			},
+			{
+				"id": 170,
+				"label": "value",
+				"x": -0.1361,
+				"y": -0.2758,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 19.0000,
+					"Avg. norm. citations": 0.6598
+				}
+			},
+			{
+				"id": 171,
+				"label": "vulnerability",
+				"x": -0.5665,
+				"y": 0.1367,
+				"cluster": 8,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 111.0000,
+					"Occurrences": 110.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.4364,
+					"Avg. citations": 38.8182,
+					"Avg. norm. citations": 1.0271
+				}
+			},
+			{
+				"id": 172,
+				"label": "water",
+				"x": -1.0356,
+				"y": 0.0031,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8235,
+					"Avg. citations": 34.8235,
+					"Avg. norm. citations": 0.9295
+				}
+			},
+			{
+				"id": 173,
+				"label": "young adult",
+				"x": 0.8272,
+				"y": 0.0933,
+				"cluster": 5,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.1250,
+					"Avg. citations": 43.6875,
+					"Avg. norm. citations": 1.6070
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 96,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 127,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 156,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 11,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 17,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 111,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 130,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 11,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 38,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 75,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 76,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 101,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 113,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 127,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 130,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 142,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 150,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 66,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 38,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 96,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 97,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 142,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 149,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 153,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 39,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 147,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 168,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 38,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 75,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 85,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 93,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 98,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 115,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 139,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 134,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 74,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 75,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 75,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 95,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 96,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 111,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 118,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 139,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 160,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 173,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 37,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 75,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 96,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 159,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 24,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 26,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 29,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 79,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 92,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 102,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 103,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 157,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 168,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 24,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 29,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 40,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 48,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 58,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 66,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 72,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 92,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 102,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 122,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 129,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 138,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 157,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 161,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 168,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 137,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 29,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 45,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 94,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 137,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 147,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 171,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 96,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 29,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 47,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 48,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 57,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 58,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 66,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 102,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 134,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 152,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 168,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 26,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 94,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 98,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 137,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 147,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 163,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 171,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 172,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 29,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 43,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 87,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 102,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 137,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 138,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 147,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 152,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 163,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 171,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 102,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 144,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 146,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 55,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 76,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 83,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 84,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 142,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 43,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 54,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 57,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 66,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 68,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 74,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 87,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 90,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 102,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 103,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 137,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 147,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 102,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 168,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 110,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 126,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 134,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 137,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 153,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 96,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 159,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 50,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 75,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 81,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 85,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 86,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 96,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 106,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 114,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 115,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 118,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 137,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 142,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 149,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 153,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 156,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 159,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 160,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 173,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 102,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 136,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 41,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 72,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 75,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 102,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 104,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 144,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 154,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 162,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 144,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 154,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 162,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 168,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 137,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 138,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 172,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 94,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 137,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 147,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 171,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 66,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 68,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 138,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 120,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 75,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 96,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 118,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 114,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 167,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 75,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 76,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 83,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 96,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 95,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 139,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 153,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 102,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 78,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 98,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 152,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 161,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 137,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 157,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 154,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 102,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 126,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 102,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 80,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 93,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 96,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 97,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 98,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 115,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 118,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 131,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 139,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 143,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 149,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 80,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 83,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 148,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 153,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 98,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 159,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 143,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 149,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 153,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 97,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 111,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 113,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 85,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 156,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 92,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 111,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 118,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 137,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 147,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 171,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 153,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 111,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 115,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 116,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 118,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 130,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 137,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 139,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 142,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 143,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 153,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 118,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 125,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 126,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 135,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 146,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 152,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 164,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 168,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 104,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 122,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 126,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 168,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 146,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 106,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 111,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 109,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 119,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 122,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 124,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 161,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 171,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 136,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 113,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 115,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 137,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 148,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 150,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 173,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 115,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 113,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 114,
+				"target_id": 118,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 114,
+				"target_id": 153,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 114,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 118,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 148,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 115,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 130,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 127,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 133,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 143,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 149,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 118,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 122,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 141,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 132,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 136,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 144,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 154,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 157,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 162,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 141,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 144,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 129,
+				"target_id": 142,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 129,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 142,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 169,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 139,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 162,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 137,
+				"target_id": 144,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 137,
+				"target_id": 147,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 137,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 137,
+				"target_id": 158,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 137,
+				"target_id": 171,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 138,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 139,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 139,
+				"target_id": 169,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 139,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 140,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 140,
+				"target_id": 158,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 140,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 153,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 169,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 149,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 154,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 162,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 145,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 168,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 171,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 150,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 167,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 153,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 165,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 153,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 153,
+				"target_id": 167,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 162,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 157,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 157,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 157,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 157,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 158,
+				"target_id": 172,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 161,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 164,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 165,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 165,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 168,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 169,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 169,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 171,
+				"target_id": 172,
+				"strength": 2.0000
+			}
+		]
+	}
+}

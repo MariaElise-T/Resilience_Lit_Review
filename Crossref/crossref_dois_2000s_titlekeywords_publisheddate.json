@@ -1,0 +1,3211 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "academic resilience",
+				"x": -0.8555,
+				"y": 0.5955,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.7143,
+					"Avg. citations": 103.5714,
+					"Avg. norm. citations": 1.0311
+				}
+			},
+			{
+				"id": 2,
+				"label": "adaptation",
+				"x": 0.5764,
+				"y": 0.4135,
+				"cluster": 3,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 170.8000,
+					"Avg. norm. citations": 1.5724
+				}
+			},
+			{
+				"id": 3,
+				"label": "adolescent",
+				"x": -0.1222,
+				"y": 0.1185,
+				"cluster": 3,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 40.0000,
+					"Occurrences": 23.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 68.2174,
+					"Avg. norm. citations": 0.7089
+				}
+			},
+			{
+				"id": 4,
+				"label": "adult",
+				"x": -1.1257,
+				"y": 0.8063,
+				"cluster": 9,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.5000,
+					"Avg. citations": 45.2500,
+					"Avg. norm. citations": 0.5942
+				}
+			},
+			{
+				"id": 5,
+				"label": "adversity",
+				"x": 0.6360,
+				"y": 0.1752,
+				"cluster": 3,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.8182,
+					"Avg. citations": 129.2727,
+					"Avg. norm. citations": 1.1592
+				}
+			},
+			{
+				"id": 6,
+				"label": "application",
+				"x": 1.1202,
+				"y": -0.0147,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.6667,
+					"Avg. citations": 343.0000,
+					"Avg. norm. citations": 1.2783
+				}
+			},
+			{
+				"id": 7,
+				"label": "building resilience",
+				"x": -0.3016,
+				"y": -0.5981,
+				"cluster": 5,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.5714,
+					"Avg. citations": 24.8571,
+					"Avg. norm. citations": 0.2821
+				}
+			},
+			{
+				"id": 8,
+				"label": "case study",
+				"x": 1.0534,
+				"y": 0.2410,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.4167,
+					"Avg. citations": 17.6667,
+					"Avg. norm. citations": 0.2101
+				}
+			},
+			{
+				"id": 9,
+				"label": "child",
+				"x": -0.2735,
+				"y": -0.0080,
+				"cluster": 1,
+				"weights": {
+					"Links": 32.0000,
+					"Total link strength": 98.0000,
+					"Occurrences": 52.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0769,
+					"Avg. citations": 67.5962,
+					"Avg. norm. citations": 0.7182
+				}
+			},
+			{
+				"id": 10,
+				"label": "children",
+				"x": -0.4269,
+				"y": -0.2142,
+				"cluster": 5,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.2143,
+					"Avg. citations": 76.6429,
+					"Avg. norm. citations": 0.6066
+				}
+			},
+			{
+				"id": 11,
+				"label": "community",
+				"x": 0.1389,
+				"y": 0.3195,
+				"cluster": 8,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 41.0000,
+					"Occurrences": 24.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0833,
+					"Avg. citations": 301.5417,
+					"Avg. norm. citations": 2.5428
+				}
+			},
+			{
+				"id": 12,
+				"label": "community resilience",
+				"x": 0.5745,
+				"y": 0.2202,
+				"cluster": 8,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.5333,
+					"Avg. citations": 279.2000,
+					"Avg. norm. citations": 2.9179
+				}
+			},
+			{
+				"id": 13,
+				"label": "concept",
+				"x": 0.3984,
+				"y": 0.7822,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.9091,
+					"Avg. citations": 260.1818,
+					"Avg. norm. citations": 2.8919
+				}
+			},
+			{
+				"id": 14,
+				"label": "contribution",
+				"x": 0.1723,
+				"y": 0.5830,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.3333,
+					"Avg. citations": 180.8889,
+					"Avg. norm. citations": 1.5526
+				}
+			},
+			{
+				"id": 15,
+				"label": "coping",
+				"x": -0.4227,
+				"y": -0.5464,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.1429,
+					"Avg. citations": 342.0000,
+					"Avg. norm. citations": 2.7752
+				}
+			},
+			{
+				"id": 16,
+				"label": "depression",
+				"x": -0.9245,
+				"y": 0.3677,
+				"cluster": 9,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.3000,
+					"Avg. citations": 137.1000,
+					"Avg. norm. citations": 1.0981
+				}
+			},
+			{
+				"id": 17,
+				"label": "development",
+				"x": -0.2644,
+				"y": -0.4174,
+				"cluster": 1,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 48.0000,
+					"Occurrences": 31.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.2258,
+					"Avg. citations": 129.7742,
+					"Avg. norm. citations": 1.0634
+				}
+			},
+			{
+				"id": 18,
+				"label": "disaster",
+				"x": 0.8921,
+				"y": 0.1779,
+				"cluster": 8,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.4375,
+					"Avg. citations": 275.4375,
+					"Avg. norm. citations": 2.5512
+				}
+			},
+			{
+				"id": 19,
+				"label": "ecological resilience",
+				"x": 1.1606,
+				"y": 0.0602,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 1045.8333,
+					"Avg. norm. citations": 4.5574
+				}
+			},
+			{
+				"id": 20,
+				"label": "educational resilience",
+				"x": 0.6890,
+				"y": 0.3357,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.6000,
+					"Avg. citations": 78.4000,
+					"Avg. norm. citations": 0.7544
+				}
+			},
+			{
+				"id": 21,
+				"label": "effect",
+				"x": -1.0125,
+				"y": -0.8110,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 35.0000,
+					"Occurrences": 29.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.8966,
+					"Avg. citations": 46.2759,
+					"Avg. norm. citations": 0.4711
+				}
+			},
+			{
+				"id": 22,
+				"label": "experience",
+				"x": 0.1826,
+				"y": 0.1930,
+				"cluster": 7,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.5455,
+					"Avg. citations": 81.0000,
+					"Avg. norm. citations": 0.6764
+				}
+			},
+			{
+				"id": 23,
+				"label": "face",
+				"x": 0.5106,
+				"y": -0.2196,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.3750,
+					"Avg. citations": 638.0000,
+					"Avg. norm. citations": 5.3024
+				}
+			},
+			{
+				"id": 24,
+				"label": "family",
+				"x": 0.2561,
+				"y": -0.2575,
+				"cluster": 5,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 63.0000,
+					"Occurrences": 29.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.8276,
+					"Avg. citations": 76.1379,
+					"Avg. norm. citations": 0.6698
+				}
+			},
+			{
+				"id": 25,
+				"label": "family resilience",
+				"x": 0.8757,
+				"y": -0.1865,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.1429,
+					"Avg. citations": 271.7143,
+					"Avg. norm. citations": 1.7619
+				}
+			},
+			{
+				"id": 26,
+				"label": "family resiliency",
+				"x": -0.4879,
+				"y": 0.2077,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.3333,
+					"Avg. citations": 84.8333,
+					"Avg. norm. citations": 0.9331
+				}
+			},
+			{
+				"id": 27,
+				"label": "framework",
+				"x": 0.7054,
+				"y": -0.1233,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.8462,
+					"Avg. citations": 466.5385,
+					"Avg. norm. citations": 2.8306
+				}
+			},
+			{
+				"id": 28,
+				"label": "health",
+				"x": -0.0875,
+				"y": 0.6194,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.3333,
+					"Avg. citations": 47.4167,
+					"Avg. norm. citations": 0.4968
+				}
+			},
+			{
+				"id": 29,
+				"label": "impact",
+				"x": 0.3037,
+				"y": 0.0354,
+				"cluster": 8,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.8333,
+					"Avg. citations": 65.0000,
+					"Avg. norm. citations": 0.8201
+				}
+			},
+			{
+				"id": 30,
+				"label": "implication",
+				"x": 0.0422,
+				"y": 0.7231,
+				"cluster": 4,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.7692,
+					"Avg. citations": 284.1538,
+					"Avg. norm. citations": 2.2836
+				}
+			},
+			{
+				"id": 31,
+				"label": "interaction",
+				"x": -0.8363,
+				"y": -0.6123,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.1250,
+					"Avg. citations": 33.0000,
+					"Avg. norm. citations": 0.2153
+				}
+			},
+			{
+				"id": 32,
+				"label": "lesson",
+				"x": -0.2184,
+				"y": -0.7004,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.4000,
+					"Avg. citations": 21.0000,
+					"Avg. norm. citations": 0.2728
+				}
+			},
+			{
+				"id": 33,
+				"label": "life",
+				"x": -0.2361,
+				"y": 0.0499,
+				"cluster": 6,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.3000,
+					"Avg. citations": 49.0000,
+					"Avg. norm. citations": 0.5596
+				}
+			},
+			{
+				"id": 34,
+				"label": "model",
+				"x": -0.6528,
+				"y": 0.5324,
+				"cluster": 9,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 47.0000,
+					"Occurrences": 29.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.6207,
+					"Avg. citations": 42.9310,
+					"Avg. norm. citations": 0.4000
+				}
+			},
+			{
+				"id": 35,
+				"label": "part",
+				"x": 0.9288,
+				"y": -0.0517,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.2857,
+					"Avg. citations": 14.5714,
+					"Avg. norm. citations": 0.1405
+				}
+			},
+			{
+				"id": 36,
+				"label": "person",
+				"x": 0.3252,
+				"y": -0.5334,
+				"cluster": 7,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.3333,
+					"Avg. citations": 140.9167,
+					"Avg. norm. citations": 1.0867
+				}
+			},
+			{
+				"id": 37,
+				"label": "perspective",
+				"x": -0.1437,
+				"y": -0.0059,
+				"cluster": 6,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 35.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.7619,
+					"Avg. citations": 69.1429,
+					"Avg. norm. citations": 0.9337
+				}
+			},
+			{
+				"id": 38,
+				"label": "predictor",
+				"x": -0.7372,
+				"y": -0.2474,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 96.3333,
+					"Avg. norm. citations": 1.0066
+				}
+			},
+			{
+				"id": 39,
+				"label": "protective factor",
+				"x": -0.5914,
+				"y": 0.3144,
+				"cluster": 6,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000,
+					"Avg. citations": 106.7143,
+					"Avg. norm. citations": 1.2909
+				}
+			},
+			{
+				"id": 40,
+				"label": "relationship",
+				"x": -0.3468,
+				"y": 0.8746,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.2500,
+					"Avg. citations": 77.1667,
+					"Avg. norm. citations": 0.8371
+				}
+			},
+			{
+				"id": 41,
+				"label": "reliability",
+				"x": 0.9698,
+				"y": -0.9636,
+				"cluster": 7,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.4286,
+					"Avg. citations": 63.5714,
+					"Avg. norm. citations": 0.5705
+				}
+			},
+			{
+				"id": 42,
+				"label": "resilience",
+				"x": 0.0709,
+				"y": 0.0984,
+				"cluster": 4,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 429.0000,
+					"Occurrences": 471.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.5648,
+					"Avg. citations": 132.4416,
+					"Avg. norm. citations": 1.1579
+				}
+			},
+			{
+				"id": 43,
+				"label": "resilience factor",
+				"x": -0.3704,
+				"y": -0.7794,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.6250,
+					"Avg. citations": 81.6250,
+					"Avg. norm. citations": 0.9435
+				}
+			},
+			{
+				"id": 44,
+				"label": "resilience scale",
+				"x": 0.9579,
+				"y": -1.0059,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.1000,
+					"Avg. citations": 339.3000,
+					"Avg. norm. citations": 3.1636
+				}
+			},
+			{
+				"id": 45,
+				"label": "resiliency",
+				"x": -0.1604,
+				"y": 0.1347,
+				"cluster": 3,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 67.0000,
+					"Occurrences": 73.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.9178,
+					"Avg. citations": 73.4795,
+					"Avg. norm. citations": 0.6632
+				}
+			},
+			{
+				"id": 46,
+				"label": "resiliency factor",
+				"x": -0.2637,
+				"y": -0.2228,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.8333,
+					"Avg. citations": 91.0000,
+					"Avg. norm. citations": 0.9417
+				}
+			},
+			{
+				"id": 47,
+				"label": "resilient",
+				"x": -0.8256,
+				"y": -0.4542,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.9500,
+					"Avg. citations": 136.0500,
+					"Avg. norm. citations": 1.2040
+				}
+			},
+			{
+				"id": 48,
+				"label": "resilient modulus",
+				"x": -1.2891,
+				"y": -1.0428,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.6364,
+					"Avg. citations": 27.4091,
+					"Avg. norm. citations": 0.2608
+				}
+			},
+			{
+				"id": 49,
+				"label": "resistance",
+				"x": -0.1516,
+				"y": 0.9717,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.5333,
+					"Avg. citations": 222.3333,
+					"Avg. norm. citations": 2.1289
+				}
+			},
+			{
+				"id": 50,
+				"label": "response",
+				"x": -0.1694,
+				"y": 0.2945,
+				"cluster": 8,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 49.4286,
+					"Avg. norm. citations": 0.3068
+				}
+			},
+			{
+				"id": 51,
+				"label": "risk",
+				"x": -0.3363,
+				"y": 0.1257,
+				"cluster": 3,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 112.0000,
+					"Occurrences": 52.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.6154,
+					"Avg. citations": 97.4038,
+					"Avg. norm. citations": 0.8792
+				}
+			},
+			{
+				"id": 52,
+				"label": "role",
+				"x": -0.4271,
+				"y": -0.1045,
+				"cluster": 1,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.8750,
+					"Avg. citations": 94.6875,
+					"Avg. norm. citations": 0.8520
+				}
+			},
+			{
+				"id": 53,
+				"label": "school",
+				"x": -0.0075,
+				"y": -0.1971,
+				"cluster": 5,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.4000,
+					"Avg. citations": 54.8000,
+					"Avg. norm. citations": 0.5674
+				}
+			},
+			{
+				"id": 54,
+				"label": "sense",
+				"x": -0.8962,
+				"y": 0.7411,
+				"cluster": 9,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000,
+					"Avg. citations": 32.3333,
+					"Avg. norm. citations": 0.3501
+				}
+			},
+			{
+				"id": 55,
+				"label": "south africa",
+				"x": 0.7261,
+				"y": 0.2887,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.2000,
+					"Avg. citations": 36.4000,
+					"Avg. norm. citations": 0.4515
+				}
+			},
+			{
+				"id": 56,
+				"label": "strategy",
+				"x": 0.9676,
+				"y": -0.0131,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.8000,
+					"Avg. citations": 386.0000,
+					"Avg. norm. citations": 4.4255
+				}
+			},
+			{
+				"id": 57,
+				"label": "stress",
+				"x": -0.5872,
+				"y": -0.1512,
+				"cluster": 1,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 38.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.2778,
+					"Avg. citations": 109.7222,
+					"Avg. norm. citations": 1.1337
+				}
+			},
+			{
+				"id": 58,
+				"label": "student",
+				"x": -0.7625,
+				"y": 0.5613,
+				"cluster": 6,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.2500,
+					"Avg. citations": 42.0833,
+					"Avg. norm. citations": 0.9447
+				}
+			},
+			{
+				"id": 59,
+				"label": "study",
+				"x": 0.1259,
+				"y": -0.2421,
+				"cluster": 2,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 59.0000,
+					"Occurrences": 26.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.5000,
+					"Avg. citations": 109.1538,
+					"Avg. norm. citations": 0.9135
+				}
+			},
+			{
+				"id": 60,
+				"label": "theory",
+				"x": 1.0661,
+				"y": -0.0038,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.5455,
+					"Avg. citations": 536.2727,
+					"Avg. norm. citations": 4.5496
+				}
+			},
+			{
+				"id": 61,
+				"label": "use",
+				"x": -0.2267,
+				"y": -0.2433,
+				"cluster": 5,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 28.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.6000,
+					"Avg. citations": 41.8000,
+					"Avg. norm. citations": 0.3571
+				}
+			},
+			{
+				"id": 62,
+				"label": "vulnerability",
+				"x": 0.4690,
+				"y": -0.0596,
+				"cluster": 7,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 51.0000,
+					"Occurrences": 25.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.8000,
+					"Avg. citations": 89.6000,
+					"Avg. norm. citations": 1.0327
+				}
+			},
+			{
+				"id": 63,
+				"label": "woman",
+				"x": -0.4292,
+				"y": -0.7094,
+				"cluster": 5,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.0000,
+					"Avg. citations": 36.8750,
+					"Avg. norm. citations": 0.3946
+				}
+			},
+			{
+				"id": 64,
+				"label": "youth",
+				"x": 0.0750,
+				"y": -0.2220,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.1429,
+					"Avg. citations": 100.1429,
+					"Avg. norm. citations": 0.8195
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 58,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 42,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 34,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 42,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 51,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 42,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 12,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 42,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 24,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 34,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 42,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 45,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 51,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 57,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 42,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 45,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 42,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 50,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 42,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 42,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 42,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 42,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 51,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 57,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 42,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 51,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 57,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 42,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 31,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 42,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 47,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 57,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 36,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 42,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 42,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 25,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 42,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 59,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 59,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 42,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 42,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 57,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 42,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 42,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 42,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 51,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 54,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 58,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 42,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 59,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 42,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 42,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 42,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 44,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 49,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 50,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 51,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 52,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 53,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 54,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 56,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 57,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 58,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 59,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 60,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 61,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 62,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 64,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 51,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 55,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 58,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 59,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 61,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 64,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 51,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 57,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 51,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 59,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 61,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 61,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 61,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 63,
+				"strength": 1.0000
+			}
+		]
+	}
+}
